@@ -1,0 +1,31 @@
+11:07:02,386 - [10] - ERROR - Game.Server.LoginServerConnector - LoginServerConnector is OnDisconnect!
+11:07:02,386 - [10] - ERROR - Game.Server.GameServer - Center Server Disconnect! Stopping Server
+11:07:02,386 - [10] - ERROR - Game.Server.GameServer - GameServer.Stop() - enter method
+11:07:02,479 - [10] - ERROR - Game.Server.GameServer - Server Stopped!
+11:07:04,991 - [10] - ERROR - Game.Base.BaseConnector - Connect 192.168.0.4:9208 failed:System.ObjectDisposedException: 无法访问已释放的对象。
+对象名:“System.Net.Sockets.SocketAsyncEventArgs”。
+   在 System.Net.Sockets.SocketAsyncEventArgs.StartOperationCommon(Socket socket)
+   在 System.Net.Sockets.Socket.ReceiveAsync(SocketAsyncEventArgs e)
+   在 Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) 位置 D:\workspace\Server\Game.Base\BaseClient.cs:行号 231
+   在 Game.Base.BaseClient.ReceiveAsync() 位置 D:\workspace\Server\Game.Base\BaseClient.cs:行号 206
+   在 Game.Base.BaseConnector.Connect() 位置 D:\workspace\Server\Game.Base\BaseConnector.cs:行号 56
+11:07:05,209 - [16] - ERROR - Game.Base.BaseServer - AcceptAsync is error!
+System.InvalidOperationException: 在执行此操作前必须先调用 Listen 方法。
+   在 System.Net.Sockets.Socket.AcceptAsync(SocketAsyncEventArgs e)
+   在 Game.Base.BaseServer.AcceptAsync() 位置 D:\workspace\Server\Game.Base\BaseServer.cs:行号 72
+11:07:05,209 - [10] - ERROR - Game.Server.GameServer - Revert login is successful!
+11:41:05,702 - [18] - ERROR - Game.Server.LoginServerConnector - LoginServerConnector is OnDisconnect!
+11:41:05,702 - [18] - ERROR - Game.Server.GameServer - Center Server Disconnect! Stopping Server
+11:41:05,705 - [18] - ERROR - Game.Server.GameServer - GameServer.Stop() - enter method
+11:41:06,379 - [18] - ERROR - Game.Server.GameServer - Server Stopped!
+11:41:06,472 - [17] - ERROR - Game.Base.BaseServer - AcceptAsync is error!
+System.InvalidOperationException: 在执行此操作前必须先调用 Listen 方法。
+   在 System.Net.Sockets.Socket.AcceptAsync(SocketAsyncEventArgs e)
+   在 Game.Base.BaseServer.AcceptAsync() 位置 D:\workspace\Server\Game.Base\BaseServer.cs:行号 72
+11:41:07,729 - [18] - ERROR - Game.Base.BaseConnector - Connect 192.168.0.4:9202 failed:System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 192.168.0.4:9202
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 Game.Base.BaseConnector.Connect() 位置 D:\workspace\Server\Game.Base\BaseConnector.cs:行号 53
+11:41:07,745 - [18] - ERROR - Game.Server.GameServer - GameServer.Stop() - enter method
+11:41:07,746 - [18] - ERROR - Game.Server.GameServer - Server Stopped!
+11:41:07,747 - [18] - ERROR - Game.Server.GameServer - Revert login is successful!

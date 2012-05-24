@@ -1,0 +1,6 @@
+20:20:14,816 - [6] - ERROR - Game.Base.Packets.StreamProcessor - AsyncTcpSendCallback
+System.ObjectDisposedException: Safe handle has been closed
+   at System.Net.Sockets.Socket.SendAsync(SocketAsyncEventArgs e)
+   at Game.Base.BaseClient.SendAsync(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 302
+   at Game.Base.Packets.StreamProcessor.AsyncTcpSendCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\Packets\StreamProcessor.cs:line 240
+20:31:09,584 - [13] - ERROR - Game.Server.GameUtils.AbstractInventory - Add template error: last count not equal Zero.

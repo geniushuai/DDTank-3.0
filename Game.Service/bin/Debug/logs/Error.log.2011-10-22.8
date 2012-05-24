@@ -1,0 +1,11 @@
+08:17:00,370 - [14] - ERROR - Game.Server.GameObjects.GamePlayer - Error Login!
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.WriteByte(Byte val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 381
+   at Game.Base.PacketIn.WriteInt(Int32 val) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 424
+   at Game.Base.Packets.AbstractPacketLib.SendUpdateInventorySlot(PlayerInventory bag, Int32[] updatedSlots) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\Packets\Server\AbstractPacketLib.cs:line 1012
+   at Game.Server.GameUtils.PlayerInventory.UpdateChangedPlaces() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\GameUtils\PlayerInventory.cs:line 149
+   at Game.Server.GameUtils.PlayerEquipInventory.UpdateChangedPlaces() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\GameUtils\PlayerEquipInventory.cs:line 140
+   at Game.Server.GameUtils.AbstractInventory.CommitChanges() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\GameUtils\AbstractInventory.cs:line 726
+   at Game.Server.GameUtils.PlayerEquipInventory.LoadFromDatabase() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\GameUtils\PlayerEquipInventory.cs:line 60
+   at Game.Server.GameObjects.GamePlayer.UpdateItemForUser() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\GameObjects\GamePlayer.cs:line 1060
+   at Game.Server.GameObjects.GamePlayer.Login() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\GameObjects\GamePlayer.cs:line 961

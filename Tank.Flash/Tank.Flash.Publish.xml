@@ -1,0 +1,68 @@
+<publishData>
+  <publishTarget publishUrl="D:\发布文件\PVE版本\Flash\">
+    <file relUrl="BeginLoad.aspx" publishTime="10/09/2009 11:56:40" />
+    <file relUrl="EndLoading.aspx" publishTime="10/09/2009 11:56:40" />
+    <file relUrl="Login.aspx" publishTime="10/09/2009 11:56:40" />
+    <file relUrl="bin/Tank.Flash.dll" publishTime="11/17/2009 12:08:11" />
+    <file relUrl="bin/SqlDataProvider.dll" publishTime="11/10/2009 15:03:45" />
+    <file relUrl="bin/Bussiness.dll" publishTime="11/10/2009 15:03:50" />
+    <file relUrl="Web.config" publishTime="10/09/2009 11:56:40" />
+    <file relUrl="images/login_button.png" publishTime="10/09/2009 11:56:39" />
+    <file relUrl="bin/Tank.Flash.pdb" publishTime="11/17/2009 12:08:11" />
+    <file relUrl="images/bg_1.jpg" publishTime="10/09/2009 11:56:39" />
+    <file relUrl="bin/Microsoft.SqlServer.Replication.dll" publishTime="10/14/2005 02:44:02" />
+    <file relUrl="login.htm" publishTime="10/09/2009 11:56:40" />
+    <file relUrl="AccessError.htm" publishTime="10/09/2009 11:56:40" />
+    <file relUrl="Global.asax" publishTime="10/09/2009 11:56:40" />
+    <file relUrl="images/bg.jpg" publishTime="10/09/2009 11:56:39" />
+    <file relUrl="Error.htm" publishTime="10/09/2009 11:56:40" />
+    <file relUrl="LoginGame.aspx" publishTime="10/09/2009 11:56:40" />
+    <file relUrl="bin/Bussiness.pdb" publishTime="11/10/2009 15:03:50" />
+    <file relUrl="bin/zh-CHS/Microsoft.SqlServer.Replication.resources.dll" publishTime="11/11/2005 19:12:16" />
+    <file relUrl="images/main_bg.jpg" publishTime="10/09/2009 11:56:39" />
+    <file relUrl="images/tag_01.jpg" publishTime="10/09/2009 11:56:39" />
+    <file relUrl="TestValidAndLogin.aspx" publishTime="10/27/2009 14:30:53" />
+    <file relUrl="index.aspx" publishTime="10/09/2009 11:56:40" />
+    <file relUrl="bin/Languages/Language-vn.txt" publishTime="10/09/2009 11:56:47" />
+    <file relUrl="bin/log4net.xml" publishTime="10/09/2009 11:57:01" />
+    <file relUrl="Default.aspx" publishTime="10/09/2009 11:56:40" />
+    <file relUrl="images/login_button.gif" publishTime="10/09/2009 11:56:39" />
+    <file relUrl="bin/SqlDataProvider.pdb" publishTime="11/10/2009 15:03:45" />
+    <file relUrl="images/tag_02.jpg" publishTime="10/09/2009 11:56:39" />
+    <file relUrl="bin/Languages/Language-zh_cn.txt" publishTime="10/09/2009 11:56:47" />
+    <file relUrl="bin/log4net.dll" publishTime="10/09/2009 11:57:01" />
+  </publishTarget>
+  <publishTarget publishUrl="\\127.0.0.1\dandan\">
+    <file relUrl="bin/log4net.dll" publishTime="10/09/2009 11:57:01" />
+    <file relUrl="EndLoading.aspx" publishTime="10/09/2009 11:56:40" />
+    <file relUrl="Login.aspx" publishTime="10/09/2009 11:56:40" />
+    <file relUrl="bin/Tank.Flash.dll" publishTime="11/10/2009 15:03:52" />
+    <file relUrl="bin/SqlDataProvider.dll" publishTime="11/10/2009 15:03:45" />
+    <file relUrl="Web.config" publishTime="10/09/2009 11:56:40" />
+    <file relUrl="images/login_button.png" publishTime="10/09/2009 11:56:39" />
+    <file relUrl="bin/Tank.Flash.pdb" publishTime="11/10/2009 15:03:51" />
+    <file relUrl="images/bg_1.jpg" publishTime="10/09/2009 11:56:39" />
+    <file relUrl="login.htm" publishTime="10/09/2009 11:56:40" />
+    <file relUrl="AccessError.htm" publishTime="10/09/2009 11:56:40" />
+    <file relUrl="Global.asax" publishTime="10/09/2009 11:56:40" />
+    <file relUrl="images/bg.jpg" publishTime="10/09/2009 11:56:39" />
+    <file relUrl="bin/Bussiness.pdb" publishTime="11/10/2009 15:03:50" />
+    <file relUrl="bin/Bussiness.dll" publishTime="11/10/2009 15:03:50" />
+    <file relUrl="BeginLoad.aspx" publishTime="10/09/2009 11:56:40" />
+    <file relUrl="bin/zh-CHS/Microsoft.SqlServer.Replication.resources.dll" publishTime="11/11/2005 19:12:16" />
+    <file relUrl="bin/Microsoft.SqlServer.Replication.dll" publishTime="10/14/2005 02:44:02" />
+    <file relUrl="LoginGame.aspx" publishTime="10/09/2009 11:56:40" />
+    <file relUrl="images/tag_01.jpg" publishTime="10/09/2009 11:56:39" />
+    <file relUrl="TestValidAndLogin.aspx" publishTime="10/27/2009 14:30:53" />
+    <file relUrl="index.aspx" publishTime="10/09/2009 11:56:40" />
+    <file relUrl="bin/Languages/Language-vn.txt" publishTime="10/09/2009 11:56:47" />
+    <file relUrl="bin/log4net.xml" publishTime="10/09/2009 11:57:01" />
+    <file relUrl="Default.aspx" publishTime="10/09/2009 11:56:40" />
+    <file relUrl="images/login_button.gif" publishTime="10/09/2009 11:56:39" />
+    <file relUrl="bin/Languages/Language-zh_cn.txt" publishTime="10/09/2009 11:56:47" />
+    <file relUrl="images/tag_02.jpg" publishTime="10/09/2009 11:56:39" />
+    <file relUrl="Error.htm" publishTime="10/09/2009 11:56:40" />
+    <file relUrl="images/main_bg.jpg" publishTime="10/09/2009 11:56:39" />
+    <file relUrl="bin/SqlDataProvider.pdb" publishTime="11/10/2009 15:03:45" />
+  </publishTarget>
+</publishData>

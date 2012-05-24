@@ -1,0 +1,73 @@
+D:\workspace\Server\Fighting.Server\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Fighting.Server\bin\Debug\Languages\Language-vn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Fighting.Server\bin\Debug\Languages\Language-zh_cn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Fighting.Server\bin\Debug\Fighting.Server.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Fighting.Server\bin\Debug\Fighting.Server.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Fighting.Server\bin\Debug\Bussiness.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Fighting.Server\bin\Debug\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Fighting.Server\bin\Debug\Game.Logic.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Fighting.Server\bin\Debug\log4net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Fighting.Server\bin\Debug\SqlDataProvider.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Fighting.Server\bin\Debug\zlib.net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Fighting.Server\bin\Debug\Game.Logic.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Fighting.Server\bin\Debug\log4net.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Fighting.Server\bin\Debug\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Fighting.Server\bin\Debug\SqlDataProvider.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Fighting.Server\bin\Debug\Bussiness.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Fighting.Server\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Fighting.Server\obj\Debug\Fighting.Server.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Fighting.Server\obj\Debug\Fighting.Server.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Fighting.Server\bin\Debug\Languages\Language-vn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Fighting.Server\bin\Debug\Languages\Language-zh_cn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Fighting.Server\bin\Debug\Fighting.Server.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Fighting.Server\bin\Debug\Fighting.Server.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Fighting.Server\bin\Debug\Bussiness.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Fighting.Server\bin\Debug\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Fighting.Server\bin\Debug\Game.Logic.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Fighting.Server\bin\Debug\log4net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Fighting.Server\bin\Debug\SqlDataProvider.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Fighting.Server\bin\Debug\zlib.net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Fighting.Server\bin\Debug\Bussiness.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Fighting.Server\bin\Debug\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Fighting.Server\bin\Debug\Game.Logic.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Fighting.Server\bin\Debug\SqlDataProvider.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Fighting.Server\bin\Debug\log4net.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Fighting.Server\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Fighting.Server\obj\Debug\Fighting.Server.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Fighting.Server\obj\Debug\Fighting.Server.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\bin\Debug\Languages\Language-vn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\bin\Debug\Languages\Language-zh_cn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\bin\Debug\Fighting.Server.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\bin\Debug\Fighting.Server.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\bin\Debug\Bussiness.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\bin\Debug\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\bin\Debug\Game.Logic.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\bin\Debug\log4net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\bin\Debug\SqlDataProvider.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\bin\Debug\zlib.net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\bin\Debug\Bussiness.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\bin\Debug\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\bin\Debug\Game.Logic.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\bin\Debug\SqlDataProvider.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\bin\Debug\log4net.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\obj\Debug\Fighting.Server.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\obj\Debug\Fighting.Server.pdb
+C:\Users\Welington\Documents\Server3.0\Fighting.Server\bin\Debug\Languages\Language-vn.txt
+C:\Users\Welington\Documents\Server3.0\Fighting.Server\bin\Debug\Languages\Language-zh_cn.txt
+C:\Users\Welington\Documents\Server3.0\Fighting.Server\bin\Debug\Fighting.Server.dll
+C:\Users\Welington\Documents\Server3.0\Fighting.Server\bin\Debug\Fighting.Server.pdb
+C:\Users\Welington\Documents\Server3.0\Fighting.Server\bin\Debug\Bussiness.dll
+C:\Users\Welington\Documents\Server3.0\Fighting.Server\bin\Debug\Game.Base.dll
+C:\Users\Welington\Documents\Server3.0\Fighting.Server\bin\Debug\Game.Logic.dll
+C:\Users\Welington\Documents\Server3.0\Fighting.Server\bin\Debug\log4net.dll
+C:\Users\Welington\Documents\Server3.0\Fighting.Server\bin\Debug\SqlDataProvider.dll
+C:\Users\Welington\Documents\Server3.0\Fighting.Server\bin\Debug\zlib.net.dll
+C:\Users\Welington\Documents\Server3.0\Fighting.Server\bin\Debug\Bussiness.pdb
+C:\Users\Welington\Documents\Server3.0\Fighting.Server\bin\Debug\Game.Base.pdb
+C:\Users\Welington\Documents\Server3.0\Fighting.Server\bin\Debug\Game.Logic.pdb
+C:\Users\Welington\Documents\Server3.0\Fighting.Server\bin\Debug\SqlDataProvider.pdb
+C:\Users\Welington\Documents\Server3.0\Fighting.Server\bin\Debug\log4net.xml
+C:\Users\Welington\Documents\Server3.0\Fighting.Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Welington\Documents\Server3.0\Fighting.Server\obj\Debug\Fighting.Server.dll
+C:\Users\Welington\Documents\Server3.0\Fighting.Server\obj\Debug\Fighting.Server.pdb

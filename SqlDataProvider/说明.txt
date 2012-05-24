@@ -1,0 +1,10 @@
+当前命名规则 
+1、一个正文命名后缀以_One结尾
+2、分页列表就以_PageList结尾
+3、新增修改以 Add开头
+4、删除以Dell开头
+
+ApplicationLog.cs写入日志文件
+SQLHelper.cs对SqlServer操作的开源类
+Sql_DbObject.cs对SqlServer操作的类
+MySql_DbObject.cs对MySqlServer操作的类

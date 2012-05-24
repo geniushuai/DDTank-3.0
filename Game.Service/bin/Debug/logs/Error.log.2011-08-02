@@ -1,0 +1,88 @@
+21:18:05,224 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+21:18:05,230 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property Edition,keep it default value!
+21:18:05,232 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+21:18:05,233 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MustComposeGold,keep it default value!
+21:18:05,234 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+21:18:05,235 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MustFusionGold,keep it default value!
+21:18:05,237 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+21:18:05,239 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MustStrengthenGold,keep it default value!
+21:18:05,241 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+21:18:05,243 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property CheckRewardItem,keep it default value!
+21:18:05,246 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+21:18:05,250 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property CheckCount,keep it default value!
+21:18:05,255 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+21:18:05,258 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property HymenealMoney,keep it default value!
+21:18:05,259 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+21:18:05,260 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DivorcedMoney,keep it default value!
+21:18:05,262 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+21:18:05,266 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MarryRoomCreateMoney,keep it default value!
+21:18:05,268 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+21:18:05,270 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property BoxAppearCondition,keep it default value!
+21:18:05,272 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+21:18:05,274 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DisableCommands,keep it default value!
+21:18:05,276 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+21:18:05,278 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property AssState,keep it default value!
+21:18:05,279 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+21:18:05,281 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DailyAwardState,keep it default value!
+21:18:05,288 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+21:18:05,291 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property Cess,keep it default value!
+21:18:05,293 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+21:18:05,294 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property BeginAuction,keep it default value!
+21:18:05,295 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+21:18:05,297 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property EndAuction,keep it default value!
+21:18:05,567 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - Script compilation failed because: 
+21:18:05,570 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - The name 'totalMissionCount' does not exist in the current context
+21:18:05,571 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr -    e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Service\bin\Debug\scripts\AI\Game\ExplorationHardGame.cs Line:12 Col:13
+21:18:05,575 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - Script compilation failed because: 
+21:18:05,575 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - The name 'missionIds' does not exist in the current context
+21:18:05,576 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr -    e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Service\bin\Debug\scripts\AI\Game\ExplorationHardGame.cs Line:13 Col:13
+21:18:05,577 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - Script compilation failed because: 
+21:18:05,578 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - The name 'totalMissionCount' does not exist in the current context
+21:18:05,579 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr -    e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Service\bin\Debug\scripts\AI\Game\ExplorationNormalGame.cs Line:12 Col:13
+21:18:05,580 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - Script compilation failed because: 
+21:18:05,581 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - The name 'missionIds' does not exist in the current context
+21:18:05,581 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr -    e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Service\bin\Debug\scripts\AI\Game\ExplorationNormalGame.cs Line:13 Col:13
+21:18:05,582 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - Script compilation failed because: 
+21:18:05,583 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - The name 'totalMissionCount' does not exist in the current context
+21:18:05,584 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr -    e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Service\bin\Debug\scripts\AI\Game\ExplorationSimpleGame.cs Line:12 Col:13
+21:18:05,585 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - Script compilation failed because: 
+21:18:05,586 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - The name 'missionIds' does not exist in the current context
+21:18:05,586 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr -    e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Service\bin\Debug\scripts\AI\Game\ExplorationSimpleGame.cs Line:13 Col:13
+21:18:05,587 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - Script compilation failed because: 
+21:18:05,588 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - The name 'totalMissionCount' does not exist in the current context
+21:18:05,589 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr -    e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Service\bin\Debug\scripts\AI\Game\ExplorationTerrorGame.cs Line:12 Col:13
+21:18:05,591 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - Script compilation failed because: 
+21:18:05,591 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - The name 'missionIds' does not exist in the current context
+21:18:05,592 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr -    e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Service\bin\Debug\scripts\AI\Game\ExplorationTerrorGame.cs Line:13 Col:13

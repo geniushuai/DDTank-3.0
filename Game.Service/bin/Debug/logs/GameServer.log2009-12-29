@@ -1,0 +1,12 @@
+20:32:08,437 - [MAIN] - ERROR - Game.Base.BaseConnector - Connect 192.168.0.4:9202 failed:System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 192.168.0.4:9202
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 Game.Base.BaseConnector.Connect() 位置 D:\workspace\Server\Game.Base\BaseConnector.cs:行号 53
+20:32:08,462 - [MAIN] - ERROR - Game.Server.GameServer - GameServer.Stop() - enter method
+20:32:08,488 - [MAIN] - ERROR - Game.Server.GameServer - Server Stopped!
+20:32:53,665 - [MAIN] - ERROR - Game.Base.BaseConnector - Connect 192.168.0.4:9202 failed:System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 192.168.0.4:9202
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   在 Game.Base.BaseConnector.Connect() 位置 D:\workspace\Server\Game.Base\BaseConnector.cs:行号 53
+20:32:53,690 - [MAIN] - ERROR - Game.Server.GameServer - GameServer.Stop() - enter method
+20:32:53,710 - [MAIN] - ERROR - Game.Server.GameServer - Server Stopped!

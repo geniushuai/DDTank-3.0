@@ -1,0 +1,14 @@
+07:54:42,330 - [11] - ERROR - Bussiness.Interface.BaseInterface - LoginGame
+System.ServiceModel.CommunicationObjectFaultedException: The communication object, System.ServiceModel.Channels.ServiceChannel, cannot be used for communication because it is in the Faulted state.
+
+Server stack trace: 
+   at System.ServiceModel.Channels.CommunicationObject.Close(TimeSpan timeout)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at System.ServiceModel.ICommunicationObject.Close(TimeSpan timeout)
+   at System.ServiceModel.ClientBase`1.System.ServiceModel.ICommunicationObject.Close(TimeSpan timeout)
+   at System.ServiceModel.ClientBase`1.Close()
+   at System.ServiceModel.ClientBase`1.System.IDisposable.Dispose()
+   at Bussiness.Interface.BaseInterface.LoginGame(String name, String pass, Boolean& isFirst) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\Interface\BaseInterface.cs:line 288

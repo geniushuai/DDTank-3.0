@@ -1,0 +1,16 @@
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\bin\Release\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\bin\Release\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\bin\Release\log4net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\bin\Release\zlib.net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\bin\Release\log4net.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\obj\Release\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\obj\Release\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\obj\Release\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\bin\Release\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\bin\Release\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\bin\Release\log4net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\bin\Release\zlib.net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\bin\Release\log4net.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\obj\Release\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\obj\Release\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\obj\Release\Game.Base.pdb

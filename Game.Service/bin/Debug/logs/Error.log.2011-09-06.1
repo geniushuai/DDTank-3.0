@@ -1,0 +1,69 @@
+18:42:36,340 - [11] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: The given ColumnMapping does not match up with any column in the source or destination.
+   at System.Data.SqlClient.SqlBulkCopy.AnalyzeTargetAndCreateUpdateBulkCommand(BulkCopySimpleResultSet internalResults)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:line 102
+19:17:33,735 - [8] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: The given ColumnMapping does not match up with any column in the source or destination.
+   at System.Data.SqlClient.SqlBulkCopy.AnalyzeTargetAndCreateUpdateBulkCommand(BulkCopySimpleResultSet internalResults)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:line 102
+19:18:41,005 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserBuyItemHandler  client: 192.168.1.3:49483)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.UserBuyItemHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserBuyItemHandler.cs:line 50
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+19:18:41,215 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 3C 00 2C 00 00 00 11 00 00 00 00 00 00   q..<.,..........
+0010: 00 00 00 00 00 02 00 00 00 07 00 00 00 01 00 00   ................
+0020: 00 00 00 00 00 00 00 00 0A B3 D9 00 00 00 01 00   ................
+0030: 00 00 00 00 00 00 00 00 00 00 00 00               ............    
+
+19:18:42,395 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserBuyItemHandler  client: 192.168.1.3:49483)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.UserBuyItemHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserBuyItemHandler.cs:line 50
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+19:18:42,395 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 3C 00 2C 00 00 00 11 00 00 00 00 00 00   q..<.,..........
+0010: 00 00 00 00 00 02 00 00 00 07 00 00 00 01 00 00   ................
+0020: 00 00 00 00 00 00 00 00 0A B3 D9 00 00 00 01 00   ................
+0030: 00 00 00 00 00 00 00 00 00 00 00 00               ............    
+
+19:18:43,435 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserBuyItemHandler  client: 192.168.1.3:49483)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.UserBuyItemHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserBuyItemHandler.cs:line 50
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+19:18:43,435 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 3C 00 2C 00 00 00 11 00 00 00 00 00 00   q..<.,..........
+0010: 00 00 00 00 00 02 00 00 00 07 00 00 00 01 00 00   ................
+0020: 00 00 00 00 00 00 00 00 0A B3 D9 00 00 00 01 00   ................
+0030: 00 00 00 00 00 00 00 00 00 00 00 00               ............    
+
+19:20:27,716 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.QuestAddHandler  client: 192.168.1.3:49483)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Quests.QuestInventory.AddQuest(QuestInfo info, String& msg) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Quests\QuestInventory.cs:line 148
+   at Game.Server.Packets.Client.QuestAddHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\QuestAddHandler.cs:line 22
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+19:20:27,756 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 1A 00 B0 00 00 00 11 00 00 00 00 00 00   q...............
+0010: 00 00 01 01 01 00 01 01 01 54                     .........T      
+
+19:22:34,656 - [8] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: The given ColumnMapping does not match up with any column in the source or destination.
+   at System.Data.SqlClient.SqlBulkCopy.AnalyzeTargetAndCreateUpdateBulkCommand(BulkCopySimpleResultSet internalResults)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:line 102
+19:27:33,910 - [9] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: The given ColumnMapping does not match up with any column in the source or destination.
+   at System.Data.SqlClient.SqlBulkCopy.AnalyzeTargetAndCreateUpdateBulkCommand(BulkCopySimpleResultSet internalResults)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:line 102
+19:37:33,912 - [7] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: The given ColumnMapping does not match up with any column in the source or destination.
+   at System.Data.SqlClient.SqlBulkCopy.AnalyzeTargetAndCreateUpdateBulkCommand(BulkCopySimpleResultSet internalResults)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:line 102

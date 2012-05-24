@@ -1,0 +1,174 @@
+21:01:30,660 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+21:02:23,270 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+21:04:59,076 - [12] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+21:04:59,326 - [12] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+21:05:01,163 - [3] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+21:05:01,225 - [3] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+21:06:19,857 - [15] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: 给定的 ColumnMapping 与源或目标中的任意列均不匹配。
+   在 System.Data.SqlClient.SqlBulkCopy.AnalyzeTargetAndCreateUpdateBulkCommand(BulkCopySimpleResultSet internalResults)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table)
+   在 Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 102
+21:11:38,040 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+21:12:19,414 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+21:16:09,661 - [3] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+21:16:09,725 - [3] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+21:16:15,067 - [3] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+21:16:15,126 - [3] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+21:16:18,341 - [15] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: 给定的 ColumnMapping 与源或目标中的任意列均不匹配。
+   在 System.Data.SqlClient.SqlBulkCopy.AnalyzeTargetAndCreateUpdateBulkCommand(BulkCopySimpleResultSet internalResults)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table)
+   在 Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 102
+21:23:56,166 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+21:24:44,452 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+21:26:18,351 - [7] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: 给定的 ColumnMapping 与源或目标中的任意列均不匹配。
+   在 System.Data.SqlClient.SqlBulkCopy.AnalyzeTargetAndCreateUpdateBulkCommand(BulkCopySimpleResultSet internalResults)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table)
+   在 Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 102
+21:28:25,174 - [3] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+21:28:25,325 - [3] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+21:28:32,493 - [3] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+21:28:32,515 - [3] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+21:39:27,197 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+21:40:17,946 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+21:41:18,365 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+21:41:18,370 - [15] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: 给定的 ColumnMapping 与源或目标中的任意列均不匹配。
+   在 System.Data.SqlClient.SqlBulkCopy.AnalyzeTargetAndCreateUpdateBulkCommand(BulkCopySimpleResultSet internalResults)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table)
+   在 Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 102
+21:41:18,389 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+21:41:18,392 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+21:41:18,404 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+21:41:53,556 - [3] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+21:41:53,592 - [3] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+21:41:57,341 - [16] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+21:41:57,368 - [16] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+21:54:44,983 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+21:55:21,706 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+21:56:18,396 - [7] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: 给定的 ColumnMapping 与源或目标中的任意列均不匹配。
+   在 System.Data.SqlClient.SqlBulkCopy.AnalyzeTargetAndCreateUpdateBulkCommand(BulkCopySimpleResultSet internalResults)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table)
+   在 Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 102
+21:57:55,062 - [3] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+21:57:55,083 - [3] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+21:57:59,201 - [3] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+21:57:59,276 - [3] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+22:01:33,898 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+22:02:40,474 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+22:06:18,392 - [15] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: 给定的 ColumnMapping 与源或目标中的任意列均不匹配。
+   在 System.Data.SqlClient.SqlBulkCopy.AnalyzeTargetAndCreateUpdateBulkCommand(BulkCopySimpleResultSet internalResults)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table)
+   在 Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 102
+22:11:18,437 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+22:11:18,469 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+22:11:18,488 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+22:11:18,501 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+22:12:33,467 - [3] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+22:12:33,521 - [3] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+22:12:46,962 - [17] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+22:12:46,983 - [17] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026

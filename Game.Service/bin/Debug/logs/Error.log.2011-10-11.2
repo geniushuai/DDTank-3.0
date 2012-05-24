@@ -1,0 +1,9 @@
+10:34:19,429 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.LotteryOpenBoxHandler  client: 127.0.0.1:49752)
+System.NotSupportedException: Did not support this type bag: 5
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 178
+   at Game.Server.Packets.Client.LotteryOpenBoxHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\LotteryOpenBoxHandler.cs:line 23
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+10:34:19,529 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 1D 06 0A 00 1A 00 00 00 11 00 00 00 00   q...............
+0010: 00 00 00 00 05 FF FF FF FE 00 04 C8 9C            .............   
+

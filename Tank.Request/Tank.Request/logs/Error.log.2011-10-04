@@ -1,0 +1,6 @@
+2011-10-04 08:32:46,129 - [17] - ERROR - Tank.Request.Login - User Login error
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Tank.Request.Login.ProcessRequest(HttpContext context) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Request\Login.ashx.cs:line 72
+2011-10-04 08:41:21,780 - [8] - ERROR - Tank.Request.Login - User Login error
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at Tank.Request.Login.ProcessRequest(HttpContext context) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Request\Login.ashx.cs:line 72

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Server>
+    <Port>9208</Port>
+    <IP>0.0.0.0</IP>
+    <logconfig>logconfig.xml</logconfig>
+  </Server>
+</root>

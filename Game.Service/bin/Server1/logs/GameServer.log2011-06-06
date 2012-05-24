@@ -1,0 +1,1357 @@
+17:15:43,252 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+17:15:44,422 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+17:15:44,422 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+17:15:44,531 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+17:15:44,531 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+17:15:44,531 - [MAIN] - INFO  - Game.Server.GameServer - Edition:11000: True
+17:15:44,531 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+17:15:44,562 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+17:15:44,593 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+17:15:44,624 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+17:15:45,763 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+17:15:45,810 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+17:15:45,872 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+17:15:45,935 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+17:15:45,935 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+17:15:45,950 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+17:15:45,966 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+17:15:45,982 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+17:15:45,997 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+17:15:46,013 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+17:15:46,028 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+17:15:46,028 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+17:15:46,044 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+17:15:46,075 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+17:15:46,075 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+17:15:46,138 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+17:15:46,169 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+17:15:46,169 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+17:15:46,184 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+17:15:46,200 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+17:15:46,216 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+17:15:46,216 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+17:15:46,216 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+17:15:46,278 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+17:15:46,278 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+17:15:46,278 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+17:15:46,278 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+17:15:46,309 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+17:15:46,340 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 126 handlers from GameServer Assembly!
+17:15:46,356 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 6 commands!
+17:15:46,356 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+17:15:46,372 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9202
+17:15:46,372 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+17:15:46,372 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9208
+17:15:46,387 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+17:15:46,403 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+17:16:46,293 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:16:46,293 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:16:46,293 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:17:46,307 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:17:46,307 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:17:46,307 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:18:46,289 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+17:18:46,289 - [7] - INFO  - Game.Server.GameServer - End ping check....
+17:18:46,289 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+17:18:46,289 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+17:18:46,320 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:18:46,320 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:18:46,320 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:19:46,333 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:19:46,333 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:19:46,333 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:20:46,284 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+17:20:46,346 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:20:46,346 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:20:46,346 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:20:46,362 - [7] - ERROR - Bussiness.BaseBussiness - Smith Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogItemDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 56
+17:20:46,378 - [7] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 102
+17:20:46,393 - [7] - ERROR - Bussiness.BaseBussiness - Fight Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogFightDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 151
+17:20:46,393 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+17:21:46,289 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+17:21:46,289 - [8] - INFO  - Game.Server.GameServer - End ping check....
+17:21:46,289 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+17:21:46,289 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+17:21:46,352 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:21:46,352 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:21:46,352 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:22:46,365 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:22:46,365 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:22:46,365 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:23:46,394 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:23:46,394 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:23:46,394 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:24:46,310 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+17:24:46,310 - [8] - INFO  - Game.Server.GameServer - End ping check....
+17:24:46,310 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+17:24:46,310 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+17:24:46,404 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:24:46,404 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:24:46,404 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:25:46,292 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+17:25:46,292 - [7] - INFO  - Game.Server.GameServer - Saving database...
+17:25:46,292 - [7] - INFO  - Game.Server.GameServer - Saving database complete!
+17:25:46,292 - [8] - ERROR - Bussiness.BaseBussiness - Smith Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogItemDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 56
+17:25:46,292 - [7] - INFO  - Game.Server.GameServer - Saved all databases and 0 players in 0ms
+17:25:46,292 - [8] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 102
+17:25:46,292 - [8] - ERROR - Bussiness.BaseBussiness - Fight Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogFightDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 151
+17:25:46,292 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+17:25:46,417 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:25:46,417 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:25:46,417 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:26:46,449 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:26:46,449 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:26:46,449 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:27:46,310 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+17:27:46,420 - [7] - INFO  - Game.Server.GameServer - End ping check....
+17:27:46,430 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+17:27:46,430 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+17:27:46,450 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:27:46,810 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:27:46,810 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 359ms
+17:28:46,463 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:28:46,463 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:28:46,463 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:29:46,479 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:29:46,479 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:29:46,479 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:30:46,289 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+17:30:46,289 - [7] - ERROR - Bussiness.BaseBussiness - Smith Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogItemDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 56
+17:30:46,289 - [7] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 102
+17:30:46,289 - [7] - ERROR - Bussiness.BaseBussiness - Fight Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogFightDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 151
+17:30:46,289 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+17:30:46,320 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+17:30:46,320 - [7] - INFO  - Game.Server.GameServer - End ping check....
+17:30:46,320 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+17:30:46,320 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+17:30:46,492 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:30:46,492 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:30:46,492 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:31:46,505 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:31:46,505 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:31:46,505 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:32:08,564 - [4] - INFO  - Game.Server.GameServer - Saving Record...
+17:32:08,564 - [4] - INFO  - Game.Server.GameServer - Saving Record complete!
+17:32:08,564 - [4] - INFO  - Game.Server.GameServer - Saving database...
+17:32:08,564 - [4] - INFO  - Game.Server.GameServer - Saving database complete!
+17:32:08,564 - [4] - INFO  - Game.Server.GameServer - Saved all databases and 0 players in 0ms
+17:32:08,564 - [4] - INFO  - Game.Server.GameServer - Server Stopped!
+17:32:08,564 - [4] - ERROR - Game.Server.GameServer - Center Server Disconnect! Stopping Server
+17:32:08,564 - [4] - ERROR - Game.Server.GameServer - Start the game server again after 1 second,and left try times:3
+17:32:08,720 - [9] - INFO  - Game.Base.BaseServer - Incoming connection from socket disconnected
+17:32:09,593 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+17:32:09,593 - [4] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+17:32:09,593 - [4] - INFO  - Game.Server.GameServer - Server rules: true
+17:32:09,609 - [4] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+17:32:09,687 - [4] - INFO  - Game.Server.GameServe17:32:40,887 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+17:32:41,402 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+17:32:41,402 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+17:32:41,448 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+17:32:41,448 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+17:32:41,448 - [MAIN] - INFO  - Game.Server.GameServer - Edition:11000: True
+17:32:41,464 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+17:32:41,511 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+17:32:41,511 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+17:32:41,760 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+17:32:42,026 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+17:32:42,057 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+17:32:42,150 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+17:32:42,182 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+17:32:42,197 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+17:32:42,213 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+17:32:42,228 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+17:32:42,228 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+17:32:42,244 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+17:32:42,260 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+17:32:42,260 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+17:32:42,275 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+17:32:42,275 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+17:32:42,291 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+17:32:42,306 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+17:32:42,322 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+17:32:42,353 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+17:32:42,353 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+17:32:42,353 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+17:32:42,369 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+17:32:42,369 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+17:32:42,384 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+17:32:42,384 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+17:32:42,400 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+17:32:42,400 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+17:32:42,400 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+17:32:42,416 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+17:32:42,431 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+17:32:42,447 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 126 handlers from GameServer Assembly!
+17:32:42,462 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 6 commands!
+17:32:42,478 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+17:32:42,478 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9202
+17:32:42,478 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+17:32:42,478 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9208
+17:32:42,494 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+17:32:42,509 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+17:33:42,430 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:33:42,431 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:33:42,431 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:34:42,442 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:34:42,442 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:34:42,442 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:35:42,431 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+17:35:42,432 - [7] - INFO  - Game.Server.GameServer - End ping check....
+17:35:42,432 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+17:35:42,434 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+17:35:42,456 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:35:42,456 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:35:42,456 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:36:42,468 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:36:42,468 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:36:42,468 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:37:42,424 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+17:37:42,450 - [8] - ERROR - Bussiness.BaseBussiness - Smith Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogItemDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 56
+17:37:42,455 - [8] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 102
+17:37:42,460 - [8] - ERROR - Bussiness.BaseBussiness - Fight Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogFightDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 151
+17:37:42,460 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+17:37:42,481 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:37:42,481 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:37:42,481 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:38:42,435 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+17:38:42,435 - [8] - INFO  - Game.Server.GameServer - End ping check....
+17:38:42,435 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+17:38:42,435 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+17:38:42,498 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:38:42,498 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:38:42,498 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:39:42,509 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:39:42,509 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:39:42,509 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:40:42,524 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:40:42,524 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:40:42,524 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:41:42,445 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+17:41:42,445 - [8] - INFO  - Game.Server.GameServer - End ping check....
+17:41:42,445 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+17:41:42,445 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+17:41:42,537 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:41:42,537 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:41:42,537 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:42:42,425 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+17:42:42,428 - [7] - INFO  - Game.Server.GameServer - Saving database...
+17:42:42,428 - [7] - INFO  - Game.Server.GameServer - Saving database complete!
+17:42:42,428 - [7] - INFO  - Game.Server.GameServer - Saved all databases and 0 players in 0ms
+17:42:42,428 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+17:42:42,550 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:42:42,550 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:42:42,550 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:43:17,884 - [9] - INFO  - Game.Server.GameServer - Saving Record...
+17:43:17,893 - [9] - INFO  17:46:36,710 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+17:46:37,363 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+17:46:37,366 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+17:46:37,426 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+17:46:37,426 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+17:46:37,426 - [MAIN] - INFO  - Game.Server.GameServer - Edition:11000: True
+17:46:37,434 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+17:46:37,472 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+17:46:37,480 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+17:46:37,509 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+17:46:37,750 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+17:46:37,800 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+17:46:37,836 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+17:46:37,882 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+17:46:37,899 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+17:46:37,909 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+17:46:37,927 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+17:46:37,939 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+17:46:37,953 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+17:46:37,972 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+17:46:37,981 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+17:46:37,990 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+17:46:38,000 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+17:46:38,020 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+17:46:38,026 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+17:46:38,058 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+17:46:38,108 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+17:46:38,112 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+17:46:38,114 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+17:46:38,131 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+17:46:38,138 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+17:46:38,145 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+17:46:38,147 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+17:46:38,166 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+17:46:38,176 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+17:46:38,177 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+17:46:38,178 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+17:46:38,198 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+17:46:38,236 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 126 handlers from GameServer Assembly!
+17:46:38,249 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 6 commands!
+17:46:38,258 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+17:46:38,268 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9202
+17:46:38,271 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+17:46:38,275 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9208
+17:46:38,281 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+17:46:38,292 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+17:46:44,441 - [4] - INFO  - Game.Server.GameServer - Saving Record...
+17:46:44,453 - [4] - INFO  - Game.Server.GameServer - Saving Record complete!
+17:46:44,455 - [4] - INFO  - Game.Server.GameServer - Saving data17:51:08,738 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+17:51:09,270 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+17:51:09,274 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+17:51:09,333 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+17:51:09,333 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+17:51:09,333 - [MAIN] - INFO  - Game.Server.GameServer - Edition:11000: True
+17:51:09,341 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+17:51:09,379 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+17:51:09,387 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+17:51:09,414 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+17:51:09,650 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+17:51:09,701 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+17:51:09,725 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+17:51:09,769 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+17:51:09,780 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+17:51:09,788 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+17:51:09,802 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+17:51:09,812 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+17:51:09,823 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+17:51:09,840 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+17:51:09,847 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+17:51:09,903 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+17:51:09,913 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+17:51:09,931 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+17:51:09,937 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+17:51:09,965 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+17:51:10,005 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+17:51:10,009 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+17:51:10,010 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+17:51:10,025 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+17:51:10,031 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+17:51:10,035 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+17:51:10,037 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+17:51:10,053 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+17:51:10,061 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+17:51:10,061 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+17:51:10,063 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+17:51:10,076 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+17:51:10,113 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 126 handlers from GameServer Assembly!
+17:51:10,126 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 6 commands!
+17:51:10,134 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+17:51:10,145 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9202
+17:51:10,148 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+17:51:10,152 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9208
+17:51:10,158 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+17:51:10,168 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+17:52:10,069 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:52:10,069 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:52:10,069 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:53:10,080 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:53:10,080 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:53:10,080 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:54:10,068 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+17:54:10,069 - [7] - INFO  - Game.Server.GameServer - End ping check....
+17:54:10,069 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+17:54:10,070 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+17:54:10,094 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:54:10,094 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:54:10,094 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:55:10,107 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:55:10,107 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:55:10,107 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:56:10,063 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+17:56:10,090 - [7] - ERROR - Bussiness.BaseBussiness - Smith Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogItemDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 56
+17:56:10,095 - [7] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 102
+17:56:10,099 - [7] - ERROR - Bussiness.BaseBussiness - Fight Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogFightDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 151
+17:56:10,099 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+17:56:10,121 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:56:10,121 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:56:10,121 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:57:10,075 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+17:57:10,075 - [7] - INFO  - Game.Server.GameServer - End ping check....
+17:57:10,075 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+17:57:10,075 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+17:57:10,134 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:57:10,134 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:57:10,134 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:58:10,149 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:58:10,152 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:58:10,152 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:59:10,161 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:59:10,161 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:59:10,161 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:00:10,083 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+18:00:10,083 - [8] - INFO  - Game.Server.GameServer - End ping check....
+18:00:10,083 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+18:00:10,083 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+18:00:10,175 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:00:10,175 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:00:10,175 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:01:10,066 - [8] - INFO  - Game.Server.GameServer - Saving database...
+18:01:10,066 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+18:01:10,066 - [8] - INFO  - Game.Server.GameServer - Saving database complete!
+18:01:10,066 - [8] - INFO  - Game.Server.GameServer - Saved all databases and 0 players in 0ms
+18:01:10,070 - [7] - ERROR - Bussiness.BaseBussiness - Smith Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogItemDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 56
+18:01:10,071 - [7] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 102
+18:01:10,072 - [7] - ERROR - Bussiness.BaseBussiness - Fight Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogFightDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 151
+18:01:10,072 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+18:01:10,189 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:01:10,189 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:01:10,189 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:02:10,202 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:02:10,202 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:02:10,202 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:03:10,093 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+18:03:10,093 - [7] - INFO  - Game.Server.GameServer - End ping check....
+18:03:10,093 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+18:03:10,093 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+18:03:10,217 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:03:10,217 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:03:10,217 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:04:10,229 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:04:10,229 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:04:10,229 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:05:10,243 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:05:10,243 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:05:10,243 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:06:10,073 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+18:06:10,077 - [8] - ERROR - Bussiness.BaseBussiness - Smith Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogItemDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 56
+18:06:10,078 - [8] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 102
+18:06:10,079 - [8] - ERROR - Bussiness.BaseBussiness - Fight Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogFightDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 151
+18:06:10,080 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+18:06:10,103 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+18:06:10,103 - [7] - INFO  - Game.Server.GameServer - End ping check....
+18:06:10,103 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+18:06:10,103 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+18:06:10,257 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:06:10,257 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:06:10,257 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:07:10,276 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:07:10,276 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:07:10,276 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:08:10,287 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:08:10,287 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:08:10,287 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:09:10,109 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+18:09:10,109 - [8] - INFO  - Game.Server.GameServer - End ping check....
+18:09:10,109 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+18:09:10,109 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+18:09:10,299 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:09:10,299 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:09:10,299 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:10:10,325 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:10:10,325 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:10:10,325 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:11:10,079 - [7] - INFO  - Game.Server.GameServer - Saving database...
+18:11:10,079 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+18:11:10,079 - [7] - INFO  - Game.Server.GameServer - Saving database complete!
+18:11:10,079 - [7] - INFO  - Game.Server.GameServer - Saved all databases and 0 players in 0ms
+18:11:10,079 - [8] - ERROR - Bussiness.BaseBussiness - Smith Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogItemDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 56
+18:11:10,079 - [8] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 102
+18:11:10,079 - [8] - ERROR - Bussiness.BaseBussiness - Fight Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogFightDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 151
+18:11:10,079 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+18:11:10,328 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:11:10,328 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:11:10,328 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:12:10,132 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+18:12:10,132 - [8] - INFO  - Game.Server.GameServer - End ping check....
+18:12:10,132 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+18:12:10,132 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+18:12:10,350 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:12:10,350 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:12:10,350 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:13:10,360 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:13:10,360 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:13:10,360 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:14:10,376 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:14:10,376 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:14:10,376 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:15:10,137 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+18:15:10,137 - [8] - INFO  - Game.Server.GameServer - End ping check....
+18:15:10,137 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+18:15:10,137 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+18:15:10,386 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:15:10,386 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:15:10,386 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:16:10,085 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+18:16:10,085 - [7] - ERROR - Bussiness.BaseBussiness - Smith Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogItemDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 56
+18:16:10,085 - [7] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 102
+18:16:10,085 - [7] - ERROR - Bussiness.BaseBussiness - Fight Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogFightDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 151
+18:16:10,085 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+18:16:10,397 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:16:10,397 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:16:10,397 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:17:10,416 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:17:10,416 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:17:10,416 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:18:10,143 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+18:18:10,143 - [7] - INFO  - Game.Server.GameServer - End ping check....
+18:18:10,143 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+18:18:10,143 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+18:18:10,425 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:18:10,425 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:18:10,425 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:19:10,434 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:19:10,434 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:19:10,434 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:20:10,451 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:20:10,451 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:20:10,451 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:21:10,088 - [8] - INFO  - Game.Server.GameServer - Saving database...
+18:21:10,088 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+18:21:10,088 - [8] - INFO  - Game.Server.GameServer - Saving database complete!
+18:21:10,088 - [8] - INFO  - Game.Server.GameServer - Saved all databases and 0 players in 0ms
+18:21:10,088 - [7] - ERROR - Bussiness.BaseBussiness - Smith Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogItemDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 56
+18:21:10,088 - [7] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 102
+18:21:10,088 - [7] - ERROR - Bussiness.BaseBussiness - Fight Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogFightDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 151
+18:21:10,088 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+18:21:10,151 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+18:21:10,151 - [7] - INFO  - Game.Server.GameServer - End ping check....
+18:21:10,151 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+18:21:10,151 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+18:21:10,463 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:21:10,463 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:21:10,463 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:22:10,483 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:22:10,483 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:22:10,483 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:23:10,498 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:23:10,498 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:23:10,498 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:24:10,163 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+18:24:10,163 - [8] - INFO  - Game.Server.GameServer - End ping check....
+18:24:10,163 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+18:24:10,163 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+18:24:10,507 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:24:10,507 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:24:10,507 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:25:10,516 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:25:10,516 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:25:10,516 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:26:10,091 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+18:26:10,091 - [7] - ERROR - Bussiness.BaseBussiness - Smith Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogItemDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 56
+18:26:10,091 - [7] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 102
+18:26:10,091 - [7] - ERROR - Bussiness.BaseBussiness - Fight Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogFightDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 151
+18:26:10,091 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+18:26:10,528 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:26:10,528 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:26:10,528 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:27:10,169 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+18:27:10,169 - [8] - INFO  - Game.Server.GameServer - End ping check....
+18:27:10,169 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+18:27:10,169 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+18:27:10,543 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:27:10,543 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:27:10,543 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:27:18,149 - [9] - ERROR - Bussiness.BaseBussiness - UpdateBreakTimeWhereServerStop
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdateBreakTimeWhereServerStop() 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 3064
+18:27:18,199 - [9] - INFO  - Game.Server.GameServer - Saving Record...
+18:27:18,199 - [9] - ERROR - Bussiness.BaseBussiness - Smith Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogItemDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 56
+18:27:18,229 - [9] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState18:39:42,608 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+18:39:43,139 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+18:39:43,139 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+18:39:43,202 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+18:39:43,202 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+18:39:43,202 - [MAIN] - INFO  - Game.Server.GameServer - Edition:11000: True
+18:39:43,202 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+18:39:43,248 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+18:39:43,248 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+18:39:43,280 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+18:39:43,529 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+18:39:43,576 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+18:39:43,592 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+18:39:43,638 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+18:39:43,654 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+18:39:43,654 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+18:39:43,670 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+18:39:43,685 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+18:39:43,685 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+18:39:43,701 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+18:39:43,716 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+18:39:43,716 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+18:39:43,732 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+18:39:43,748 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+18:39:43,748 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+18:39:43,763 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+18:39:43,810 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+18:39:43,810 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+18:39:43,810 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+18:39:43,826 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+18:39:43,826 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+18:39:43,841 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+18:39:43,841 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+18:39:43,857 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+18:39:43,857 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+18:39:43,857 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+18:39:43,857 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+18:39:43,872 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+18:39:43,904 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 126 handlers from GameServer Assembly!
+18:39:43,919 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 6 commands!
+18:39:43,935 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+18:39:43,935 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9202
+18:39:43,950 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+18:39:43,950 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9208
+18:39:43,950 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+18:39:43,966 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+18:40:43,873 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:40:43,873 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:40:43,873 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:41:43,886 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:41:43,886 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:41:43,886 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:42:43,880 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+18:42:43,880 - [7] - INFO  - Game.Server.GameServer - End ping check....
+18:42:43,880 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+18:42:43,880 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+18:42:43,896 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:42:43,896 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:42:43,896 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:43:43,909 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:43:43,909 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:43:43,909 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:44:43,869 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+18:44:43,869 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+18:44:43,932 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:44:43,932 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:44:43,932 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:45:43,898 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+18:45:43,898 - [8] - INFO  - Game.Server.GameServer - End ping check....
+18:45:43,898 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+18:45:43,898 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+18:45:43,945 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:45:43,945 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:45:43,945 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:46:43,954 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:46:43,954 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:46:43,954 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:47:43,967 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:47:43,967 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:47:43,967 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:48:43,907 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+18:48:43,907 - [7] - INFO  - Game.Server.GameServer - End ping check....
+18:48:43,907 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+18:48:43,907 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+18:48:43,985 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:48:43,985 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:48:43,985 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:49:43,877 - [8] - INFO  - Game.Server.GameServer - Saving database...
+18:49:43,877 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+18:49:43,877 - [8] - INFO  - Game.Server.GameServer - Saving database complete!
+18:49:43,877 - [8] - INFO  - Game.Server.GameServer - Saved all databases and 0 players in 0ms
+18:49:43,877 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+18:49:44,002 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:49:44,002 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:49:44,002 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:50:44,012 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:50:44,012 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:50:44,012 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:51:43,910 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+18:51:43,910 - [9] - INFO  - Game.Server.GameServer - End ping check....
+18:51:43,910 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+18:51:43,910 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+18:51:44,019 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:51:44,019 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:51:44,019 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:52:44,045 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:52:44,045 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:52:44,045 - [9] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:53:44,056 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:53:44,056 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:53:44,056 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:54:43,873 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+18:54:43,873 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+18:54:43,920 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+18:54:43,920 - [8] - INFO  - Game.Server.GameServer - End ping check....
+18:54:43,920 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+18:54:43,920 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+18:54:44,060 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:54:44,060 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:54:44,060 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:55:44,073 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:55:44,073 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:55:44,073 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:56:44,100 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:56:44,100 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:56:44,100 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:57:43,934 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+18:57:43,934 - [7] - INFO  - Game.Server.GameServer - End ping check....
+18:57:43,934 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+18:57:43,934 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+18:57:44,106 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:57:44,106 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:57:44,106 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:58:44,125 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:58:44,125 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:58:44,125 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+18:59:43,886 - [7] - INFO  - Game.Server.GameServer - Saving database...
+18:59:43,886 - [9] - INFO  - Game.Server.GameServer - Saving Record...
+18:59:43,886 - [7] - INFO  - Game.Server.GameServer - Saving database complete!
+18:59:43,886 - [7] - INFO  - Game.Server.GameServer - Saved all databases and 0 players in 0ms
+18:59:43,901 - [9] - ERROR - Bussiness.BaseBussiness - Smith Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogItemDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 56
+18:59:43,901 - [9] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 102
+18:59:43,901 - [9] - ERROR - Bussiness.BaseBussiness - Fight Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogFightDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 151
+18:59:43,901 - [9] - INFO  - Game.Server.GameServer - Saving Record complete!
+18:59:44,135 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:59:44,135 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:59:44,135 - [9] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+19:00:43,942 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+19:00:43,942 - [7] - INFO  - Game.Server.GameServer - End ping check....
+19:00:43,942 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+19:00:43,942 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+19:00:44,145 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:00:44,145 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:00:44,145 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+19:01:44,157 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:01:44,157 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:01:44,157 - [9] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+19:02:44,178 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:02:44,178 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:02:44,178 - [9] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+19:03:43,960 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+19:03:43,960 - [9] - INFO  - Game.Server.GameServer - End ping check....
+19:03:43,960 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+19:03:43,960 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+19:03:44,194 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:03:44,194 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:03:44,194 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+19:04:43,882 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+19:04:43,882 - [7] - ERROR - Bussiness.BaseBussiness - Smith Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogItemDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 56
+19:04:43,882 - [7] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 102
+19:04:43,882 - [7] - ERROR - Bussiness.BaseBussiness - Fight Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogFightDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 151
+19:04:43,882 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+19:04:44,194 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:04:44,194 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:04:44,194 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+19:05:44,221 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:05:44,221 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:05:44,221 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+19:06:43,966 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+19:06:43,966 - [7] - INFO  - Game.Server.GameServer - End ping check....
+19:06:43,966 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+19:06:43,966 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+19:06:44,232 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:06:44,232 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:06:44,232 - [9] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+19:07:44,239 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:07:44,239 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:07:44,239 - [9] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+19:08:44,253 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:08:44,253 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:08:44,253 - [9] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+19:09:43,888 - [9] - INFO  - Game.Server.GameServer - Saving database...
+19:09:43,888 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+19:09:43,888 - [9] - INFO  - Game.Server.GameServer - Saving database complete!
+19:09:43,888 - [9] - INFO  - Game.Server.GameServer - Saved all databases and 0 players in 0ms
+19:09:43,888 - [8] - ERROR - Bussiness.BaseBussiness - Smith Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogItemDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 56
+19:09:43,888 - [8] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 102
+19:09:43,888 - [8] - ERROR - Bussiness.BaseBussiness - Fight Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogFightDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 151
+19:09:43,888 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+19:09:43,966 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+19:09:43,966 - [8] - INFO  - Game.Server.GameServer - End ping check....
+19:09:43,966 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+19:09:43,966 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+19:09:44,262 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:09:44,262 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:09:44,262 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+19:10:44,281 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:10:44,281 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:10:44,281 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+19:11:44,293 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:11:44,293 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:11:44,293 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+19:12:43,976 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+19:12:43,976 - [7] - INFO  - Game.Server.GameServer - End ping check....
+19:12:43,976 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+19:12:43,976 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+19:12:44,303 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:12:44,303 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:12:44,303 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+19:13:44,322 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:13:44,322 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:13:44,322 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+19:14:43,899 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+19:14:43,899 - [8] - ERROR - Bussiness.BaseBussiness - Smith Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogItemDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 56
+19:14:43,899 - [8] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 102
+19:14:43,909 - [8] - ERROR - Bussiness.BaseBussiness - Fight Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 Bussiness.ItemRecordBussiness.LogFightDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 151
+19:14:43,909 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+19:14:44,339 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:14:44,339 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:14:44,339 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+19:15:43,985 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+19:15:43,985 - [9] - INFO  - Game.Server.GameServer - End ping check....
+19:15:43,985 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+19:15:43,985 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+19:15:44,345 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:15:44,345 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:15:44,345 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+19:16:36,609 - [10] - ERROR - Bussiness.BaseBussiness - UpdateBreakTimeWhereServerStop
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdateBreakTimeWhereServerStop() 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 3064
+19:16:36,671 - [10] - INFO  - Game.Server.GameServer - Saving Record...
+19:16:36,671 - [10] - ERROR - Bussiness.BaseBussiness - Smith Log Error:System.Data.SqlClient.SqlException: 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo

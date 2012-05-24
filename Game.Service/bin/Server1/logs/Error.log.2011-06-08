@@ -1,0 +1,9 @@
+23:51:25,984 - [4] - ERROR - Game.Server.GameServer - Center Server Disconnect! Stopping Server
+23:51:25,984 - [4] - ERROR - Game.Server.GameServer - Start the game server again after 1 second,and left try times:3
+23:51:28,296 - [4] - ERROR - Game.Base.BaseConnector - Connect 127.0.0.1:9202 failed!
+23:54:27,250 - [8] - ERROR - Game.Server.GameServer - PingCheck center callback
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Game.Base.Packets.StreamProcessor.SendTCP(GSPacketIn packet) 位置 D:\Herman-PC\workspace\Server\Game.Base\Packets\StreamProcessor.cs:行号 105
+   在 Game.Base.BaseClient.SendTCP(GSPacketIn pkg) 位置 D:\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:行号 283
+   在 Game.Server.LoginServerConnector.SendPingCenter() 位置 D:\Herman-PC\workspace\Server\Game.Server\LoginServerConnector.cs:行号 919
+   在 Game.Server.GameServer.PingCheck(Object sender) 位置 D:\Herman-PC\workspace\Server\Game.Server\GameServer.cs:行号 684

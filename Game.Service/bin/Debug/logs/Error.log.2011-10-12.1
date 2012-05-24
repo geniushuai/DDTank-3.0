@@ -1,0 +1,38 @@
+15:34:38,951 - [12] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.LotteryOpenBoxHandler  client: 127.0.0.1:58756)
+System.NotSupportedException: Did not support this type bag: 5
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 178
+   at Game.Server.Packets.Client.LotteryOpenBoxHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\LotteryOpenBoxHandler.cs:line 23
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+15:34:38,991 - [12] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 1D 06 0A 00 1A 00 00 00 11 00 00 00 00   q...............
+0010: 00 00 00 00 05 FF FF FF FE 00 04 C8 9C            .............   
+
+15:34:41,041 - [12] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.LotteryOpenBoxHandler  client: 127.0.0.1:58756)
+System.NotSupportedException: Did not support this type bag: 5
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 178
+   at Game.Server.Packets.Client.LotteryOpenBoxHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\LotteryOpenBoxHandler.cs:line 23
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+15:34:41,051 - [12] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 1D 06 0A 00 1A 00 00 00 11 00 00 00 00   q...............
+0010: 00 00 00 00 05 FF FF FF FE 00 04 C8 9C            .............   
+
+15:34:41,081 - [12] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 127.0.0.1:58756)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.GameUtils.PlayerInventory.MoveToStore(PlayerInventory bag, Int32 fromSolt, Int32 toSolt, PlayerInventory tobag, Int32 maxCount) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameUtils\PlayerInventory.cs:line 370
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 99
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+15:34:41,091 - [12] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 23 01 01 00 31 00 00 00 11 00 00 00 00   q..#...1........
+0010: 00 00 00 00 00 00 00 00 36 0C 00 00 00 05 00 00   ........6.......
+0020: 00 01 00                                          ...             
+
+15:34:41,101 - [12] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 127.0.0.1:58756)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.GameUtils.PlayerInventory.MoveToStore(PlayerInventory bag, Int32 fromSolt, Int32 toSolt, PlayerInventory tobag, Int32 maxCount) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameUtils\PlayerInventory.cs:line 370
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 99
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+15:34:41,101 - [12] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 23 01 01 00 31 00 00 00 11 00 00 00 00   q..#...1........
+0010: 00 00 00 00 00 00 00 00 36 0C 00 00 00 05 00 00   ........6.......
+0020: 00 01 00                                          ...             
+

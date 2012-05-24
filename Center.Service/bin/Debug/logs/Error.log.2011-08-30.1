@@ -1,0 +1,15 @@
+16:18:05,777 - [MAIN] - ERROR - Center.Server.CenterService - Start center server failed:System.ServiceModel.AddressAlreadyInUseException: HTTP could not register URL http://+:2008/CenterService/. Another application has already registered this URL with HTTP.SYS. ---> System.Net.HttpListenerException: Failed to listen on prefix 'http://+:2008/CenterService/' because it conflicts with an existing registration on the machine.
+   at System.Net.HttpListener.AddAll()
+   at System.Net.HttpListener.Start()
+   at System.ServiceModel.Channels.SharedHttpTransportManager.OnOpen()
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.SharedHttpTransportManager.OnOpen()
+   at System.ServiceModel.Channels.TransportManager.Open(TransportChannelListener channelListener)
+   at System.ServiceModel.Channels.TransportManagerContainer.Open(SelectTransportManagersCallback selectTransportManagerCallback)
+   at System.ServiceModel.Channels.HttpChannelListener.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Dispatcher.ChannelDispatcher.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.ServiceHostBase.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at Center.Server.CenterService.Start() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Center.Server\Services\CenterService.cs:line 288

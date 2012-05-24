@@ -1,0 +1,14 @@
+22:45:23,060 - [14] - ERROR - Game.Logic.Phy.Object.SimpleBoss - lua function:NextAttack error
+LuaInterface.LuaException: invalid arguments to method: SimpleBoss.ShootPoint
+   在 LuaInterface.Lua.ThrowExceptionFromError(Int32 oldTop)
+   在 LuaInterface.Lua.callFunction(Object function, Object[] args, Type[] returnTypes)
+   在 LuaInterface.Lua.callFunction(Object function, Object[] args)
+   在 LuaInterface.LuaFunction.Call(Object[] args)
+   在 Game.Logic.Phy.Object.SimpleBoss.RunLuaFunction(String func, Object[] args) 位置 D:\workspace\Server\Game.Logic\Phy\Object\SimpleBoss.cs:行号 226
+22:52:08,889 - [14] - ERROR - Game.Logic.Phy.Object.SimpleBoss - lua function:NextAttack error
+LuaInterface.LuaException: invalid arguments to method: SimpleBoss.ShootPoint
+   在 LuaInterface.Lua.ThrowExceptionFromError(Int32 oldTop)
+   在 LuaInterface.Lua.callFunction(Object function, Object[] args, Type[] returnTypes)
+   在 LuaInterface.Lua.callFunction(Object function, Object[] args)
+   在 LuaInterface.LuaFunction.Call(Object[] args)
+   在 Game.Logic.Phy.Object.SimpleBoss.RunLuaFunction(String func, Object[] args) 位置 D:\workspace\Server\Game.Logic\Phy\Object\SimpleBoss.cs:行号 226

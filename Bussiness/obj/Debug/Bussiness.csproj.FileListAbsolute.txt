@@ -1,0 +1,75 @@
+D:\workspace\Server\Bussiness\bin\Debug\Languages\Language-vn.txt
+D:\workspace\Server\Bussiness\bin\Debug\Languages\Language-zh_cn.txt
+D:\workspace\Server\Bussiness\bin\Debug\Bussiness.dll.config
+D:\workspace\Server\Bussiness\bin\Debug\Bussiness.dll
+D:\workspace\Server\Bussiness\bin\Debug\Bussiness.pdb
+D:\workspace\Server\Bussiness\bin\Debug\log4net.dll
+D:\workspace\Server\Bussiness\bin\Debug\SqlDataProvider.dll
+D:\workspace\Server\Bussiness\bin\Debug\log4net.xml
+D:\workspace\Server\Bussiness\bin\Debug\SqlDataProvider.pdb
+D:\workspace\Server\Bussiness\obj\Debug\ResolveAssemblyReference.cache
+D:\workspace\Server\Bussiness\obj\Debug\Bussiness.dll
+D:\workspace\Server\Bussiness\obj\Debug\Bussiness.pdb
+D:\workspace\Server\Bussiness\bin\Debug\Game.Base.dll
+D:\workspace\Server\Bussiness\bin\Debug\zlib.net.dll
+D:\workspace\Server\Bussiness\bin\Debug\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\bin\Debug\Languages\Language-zh_cn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\bin\Debug\Bussiness.dll.config
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\bin\Debug\Bussiness.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\bin\Debug\Bussiness.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\obj\Debug\Bussiness.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\obj\Debug\Bussiness.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\bin\Debug\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\bin\Debug\log4net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\bin\Debug\SqlDataProvider.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\bin\Debug\zlib.net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\bin\Debug\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\bin\Debug\log4net.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\bin\Debug\SqlDataProvider.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\bin\Debug\Languages\Language-vn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Bussiness\bin\Debug\Languages\Language-vn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Bussiness\bin\Debug\Languages\Language-zh_cn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Bussiness\bin\Debug\Bussiness.dll.config
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Bussiness\bin\Debug\Bussiness.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Bussiness\bin\Debug\Bussiness.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Bussiness\bin\Debug\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Bussiness\bin\Debug\log4net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Bussiness\bin\Debug\SqlDataProvider.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Bussiness\bin\Debug\zlib.net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Bussiness\bin\Debug\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Bussiness\bin\Debug\SqlDataProvider.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Bussiness\bin\Debug\log4net.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Bussiness\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Bussiness\obj\Debug\Bussiness.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Bussiness\obj\Debug\Bussiness.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Bussiness\bin\Debug\Languages\Language-vn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Bussiness\bin\Debug\Languages\Language-zh_cn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Bussiness\bin\Debug\Bussiness.dll.config
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Bussiness\bin\Debug\Bussiness.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Bussiness\bin\Debug\Bussiness.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Bussiness\bin\Debug\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Bussiness\bin\Debug\log4net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Bussiness\bin\Debug\SqlDataProvider.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Bussiness\bin\Debug\zlib.net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Bussiness\bin\Debug\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Bussiness\bin\Debug\SqlDataProvider.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Bussiness\bin\Debug\log4net.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Bussiness\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Bussiness\obj\Debug\Bussiness.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Bussiness\obj\Debug\Bussiness.pdb
+C:\Users\Welington\Documents\Server3.0\Bussiness\bin\Debug\Languages\Language-vn.txt
+C:\Users\Welington\Documents\Server3.0\Bussiness\bin\Debug\Languages\Language-zh_cn.txt
+C:\Users\Welington\Documents\Server3.0\Bussiness\bin\Debug\Bussiness.dll.config
+C:\Users\Welington\Documents\Server3.0\Bussiness\bin\Debug\Bussiness.dll
+C:\Users\Welington\Documents\Server3.0\Bussiness\bin\Debug\Bussiness.pdb
+C:\Users\Welington\Documents\Server3.0\Bussiness\bin\Debug\Game.Base.dll
+C:\Users\Welington\Documents\Server3.0\Bussiness\bin\Debug\log4net.dll
+C:\Users\Welington\Documents\Server3.0\Bussiness\bin\Debug\SqlDataProvider.dll
+C:\Users\Welington\Documents\Server3.0\Bussiness\bin\Debug\zlib.net.dll
+C:\Users\Welington\Documents\Server3.0\Bussiness\bin\Debug\Game.Base.pdb
+C:\Users\Welington\Documents\Server3.0\Bussiness\bin\Debug\SqlDataProvider.pdb
+C:\Users\Welington\Documents\Server3.0\Bussiness\bin\Debug\log4net.xml
+C:\Users\Welington\Documents\Server3.0\Bussiness\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Welington\Documents\Server3.0\Bussiness\obj\Debug\Bussiness.dll
+C:\Users\Welington\Documents\Server3.0\Bussiness\obj\Debug\Bussiness.pdb

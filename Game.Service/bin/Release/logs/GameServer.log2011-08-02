@@ -1,0 +1,141 @@
+10:31:29,773 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+10:31:29,786 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+10:31:29,791 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property Edition,keep it default value!
+10:31:29,793 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+10:31:29,794 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MustComposeGold,keep it default value!
+10:31:29,796 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+10:31:29,797 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MustFusionGold,keep it default value!
+10:31:29,798 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+10:31:29,801 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MustStrengthenGold,keep it default value!
+10:31:29,804 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+10:31:29,807 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property CheckRewardItem,keep it default value!
+10:31:29,810 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+10:31:29,813 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property CheckCount,keep it default value!
+10:31:29,815 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+10:31:29,818 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property HymenealMoney,keep it default value!
+10:31:29,821 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+10:31:29,823 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DivorcedMoney,keep it default value!
+10:31:29,826 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\Serv10:35:00,183 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+10:35:00,194 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+10:35:00,199 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property Edition,keep it default value!
+10:35:00,200 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+10:35:00,201 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MustComposeGold,keep it default value!
+10:35:00,201 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+10:35:00,202 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MustFusionGold,keep it default value!
+10:35:00,203 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+10:35:00,205 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MustStrengthenGold,keep it default value!
+10:35:00,207 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+10:35:00,210 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property CheckRewardItem,keep it default value!
+10:35:00,214 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+10:35:00,215 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property CheckCount,keep it default value!
+10:35:00,217 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+10:35:00,220 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property HymenealMoney,keep it default value!
+10:35:00,222 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+10:35:00,224 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DivorcedMoney,keep it default value!
+10:35:00,226 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\Serv20:41:13,478 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+20:41:13,542 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+20:41:13,634 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property Edition,keep it default value!
+20:41:13,636 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+20:41:13,637 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MustComposeGold,keep it default value!
+20:41:13,655 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+20:41:13,657 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MustFusionGold,keep it default value!
+20:41:13,659 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+20:41:13,661 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MustStrengthenGold,keep it default value!
+20:41:13,663 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+20:41:13,665 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property CheckRewardItem,keep it default value!
+20:41:13,667 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+20:41:13,670 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property CheckCount,keep it default value!
+20:41:13,672 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+20:41:13,676 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property HymenealMoney,keep it default value!
+20:41:13,678 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+20:41:13,680 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DivorcedMoney,keep it default value!
+20:41:13,682 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\Serv22:23:19,838 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+22:23:19,914 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+22:23:20,049 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property Edition,keep it default value!
+22:23:20,051 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+22:23:20,053 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MustComposeGold,keep it default value!
+22:23:20,055 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+22:23:20,057 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MustFusionGold,keep it default value!
+22:23:20,059 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+22:23:20,060 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MustStrengthenGold,keep it default value!
+22:23:20,062 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+22:23:20,064 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property CheckRewardItem,keep it default value!
+22:23:20,066 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+22:23:20,068 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property CheckCount,keep it default value!
+22:23:20,070 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+22:23:20,072 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property HymenealMoney,keep it default value!
+22:23:20,075 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+22:23:20,079 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DivorcedMoney,keep it default value!
+22:23:20,096 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\Serv

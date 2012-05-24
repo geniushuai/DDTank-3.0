@@ -1,0 +1,9 @@
+17:08:03,653 - [MAIN] - ERROR - Game.Base.BaseConnector - Connect 192.168.1.3:9208 failed!
+17:08:03,663 - [6] - ERROR - Game.Server.GameServer - AsynProcessPacket
+System.Security.Cryptography.CryptographicException: Bad Data.
+
+   at System.Security.Cryptography.CryptographicException.ThrowCryptogaphicException(Int32 hr)
+   at System.Security.Cryptography.Utils._ImportKey(SafeProvHandle hCSP, Int32 keyNumber, CspProviderFlags flags, Object cspObject, SafeKeyHandle& hKey)
+   at System.Security.Cryptography.RSACryptoServiceProvider.ImportParameters(RSAParameters parameters)
+   at Game.Server.LoginServerConnector.HandleRSAKey(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\LoginServerConnector.cs:line 149
+   at Game.Server.LoginServerConnector.AsynProcessPacket(Object state) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\LoginServerConnector.cs:line 57

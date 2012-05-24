@@ -1,0 +1,8 @@
+17:12:24,844 - [7] - ERROR - Game.Server.GameServer - AsynProcessPacket
+System.Security.Cryptography.CryptographicException: Bad Data.
+
+   at System.Security.Cryptography.CryptographicException.ThrowCryptogaphicException(Int32 hr)
+   at System.Security.Cryptography.Utils._ImportKey(SafeProvHandle hCSP, Int32 keyNumber, CspProviderFlags flags, Object cspObject, SafeKeyHandle& hKey)
+   at System.Security.Cryptography.RSACryptoServiceProvider.ImportParameters(RSAParameters parameters)
+   at Game.Server.Battle.FightServerConnector.HandleRSAKey(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Battle\FightServerConnector.cs:line 328
+   at Game.Server.Battle.FightServerConnector.AsynProcessPacket(Object state) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Battle\FightServerConnector.cs:line 51

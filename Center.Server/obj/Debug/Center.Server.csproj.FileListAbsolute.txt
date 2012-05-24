@@ -1,0 +1,61 @@
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Server\bin\Debug\Languages\Language-vn.txt
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Server\bin\Debug\Languages\Language-zh_cn.txt
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Server\bin\Debug\Center.Server.dll.config
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Server\bin\Debug\Center.Server.dll
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Server\bin\Debug\Center.Server.pdb
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Server\bin\Debug\Bussiness.dll
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Server\bin\Debug\Game.Base.dll
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Server\bin\Debug\log4net.dll
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Server\bin\Debug\Newtonsoft.Json.dll
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Server\bin\Debug\SqlDataProvider.dll
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Server\bin\Debug\zlib.net.dll
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Server\bin\Debug\log4net.xml
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Server\bin\Debug\Game.Base.pdb
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Server\bin\Debug\SqlDataProvider.pdb
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Server\bin\Debug\Bussiness.pdb
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Server\obj\Debug\ResolveAssemblyReference.cache
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Server\obj\Debug\Center.Server.dll
+D:\MyGame\WebGame\弹弹堂\Herman-PC\workspace\Server\Center.Server\obj\Debug\Center.Server.pdb
+D:\Herman-PC\releasePatch\Center\Languages\Language-vn.txt
+D:\Herman-PC\releasePatch\Center\Languages\Language-zh_cn.txt
+D:\Herman-PC\releasePatch\Center\Center.Server.dll.config
+D:\Herman-PC\releasePatch\Center\Center.Server.dll
+D:\Herman-PC\releasePatch\Center\Center.Server.pdb
+D:\Herman-PC\workspace\Server\Center.Server\obj\Debug\ResolveAssemblyReference.cache
+D:\Herman-PC\workspace\Server\Center.Server\obj\Debug\Center.Server.dll
+D:\Herman-PC\workspace\Server\Center.Server\obj\Debug\Center.Server.pdb
+C:\Users\LONGTRIEU\Downloads\Compressed\Fullcode server Hermanpc\Herman-PC\releasePatch\Center\Languages\Language-vn.txt
+C:\Users\LONGTRIEU\Downloads\Compressed\Fullcode server Hermanpc\Herman-PC\releasePatch\Center\Languages\Language-zh_cn.txt
+C:\Users\LONGTRIEU\Downloads\Compressed\Fullcode server Hermanpc\Herman-PC\releasePatch\Center\Center.Server.dll.config
+C:\Users\LONGTRIEU\Downloads\Compressed\Fullcode server Hermanpc\Herman-PC\releasePatch\Center\Center.Server.dll
+C:\Users\LONGTRIEU\Downloads\Compressed\Fullcode server Hermanpc\Herman-PC\releasePatch\Center\Center.Server.pdb
+C:\Users\LONGTRIEU\Downloads\Compressed\Fullcode server Hermanpc\Herman-PC\workspace\Server\Center.Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LONGTRIEU\Downloads\Compressed\Fullcode server Hermanpc\Herman-PC\workspace\Server\Center.Server\obj\Debug\Center.Server.dll
+C:\Users\LONGTRIEU\Downloads\Compressed\Fullcode server Hermanpc\Herman-PC\workspace\Server\Center.Server\obj\Debug\Center.Server.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\releasePatch\Center\Languages\Language-vn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\releasePatch\Center\Languages\Language-zh_cn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\releasePatch\Center\Center.Server.dll.config
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\releasePatch\Center\Center.Server.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\releasePatch\Center\Center.Server.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\workspace\Server\Center.Server\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\workspace\Server\Center.Server\obj\Debug\Center.Server.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\workspace\Server\Center.Server\obj\Debug\Center.Server.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Center.Server\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Center.Server\obj\Debug\Center.Server.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Center.Server\obj\Debug\Center.Server.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\releasePatch\Center\Languages\Language-vn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\releasePatch\Center\Languages\Language-zh_cn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\releasePatch\Center\Center.Server.dll.config
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\releasePatch\Center\Center.Server.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\releasePatch\Center\Center.Server.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Center.Server\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Center.Server\obj\Debug\Center.Server.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Center.Server\obj\Debug\Center.Server.pdb
+C:\Users\Welington\releasePatch\Center\Languages\Language-vn.txt
+C:\Users\Welington\releasePatch\Center\Languages\Language-zh_cn.txt
+C:\Users\Welington\releasePatch\Center\Center.Server.dll.config
+C:\Users\Welington\releasePatch\Center\Center.Server.dll
+C:\Users\Welington\releasePatch\Center\Center.Server.pdb
+C:\Users\Welington\Documents\Server3.0\Center.Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Welington\Documents\Server3.0\Center.Server\obj\Debug\Center.Server.dll
+C:\Users\Welington\Documents\Server3.0\Center.Server\obj\Debug\Center.Server.pdb

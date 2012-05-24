@@ -1,0 +1,14 @@
+21:32:49,007 - [12] - ERROR - Bussiness.Interface.BaseInterface - LoginGame
+System.ServiceModel.CommunicationObjectFaultedException: 通信对象 System.ServiceModel.Channels.ServiceChannel 无法用于通信，因为其处于“出错”状态。
+
+Server stack trace: 
+   在 System.ServiceModel.Channels.CommunicationObject.Close(TimeSpan timeout)
+
+Exception rethrown at [0]: 
+   在 System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   在 System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   在 System.ServiceModel.ICommunicationObject.Close(TimeSpan timeout)
+   在 System.ServiceModel.ClientBase`1.System.ServiceModel.ICommunicationObject.Close(TimeSpan timeout)
+   在 System.ServiceModel.ClientBase`1.Close()
+   在 System.ServiceModel.ClientBase`1.System.IDisposable.Dispose()
+   在 Bussiness.Interface.BaseInterface.LoginGame(String name, String pass, Boolean& isFirst) 位置 D:\Herman-PC\workspace\Server\Bussiness\Interface\BaseInterface.cs:行号 288

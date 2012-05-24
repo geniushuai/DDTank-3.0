@@ -1,0 +1,5 @@
+19:21:29,292 - [6] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x20
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.Phy.Object.Player.CanUseItem(ItemTemplateInfo item) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Phy\Object\Player.cs:line 699
+   at Game.Logic.Cmd.PropUseCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\PropUseCommand.cs:line 24
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34

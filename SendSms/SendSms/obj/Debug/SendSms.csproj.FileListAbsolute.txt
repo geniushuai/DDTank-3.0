@@ -1,0 +1,5 @@
+C:\Users\Welington\Documents\Server3.0\SendSms\SendSms\bin\Debug\SendSms.exe
+C:\Users\Welington\Documents\Server3.0\SendSms\SendSms\bin\Debug\SendSms.pdb
+C:\Users\Welington\Documents\Server3.0\SendSms\SendSms\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Welington\Documents\Server3.0\SendSms\SendSms\obj\Debug\SendSms.exe
+C:\Users\Welington\Documents\Server3.0\SendSms\SendSms\obj\Debug\SendSms.pdb

@@ -1,0 +1,43 @@
+14:12:27,967 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+14:12:28,137 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading Edition Value is 21000
+14:12:28,140 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MustComposeGold Value is 1000
+14:12:28,141 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MustFusionGold Value is 400
+14:12:28,143 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MustStrengthenGold Value is 1000
+14:12:28,144 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading CheckRewardItem Value is 11001
+14:12:28,146 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading CheckCount Value is 20
+14:12:28,147 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading HymenealMoney Value is 500
+14:12:28,149 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DivorcedMoney Value is 5214
+14:12:28,151 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MarryRoomCreateMoney Value is 2000,2700,3400
+14:12:28,152 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading BoxAppearCondition Value is 4
+14:12:28,155 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DisableCommands Value is    
+14:12:28,157 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading AssState Value is False
+14:12:28,159 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DailyAwardState Value is True
+14:12:28,160 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading Cess Value is 0
+14:12:28,162 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading BeginAuction Value is 45
+14:12:28,163 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading EndAuction Value is 75
+14:12:28,179 - [MAIN] - INFO  - Center.Server.CenterServer - Recompile Scripts: True
+14:12:28,195 - [MAIN] - INFO  - Center.Server.CenterServer - Registering global event handlers: true
+14:12:28,196 - [MAIN] - INFO  - Center.Server.CenterServer - Script components: True
+14:12:28,196 - [MAIN] - INFO  - Center.Server.CenterServer - Check Server Edition:21000: True
+14:12:28,202 - [MAIN] - INFO  - Center.Server.CenterServer - InitSocket Port:9202: True
+14:12:28,340 - [MAIN] - INFO  - Center.Server.CenterService - Center Service started!
+14:12:28,340 - [MAIN] - INFO  - Center.Server.CenterServer - Center Service: True
+14:12:28,365 - [MAIN] - INFO  - Center.Server.ServerMgr - Load server list from db.
+14:12:28,365 - [MAIN] - INFO  - Center.Server.CenterServer - Load serverlist: True
+14:12:28,447 - [MAIN] - INFO  - Center.Server.CenterServer - Init ConsortiaLevelMgr: True
+14:12:28,472 - [MAIN] - INFO  - Center.Server.CenterServer - Init MacroDropMgr: True
+14:12:28,479 - [MAIN] - INFO  - Center.Server.CenterServer - LanguageMgr Init: True
+14:12:28,482 - [MAIN] - INFO  - Center.Server.CenterServer - Init Global Timers: True
+14:12:28,497 - [MAIN] - DEBUG - Game.Base.CommandMgr - ScriptMgr: Searching for commands in Center.Server, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+14:12:28,501 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &gp,Manage game properties at runtime.
+14:12:28,502 - [MAIN] - DEBUG - Game.Base.CommandMgr - ScriptMgr: Searching for commands in Game.Base, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+14:12:28,504 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &sm,Script Manager console commands.
+14:12:28,505 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &cs,Compile the C# scripts.
+14:12:28,506 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &cmd,Config the command system.
+14:12:28,507 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 4 commands!
+14:12:28,511 - [MAIN] - DEBUG - Game.Base.BaseServer - Server is now listening to incoming connections!
+14:12:28,511 - [MAIN] - INFO  - Center.Server.CenterServer - base.Start(): True
+14:12:28,521 - [MAIN] - INFO  - Center.Server.CenterServer - GameServer is now open for connections!
+14:12:28,522 - [MAIN] - INFO  - Bussiness.GameProperties - Saving game properties into db!
+14:12:54,900 - [5] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:3602
+14:12:55,041 - [5] - DEBUG - Game.Base.Packets.StreamProcessor - Send Pkg to 

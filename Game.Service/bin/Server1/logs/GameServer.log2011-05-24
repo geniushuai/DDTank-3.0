@@ -1,0 +1,1071 @@
+21:45:23,057 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+21:45:23,155 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) 位置 D:\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:行号 254
+21:45:23,170 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property Edition,keep it default value!
+21:45:23,180 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) 位置 D:\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:行号 254
+21:45:23,182 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MustComposeGold,keep it default value!
+21:45:23,192 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) 位置 D:\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:行号 254
+21:45:23,194 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MustFusionGold,keep it default value!
+21:45:23,206 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) 位置 D:\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:行号 254
+21:45:23,208 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MustStrengthenGold,keep it default value!
+21:45:23,219 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) 位置 D:\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:行号 254
+21:45:23,222 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property CheckRewardItem,keep it default value!
+21:45:23,233 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) 位置 D:\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:行号 254
+21:45:23,236 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property CheckCount,keep it default value!
+21:45:23,248 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) 位置 D:\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:行号 254
+21:45:23,251 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property HymenealMoney,keep it default value!
+21:45:23,265 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) 位置 D:\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:行号 254
+21:45:23,268 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DivorcedMoney,keep it default value!
+21:45:23,281 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) 位置 D:\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:行号 254
+21:45:23,284 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MarryRoomCreateMoney,keep it default value!
+21:45:23,293 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) 位置 D:\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:行号 254
+21:45:23,297 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot21:51:22,982 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+21:51:23,497 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+21:51:23,498 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+21:51:23,547 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+21:51:23,547 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+21:51:23,547 - [MAIN] - INFO  - Game.Server.GameServer - Edition:11000: True
+21:51:23,552 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+21:51:23,592 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+21:51:23,595 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+21:51:23,710 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+21:51:23,834 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+21:51:23,869 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+21:51:23,894 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+21:51:23,906 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+21:51:23,911 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+21:51:23,915 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+21:51:23,924 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+21:51:23,931 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+21:51:23,937 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+21:51:23,952 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+21:51:23,956 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+21:51:23,960 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+21:51:23,965 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+21:51:23,977 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+21:51:23,980 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+21:51:24,000 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+21:51:24,025 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+21:51:24,028 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+21:51:24,029 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+21:51:24,035 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+21:51:24,045 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+21:51:24,048 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+21:51:24,050 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+21:51:24,055 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+21:51:24,058 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+21:51:24,058 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+21:51:24,060 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+21:51:24,068 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+21:51:24,085 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 126 handlers from GameServer Assembly!
+21:51:24,091 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 6 commands!
+21:51:24,095 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+21:51:24,100 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9202
+21:51:24,102 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+21:51:24,112 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9208
+21:51:24,115 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+21:51:24,129 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+21:52:24,061 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+21:52:24,062 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+21:52:24,063 - [14] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+21:52:34,240 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2961
+21:52:34,997 - [14] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+21:53:14,708 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2997
+21:53:14,794 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+21:53:24,074 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+21:53:24,075 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+21:53:24,076 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+21:54:04,374 - [12] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.StartGameAction,61ms!
+21:54:24,062 - [14] - INFO  - Game.Server.GameServer - Begin ping check....
+21:54:24,065 - [14] - INFO  - Game.Server.GameServer - End ping check....
+21:54:24,065 - [14] - INFO  - Game.Server.GameServer - Begin ping center check....
+21:54:24,071 - [14] - INFO  - Game.Server.GameServer - End ping center check....
+21:54:24,086 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+21:54:24,086 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+21:54:24,089 - [6] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+21:55:24,101 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+21:55:24,101 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+21:55:24,102 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+21:56:24,056 - [14] - INFO  - Game.Server.GameServer - Saving Record...
+21:56:24,115 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+21:56:24,115 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+21:56:24,117 - [6] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+21:56:26,225 - [14] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: 给定的 ColumnMapping 与源或目标中的任意列均不匹配。
+   在 System.Data.SqlClient.SqlBulkCopy.AnalyzeTargetAndCreateUpdateBulkCommand(BulkCopySimpleResultSet internalResults)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table)
+   在 Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 102
+21:56:26,228 - [14] - INFO  - Game.Server.GameServer - Saving Record complete!
+21:57:24,067 - [6] - INFO  - Game.Server.GameServer - Begin ping check....
+21:57:24,067 - [6] - INFO  - Game.Server.GameServer - End ping check....
+21:57:24,070 - [6] - INFO  - Game.Server.GameServer - Begin ping center check....
+21:57:24,073 - [6] - INFO  - Game.Server.GameServer - End ping center check....
+21:57:24,128 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+21:57:24,129 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+21:57:24,131 - [6] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+21:58:24,142 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+21:58:24,143 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+21:58:24,144 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+21:59:24,154 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+21:59:24,154 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+21:59:24,156 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:00:24,077 - [14] - INFO  - Game.Server.GameServer - Begin ping check....
+22:00:24,077 - [14] - INFO  - Game.Server.GameServer - End ping check....
+22:00:24,079 - [14] - INFO  - Game.Server.GameServer - Begin ping center check....
+22:00:24,080 - [14] - INFO  - Game.Server.GameServer - End ping center check....
+22:00:24,169 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:00:24,169 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:00:24,170 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:01:24,063 - [6] - INFO  - Game.Server.GameServer - Saving database...
+22:01:24,063 - [14] - INFO  - Game.Server.GameServer - Saving Record...
+22:01:24,067 - [14] - INFO  - Game.Server.GameServer - Saving Record complete!
+22:01:24,073 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+22:01:24,194 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:01:24,195 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:01:24,245 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:01:24,289 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+22:01:24,350 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+22:01:24,361 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+22:01:24,362 - [6] - INFO  - Game.Server.GameServer - Saving database complete!
+22:01:24,362 - [6] - INFO  - Game.Server.GameServer - Saved all databases and 2 players in 297ms
+22:01:54,320 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+22:01:54,352 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+22:02:24,195 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:02:24,195 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:02:24,195 - [6] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+22:03:24,086 - [14] - INFO  - Game.Server.GameServer - Begin ping check....
+22:03:24,086 - [14] - INFO  - Game.Server.GameServer - End ping check....
+22:03:24,087 - [14] - INFO  - Game.Server.GameServer - Begin ping center check....
+22:03:24,087 - [14] - INFO  - Game.Server.GameServer - End ping center check....
+22:03:24,210 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:03:24,210 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:03:24,212 - [14] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+22:04:24,222 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:04:24,222 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:04:24,222 - [6] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+22:05:24,237 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:05:24,237 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:05:24,237 - [6] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+22:05:53,078 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+22:05:53,130 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+22:06:24,066 - [14] - INFO  - Game.Server.GameServer - Saving Record...
+22:06:24,066 - [14] - INFO  - Game.Server.GameServer - Saving Record complete!
+22:06:24,093 - [14] - INFO  - Game.Server.GameServer - Begin ping check....
+22:06:24,093 - [14] - INFO  - Game.Server.GameServer - End ping check....
+22:06:24,093 - [14] - INFO  - Game.Server.GameServer - Begin ping center check....
+22:06:24,094 - [14] - INFO  - Game.Server.GameServer - End ping center check....
+22:06:24,319 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:06:25,074 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:06:25,075 - [14] - INFO  - Game.Server.GameServer - Buff all 0 players in 749ms
+22:07:24,263 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:07:24,267 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:07:24,268 - [14] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+22:07:28,715 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:3065
+22:07:28,818 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+22:08:07,160 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:3093
+22:08:07,220 - [14] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+22:08:24,277 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:08:24,277 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:08:24,277 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:09:24,106 - [14] - INFO  - Game.Server.GameServer - Begin ping check....
+22:09:24,106 - [14] - INFO  - Game.Server.GameServer - End ping check....
+22:09:24,109 - [14] - INFO  - Game.Server.GameServer - Begin ping center check....
+22:09:24,109 - [14] - INFO  - Game.Server.GameServer - End ping center check....
+22:09:24,290 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:09:24,290 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:09:24,291 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:10:24,305 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:10:24,305 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:10:24,306 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:11:24,070 - [6] - INFO  - Game.Server.GameServer - Saving database...
+22:11:24,070 - [14] - INFO  - Game.Server.GameServer - Saving Record...
+22:11:24,088 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+22:11:24,093 - [14] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: 给定的 ColumnMapping 与源或目标中的任意列均不匹配。
+   在 System.Data.SqlClient.SqlBulkCopy.AnalyzeTargetAndCreateUpdateBulkCommand(BulkCopySimpleResultSet internalResults)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table)
+   在 Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 102
+22:11:24,096 - [14] - INFO  - Game.Server.GameServer - Saving Record complete!
+22:11:24,105 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+22:11:24,108 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+22:11:24,132 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+22:11:24,135 - [6] - INFO  - Game.Server.GameServer - Saving database complete!
+22:11:24,135 - [6] - INFO  - Game.Server.GameServer - Saved all databases and 2 players in 63ms
+22:11:24,319 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:11:24,319 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:11:24,320 - [6] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:12:24,115 - [6] - INFO  - Game.Server.GameServer - Begin ping check....
+22:12:24,115 - [6] - INFO  - Game.Server.GameServer - End ping check....
+22:12:24,116 - [6] - INFO  - Game.Server.GameServer - Begin ping center check....
+22:12:24,116 - [6] - INFO  - Game.Server.GameServer - End ping center check....
+22:12:24,331 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:12:24,332 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:12:24,332 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:13:24,344 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:13:24,344 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:13:24,345 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:14:24,359 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:14:24,360 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:14:24,360 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:15:24,124 - [6] - INFO  - Game.Server.GameServer - Begin ping check....
+22:15:24,124 - [6] - INFO  - Game.Server.GameServer - End ping check....
+22:15:24,124 - [6] - INFO  - Game.Server.GameServer - Begin ping center check....
+22:15:24,126 - [6] - INFO  - Game.Server.GameServer - End ping center check....
+22:15:24,372 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:15:24,372 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:15:24,373 - [6] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:16:24,078 - [14] - INFO  - Game.Server.GameServer - Saving Record...
+22:16:24,078 - [14] - INFO  - Game.Server.GameServer - Saving Record complete!
+22:16:24,386 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:16:24,387 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:16:24,388 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:17:24,400 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:17:24,402 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:17:24,402 - [6] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:18:24,134 - [14] - INFO  - Game.Server.GameServer - Begin ping check....
+22:18:24,134 - [14] - INFO  - Game.Server.GameServer - End ping check....
+22:18:24,135 - [14] - INFO  - Game.Server.GameServer - Begin ping center check....
+22:18:24,136 - [14] - INFO  - Game.Server.GameServer - End ping center check....
+22:18:24,413 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:18:24,415 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:18:24,415 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:19:24,426 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:19:24,426 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:19:24,427 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:20:24,440 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:20:24,440 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:20:24,441 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:21:24,080 - [6] - INFO  - Game.Server.GameServer - Saving database...
+22:21:24,081 - [14] - INFO  - Game.Server.GameServer - Saving Record...
+22:21:24,089 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+22:21:24,089 - [14] - INFO  - Game.Server.GameServer - Saving Record complete!
+22:21:24,148 - [14] - INFO  - Game.Server.GameServer - Begin ping check....
+22:21:24,170 - [14] - INFO  - Game.Server.GameServer - End ping check....
+22:21:24,171 - [14] - INFO  - Game.Server.GameServer - Begin ping center check....
+22:21:24,171 - [14] - INFO  - Game.Server.GameServer - End ping center check....
+22:21:24,182 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+22:21:24,186 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+22:21:24,207 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+22:21:24,453 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:21:24,453 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:21:24,453 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:21:24,570 - [6] - INFO  - Game.Server.GameServer - Saving database complete!
+22:21:24,570 - [6] - INFO  - Game.Server.GameServer - Saved all databases and 2 players in 484ms
+22:22:24,466 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:22:24,466 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:22:24,466 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:23:24,483 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:23:24,484 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:23:24,484 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:23:57,608 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+22:23:57,653 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+22:24:24,153 - [14] - INFO  - Game.Server.GameServer - Begin ping check....
+22:24:24,153 - [14] - INFO  - Game.Server.GameServer - End ping check....
+22:24:24,154 - [14] - INFO  - Game.Server.GameServer - Begin ping center check....
+22:24:24,155 - [14] - INFO  - Game.Server.GameServer - End ping center check....
+22:24:24,495 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:24:24,495 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:24:24,496 - [6] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+22:25:24,508 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:25:24,509 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:25:24,510 - [14] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+22:26:01,128 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+22:26:01,177 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+22:26:24,089 - [6] - INFO  - Game.Server.GameServer - Saving Record...
+22:26:24,095 - [6] - INFO  - Game.Server.GameServer - Saving Record complete!
+22:26:24,522 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:26:24,523 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:26:24,523 - [6] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+22:27:24,162 - [14] - INFO  - Game.Server.GameServer - Begin ping check....
+22:27:24,162 - [14] - INFO  - Game.Server.GameServer - End ping check....
+22:27:24,162 - [14] - INFO  - Game.Server.GameServer - Begin ping center check....
+22:27:24,163 - [14] - INFO  - Game.Server.GameServer - End ping center check....
+22:27:24,535 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:27:24,535 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:27:24,536 - [14] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+22:27:58,885 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:3158
+22:27:59,010 - [14] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+22:28:24,548 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:28:24,549 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:28:24,551 - [14] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+22:28:34,164 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+22:28:34,186 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+22:29:01,103 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:3189
+22:29:01,163 - [14] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+22:29:24,563 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:29:24,566 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:29:24,566 - [14] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+22:29:44,010 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:3218
+22:29:44,134 - [14] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+22:30:15,313 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+22:30:15,343 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+22:30:24,173 - [14] - INFO  - Game.Server.GameServer - Begin ping check....
+22:30:24,174 - [14] - INFO  - Game.Server.GameServer - End ping check....
+22:30:24,174 - [14] - INFO  - Game.Server.GameServer - Begin ping center check....
+22:30:24,174 - [14] - INFO  - Game.Server.GameServer - End ping center check....
+22:30:24,580 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:30:24,583 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:30:24,583 - [6] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+22:30:30,036 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:3248
+22:30:30,090 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+22:31:24,090 - [6] - INFO  - Game.Server.GameServer - Saving database...
+22:31:24,091 - [14] - INFO  - Game.Server.GameServer - Saving Record...
+22:31:24,108 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+22:31:24,108 - [14] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: 给定的 ColumnMapping 与源或目标中的任意列均不匹配。
+   在 System.Data.SqlClient.SqlBulkCopy.AnalyzeTargetAndCreateUpdateBulkCommand(BulkCopySimpleResultSet internalResults)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table)
+   在 Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 102
+22:31:24,109 - [14] - INFO  - Game.Server.GameServer - Saving Record complete!
+22:31:24,119 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+22:31:24,128 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+22:31:24,143 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+22:31:24,143 - [6] - INFO  - Game.Server.GameServer - Saving database complete!
+22:31:24,143 - [6] - INFO  - Game.Server.GameServer - Saved all databases and 2 players in 47ms
+22:31:24,589 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:31:24,589 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:31:24,589 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:32:24,603 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:32:24,603 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:32:24,603 - [6] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:33:24,181 - [14] - INFO  - Game.Server.GameServer - Begin ping check....
+22:33:24,181 - [14] - INFO  - Game.Server.GameServer - End ping check....
+22:33:24,181 - [14] - INFO  - Game.Server.GameServer - Begin ping center check....
+22:33:24,181 - [14] - INFO  - Game.Server.GameServer - End ping center check....
+22:33:24,616 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:33:24,616 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:33:24,616 - [6] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:34:24,630 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:34:24,630 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:34:24,630 - [6] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:35:24,644 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:35:24,644 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:35:24,644 - [6] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:36:24,099 - [14] - INFO  - Game.Server.GameServer - Saving Record...
+22:36:24,099 - [14] - INFO  - Game.Server.GameServer - Saving Record complete!
+22:36:24,189 - [6] - INFO  - Game.Server.GameServer - Begin ping check....
+22:36:24,191 - [6] - INFO  - Game.Server.GameServer - End ping check....
+22:36:24,193 - [6] - INFO  - Game.Server.GameServer - Begin ping center check....
+22:36:24,193 - [6] - INFO  - Game.Server.GameServer - End ping center check....
+22:36:24,658 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:36:24,658 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:36:24,658 - [6] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:37:24,671 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:37:24,671 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:37:24,672 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:38:24,685 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:38:24,685 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:38:24,685 - [6] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:39:44,639 - [6] - INFO  - Game.Server.GameServer - Begin ping check....
+22:39:44,640 - [6] - INFO  - Game.Server.GameServer - End ping check....
+22:39:45,831 - [6] - INFO  - Game.Server.GameServer - Begin ping center check....
+22:39:45,831 - [6] - INFO  - Game.Server.GameServer - End ping center check....
+22:39:44,641 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:39:47,154 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:39:47,174 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 2512ms
+22:40:05,577 - [15] - WARN  - Game.Base.BaseClient - AsyncTcpSendCallback.BeginSend took 1638ms! (TCP to client: 127.0.0.1:3189)
+22:40:24,711 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:40:24,711 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:40:24,711 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:41:24,103 - [16] - INFO  - Game.Server.GameServer - Saving database...
+22:41:24,103 - [6] - INFO  - Game.Server.GameServer - Saving Record...
+22:41:24,112 - [6] - INFO  - Game.Server.GameServer - Saving Record complete!
+22:41:24,113 - [16] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+22:41:24,129 - [16] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+22:41:24,134 - [16] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+22:41:24,147 - [16] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+22:41:24,147 - [16] - INFO  - Game.Server.GameServer - Saving database complete!
+22:41:24,147 - [16] - INFO  - Game.Server.GameServer - Saved all databases and 2 players in 47ms
+22:41:24,725 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:41:24,725 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:41:24,726 - [6] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:42:24,209 - [16] - INFO  - Game.Server.GameServer - Begin ping check....
+22:42:24,211 - [16] - INFO  - Game.Server.GameServer - End ping check....
+22:42:24,212 - [16] - INFO  - Game.Server.GameServer - Begin ping center check....
+22:42:24,212 - [16] - INFO  - Game.Server.GameServer - End ping center check....
+22:42:24,740 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:42:24,740 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:42:24,740 - [6] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:43:24,752 - [16] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:43:24,752 - [16] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:43:24,752 - [16] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:44:24,767 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:44:24,767 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:44:24,767 - [6] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:45:24,221 - [16] - INFO  - Game.Server.GameServer - Begin ping check....
+22:45:24,221 - [16] - INFO  - Game.Server.GameServer - End ping check....
+22:45:24,221 - [16] - INFO  - Game.Server.GameServer - Begin ping center check....
+22:45:24,221 - [16] - INFO  - Game.Server.GameServer - End ping center check....
+22:45:24,779 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:45:24,779 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:45:24,780 - [6] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:46:24,114 - [6] - INFO  - Game.Server.GameServer - Saving Record...
+22:46:24,114 - [6] - INFO  - Game.Server.GameServer - Saving Record complete!
+22:46:24,794 - [16] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:46:24,794 - [16] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:46:24,794 - [16] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:47:24,806 - [16] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:47:24,806 - [16] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:47:24,806 - [16] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:48:24,229 - [6] - INFO  - Game.Server.GameServer - Begin ping check....
+22:48:24,229 - [6] - INFO  - Game.Server.GameServer - End ping check....
+22:48:24,229 - [6] - INFO  - Game.Server.GameServer - Begin ping center check....
+22:48:24,230 - [6] - INFO  - Game.Server.GameServer - End ping center check....
+22:48:24,820 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:48:24,820 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:48:24,820 - [6] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:49:24,834 - [16] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:49:24,834 - [16] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:49:24,834 - [16] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:50:24,849 - [16] - INFO  - Game.Server.GameServer - Buff Scaning ...
+22:50:24,849 - [16] - INFO  - Game.Server.GameServer - Buff Scan complete!
+22:50:24,849 - [16] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+22:51:24,112 - [6] - INFO  - Game.Server.GameServer - Saving database...
+22:51:24,113 - [16] - INFO  - Game.Server.GameServer - Saving Record...
+22:51:24,114 - [16] - INFO  - Game.Server.GameServer - Saving Record complete!
+22:51:24,117 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+22:51:24,151 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+22:51:24,155 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herm23:03:49,870 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+23:03:50,336 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+23:03:50,338 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+23:03:50,393 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+23:03:50,394 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+23:03:50,394 - [MAIN] - INFO  - Game.Server.GameServer - Edition:11000: True
+23:03:50,405 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+23:03:50,446 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+23:03:50,449 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+23:03:50,464 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+23:03:50,599 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+23:03:50,651 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+23:03:50,683 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+23:03:50,696 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+23:03:50,702 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+23:03:50,706 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+23:03:50,716 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+23:03:50,723 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+23:03:50,729 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+23:03:50,746 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+23:03:50,750 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+23:03:50,755 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+23:03:50,760 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+23:03:50,787 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+23:03:50,791 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+23:03:50,830 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+23:03:50,860 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+23:03:50,863 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+23:03:50,864 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+23:03:50,871 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+23:03:50,875 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+23:03:50,879 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+23:03:50,881 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+23:03:50,886 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+23:03:50,889 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+23:03:50,890 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+23:03:50,891 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+23:03:50,900 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+23:03:50,916 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 126 handlers from GameServer Assembly!
+23:03:50,923 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 6 commands!
+23:03:50,927 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+23:03:50,932 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9202
+23:03:50,933 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+23:03:50,944 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9208
+23:03:50,947 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+23:03:51,110 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+23:04:27,890 - [12] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:3378
+23:04:28,764 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:04:42,172 - [12] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:04:50,902 - [15] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:04:50,903 - [15] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:04:50,905 - [15] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+23:05:16,918 - [12] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:3408
+23:05:17,008 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:05:50,915 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:05:50,919 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:05:50,920 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+23:06:03,875 - [12] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:3433
+23:06:03,951 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:06:46,941 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.StartGameAction,75ms!
+23:06:50,900 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+23:06:50,902 - [7] - INFO  - Game.Server.GameServer - End ping check....
+23:06:50,904 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+23:06:50,915 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+23:06:50,931 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:06:50,932 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:06:50,933 - [7] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+23:07:50,943 - [15] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:07:50,944 - [15] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:07:50,944 - [15] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+23:08:50,899 - [15] - INFO  - Game.Server.GameServer - Saving Record...
+23:08:50,963 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:08:50,965 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:08:50,970 - [7] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+23:08:51,292 - [15] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: 给定的 ColumnMapping 与源或目标中的任意列均不匹配。
+   在 System.Data.SqlClient.SqlBulkCopy.AnalyzeTargetAndCreateUpdateBulkCommand(BulkCopySimpleResultSet internalResults)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table)
+   在 Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 102
+23:08:51,343 - [15] - INFO  - Game.Server.GameServer - Saving Record complete!
+23:09:50,911 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+23:09:50,911 - [7] - INFO  - Game.Server.GameServer - End ping check....
+23:09:50,911 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+23:09:50,921 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+23:09:50,971 - [15] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:09:50,972 - [15] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:09:50,972 - [15] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+23:10:50,983 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:10:50,989 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:10:50,990 - [7] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+23:11:51,000 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:11:51,000 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:11:51,000 - [7] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+23:13:07,733 - [15] - INFO  - Game.Server.GameServer - Begin ping check....
+23:13:07,734 - [15] - INFO  - Game.Server.GameServer - End ping check....
+23:13:07,737 - [15] - INFO  - Game.Server.GameServer - Begin ping center check....
+23:13:07,738 - [15] - INFO  - Game.Server.GameServer - End ping center check....
+23:13:07,734 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:13:07,744 - [12] - WARN  - Game.Base.Packets.PacketProcessor - (127.0.0.1:3433) Handle packet Thread 12 Game.Server.Packets.Client.GameDataHandler took 35412ms!
+23:13:07,751 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:13:07,755 - [7] - INFO  - Game.Server.GameServer - Buff all 2 players in 15ms
+23:13:43,319 - [12] - WARN  - Game.Base.Packets.PacketProcessor - (127.0.0.1:3433) Handle packet Thread 12 Game.Server.Packets.Client.GameDataHandler took 10203ms!
+23:13:44,432 - [12] - WARN  - Game.Base.Packets.PacketProcessor - (127.0.0.1:3433) Handle packet Thread 12 Game.Server.Packets.Client.GameDataHandler took 1107ms!
+23:13:50,902 - [15] - INFO  - Game.Server.GameServer - Saving Record...
+23:13:50,902 - [7] - INFO  - Game.Server.GameServer - Saving database...
+23:13:50,902 - [15] - INFO  - Game.Server.GameServer - Saving Record complete!
+23:13:50,907 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:13:51,050 - [15] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:13:51,050 - [15] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:13:51,050 - [15] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+23:13:51,119 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+23:13:51,143 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:13:51,170 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+23:13:51,172 - [7] - INFO  - Game.Server.GameServer - Saving database complete!
+23:13:51,172 - [7] - INFO  - Game.Server.GameServer - Saved all databases and 2 players in 265ms
+23:14:24,541 - [12] - WARN  - Game.Base.Packets.PacketProcessor - (127.0.0.1:3408) Handle packet Thread 12 Game.Server.Packets.Client.GameDataHandler took 28673ms!
+23:14:26,730 - [12] - WARN  - Game.Base.Packets.PacketProcessor - (127.0.0.1:3408) Handle packet Thread 12 Game.Server.Packets.Client.GameDataHandler took 2184ms!
+23:14:51,038 - [15] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:14:51,039 - [15] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:14:51,039 - [15] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+23:15:50,930 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+23:15:50,930 - [7] - INFO  - Game.Server.GameServer - End ping check....
+23:15:50,931 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+23:15:50,932 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+23:15:23:19:34,806 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+23:19:35,374 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+23:19:35,376 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+23:19:35,440 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+23:19:35,440 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+23:19:35,440 - [MAIN] - INFO  - Game.Server.GameServer - Edition:11000: True
+23:19:35,445 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+23:19:35,483 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+23:19:35,486 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+23:19:35,499 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+23:19:35,624 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+23:19:35,662 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+23:19:35,691 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+23:19:35,704 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+23:19:35,710 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+23:19:35,714 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+23:19:35,723 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+23:19:35,730 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+23:19:35,736 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+23:19:35,751 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+23:19:35,755 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+23:19:35,759 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+23:19:35,764 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+23:19:35,778 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+23:19:35,781 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+23:19:35,801 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+23:19:35,829 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+23:19:35,836 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+23:19:35,838 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+23:19:35,844 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+23:19:35,847 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+23:19:35,850 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+23:19:35,852 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+23:19:35,858 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+23:19:35,861 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+23:19:35,861 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+23:19:35,862 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+23:19:35,872 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+23:19:35,889 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 126 handlers from GameServer Assembly!
+23:19:35,895 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 6 commands!
+23:19:35,899 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+23:19:35,905 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9202
+23:19:35,906 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+23:19:35,918 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9208
+23:19:35,920 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+23:19:36,071 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+23:20:06,718 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:3500
+23:20:07,017 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。23:24:05,146 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+23:24:05,581 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+23:24:05,584 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+23:24:05,644 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+23:24:05,644 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+23:24:05,645 - [MAIN] - INFO  - Game.Server.GameServer - Edition:11000: True
+23:24:05,649 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+23:24:05,698 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+23:24:05,701 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+23:24:05,716 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+23:24:05,855 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+23:24:05,897 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+23:24:05,923 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+23:24:05,938 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+23:24:05,948 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+23:24:05,959 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+23:24:05,977 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+23:24:05,987 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+23:24:05,993 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+23:24:06,009 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+23:24:06,013 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+23:24:06,019 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+23:24:06,024 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+23:24:06,036 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+23:24:06,040 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+23:24:06,061 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+23:24:06,089 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+23:24:06,098 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+23:24:06,099 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+23:24:06,106 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+23:24:06,109 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+23:24:06,112 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+23:24:06,114 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+23:24:06,120 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+23:24:06,123 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+23:24:06,123 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+23:24:06,124 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+23:24:06,134 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+23:24:06,151 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 126 handlers from GameServer Assembly!
+23:24:06,158 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 6 commands!
+23:24:06,164 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+23:24:06,169 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9202
+23:24:06,171 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+23:24:06,177 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9208
+23:24:06,181 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+23:24:06,220 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+23:24:57,739 - [12] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:3547
+23:24:58,029 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。23:25:51,837 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+23:25:52,282 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+23:25:52,284 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+23:25:52,336 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+23:25:52,336 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+23:25:52,336 - [MAIN] - INFO  - Game.Server.GameServer - Edition:11000: True
+23:25:52,340 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+23:25:52,379 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+23:25:52,383 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+23:25:52,396 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+23:25:52,543 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+23:25:52,581 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+23:25:52,607 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+23:25:52,619 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+23:25:52,625 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+23:25:52,629 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+23:25:52,639 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+23:25:52,649 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+23:25:52,655 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+23:25:52,671 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+23:25:52,676 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+23:25:52,681 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+23:25:52,687 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+23:25:52,698 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+23:25:52,702 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+23:25:52,723 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+23:25:52,749 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+23:25:52,757 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+23:25:52,758 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+23:25:52,764 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+23:25:52,767 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+23:25:52,770 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+23:25:52,772 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+23:25:52,778 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+23:25:52,781 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+23:25:52,781 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+23:25:52,782 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+23:25:52,793 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+23:25:52,809 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 126 handlers from GameServer Assembly!
+23:25:52,815 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 6 commands!
+23:25:52,820 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+23:25:52,825 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9202
+23:25:52,827 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+23:25:52,838 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9208
+23:25:52,841 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+23:25:52,875 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+23:26:06,123 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:3579
+23:26:06,416 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:26:44,598 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:3605
+23:26:44,658 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:26:52,792 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:26:52,795 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:26:52,795 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+23:27:52,807 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:27:52,808 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:27:52,808 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+23:28:52,792 - [14] - INFO  - Game.Server.GameServer - Begin ping check....
+23:28:52,793 - [14] - INFO  - Game.Server.GameServer - End ping check....
+23:28:52,793 - [14] - INFO  - Game.Server.GameServer - Begin ping center check....
+23:28:52,795 - [14] - INFO  - Game.Server.GameServer - End ping center check....
+23:28:52,820 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:28:52,832 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:28:52,836 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+23:29:52,834 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:29:52,834 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:29:52,835 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+23:30:52,788 - [14] - INFO  - Game.Server.GameServer - Saving Record...
+23:30:52,847 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:30:52,847 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:30:52,847 - [6] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+23:30:52,848 - [14] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: 给定的 ColumnMapping 与源或目标中的任意列均不匹配。
+   在 System.Data.SqlClient.SqlBulkCopy.AnalyzeTargetAndCreateUpdateBulkCommand(BulkCopySimpleResultSet internalResults)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table)
+   在 Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 102
+23:30:52,869 - [14] - INFO  - Game.Server.GameServer - Saving Record complete!
+23:31:52,801 - [14] - INFO  - Game.Server.GameServer - Begin ping check....
+23:31:52,801 - [14] - INFO  - Game.Server.GameServer - End ping check....
+23:31:52,802 - [14] - INFO  - Game.Server.GameServer - Begin ping center check....
+23:31:52,803 - [14] - INFO  - Game.Server.GameServer - End ping center check....
+23:31:52,861 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:31:52,861 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:31:52,865 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+23:32:52,875 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:32:52,877 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:32:52,877 - [6] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+23:33:16,151 - [11] - INFO  - Game.Server.GameServer - Saving Record...
+23:33:16,170 - [11] - INFO  - Game.Server.GameServer - Saving Record complete!
+23:33:16,176 - [11] - INFO  - Game.Server.GameServer - Saving database...
+23:33:16,329 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:33:16,846 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+23:33:17,151 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:33:18,038 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+23:33:18,049 - [11] - INFO  - Game.Server.GameServer - Saving database complete!
+23:33:18,051 - [11] - INFO  - Game.Server.GameServer - Saved all databases and 2 players in 1872ms
+23:33:18,077 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:33:18,191 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+23:33:18,274 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:33:18,556 - [15] - INFO  - Game.Base.BaseServer - Incoming connection from socket disconnected
+23:33:18,567 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+23:33:18,570 - [11] - INFO  - Game.Server.GameServer - Server Stopped!
+23:33:18,571 - [11] - ERROR - Game.Server.GameServer - Center Server Disconnect! Stopping Server
+23:33:18,572 - [11] - ERROR - Game.Server.GameServer - Start the game server again after 1 second,and left try times:3
+23:33:19,573 - [11] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+23:33:19,581 - [11] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+23:33:19,581 - [11] - INFO  - Game.Server.GameServer - Server rules: true
+23:33:19,595 - [11] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+23:33:19,604 - [11] - INFO  - Game.Server.GameServer - Script components: True
+23:33:19,605 - [11] - INFO  - Game.Server.GameServer - Edition:11000: True
+23:33:19,607 - [11] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+23:33:19,658 - [11] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+23:33:19,659 - [11] - INFO  - Game.Server.GameServer - LogMgr Init: True
+23:33:19,671 - [11] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+23:33:19,796 - [11] - INFO  - Game.Server.GameServer - MapMgr Init: True
+23:33:19,828 - [11] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+23:33:19,849 - [11] - INFO  - Game.Server.GameServer - ItemBox Init: True
+23:33:19,854 - [11] - INFO  - Game.Server.GameServer - BallMgr Init: True
+23:33:19,856 - [11] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+23:33:19,857 - [11] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+23:33:19,860 - [11] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+23:33:19,861 - [11] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+23:33:19,863 - [11] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+23:33:19,870 - [11] - INFO  - Game.Server.GameServer - Drop Init: True
+23:33:19,871 - [11] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+23:33:19,872 - [11] - INFO  - Ga23:47:15,159 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+23:47:15,547 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+23:47:15,549 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+23:47:15,616 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+23:47:15,616 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+23:47:15,616 - [MAIN] - INFO  - Game.Server.GameServer - Edition:11000: True
+23:47:15,620 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+23:47:15,665 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+23:47:15,668 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+23:47:15,682 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+23:47:15,830 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+23:47:15,870 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+23:47:15,899 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+23:47:15,911 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+23:47:15,916 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+23:47:15,921 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+23:47:15,930 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+23:47:15,936 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+23:47:15,942 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+23:47:15,957 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+23:47:15,960 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+23:47:15,965 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+23:47:15,970 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+23:47:15,982 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+23:47:15,986 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+23:47:16,007 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+23:47:16,039 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+23:47:16,042 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+23:47:16,043 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+23:47:16,049 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+23:47:16,052 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+23:47:16,054 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+23:47:16,056 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+23:47:16,063 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+23:47:16,065 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+23:47:16,066 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+23:47:16,067 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+23:47:16,076 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+23:47:16,094 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 126 handlers from GameServer Assembly!
+23:47:16,101 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 6 commands!
+23:47:16,105 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+23:47:16,111 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9202
+23:47:16,112 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+23:47:16,250 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9208
+23:47:16,253 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+23:47:16,475 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+23:47:37,279 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:3718
+23:47:37,678 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:48:07,533 - [14] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:48:07,579 - [14] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+23:48:09,071 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:3745
+23:48:09,132 - [14] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:48:15,208 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:48:16,073 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:48:16,073 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:48:16,073 - [14] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+23:48:24,843 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:3770
+23:48:24,913 - [14] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:48:35,069 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:3795
+23:48:35,143 - [14] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:49:16,088 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:49:16,096 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:49:16,097 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+23:50:16,069 - [14] - INFO  - Game.Server.GameServer - Begin ping check....
+23:50:16,070 - [14] - INFO  - Game.Server.GameServer - End ping check....
+23:50:16,070 - [14] - INFO  - Game.Server.GameServer - Begin ping center check....
+23:50:16,070 - [14] - INFO  - Game.Server.GameServer - End ping center check....
+23:50:16,102 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:50:16,102 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:50:16,103 - [6] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+23:51:16,113 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:51:16,113 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:51:16,114 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+23:52:16,069 - [14] - INFO  - Game.Server.GameServer - Saving Record...
+23:52:16,127 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:52:16,132 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:52:16,132 - [6] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+23:52:16,133 - [14] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: 给定的 ColumnMapping 与源或目标中的任意列均不匹配。
+   在 System.Data.SqlClient.SqlBulkCopy.AnalyzeTargetAndCreateUpdateBulkCommand(BulkCopySimpleResultSet internalResults)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table)
+   在 Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) 位置 D:\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 102
+23:52:16,141 - [14] - INFO  - Game.Server.GameServer - Saving Record complete!
+23:53:16,080 - [6] - INFO  - Game.Server.GameServer - Begin ping check....
+23:53:16,081 - [6] - INFO  - Game.Server.GameServer - End ping check....
+23:53:16,082 - [6] - INFO  - Game.Server.GameServer - Begin ping center check....
+23:53:16,082 - [6] - INFO  - Game.Server.GameServer - End ping center check....
+23:53:16,142 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:53:16,142 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:53:16,142 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+23:54:16,154 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:54:16,154 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:54:16,154 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+23:55:16,168 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:55:16,168 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:55:16,168 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+23:56:23,594 - [6] - INFO  - Game.Server.GameServer - Begin ping check....
+23:56:23,600 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:56:23,627 - [6] - INFO  - Game.Server.GameServer - End ping check....
+23:56:23,630 - [6] - INFO  - Game.Server.GameServer - Begin ping center check....
+23:56:23,632 - [6] - INFO  - Game.Server.GameServer - End ping center check....
+23:56:23,627 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:56:23,634 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 32ms
+23:57:16,072 - [14] - INFO  - Game.Server.GameServer - Saving Record...
+23:57:16,072 - [6] - INFO  - Game.Server.GameServer - Saving database...
+23:57:16,072 - [14] - INFO  - Game.Server.GameServer - Saving Record complete!
+23:57:16,075 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:57:16,104 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+23:57:16,116 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:57:16,144 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.AddGoods(ItemInfo item) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 1026
+23:57:16,149 - [6] - INFO  - Game.Server.GameServer - Saving database complete!
+23:57:16,149 - [6] - INFO  - Game.Server.GameServer - Saved all databases and 2 players in 78ms
+23:57:16,195 - [15] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:57:16,195 - [15] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:57:16,195 - [15] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+23:58:16,308 - [15] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:58:16,309 - [15] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:58:16,310 - [15] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+23:59:16,101 - [14] - INFO  - Game.Server.GameServer - Begin ping check....
+23:59:16,101 - [14] - INFO  - Game.Server.GameServer - End ping check....
+23:59:16,101 - [14] - INFO  - Game.Server.GameServer - Begin ping center check....
+23:59:16,103 - [14] - INFO  - Game.Server.GameServer - End ping center check....
+23:59:16,238 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:59:16,238 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:59:16,238 - [6] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms

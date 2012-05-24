@@ -1,0 +1,9 @@
+2009-12-29 15:20:23,219 - client log:Error #2030: 遇到文件尾。
+Error: Error #2030: 遇到文件尾。
+	at flash.utils::ByteArray/readUTF()
+	at tank.manager::SocketManager/__socketData()[D:\workspace\PVE_Version\TankCore\src\tank\manager\SocketManager.as:113]
+	at flash.events::EventDispatcher/dispatchEventFunction()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at road.comm::ByteSocket/handlePackage()[E:\dandantang\PVPLast\RoadUtils\src\road\comm\ByteSocket.as:281]
+	at road.comm::ByteSocket/readPackage()[E:\dandantang\PVPLast\RoadUtils\src\road\comm\ByteSocket.as:257]
+	at road.comm::ByteSocket/handleIncoming()[E:\dandantang\PVPLast\RoadUtils\src\road\comm\ByteSocket.as:195]

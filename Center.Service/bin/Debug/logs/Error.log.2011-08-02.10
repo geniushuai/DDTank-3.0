@@ -1,0 +1,150 @@
+13:48:50,479 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+13:48:50,490 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property Edition,keep it default value!
+13:48:50,496 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+13:48:50,497 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MustComposeGold,keep it default value!
+13:48:50,500 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+13:48:50,502 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MustFusionGold,keep it default value!
+13:48:50,508 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+13:48:50,511 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MustStrengthenGold,keep it default value!
+13:48:50,516 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+13:48:50,519 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property CheckRewardItem,keep it default value!
+13:48:50,523 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+13:48:50,525 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property CheckCount,keep it default value!
+13:48:50,529 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+13:48:50,531 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property HymenealMoney,keep it default value!
+13:48:50,534 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+13:48:50,536 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DivorcedMoney,keep it default value!
+13:48:50,538 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+13:48:50,541 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property MarryRoomCreateMoney,keep it default value!
+13:48:50,544 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+13:48:50,546 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property BoxAppearCondition,keep it default value!
+13:48:50,549 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+13:48:50,551 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DisableCommands,keep it default value!
+13:48:50,554 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+13:48:50,556 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property AssState,keep it default value!
+13:48:50,558 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+13:48:50,560 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property DailyAwardState,keep it default value!
+13:48:50,563 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+13:48:50,565 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property Cess,keep it default value!
+13:48:50,567 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+13:48:50,569 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property BeginAuction,keep it default value!
+13:48:50,571 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetServerConfig
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 254
+13:48:50,573 - [MAIN] - ERROR - Bussiness.GameProperties - Cannot find server property EndAuction,keep it default value!
+13:48:50,990 - [MAIN] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ServiceBussiness.GetServerList() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ServiceBussiness.cs:line 106
+13:48:50,997 - [MAIN] - ERROR - Bussiness.BaseBussiness - GetAllConsortiaLevel
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ConsortiaBussiness.GetAllConsortiaLevel() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ConsortiaBussiness.cs:line 2346
+13:49:51,026 - [9] - ERROR - Center.Server.CenterServer - SaveRecordProc
+System.ArgumentNullException: Value cannot be null.
+   at System.Threading.Monitor.Enter(Object obj)
+   at Center.Server.Statics.LogMgr.Save() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Center.Server\Statics\LogMgr.cs:line 100
+   at Center.Server.CenterServer.SaveRecordProc(Object sender) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Center.Server\CenterServer.cs:line 393
+13:50:05,546 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ConsortiaBussiness.cs:line 712
+13:50:51,032 - [9] - ERROR - Center.Server.CenterServer - SaveRecordProc
+System.ArgumentNullException: Value cannot be null.
+   at System.Threading.Monitor.Enter(Object obj)
+   at Center.Server.Statics.LogMgr.Save() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Center.Server\Statics\LogMgr.cs:line 100
+   at Center.Server.CenterServer.SaveRecordProc(Object sender) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Center.Server\CenterServer.cs:line 393
+13:51:05,564 - [5] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ConsortiaBussiness.cs:line 712
+13:51:51,053 - [9] - ERROR - Center.Server.CenterServer - SaveRecordProc
+System.ArgumentNullException: Value cannot be null.
+   at System.Threading.Monitor.Enter(Object obj)
+   at Center.Server.Statics.LogMgr.Save() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Center.Server\Statics\LogMgr.cs:line 100
+   at Center.Server.CenterServer.SaveRecordProc(Object sender) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Center.Server\CenterServer.cs:line 393
+13:52:05,581 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ConsortiaBussiness.cs:line 712
+13:52:51,064 - [9] - ERROR - Center.Server.CenterServer - SaveRecordProc
+System.ArgumentNullException: Value cannot be null.
+   at System.Threading.Monitor.Enter(Object obj)
+   at Center.Server.Statics.LogMgr.Save() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Center.Server\Statics\LogMgr.cs:line 100
+   at Center.Server.CenterServer.SaveRecordProc(Object sender) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Center.Server\CenterServer.cs:line 393
+13:53:05,583 - [8] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ConsortiaBussiness.cs:line 712
+13:53:51,074 - [5] - ERROR - Center.Server.CenterServer - SaveRecordProc
+System.ArgumentNullException: Value cannot be null.
+   at System.Threading.Monitor.Enter(Object obj)
+   at Center.Server.Statics.LogMgr.Save() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Center.Server\Statics\LogMgr.cs:line 100
+   at Center.Server.CenterServer.SaveRecordProc(Object sender) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Center.Server\CenterServer.cs:line 393
+13:53:51,081 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ConsortiaBussiness.cs:line 712
+13:54:51,088 - [5] - ERROR - Center.Server.CenterServer - SaveRecordProc
+System.ArgumentNullException: Value cannot be null.
+   at System.Threading.Monitor.Enter(Object obj)
+   at Center.Server.Statics.LogMgr.Save() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Center.Server\Statics\LogMgr.cs:line 100
+   at Center.Server.CenterServer.SaveRecordProc(Object sender) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Center.Server\CenterServer.cs:line 393
+13:55:05,636 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ConsortiaBussiness.cs:line 712
+13:55:51,099 - [8] - ERROR - Center.Server.CenterServer - SaveRecordProc
+System.ArgumentNullException: Value cannot be null.
+   at System.Threading.Monitor.Enter(Object obj)
+   at Center.Server.Statics.LogMgr.Save() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Center.Server\Statics\LogMgr.cs:line 100
+   at Center.Server.CenterServer.SaveRecordProc(Object sender) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Center.Server\CenterServer.cs:line 393
+13:56:05,622 - [5] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ConsortiaBussiness.cs:line 712
+13:56:51,115 - [7] - ERROR - Center.Server.CenterServer - SaveRecordProc
+System.ArgumentNullException: Value cannot be null.
+   at System.Threading.Monitor.Enter(Object obj)
+   at Center.Server.Statics.LogMgr.Save() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Center.Server\Statics\LogMgr.cs:line 100
+   at Center.Server.CenterServer.SaveRecordProc(Object sender) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Center.Server\CenterServer.cs:line 393
+13:57:05,649 - [8] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ConsortiaBussiness.cs:line 712
+13:57:51,127 - [8] - ERROR - Center.Server.CenterServer - SaveRecordProc
+System.ArgumentNullException: Value cannot be null.
+   at System.Threading.Monitor.Enter(Object obj)
+   at Center.Server.Statics.LogMgr.Save() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Center.Server\Statics\LogMgr.cs:line 100
+   at Center.Server.CenterServer.SaveRecordProc(Object sender) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Center.Server\CenterServer.cs:line 393
+13:58:05,645 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ConsortiaBussiness.cs:line 712
+13:58:51,140 - [5] - ERROR - Center.Server.CenterServer - SaveRecordProc
+System.ArgumentNullException: Value cannot be null.
+   at System.Threading.Monitor.Enter(Object obj)
+   at Center.Server.Statics.LogMgr.Save() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Center.Server\Statics\LogMgr.cs:line 100
+   at Center.Server.CenterServer.SaveRecordProc(Object sender) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Center.Server\CenterServer.cs:line 393
+13:59:05,688 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ConsortiaBussiness.cs:line 712

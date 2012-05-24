@@ -1,0 +1,6 @@
+23:27:14,320 - [6] - ERROR - Game.Server.GameServer - AsynProcessPacket
+System.OverflowException: 算术运算导致溢出。
+   在 Game.Base.PacketIn.ReadBytes(Int32 maxLen) 位置 D:\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:行号 154
+   在 Game.Base.PacketIn.ReadBytes() 位置 D:\Herman-PC\workspace\Server\Game.Base\PacketIn.cs:行号 162
+   在 Game.Server.LoginServerConnector.HandleRSAKey(GSPacketIn packet) 位置 D:\Herman-PC\workspace\Server\Game.Server\LoginServerConnector.cs:行号 147
+   在 Game.Server.LoginServerConnector.AsynProcessPacket(Object state) 位置 D:\Herman-PC\workspace\Server\Game.Server\LoginServerConnector.cs:行号 57

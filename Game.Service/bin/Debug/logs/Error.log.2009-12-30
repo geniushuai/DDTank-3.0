@@ -1,0 +1,3 @@
+22:06:58,581 - [15] - ERROR - Game.Server.GameServer - GameServer.Stop() - enter method
+22:06:58,591 - [15] - ERROR - Game.Server.LoginServerConnector - LoginServerConnector is OnDisconnect!
+22:06:58,606 - [15] - ERROR - Game.Server.GameServer - Server Stopped!

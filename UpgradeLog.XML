@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CenterServer">
+</Property><Property Name="Solution File" Value="E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\CenterServer.sln">
+</Property><Property Name="Date" Value="Tuesday, October 18, 2011">
+</Property><Property Name="Time" Value="8:34 AM">
+</Property></Properties><Event ErrorLevel="0" Project="Center.Server" Source="Center.Server\Center.Server.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Center.Server" Source="Center.Server\Center.Server.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Game.Base" Source="Game.Base\Game.Base.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Game.Base" Source="Game.Base\Game.Base.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="Center.Service" Source="Center.Service\Center.Service.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Center.Service" Source="Center.Service\Center.Service.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Bussiness" Source="Bussiness\Bussiness.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Bussiness" Source="Bussiness\Bussiness.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="SqlDataProvider" Source="SqlDataProvider\SqlDataProvider.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SqlDataProvider" Source="SqlDataProvider\SqlDataProvider.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="CenterServer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CenterServer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Center.Server" Source="Center.Server\Center.Server.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Center.Service" Source="Center.Service\Center.Service.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

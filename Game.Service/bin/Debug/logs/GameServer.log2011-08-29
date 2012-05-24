@@ -1,0 +1,1562 @@
+07:33:48,364 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+07:33:48,634 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+07:33:48,634 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+07:33:48,674 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+07:33:48,674 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+07:33:48,674 - [MAIN] - INFO  - Game.Server.GameServer - Edition:11000: True
+07:33:48,684 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+07:33:48,714 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+07:33:48,724 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+07:33:48,724 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+07:33:49,074 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+07:33:49,194 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+07:33:49,224 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+07:33:49,274 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+07:33:49,294 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+07:33:49,324 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+07:33:49,344 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+07:33:49,364 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+07:33:49,384 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+07:33:49,434 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+07:33:49,444 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+07:33:49,444 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+07:33:49,454 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+07:33:49,474 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+07:33:49,484 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+07:33:49,564 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+07:33:49,704 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+07:33:49,714 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+07:33:49,714 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+07:33:50,024 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+07:33:50,034 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+07:33:50,164 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+07:33:50,174 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+07:33:50,194 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 192.168.1.3:9208 loaded...
+07:33:50,204 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+07:33:50,204 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+07:33:50,204 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+07:33:50,264 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+07:33:50,304 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 126 handlers from GameServer Assembly!
+07:33:50,314 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+07:33:50,334 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+07:33:50,334 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9202
+07:33:50,334 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+07:33:51,384 - [MAIN] - ERROR - Game.Base.BaseConnector - Connect 192.168.1.3:9208 failed!
+07:33:51,384 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+07:33:51,394 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+07:33:55,805 - [14] - ERROR - Game.Base.Packets.StreamProcessor - packetLength:29099,GSPacketIn.HDR_SIZE:18,offset:1184,bufferSize:2048,numBytes:2012
+07:33:55,821 - [14] - ERROR - Game.Base.Packets.StreamProcessor - Err pkg from 192.168.1.3:9202:
+07:33:55,821 - [14] - ERROR - Game.Base.Packets.StreamProcessor - ===> error buffer
+0000: 71 AB 00 92 00 01 00 00 71 AB 00 92 00 01 00 00   q.......q.......
+0010: 00 00 00 00 00 00 00 00 00 00 33 2A 19 77 27 05   ..........3*.w'.
+0020: 2B 65 E6 31 E2 3D D4 A1 D3 B2 EB 26 36 C6 A6 57   +e.1.=.....&6..W
+0030: 0E 31 57 5C 55 A8 32 9F D9 F7 C6 78 5F 27 AC F2   .1W\U.2....x_'..
+0040: 2F A4 6B C1 F1 56 1D 46 CD 98 FC D3 95 36 FA BC   /.k..V.F.....6..
+0050: 95 36 FA BC 60 AF 66 90 71 AB 00 92 00 01 00 00   .6..`.f.q.......
+0060: 00 00 00 00 00 00 00 00 00 00 33 2A 71 AB 71 AB   ..........3*q.q.
+0070: 00 92 00 01 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0080: 33 2A 19 77 27 05 2B 65 E6 31 E2 3D D4 A1 D3 B2   3*.w'.+e.1.=....
+0090: EB 26 36 C6 A6 57 0E 31 57 5C 55 A8 32 9F D9 F7   .&6..W.1W\U.2...
+00A0: C6 78 5F 27 AC F2 2F A4 6B C1 F1 56 1D 46 CD 98   .x_'../.k..V.F..
+00B0: FC D3 95 36 FA BC 95 36 FA BC 60 AF 66 90 71 AB   ...6...6..`.f.q.
+00C0: 00 92 00 01 71 AB 00 92 00 01 00 00 00 00 00 00   ....q...........
+00D0: 00 00 00 00 00 00 33 2A 71 AB 00 92 71 AB 00 92   ......3*q...q...
+00E0: 00 01 00 00 00 00 00 00 00 00 00 00 00 00 33 2A   ..............3*
+00F0: 71 AB 00 92 00 01 00 00 00 00 00 00 00 00 00 00   q...............
+0100: 00 00 33 2A 19 77 27 05 2B 65 E6 31 E2 3D D4 A1   ..3*.w'.+e.1.=..
+0110: D3 B2 EB 26 36 C6 A6 57 0E 31 57 5C 55 A8 32 9F   ...&6..W.1W\U.2.
+0120: D9 F7 C6 78 5F 27 AC F2 2F A4 6B C1 F1 56 1D 46   ...x_'../.k..V.F
+0130: CD 98 FC D3 95 36 FA BC 95 36 FA BC 60 AF 66 90   .....6...6..`.f.
+0140: 71 AB 00 92 00 01 00 00 00 00 00 00 00 00 00 00   q...............
+0150: 00 00 33 2A 19 77 27 05 71 AB 00 92 00 01 00 00   ..3*.w'.q.......
+0160: 00 00 00 00 00 00 00 00 00 00 33 2A 71 AB 00 92   ..........3*q...
+0170: 00 01 00 00 00 00 00 00 00 00 00 00 00 00 33 2A   ..............3*
+0180: 19 77 27 05 2B 65 E6 31 E2 3D D4 A1 D3 B2 EB 26   .w'.+e.1.=.....&
+0190: 36 C6 A6 57 0E 31 57 5C 55 A8 32 9F D9 F7 C6 78   6..W.1W\U.2....x
+01A0: 5F 27 AC F2 2F A4 6B C1 F1 56 1D 46 CD 98 71 AB   _'../.k..V.F..q.
+01B0: 00 92 00 01 00 00 00 00 00 00 00 00 00 00 00 00   ................
+01C0: 33 2A 71 AB 00 92 00 01 00 00 00 00 00 00 00 00   3*q.............
+01D0: 00 00 00 00 33 2A 19 77 27 05 2B 65 E6 31 E2 3D   ....3*.w'.+e.1.=
+01E0: D4 A1 D3 B2 EB 26 36 C6 A6 57 0E 31 57 5C 55 A8   .....&6..W.1W\U.
+01F0: 32 9F D9 F7 C6 78 5F 27 AC F2 2F A4 6B C1 F1 56   2....x_'../.k..V
+0200: 1D 46 CD 98 FC D3 95 36 FA BC 95 36 FA BC 60 AF   .F.....6...6..`.
+0210: 66 90 71 AB 00 92 00 01 00 00 71 AB 00 92 00 01   f.q.......q.....
+0220: 00 00 00 00 00 00 00 00 00 00 00 00 33 2A 19 77   ............3*.w
+0230: 27 05 71 AB 00 92 00 01 00 00 00 00 00 00 00 00   '.q.............
+0240: 00 00 00 00 33 2A 71 AB 00 92 00 01 00 00 00 00   ....3*q.........
+0250: 00 00 00 00 00 00 00 00 33 2A 19 77 27 05 71 AB   ........3*.w'.q.
+0260: 00 92 00 01 00 00 71 AB 00 92 00 01 00 00 00 00   ......q.........
+0270: 00 00 00 00 00 00 00 00 33 2A 19 77 27 05 71 AB   ........3*.w'.q.
+0280: 00 92 00 01 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0290: 33 2A 71 AB 00 92 00 01 00 00 00 00 00 00 71 AB   3*q...........q.
+02A0: 00 92 00 01 00 00 71 AB 00 92 00 01 00 00 00 00   ......q.........
+02B0: 00 00 00 00 00 00 00 00 33 2A 19 77 27 05 71 AB   ........3*.w'.q.
+02C0: 00 92 00 01 00 00 00 00 00 00 00 00 00 00 00 00   ................
+02D0: 33 2A 71 AB 00 92 00 01 00 00 00 00 00 00 00 00   3*q.............
+02E0: 00 00 00 00 33 2A 19 77 27 05 71 AB 00 92 00 01   ....3*.w'.q.....
+02F0: 00 00 71 AB 00 92 00 01 00 00 00 00 00 00 00 00   ..q.............
+0300: 00 00 00 00 33 2A 19 77 27 05 71 AB 00 92 00 01   ....3*.w'.q.....
+0310: 00 00 00 00 00 00 00 00 00 00 00 00 33 2A 71 AB   ............3*q.
+0320: 00 92 00 01 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0330: 33 2A 19 77 27 05 2B 65 E6 31 E2 3D D4 A1 D3 B2   3*.w'.+e.1.=....
+0340: EB 26 36 C6 A6 57 0E 31 57 5C 55 A8 32 9F D9 F7   .&6..W.1W\U.2...
+0350: C6 78 5F 27 AC F2 2F A4 AC F2 2F A4 6B C1 F1 56   .x_'../.../.k..V
+0360: 1D 46 CD 98 FC D3 95 36 FA BC 95 36 FA BC 60 AF   .F.....6...6..`.
+0370: 66 90 71 AB 00 92 00 01 00 00 00 00 00 00 00 00   f.q.............
+0380: 00 00 00 00 33 2A 19 77 27 05 71 AB 00 92 00 01   ....3*.w'.q.....
+0390: 00 00 00 00 00 00 00 00 00 00 00 00 33 2A 19 77   ............3*.w
+03A0: 27 05 2B 65 E6 31 E2 3D D4 A1 D3 B2 EB 26 36 C6   '.+e.1.=.....&6.
+03B0: A6 57 0E 31 57 5C 71 AB 00 92 00 01 00 00 00 00   .W.1W\q.........
+03C0: 00 00 00 00 00 00 00 00 33 2A 19 77 27 05 71 AB   ........3*.w'.q.
+03D0: 00 92 00 01 00 00 00 00 00 00 71 AB 00 92 00 01   ..........q.....
+03E0: 00 00 00 00 00 00 00 00 00 00 00 00 33 2A 19 77   ............3*.w
+03F0: 27 05 2B 65 E6 31 E2 3D D4 A1 D3 B2 EB 26 36 C6   '.+e.1.=.....&6.
+0400: A6 57 0E 31 57 5C 71 AB 00 92 00 01 00 00 00 00   .W.1W\q.........
+0410: 00 00 00 00 00 00 00 00 33 2A 19 77 27 05 71 AB   ........3*.w'.q.
+0420: 00 92 00 01 00 00 00 00 00 00 71 AB 00 92 00 01   ..........q.....
+0430: 00 00 00 00 00 00 00 00 00 00 00 00 33 2A 19 77   ............3*.w
+0440: 27 05 71 AB 00 92 00 01 00 00 00 00 00 00 00 00   '.q.............
+0450: 00 00 00 00 33 2A 19 77 27 05 2B 65 E6 31 E2 3D   ....3*.w'.+e.1.=
+0460: D4 A1 D3 B2 EB 26 36 C6 A6 57 0E 31 57 5C 55 A8   .....&6..W.1W\U.
+0470: 32 9F D9 F7 C6 78 5F 27 AC F2 71 AB 00 92 00 01   2....x_'..q.....
+0480: 00 00 00 00 00 00 00 00 00 00 00 00 33 2A 19 77   ............3*.w
+0490: 27 05 2B 65 E6 31 E2 3D D4 A1 D3 B2 EB 26 36 C6   '.+e.1.=.....&6.
+04A0: 71 AB 71 AB 00 92 00 01 00 00 00 00 00 00 00 00   q.q.............
+04B0: 00 00 00 00 33 2A 19 77 27 05 2B 65 E6 31 E2 3D   ....3*.w'.+e.1.=
+04C0: D4 A1 D3 B2 EB 26 36 C6 A6 57 0E 31 57 5C 55 A8   .....&6..W.1W\U.
+04D0: 32 9F D9 F7 C6 78 5F 27 AC F2 71 AB 00 92 00 01   2....x_'..q.....
+04E0: 00 00 00 00 00 00 00 00 00 00 00 00 33 2A 19 77   ............3*.w
+04F0: 27 05 2B 65 E6 31 E2 3D D4 A1 D3 B2 EB 26 36 C6   '.+e.1.=.....&6.
+0500: 71 AB 00 92 00 01 00 00 00 00 00 00 00 00 00 00   q...............
+0510: 00 00 33 2A 19 77 27 05 2B 65 E6 31 E2 3D D4 A1   ..3*.w'.+e.1.=..
+0520: D3 B2 EB 26 36 C6 A6 57 0E 31 57 5C 55 A8 32 9F   ...&6..W.1W\U.2.
+0530: D9 F7 C6 78 5F 27 AC F2 71 AB 00 92 00 01 00 00   ...x_'..q.......
+0540: 00 00 00 00 00 00 00 00 00 00 33 2A 19 77 27 05   ..........3*.w'.
+0550: 2B 65 E6 31 E2 3D D4 A1 D3 B2 EB 26 36 C6 A6 57   +e.1.=.....&6..W
+0560: 0E 31 57 5C 55 A8 32 9F D9 F7 C6 78 5F 27 71 AB   .1W\U.2....x_'q.
+0570: 00 92 00 01 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0580: 33 2A 19 77 27 05 2B 65 E6 31 E2 3D D4 A1 D3 B2   3*.w'.+e.1.=....
+0590: EB 26 36 C6 A6 57 0E 31 57 5C 55 A8 32 9F D9 F7   .&6..W.1W\U.2...
+05A0: C6 78 5F 27 AC F2 71 AB 00 92 00 01 00 00 00 00   .x_'..q.........
+05B0: 00 00 00 00 00 00 00 00 33 2A 19 77 27 05 2B 65   ........3*.w'.+e
+05C0: E6 31 E2 3D D4 A1 D3 B2 EB 26 36 C6 A6 57 0E 31   .1.=.....&6..W.1
+05D0: 57 5C 55 A8 32 9F D9 F7 C6 78 5F 27 AC F2 2F A4   W\U.2....x_'../.
+05E0: 6B C1 F1 56 1D 46 CD 98 FC D3 95 36 FA BC 60 AF   k..V.F.....6..`.
+05F0: 66 90 12 C8 20 74 CB D0 2A AA 22 F8 F0 40 B6 CB   f... t..*."..@..
+0600: 67 07 A5 65 0E AA F7 B1 17 F6 71 AB 00 92 00 01   g..e......q.....
+0610: 00 00 00 00 00 00 00 00 00 00 00 00 33 2A 19 77   ............3*.w
+0620: 27 05 71 AB 00 92 00 01 00 00 00 00 00 00 00 00   '.q.............
+0630: 00 00 00 00 33 2A 19 77 27 05 2B 65 E6 31 E2 3D   ....3*.w'.+e.1.=
+0640: D4 A1 71 AB 00 92 00 01 00 00 00 00 00 00 00 00   ..q.............
+0650: 00 00 00 00 33 2A 19 77 27 05 71 AB 00 92 00 01   ....3*.w'.q.....
+0660: 00 00 00 00 00 00 00 00 00 00 00 00 33 2A 19 77   ............3*.w
+0670: 27 05 2B 65 E6 31 E2 3D D4 A1 D3 B2 EB 26 36 C6   '.+e.1.=.....&6.
+0680: A6 57 0E 31 57 5C 55 A8 32 9F D9 F7 C6 78 5F 27   .W.1W\U.2....x_'
+0690: AC F2 2F A4 6B C1 F1 56 1D 46 CD 98 FC D3 FC D3   ../.k..V.F......
+06A0: FC D3 FC D3 95 36 FA BC 60 AF 66 90 12 C8 20 74   .....6..`.f... t
+06B0: CB D0 2A AA 22 F8 F0 40 B6 CB 67 07 A5 65 0E AA   ..*."..@..g..e..
+06C0: F7 B1 17 F6 7B 9E 9D DC 7B 9E 9D DC 14 9F 2C 75   ....{...{.....,u
+06D0: B8 BE C7 91 5E 5C 3B FB 4A 21 0B CF 59 19 AF CB   ....^\;.J!..Y...
+06E0: 28 A4 EA 75 00 97 EF 0F 0B 1F 81 A5 C3 29 72 1C   (..u.........)r.
+06F0: BC 61 D3 F3 7B 68 00 00 00 00 00 00 00 00 00 00   .a..{h..........
+0700: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0710: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0720: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0730: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0740: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0750: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0760: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0770: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0780: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0790: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+07A0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+07B0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+07C0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+07D0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+07E0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+07F0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+
+07:33:55,961 - [14] - INFO  - Game.Server.GameServer - Saving Record...
+07:33:56,133 - [14] - INFO  - Game.Server.GameServer - Saving Record complete!
+07:33:56,133 - [14] - INFO  - Game.Server.GameServer - Saving database...
+07:33:56,133 - [14] - INFO  - Game.Server.GameServer - Saving database complete!
+07:33:56,133 - [14] - INFO  - Game.Server.GameServer - Saved all databases and 0 players in 0ms
+07:33:56,148 - [14] - INFO  - Game.Server.GameServer - Server Stopped!
+07:33:56,148 - [13] - INFO  - Game.Base.BaseServer - Incoming connection from socket disconnected
+07:33:56,148 - [14] - ERROR - Game.Server.GameServer - Center Server Disconnect! Stopping Server
+07:33:56,148 - [14] - ERROR - Game.Server.GameServer - Start the game server again after 1 second,and left try times:3
+07:33:57,162 - [14] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+07:33:57,162 - [14] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+07:33:57,162 - [14] - INFO  - Game.Server.GameServer - Server rules: true
+07:33:57,178 - [14] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+07:33:57,178 - [14] - INFO  - Game.Server.GameServer - Script components: True
+07:33:57,178 - [14] - INFO  - Game.Server.GameServer - Edition:11000: True
+07:33:57,193 - [14] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+07:33:57,240 - [14] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+07:33:57,240 - [14] - INFO  - Game.Server.GameServer - LogMgr Init: True
+07:33:57,256 - [14] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+07:33:57,334 - [14] - INFO  - Game.Server.GameServer - MapMgr Init: True
+07:33:57,365 - [14] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+07:33:57,381 - [14] - INFO  - Game.Server.GameServer - ItemBox Init: True
+07:33:57,381 - [14] - INFO  - Game.Server.GameServer - BallMgr Init: True
+07:33:57,381 - [14] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+07:33:57,381 - [14] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+07:33:57,381 - [14] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+07:33:57,381 - [14] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+07:33:57,381 - [14] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+07:33:57,381 - [14] - INFO  - Game.Server.GameServer - Drop Init: True
+07:33:57,381 - [14] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+07:33:57,381 - [14] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+07:33:57,381 - [14] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+07:33:57,381 - [14] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+07:33:57,396 - [14] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+07:33:57,396 - [14] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+07:33:57,412 - [14] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+07:33:57,412 - [14] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+07:33:57,412 - [14] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+07:33:57,412 - [14] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+07:33:57,412 - [14] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+07:33:57,412 - [14] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+07:33:57,412 - [14] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+07:33:57,412 - [14] - INFO  - Game.Server.Battle.BattleMgr - Battle server 192.168.1.3:9208 loaded...
+07:33:57,412 - [14] - INFO  - Game.Server.Battle.BattleMgr - Total 2 battle server loaded.
+07:33:57,412 - [14] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+07:33:57,412 - [14] - INFO  - Game.Server.GameServer - Init Global Timers: True
+07:33:57,412 - [14] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+07:33:57,412 - [14] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 126 handlers from GameServer Assembly!
+07:33:57,412 - [14] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+07:33:57,412 - [14] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+07:33:57,427 - [14] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 126 handlers from GameServer Assembly!
+07:33:57,427 - [14] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+07:33:57,427 - [14] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+07:33:57,427 - [14] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9202
+07:33:57,427 - [14] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+07:33:58,441 - [14] - ERROR - Game.Base.BaseConnector - Connect 192.168.1.3:9208 failed!
+07:33:59,455 - [14] - ERROR - Game.Base.BaseConnector - Connect 192.168.1.3:9208 failed!
+07:33:59,455 - [14] - INFO  - Game.Server.GameServer - base.Start(): True
+07:33:59,471 - [14] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+07:33:59,471 - [14] - ERROR - Game.Server.GameServer - Restart the game server success!
+07:34:37,676 - [14] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [32] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [52] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [62] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [56] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [83] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [25] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [59] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [86] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [12] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [91] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [28] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [78] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [43] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [36] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,676 - [15] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [67] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [11] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [51] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,676 - [17] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [63] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [48] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [37] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [87] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [40] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [70] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [23] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [94] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [47] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [74] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [90] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [31] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [66] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [98] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [44] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [71] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [82] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [27] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [35] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [39] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [55] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [60] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [75] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [79] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [95] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [24] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [34] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [33] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [50] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [84] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [68] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [92] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [13] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [96] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [41] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [64] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [53] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [85] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [88] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [26] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [4] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [38] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [58] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [89] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,676 - [19] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,676 - [18] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [57] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [65] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [77] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [93] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [30] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [45] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [54] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [69] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [49] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [29] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [97] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [46] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [81] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [72] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [76] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [10] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [61] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [80] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,691 - [42] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,707 - [73] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:34:37,676 - [22] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in07:34:48,280 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+07:34:48,550 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+07:34:48,560 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+07:34:48,590 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+07:34:48,590 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+07:34:48,590 - [MAIN] - INFO  - Game.Server.GameServer - Edition:11000: True
+07:34:48,600 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+07:34:48,630 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+07:34:48,640 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+07:34:48,650 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+07:34:48,830 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+07:34:48,940 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+07:34:48,970 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+07:34:49,000 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+07:34:49,020 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+07:34:49,050 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+07:34:49,080 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+07:34:49,090 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+07:34:49,110 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+07:34:49,130 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+07:34:49,140 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+07:34:49,150 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+07:34:49,160 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+07:34:49,180 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+07:34:49,200 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+07:34:49,240 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+07:34:49,320 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+07:34:49,320 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+07:34:49,320 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+07:34:49,340 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+07:34:49,340 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+07:34:49,350 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+07:34:49,360 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+07:34:49,370 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 192.168.1.3:9208 loaded...
+07:34:49,370 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+07:34:49,380 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+07:34:49,380 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+07:34:49,400 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+07:34:49,430 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 126 handlers from GameServer Assembly!
+07:34:49,440 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+07:34:49,450 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+07:34:49,450 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9202
+07:34:49,460 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+07:34:50,460 - [MAIN] - ERROR - Game.Base.BaseConnector - Connect 192.168.1.3:9208 failed!
+07:34:50,470 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+07:34:50,480 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+07:35:33,820 - [19] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,820 - [35] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,830 - [42] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,840 - [62] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,870 - [96] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,830 - [33] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,840 - [68] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,850 - [97] - INFO  - Game.Server.GameServer - Saving Record...
+07:35:33,840 - [77] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,830 - [45] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,830 - [49] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,840 - [69] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,860 - [30] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,840 - [54] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,840 - [65] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,840 - [58] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,840 - [85] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,830 - [40] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,850 - [89] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,820 - [26] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,820 - [18] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,820 - [17] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,840 - [72] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,840 - [84] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,830 - [31] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,830 - [32] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,820 - [29] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,840 - [61] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,840 - [73] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,840 - [81] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,840 - [88] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,830 - [46] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,850 - [93] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,840 - [76] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,850 - [14] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,830 - [37] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,840 - [50] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,840 - [53] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,850 - [24] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,840 - [57] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,840 - [80] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,850 - [92] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,870 - [4] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,830 - [41] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,850 - [34] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,850 - [39] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,860 - [47] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,860 - [66] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,860 - [70] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,870 - [82] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,870 - [86] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,870 - [91] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,860 - [56] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,860 - [55] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,860 - [60] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,870 - [11] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,880 - [12] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,880 - [98] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,850 - [23] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,850 - [25] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,850 - [20] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,860 - [75] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,870 - [79] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,870 - [94] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,860 - [52] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,860 - [71] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,850 - [28] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,850 - [21] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,860 - [67] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,860 - [64] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,870 - [90] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,870 - [15] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,860 - [63] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,860 - [44] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,870 - [83] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,890 - [10] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,860 - [74] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,870 - [95] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,870 - [87] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,850 - [16] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,860 - [43] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,860 - [51] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,860 - [48] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:35:33,860 - [59] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.07:36:53,832 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+07:36:54,122 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+07:36:54,122 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+07:36:54,162 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+07:36:54,162 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+07:36:54,162 - [MAIN] - INFO  - Game.Server.GameServer - Edition:11000: True
+07:36:54,172 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+07:36:54,192 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+07:36:54,202 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+07:36:54,212 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+07:36:54,332 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+07:36:54,372 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+07:36:54,392 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+07:36:54,412 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+07:36:54,422 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+07:36:54,432 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+07:36:54,442 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+07:36:54,452 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+07:36:54,462 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+07:36:54,472 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+07:36:54,482 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+07:36:54,492 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+07:36:54,492 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+07:36:54,512 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+07:36:54,512 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+07:36:54,532 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+07:36:54,562 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+07:36:54,572 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+07:36:54,572 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+07:36:54,582 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+07:36:54,582 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+07:36:54,592 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+07:36:54,592 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+07:36:54,602 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 192.168.1.3:9208 loaded...
+07:36:54,602 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+07:36:54,602 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+07:36:54,612 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+07:36:54,622 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+07:36:54,652 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 126 handlers from GameServer Assembly!
+07:36:54,662 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+07:36:54,672 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+07:36:54,672 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9202
+07:36:54,682 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+07:36:55,692 - [MAIN] - ERROR - Game.Base.BaseConnector - Connect 192.168.1.3:9208 failed!
+07:36:55,702 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+07:36:55,712 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+07:37:06,715 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:49231
+07:37:40,105 - [4] - WARN  - Game.Base.Packets.PacketProcessor - (192.168.1.3:49231) Handle packet Thread 4 Game.Server.Packets.Client.UserLoginHandler took 33368ms!
+07:37:41,385 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:line 453
+07:37:41,515 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+07:37:41,515 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:line 453
+07:37:48,885 - [19] - ERROR - Game.Base.BaseClient - 192.168.1.3:9202 RecvCallback:System.ArgumentException: Source array was not long enough. Check srcIndex and length, and the array's lower bounds.
+   at System.Array.Copy(Array sourceArray, Int32 sourceIndex, Array destinationArray, Int32 destinationIndex, Int32 length, Boolean reliable)
+   at System.Array.Copy(Array sourceArray, Int32 sourceIndex, Array destinationArray, Int32 destinationIndex, Int32 length)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\Packets\StreamProcessor.cs:line 338
+   at Game.Base.BaseClient.OnRecv(Int32 num_bytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 155
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 267
+07:37:48,975 - [19] - INFO  - Game.Server.GameServer - Saving Record...
+07:37:49,075 - [19] - INFO  - Game.Server.GameServer - Saving Record complete!
+07:37:49,085 - [19] - INFO  - Game.Server.GameServer - Saving database...
+07:37:49,085 - [19] - INFO  - Game.Server.GameServer - Saving database complete!
+07:37:49,085 - [19] - INFO  - Game.Server.GameServer - Saved all databases and 0 players in 0ms
+07:37:49,085 - [23] - INFO  - Game.Base.BaseServer - Incoming connection from socket disconnected
+07:37:49,085 - [19] - INFO  - Game.Server.GameServer - Server Stopped!
+07:37:49,095 - [19] - ERROR - Game.Server.GameServer - Center Server Disconnect! Stopping Server
+07:37:49,095 - [19] - ERROR - Game.Server.GameServer - Start the game server again after 1 second,and left try times:3
+07:37:50,095 - [19] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+07:37:50,095 - [19] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+07:37:50,095 - [19] - INFO  - Game.Server.GameServer - Server rules: true
+07:37:50,145 - [19] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+07:37:50,145 - [19] - INFO  - Game.Server.GameServer - Script components: True
+07:37:50,145 - [19] - INFO  - Game.Server.GameServer - Edition:11000: True
+07:37:50,155 - [19] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+07:37:50,195 - [19] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+07:37:50,195 - [19] - INFO  - Game.Server.GameServer - LogMgr Init: True
+07:37:50,205 - [19] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+07:37:50,325 - [19] - INFO  - Game.Server.GameServer - MapMgr Init: True
+07:37:50,345 - [19] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+07:37:50,355 - [19] - INFO  - Game.Server.GameServer - ItemBox Init: True
+07:37:50,365 - [19] - INFO  - Game.Server.GameServer - BallMgr Init: True
+07:37:50,365 - [19] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+07:37:50,365 - [19] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+07:37:50,365 - [19] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+07:37:50,365 - [19] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+07:37:50,365 - [19] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+07:37:07:38:22,838 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+07:38:23,103 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+07:38:23,103 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+07:38:23,150 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+07:38:23,150 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+07:38:23,150 - [MAIN] - INFO  - Game.Server.GameServer - Edition:11000: True
+07:38:23,150 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+07:38:23,165 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+07:38:23,181 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+07:38:23,212 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+07:38:23,321 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+07:38:23,368 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+07:38:23,384 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+07:38:23,399 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+07:38:23,415 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+07:38:23,415 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+07:38:23,431 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+07:38:23,446 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+07:38:23,446 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+07:38:23,462 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+07:38:23,477 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+07:38:23,477 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+07:38:23,493 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+07:38:23,509 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+07:38:23,509 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+07:38:23,524 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+07:38:23,555 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+07:38:23,571 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+07:38:23,571 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+07:38:23,571 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+07:38:23,571 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+07:38:23,587 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+07:38:23,587 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+07:38:23,602 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 192.168.1.3:9208 loaded...
+07:38:23,602 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+07:38:23,602 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+07:38:23,602 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+07:38:23,618 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+07:38:23,649 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 126 handlers from GameServer Assembly!
+07:38:23,649 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+07:38:23,665 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+07:38:23,665 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9202
+07:38:23,680 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+07:38:23,711 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9208
+07:38:23,711 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+07:38:23,727 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+07:38:36,626 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:49242
+07:38:36,896 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:line 453
+07:38:36,936 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+07:38:36,946 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:line 453
+07:38:42,666 - [21] - ERROR - Game.Base.Packets.StreamProcessor - packetLength:29099,GSPacketIn.HDR_SIZE:18,offset:0,bufferSize:30,numBytes:30
+07:38:42,666 - [21] - ERROR - Game.Base.Packets.StreamProcessor - Err pkg from 192.168.1.3:9202:
+07:38:42,686 - [21] - ERROR - Game.Base.Packets.StreamProcessor - ===> error buffer
+0000: 71 AB 71 AB 00 1E 00 04 00 00 00 00 00 00 00 00   q.q.............
+0010: 00 00 00 00 00 00 00 01 00 00 00 06 00 00 00 00   ................
+0020: 00 1E 00 04 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0030: 00 00 00 01 00 00 00 06 00 00 00 00 71 AB 00 1E   ............q...
+0040: 00 04 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0050: 00 01 00 00 00 06 00 00 00 00 71 AB 00 1E 00 04   ..........q.....
+0060: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01   ................
+0070: 00 00 00 06 00 00 00 00 71 AB 00 1E 00 04 00 00   ........q.......
+0080: 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00   ................
+0090: 00 06 00 00 00 00 71 AB 00 1E 00 04 00 00 00 00   ......q.........
+00A0: 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 06   ................
+00B0: 00 00 00 00 71 AB 00 1E 00 04 00 00 00 00 00 00   ....q...........
+00C0: 00 00 00 00 00 00 00 00 00 01 00 00 00 06 00 00   ................
+00D0: 00 00 71 AB 00 1E 00 04 00 00 00 00 00 00 00 00   ..q.............
+00E0: 00 00 00 00 00 00 00 01 00 00 00 06 00 00 00 00   ................
+00F0: 71 AB 00 1E 00 04 00 00 00 00 00 00 00 00 00 00   q...............
+0100: 00 00 00 00 00 01 00 00 00 06 00 00 00 00 71 AB   ..............q.
+0110: 00 17 00 03 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0120: 00 00 00 06 01 71 AB 00 17 00 03 00 00 00 00 00   .....q..........
+0130: 00 00 00 00 00 00 00 00 00 00 06 00 71 AB 00 1E   ............q...
+0140: 00 04 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0150: 00 01 00 00 00 06 00 00 00 00 71 AB 00 1E 00 04   ..........q.....
+0160: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01   ................
+0170: 00 00 00 06 00 00 00 00 71 AB 00 1E 00 04 00 00   ........q.......
+0180: 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00   ................
+0190: 00 06 00 00 00 00 71 AB 00 1E 00 04 00 00 00 00   ......q.........
+01A0: 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 06   ................
+01B0: 00 00 00 00 71 AB 00 1E 00 04 00 00 00 00 00 00   ....q...........
+01C0: 00 00 00 00 00 00 00 00 00 01 00 00 00 06 00 00   ................
+01D0: 00 00 71 AB 00 1E 00 04 00 00 00 00 00 00 00 00   ..q.............
+01E0: 00 00 00 00 00 00 00 01 00 00 00 06 00 00 00 00   ................
+01F0: 71 AB 00 1E 00 04 00 00 00 00 00 00 00 00 00 00   q...............
+0200: 00 00 00 00 00 01 00 00 00 06 00 00 00 00 71 AB   ..............q.
+0210: 00 1E 00 04 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0220: 00 00 00 01 00 00 00 06 00 00 00 00 71 AB 00 1E   ............q...
+0230: 00 04 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0240: 00 01 00 00 00 06 00 00 00 00 71 AB 00 1E 00 04   ..........q.....
+0250: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01   ................
+0260: 00 00 00 06 00 00 00 00 71 AB 00 1E 00 04 00 00   ........q.......
+0270: 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00   ................
+0280: 00 06 00 00 00 00 71 AB 00 1E 00 04 00 00 00 00   ......q.........
+0290: 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 06   ................
+02A0: 00 00 00 00 71 AB 00 17 00 03 00 00 00 00 00 00   ....q...........
+02B0: 00 00 00 00 00 00 00 00 00 06 01 71 AB 00 17 00   ...........q....
+02C0: 03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+02D0: 06 00 71 AB 00 1E 00 04 00 00 00 00 00 00 00 00   ..q.............
+02E0: 00 00 00 00 00 00 00 01 00 00 00 06 00 00 00 00   ................
+02F0: 71 AB 00 1E 00 04 00 00 00 00 00 00 00 00 00 00   q...............
+0300: 00 00 00 00 00 01 00 00 00 06 00 00 00 00 71 AB   ..............q.
+0310: 00 1E 00 04 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0320: 00 00 00 01 00 00 00 06 00 00 00 00 71 AB 00 1E   ............q...
+0330: 00 04 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0340: 00 01 00 00 00 06 00 00 00 00 71 AB 00 1E 00 04   ..........q.....
+0350: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01   ................
+0360: 00 00 00 06 00 00 00 00 71 AB 00 1E 00 04 00 00   ........q.......
+0370: 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00   ................
+0380: 00 06 00 00 00 00 71 AB 00 1E 00 04 00 00 00 00   ......q.........
+0390: 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 06   ................
+03A0: 00 00 00 00 71 AB 00 1E 00 04 00 00 00 00 00 00   ....q...........
+03B0: 00 00 00 00 00 00 00 00 00 01 00 00 00 06 00 00   ................
+03C0: 00 00 71 AB 00 1E 00 04 00 00 00 00 00 00 00 00   ..q.............
+03D0: 00 00 00 00 00 00 00 01 00 00 00 06 00 00 00 00   ................
+03E0: 71 AB 00 1E 00 04 00 00 00 00 00 00 00 00 00 00   q...............
+03F0: 00 00 00 00 00 01 00 00 00 06 00 00 00 00 71 AB   ..............q.
+0400: 00 1E 00 04 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0410: 00 00 00 01 00 00 00 06 00 00 00 00 71 AB 00 1E   ............q...
+0420: 00 04 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0430: 00 01 00 00 00 06 00 00 00 00 71 AB 00 17 00 03   ..........q.....
+0440: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 06   ................
+0450: 01 71 AB 00 17 00 03 00 00 00 00 00 00 00 00 00   .q..............
+0460: 00 00 00 00 00 00 06 00 71 AB 00 17 00 03 00 00   ........q.......
+0470: 00 00 00 00 00 00 00 00 00 00 00 00 00 06 00 71   ...............q
+0480: AB 00 17 00 03 00 00 00 00 00 00 00 00 00 00 00   ................
+0490: 00 00 00 00 06 00 71 AB 00 1E 00 04 00 00 00 00   ......q.........
+04A0: 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 06   ................
+04B0: 00 00 00 00 71 AB 00 1E 00 04 00 00 00 00 00 00   ....q...........
+04C0: 00 00 00 00 00 00 00 00 00 01 00 00 00 06 00 00   ................
+04D0: 00 00 71 AB 00 1E 00 04 00 00 00 00 00 00 00 00   ..q.............
+04E0: 00 00 00 00 00 00 00 01 00 00 00 06 00 00 00 00   ................
+04F0: 71 AB 00 1E 00 04 00 00 00 00 00 00 00 00 00 00   q...............
+0500: 00 00 00 00 00 01 00 00 00 06 00 00 00 00 71 AB   ..............q.
+0510: 00 1E 00 04 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0520: 00 00 00 01 00 00 00 06 00 00 00 00 71 AB 00 1E   ............q...
+0530: 00 04 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0540: 00 01 00 00 00 06 00 00 00 00 71 AB 00 1E 00 04   ..........q.....
+0550: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01   ................
+0560: 00 00 00 06 00 00 00 00 71 AB 00 1E 00 04 00 00   ........q.......
+0570: 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00   ................
+0580: 00 06 00 00 00 00 71 AB 00 1E 00 04 00 00 00 00   ......q.........
+0590: 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 06   ................
+05A0: 00 00 00 00 71 AB 00 1E 00 04 00 00 00 00 00 00   ....q...........
+05B0: 00 00 00 00 00 00 00 00 00 01 00 00 00 06 00 00   ................
+05C0: 00 00 71 AB 00 1E 00 04 00 00 00 00 00 00 00 00   ..q.............
+05D0: 00 00 00 00 00 00 00 01 00 00 00 06 00 00 00 00   ................
+05E0: 71 AB 00 17 00 03 00 00 00 00 00 00 00 00 00 00   q...............
+05F0: 00 00 00 00 00 06 01 71 AB 00 17 00 03 00 00 00   .......q........
+0600: 00 00 00 00 00 00 00 00 00 00 00 00 06 00 71 AB   ..............q.
+0610: 00 1E 00 04 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0620: 00 00 00 01 00 00 00 06 00 00 00 00 71 AB 00 1E   ............q...
+0630: 00 04 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0640: 00 01 00 00 00 06 00 00 00 00 71 AB 00 1E 00 04   ..........q.....
+0650: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01   ................
+0660: 00 00 00 06 00 00 00 00 71 AB 00 1E 00 04 00 00   ........q.......
+0670: 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00   ................
+0680: 00 06 00 00 00 00 71 AB 00 1E 00 04 00 00 00 00   ......q.........
+0690: 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 06   ................
+06A0: 00 00 00 00 71 AB 00 1E 00 04 00 00 00 00 00 00   ....q...........
+06B0: 00 00 00 00 00 00 00 00 00 01 00 00 00 06 00 00   ................
+06C0: 00 00 71 AB 00 1E 00 04 00 00 00 00 00 00 00 00   ..q.............
+06D0: 00 00 00 00 00 00 00 01 00 00 00 06 00 00 00 00   ................
+06E0: 71 AB 00 1E 00 04 00 00 00 00 00 00 00 00 00 00   q...............
+06F0: 00 00 00 00 00 01 00 00 00 06 00 00 00 00 71 AB   ..............q.
+0700: 00 1E 00 04 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0710: 00 00 00 01 00 00 00 06 00 00 00 00 71 AB 00 1E   ............q...
+0720: 00 04 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0730: 00 01 00 00 00 06 00 00 00 00 71 AB 00 1E 00 04   ..........q.....
+0740: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01   ................
+0750: 00 00 00 06 00 00 00 00 71 AB 00 1E 00 04 00 00   ........q.......
+0760: 00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 00   ................
+0770: 00 06 00 00 00 00 71 AB 00 17 00 03 00 00 00 00   ......q.........
+0780: 00 00 00 00 00 00 00 00 00 00 00 06 01 71 AB 00   .............q..
+0790: 17 00 03 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+07A0: 00 00 06 00 71 AB 00 1E 00 04 00 00 00 00 00 00   ....q...........
+07B0: 00 00 00 00 00 00 00 00 00 01 00 00 00 06 00 00   ................
+07C0: 00 00 71 AB 00 1E 00 04 00 00 00 00 00 00 00 00   ..q.............
+07D0: 00 00 00 00 00 00 00 01 00 00 00 06 00 00 00 00   ................
+07E0: 71 AB 00 1E 00 04 00 00 00 00 00 00 00 00 00 00   q...............
+07F0: 00 00 00 00 00 01 00 00 00 06 00 00 00 00 71 AB   ..............q.
+
+07:38:42,756 - [20] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:38:42,756 - [15] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:38:42,766 - [14] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:38:42,766 - [19] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:38:42,766 - [17] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:38:42,766 - [12] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:38:42,766 - [11] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:38:42,766 - [18] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:38:42,756 - [16] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:38:42,766 - [13] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:38:42,766 - [4] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 245
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 268
+07:38:42,836 - [21] - INFO  - Game.Server.GameServer - Saving Record...
+07:38:42,946 - [21] - INFO  - Game.Server.GameServer - Saving Record complete!
+07:38:42,946 - [21] - INFO  - Game.Server.GameServer - Saving database...
+07:38:42,946 - [21] - INFO  - Game.Server.GameServer - Saving database complete!
+07:38:42,956 - [21] - INFO  - Game.Server.GameServer - Saved all databases and 0 players in 0ms
+07:38:42,956 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from socket disconnected
+07:38:42,956 - [21] - INFO  - Game.Server.GameServer - Server Stopped!
+07:38:42,956 - [21] - ERROR - Game.Server.GameServer - Center Server Disconnect! Stopping Server
+07:38:42,956 - [21] - ERROR - Game.Server.GameServer - Start the game server again after 1 second,and left try times:3
+07:38:43,956 - [21] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+07:38:43,956 - [21] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+07:38:43,956 - [21] - INFO  - Game.Server.GameServer - Server rules: true
+07:38:43,986 - [21] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+07:38:43,986 - [21] - INFO  - Game.Server.GameServer - Script components: True
+07:38:43,986 - [21] - INFO  - Game.Server.GameServer - Edition:11000: True
+07:38:43,986 - [21] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+07:38:44,036 - [21] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+07:38:44,036 - [21] - INFO  - Game.Server.GameServer - LogMgr Init: True
+07:38:44,046 - [21] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+07:38:44,206 - [21] - INFO  - Game.Server.GameServer - MapMgr Init: True
+07:38:44,226 - [21] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+07:38:44,236 - [21] - INFO  - Game.Server.GameServer - ItemBox Init: True
+07:38:44,236 - [21] - INFO  - Game.Server.GameServer - BallMgr Init: True
+07:38:44,236 - [21] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+07:38:44,236 - [21] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+07:38:44,246 - [21] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+07:38:44,246 - [21] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+07:38:44,246 - [21] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+07:38:44,246 - [21] - INFO  - Game.Server.GameServer - Drop Init: True
+07:38:44,246 - [21] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+07:38:44,246 - [21] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+07:38:44,246 - [21] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+07:38:44,246 - [21] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+07:38:44,246 - [21] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+07:38:44,256 - [21] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+07:38:44,266 - [21] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+07:38:44,266 - [21] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+07:38:44,266 - [21] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+07:38:44,266 - [21] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+07:38:44,266 - [21] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+07:38:44,266 - [21] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+07:38:44,266 - [21] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+07:38:44,266 - [21] - INFO  - Game.Server.Battle.BattleMgr - Battle server 192.168.1.3:9208 loaded...
+07:38:44,266 - [21] - INFO  - Game.Server.Battle.BattleMgr - Total 2 battl07:42:16,555 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+07:42:16,813 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+07:42:16,816 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+07:42:16,860 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+07:42:16,860 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+07:42:16,861 - [MAIN] - INFO  - Game.Server.GameServer - Edition:11000: True
+07:42:16,866 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+07:42:16,891 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+07:42:16,897 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+07:42:16,907 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+07:42:17,029 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+07:42:17,067 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+07:42:17,088 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+07:42:17,104 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+07:42:17,112 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+07:42:17,119 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+07:42:17,133 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+07:42:17,142 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+07:42:17,151 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+07:42:17,167 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+07:42:17,173 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+07:42:17,180 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+07:42:17,188 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+07:42:17,201 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+07:42:17,206 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+07:42:17,228 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+07:42:17,260 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+07:42:17,263 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+07:42:17,264 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+07:42:17,274 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+07:42:17,279 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+07:42:17,283 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+07:42:17,286 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+07:42:17,296 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 192.168.1.3:9208 loaded...
+07:42:17,302 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+07:42:17,302 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+07:42:17,304 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+07:42:17,318 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+07:42:17,349 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 126 handlers from GameServer Assembly!
+07:42:17,360 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+07:42:17,372 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+07:42:17,376 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9202
+07:42:17,379 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+07:42:17,400 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9208
+07:42:17,403 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+07:42:17,412 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+07:42:19,641 - [11] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:9202), received bytes=0
+07:42:33,544 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:49260
+007:52:43,771 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+07:52:44,037 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+07:52:44,040 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+07:52:44,083 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+07:52:44,083 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+07:52:44,083 - [MAIN] - INFO  - Game.Server.GameServer - Edition:11000: True
+07:52:44,088 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+07:52:44,137 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+07:52:44,143 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+07:52:44,188 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+07:52:44,323 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+07:52:44,362 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+07:52:44,384 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+07:52:44,401 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+07:52:44,410 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+07:52:44,421 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+07:52:44,436 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+07:52:44,445 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+07:52:44,455 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+07:52:44,471 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+07:52:44,476 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+07:52:44,484 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+07:52:44,491 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+07:52:44,504 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+07:52:44,509 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+07:52:44,533 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+07:52:44,565 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+07:52:44,569 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+07:52:44,570 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+07:52:44,580 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+07:52:44,585 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+07:52:44,590 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+07:52:44,593 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+07:52:44,595 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 192.168.1.3:9208 loaded...
+07:52:44,605 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+07:52:44,605 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+07:52:44,605 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+07:52:44,625 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+07:52:44,655 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 126 handlers from GameServer Assembly!
+07:52:44,665 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+07:52:44,675 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+07:52:44,685 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9202
+07:52:44,685 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+07:52:44,685 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9208
+07:52:44,695 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+07:52:44,705 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+07:53:03,981 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:49296
+07:53:08,761 - [11] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+07:507:55:08,107 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+07:55:08,401 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+07:55:08,404 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+07:55:08,442 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+07:55:08,443 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+07:55:08,443 - [MAIN] - INFO  - Game.Server.GameServer - Edition:11000: True
+07:55:08,448 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+07:55:08,473 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+07:55:08,480 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+07:55:08,489 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+07:55:08,630 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+07:55:08,668 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+07:55:08,687 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+07:55:08,703 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+07:55:08,711 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+07:55:08,718 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+07:55:08,731 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+07:55:08,740 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+07:55:08,750 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+07:55:08,765 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+07:55:08,771 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+07:55:08,778 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+07:55:08,785 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+07:55:08,799 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+07:55:08,804 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+07:55:08,826 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+07:55:08,857 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+07:55:08,861 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+07:55:08,862 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+07:55:08,871 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+07:55:08,877 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+07:55:08,881 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+07:55:08,884 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+07:55:08,895 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 192.168.1.3:9208 loaded...
+07:55:08,902 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+07:55:08,903 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+07:55:08,905 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+07:55:08,918 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+07:55:08,949 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 126 handlers from GameServer Assembly!
+07:55:08,959 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+07:55:08,971 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+07:55:08,975 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9202
+07:55:08,977 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+07:55:09,000 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9208
+07:55:09,005 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+07:55:09,015 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+07:55:09,146 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+07:55:18,611 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:49307
+07:55:07:57:56,149 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+07:57:56,431 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+07:57:56,434 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+07:57:56,470 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+07:57:56,471 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+07:57:56,471 - [MAIN] - INFO  - Game.Server.GameServer - Edition:11000: True
+07:57:56,476 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+07:57:56,501 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+07:57:56,506 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+07:57:56,516 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+07:57:56,656 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+07:57:56,692 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+07:57:56,712 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+07:57:56,727 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+07:57:56,735 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+07:57:56,741 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+07:57:56,754 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+07:57:56,763 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+07:57:56,772 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+07:57:56,787 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+07:57:56,793 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+07:57:56,800 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+07:57:56,808 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+07:57:56,823 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+07:57:56,828 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+07:57:56,850 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+07:57:56,882 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+07:57:56,886 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+07:57:56,888 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+07:57:56,898 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+07:57:56,904 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+07:57:56,909 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+07:57:56,912 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+07:57:56,923 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 192.168.1.3:9208 loaded...
+07:57:56,932 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+07:57:56,933 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+07:57:56,935 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+07:57:56,948 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+07:57:56,980 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 126 handlers from GameServer Assembly!
+07:57:56,991 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+07:57:57,004 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+07:57:57,007 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9202
+07:57:57,009 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+07:57:57,016 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9208
+07:57:57,019 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+07:57:57,029 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+07:58:10,405 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:49330
+07:58:33,866 - [4] - WARN  - Game.Base.Packets.PacketProcessor - (192.168.1.3:49330) Handle packet Thread 4 Game.S08:11:26,281 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+08:11:26,976 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+08:11:26,979 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+08:11:27,018 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+08:11:27,018 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+08:11:27,019 - [MAIN] - INFO  - Game.Server.GameServer - Edition:11000: True
+08:11:27,024 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+08:11:27,049 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+08:11:27,067 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+08:11:27,109 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+08:11:29,429 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+08:11:29,470 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+08:11:29,522 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+08:11:29,682 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+08:11:29,711 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+08:11:29,721 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+08:11:29,738 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+08:11:29,753 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+08:11:29,764 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+08:11:29,782 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+08:11:29,790 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+08:11:29,798 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+08:11:29,806 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+08:11:29,821 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+08:11:29,827 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+08:11:29,854 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+08:11:29,888 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+08:11:29,891 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+08:11:29,892 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+08:11:29,901 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+08:11:29,932 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+08:11:29,937 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+08:11:29,940 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+08:11:29,984 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 192.168.1.3:9208 loaded...
+08:11:29,992 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+08:11:29,992 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+08:11:29,993 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+08:11:30,007 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+08:11:30,042 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 126 handlers from GameServer Assembly!
+08:11:30,053 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+08:11:30,067 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+08:11:30,073 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9202
+08:11:30,076 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+08:11:30,083 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9208
+08:11:30,088 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+08:11:30,097 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+08:12:30,008 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:12:30,011 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:12:30,012 - [7] - INFO  - Game.Server.GameServer - Buff all 

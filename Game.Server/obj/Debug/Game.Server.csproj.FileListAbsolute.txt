@@ -1,0 +1,101 @@
+D:\workspace\Server\Game.Server\bin\Debug\Languages\Language-vn.txt
+D:\workspace\Server\Game.Server\bin\Debug\Languages\Language-zh_cn.txt
+D:\workspace\Server\Game.Server\bin\Debug\Bussiness.dll
+D:\workspace\Server\Game.Server\bin\Debug\Game.Logic.dll
+D:\workspace\Server\Game.Server\bin\Debug\log4net.dll
+D:\workspace\Server\Game.Server\bin\Debug\Newtonsoft.Json.dll
+D:\workspace\Server\Game.Server\bin\Debug\Road.Flash.dll
+D:\workspace\Server\Game.Server\bin\Debug\SqlDataProvider.dll
+D:\workspace\Server\Game.Server\bin\Debug\zlib.net.dll
+D:\workspace\Server\Game.Server\bin\Debug\log4net.xml
+D:\workspace\Server\Game.Server\bin\Debug\Bussiness.pdb
+D:\workspace\Server\Game.Server\bin\Debug\Game.Logic.pdb
+D:\workspace\Server\Game.Server\bin\Debug\SqlDataProvider.pdb
+D:\workspace\Server\Game.Server\bin\Debug\Road.Flash.pdb
+D:\workspace\Server\Game.Server\obj\Debug\ResolveAssemblyReference.cache
+D:\workspace\Server\Game.Server\bin\Debug\Game.Server.dll
+D:\workspace\Server\Game.Server\bin\Debug\Game.Server.pdb
+D:\workspace\Server\Game.Server\bin\Debug\Game.Base.dll
+D:\workspace\Server\Game.Server\bin\Debug\Game.Base.pdb
+D:\workspace\Server\Game.Server\obj\Debug\Game.Server.dll
+D:\workspace\Server\Game.Server\obj\Debug\Game.Server.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\bin\Debug\Languages\Language-vn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\bin\Debug\Languages\Language-zh_cn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\bin\Debug\Game.Server.dll.config
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\bin\Debug\Game.Server.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\bin\Debug\Game.Server.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\bin\Debug\Bussiness.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\bin\Debug\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\bin\Debug\Game.Logic.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\bin\Debug\log4net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\bin\Debug\Newtonsoft.Json.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\bin\Debug\SqlDataProvider.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\bin\Debug\zlib.net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\bin\Debug\Bussiness.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\bin\Debug\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\bin\Debug\Game.Logic.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\bin\Debug\SqlDataProvider.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\bin\Debug\log4net.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\obj\Debug\Game.Server.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\obj\Debug\Game.Server.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Server\bin\Debug\Languages\Language-vn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Server\bin\Debug\Languages\Language-zh_cn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Server\bin\Debug\Game.Server.dll.config
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Server\bin\Debug\Game.Server.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Server\bin\Debug\Game.Server.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Server\bin\Debug\Bussiness.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Server\bin\Debug\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Server\bin\Debug\Game.Logic.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Server\bin\Debug\log4net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Server\bin\Debug\Newtonsoft.Json.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Server\bin\Debug\SqlDataProvider.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Server\bin\Debug\zlib.net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Server\bin\Debug\Bussiness.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Server\bin\Debug\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Server\bin\Debug\Game.Logic.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Server\bin\Debug\SqlDataProvider.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Server\bin\Debug\log4net.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Server\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Server\obj\Debug\Game.Server.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Server\obj\Debug\Game.Server.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\bin\Debug\Languages\Language-vn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\bin\Debug\Languages\Language-zh_cn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\bin\Debug\Game.Server.dll.config
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\bin\Debug\Game.Server.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\bin\Debug\Game.Server.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\bin\Debug\Bussiness.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\bin\Debug\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\bin\Debug\Game.Logic.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\bin\Debug\log4net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\bin\Debug\Newtonsoft.Json.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\bin\Debug\SqlDataProvider.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\bin\Debug\zlib.net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\bin\Debug\Bussiness.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\bin\Debug\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\bin\Debug\Game.Logic.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\bin\Debug\SqlDataProvider.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\bin\Debug\log4net.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\obj\Debug\Game.Server.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\obj\Debug\Game.Server.pdb
+C:\Users\Welington\Documents\Server3.0\Game.Server\bin\Debug\Languages\Language-vn.txt
+C:\Users\Welington\Documents\Server3.0\Game.Server\bin\Debug\Languages\Language-zh_cn.txt
+C:\Users\Welington\Documents\Server3.0\Game.Server\bin\Debug\Game.Server.dll.config
+C:\Users\Welington\Documents\Server3.0\Game.Server\bin\Debug\Game.Server.dll
+C:\Users\Welington\Documents\Server3.0\Game.Server\bin\Debug\Game.Server.pdb
+C:\Users\Welington\Documents\Server3.0\Game.Server\bin\Debug\Bussiness.dll
+C:\Users\Welington\Documents\Server3.0\Game.Server\bin\Debug\Game.Base.dll
+C:\Users\Welington\Documents\Server3.0\Game.Server\bin\Debug\Game.Logic.dll
+C:\Users\Welington\Documents\Server3.0\Game.Server\bin\Debug\log4net.dll
+C:\Users\Welington\Documents\Server3.0\Game.Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Welington\Documents\Server3.0\Game.Server\bin\Debug\SqlDataProvider.dll
+C:\Users\Welington\Documents\Server3.0\Game.Server\bin\Debug\zlib.net.dll
+C:\Users\Welington\Documents\Server3.0\Game.Server\bin\Debug\Bussiness.pdb
+C:\Users\Welington\Documents\Server3.0\Game.Server\bin\Debug\Game.Base.pdb
+C:\Users\Welington\Documents\Server3.0\Game.Server\bin\Debug\Game.Logic.pdb
+C:\Users\Welington\Documents\Server3.0\Game.Server\bin\Debug\SqlDataProvider.pdb
+C:\Users\Welington\Documents\Server3.0\Game.Server\bin\Debug\log4net.xml
+C:\Users\Welington\Documents\Server3.0\Game.Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Welington\Documents\Server3.0\Game.Server\obj\Debug\Game.Server.dll
+C:\Users\Welington\Documents\Server3.0\Game.Server\obj\Debug\Game.Server.pdb

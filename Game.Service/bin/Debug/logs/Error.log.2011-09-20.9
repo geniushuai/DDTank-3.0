@@ -1,0 +1,9 @@
+17:29:53,232 - [16] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.QuestAddHandler  client: 127.0.0.1:49695)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Quests.QuestInventory.AddQuest(QuestInfo info, String& msg) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Quests\QuestInventory.cs:line 163
+   at Game.Server.Packets.Client.QuestAddHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\QuestAddHandler.cs:line 22
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+17:29:53,282 - [16] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 1A 00 B0 00 00 00 10 01 01 01 01 01 01   q...............
+0010: 01 01 01 01 01 00 01 01 01 14                     ..........      
+

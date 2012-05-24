@@ -1,0 +1,2320 @@
+06:48:36,224 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+06:48:36,505 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+06:48:36,505 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+06:48:36,552 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+06:48:36,552 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+06:48:36,552 - [MAIN] - INFO  - Game.Server.GameServer - Edition:21000: True
+06:48:36,552 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+06:48:36,583 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+06:48:36,583 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+06:48:36,630 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+06:48:36,770 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+06:48:36,802 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+06:48:36,833 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+06:48:36,848 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+06:48:36,848 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+06:48:36,864 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+06:48:36,880 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+06:48:36,880 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+06:48:36,895 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+06:48:36,911 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+06:48:36,911 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+06:48:36,926 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+06:48:36,926 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+06:48:36,942 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+06:48:36,958 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+06:48:36,973 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+06:48:37,004 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+06:48:37,004 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+06:48:37,004 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+06:48:37,020 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+06:48:37,020 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+06:48:37,036 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+06:48:37,036 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+06:48:37,051 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 192.168.1.3:9208 loaded...
+06:48:37,051 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+06:48:37,051 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+06:48:37,051 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+06:48:37,067 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+06:48:37,098 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 127 handlers from GameServer Assembly!
+06:48:37,114 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+06:48:37,145 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+06:48:37,145 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9202
+06:48:37,176 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+06:48:37,192 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9208
+06:48:37,192 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+06:48:37,207 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+06:49:37,064 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:49:37,064 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:49:37,064 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+06:50:37,078 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:50:37,078 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:50:37,078 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+06:51:37,057 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+06:51:37,057 - [7] - INFO  - Game.Server.GameServer - End ping check....
+06:51:37,057 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+06:51:37,057 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+06:51:37,087 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:51:37,087 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:51:37,087 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+06:52:03,021 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:49201
+06:52:03,031 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:49201), received bytes=0
+06:52:03,061 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:49202
+06:52:37,101 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:52:37,101 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:52:37,101 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:53:37,051 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+06:53:37,111 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:53:37,111 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:53:37,111 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:53:37,331 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+06:54:37,061 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+06:54:37,061 - [7] - INFO  - Game.Server.GameServer - End ping check....
+06:54:37,061 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+06:54:37,061 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+06:54:37,131 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:54:37,131 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:54:37,131 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:55:28,341 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:49202), received bytes=0
+06:55:34,951 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:49225
+06:55:34,951 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:49225), received bytes=0
+06:55:35,011 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:49226
+06:55:37,141 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:55:37,141 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:55:37,141 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:56:37,151 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:56:37,151 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:56:37,151 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:56:39,961 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:49226), received bytes=0
+06:56:46,711 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:49230
+06:56:46,711 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:49230), received bytes=0
+06:56:46,731 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:49231
+06:57:37,071 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+06:57:37,071 - [8] - INFO  - Game.Server.GameServer - End ping check....
+06:57:37,071 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+06:57:37,081 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+06:57:37,171 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:57:37,171 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:57:37,171 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:58:30,382 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+06:58:30,382 - [9] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+07:04:56,520 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+07:04:56,520 - [7] - INFO  - Game.Server.GameServer - Saving database...
+07:05:01,890 - [10] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+07:05:01,910 - [11] - INFO  - Game.Server.GameServer - Saving Record...
+07:05:01,930 - [12] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:05:01,930 - [8] - INFO  - Game.Server.GameServer - End ping check....
+07:05:02,270 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:05:02,270 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+07:05:02,260 - [12] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:05:02,270 - [12] - INFO  - Game.Server.GameServer - Buff all 1 players in 328ms
+07:05:02,710 - [7] - INFO  - Game.Server.GameServer - Saving database complete!
+07:05:04,800 - [7] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 6193ms
+07:05:17,251 - [11] - ERROR - Bussiness.BaseBussiness - Smith Log Error:System.Data.SqlClient.SqlException: Cannot open database "Db_Count" requested by the login. The login failed.
+Login failed for user 'sa'.
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   at System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnection owningObject)
+   at System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(String host, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, Int64 timerStart)
+   at System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Bussiness.ItemRecordBussiness.LogItemDb(DataTable dt) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:line 56
+07:05:17,271 - [11] - ERROR - Bussiness.BaseBussiness - Money Log Error:Sy07:10:02,611 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+07:10:06,699 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+07:10:06,699 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+07:10:08,758 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+07:10:08,758 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+07:10:08,758 - [MAIN] - INFO  - Game.Server.GameServer - Edition:21000: True
+07:10:08,758 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+07:10:08,805 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+07:10:08,929 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+07:10:09,085 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+07:10:17,244 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+07:10:17,291 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+07:10:17,463 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+07:10:17,915 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+07:10:18,103 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+07:10:18,213 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+07:10:18,259 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+07:10:18,384 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+07:10:18,525 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+07:10:18,540 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+07:10:18,618 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+07:10:18,618 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+07:10:18,665 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+07:10:18,743 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+07:10:18,759 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+07:10:18,899 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+07:10:19,180 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+07:10:19,227 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+07:10:19,227 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+07:10:19,757 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+07:10:19,804 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+07:10:19,835 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+07:10:19,835 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+07:10:19,913 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 192.168.1.3:9208 loaded...
+07:10:19,913 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+07:10:19,913 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+07:10:19,913 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+07:10:20,163 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+07:10:20,209 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 127 handlers from GameServer Assembly!
+07:10:20,225 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+07:10:20,256 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+07:10:20,256 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9202
+07:10:20,272 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+07:10:20,287 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9208
+07:10:20,303 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+07:10:20,319 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+07:11:02,664 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:49227
+07:11:02,674 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:49227), received bytes=0
+07:11:02,714 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:49228
+07:11:19,914 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:11:19,915 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:11:19,915 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:12:19,926 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:12:19,926 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:12:19,927 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:13:19,915 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+07:13:19,917 - [8] - INFO  - Game.Server.GameServer - End ping check....
+07:13:19,918 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:13:19,919 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+07:13:19,940 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:13:19,940 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:13:19,941 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:14:19,953 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:14:19,955 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:14:19,956 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:15:19,907 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+07:15:19,968 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:15:19,969 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:15:19,970 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:15:20,099 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+07:16:19,922 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+07:16:19,931 - [7] - INFO  - Game.Server.GameServer - End ping check....
+07:16:19,932 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:16:19,934 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+07:16:19,980 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:16:19,981 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:16:19,982 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:16:59,151 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:49228), received bytes=0
+07:17:05,607 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:49335
+07:17:05,609 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:49335), received bytes=0
+07:17:05,657 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:49336
+07:17:19,994 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:17:19,995 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:17:19,996 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:18:20,013 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:18:20,015 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:18:20,016 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:19:19,928 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+07:19:19,929 - [7] - INFO  - Game.Server.GameServer - End ping check....
+07:19:19,929 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:19:19,930 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+07:19:20,022 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:19:20,023 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:19:20,024 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:20:19,913 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+07:20:19,914 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+07:20:19,917 - [8] - INFO  - Game.Server.GameServer - Saving database...
+07:20:19,934 - [8] - INFO  - Game.Server.GameServer - Saving database complete!
+07:20:19,935 - [8] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 16ms
+07:20:20,035 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:20:20,036 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:20:20,037 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:21:20,048 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:21:20,048 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:21:20,048 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:22:19,944 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+07:22:19,944 - [8] - INFO  - Game.Server.GameServer - End ping check....
+07:22:19,944 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:22:19,944 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+07:22:20,062 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:22:20,062 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:22:20,063 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:22:50,767 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:49336), received bytes=0
+07:22:57,345 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:49357
+07:22:57,347 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:49357), received bytes=0
+07:22:57,397 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:49358
+07:23:20,076 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:23:20,077 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:23:20,078 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:24:20,090 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:24:20,090 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:24:20,090 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:25:19,915 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+07:25:19,961 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+07:25:19,972 - [8] - INFO  - Game.Server.GameServer - End ping check....
+07:25:19,973 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:25:19,974 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+07:25:20,107 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:25:20,108 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:25:20,108 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:25:23,644 - [7] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: The given ColumnMapping does not match up with any column in the source or destination.
+   at System.Data.SqlClient.SqlBulkCopy.AnalyzeTargetAndCreateUpdateBulkCommand(BulkCopySimpleResultSet internalResults)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:line 102
+07:25:23,684 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+07:26:20,116 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:26:20,118 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:26:20,118 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:27:20,131 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:27:20,132 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:27:20,134 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:28:19,960 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+07:28:19,961 - [8] - INFO  - Game.Server.GameServer - End ping check....
+07:28:19,962 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:28:19,963 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+07:28:20,143 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:28:20,143 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:28:20,144 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:29:20,158 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:29:20,159 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:29:20,160 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:29:45,695 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:49358), received bytes=0
+07:29:52,123 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:49366
+07:29:52,125 - [11] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:49366), received bytes=0
+07:29:52,139 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:49367
+07:30:19,920 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+07:30:19,920 - [9] - INFO  - Game.Server.GameServer - Saving database...
+07:30:20,170 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:30:20,171 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:30:20,172 - [7] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+07:30:23,053 - [8] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: The given ColumnMapping does not match up with any column in the source or destination.
+   at System.Data.SqlClient.SqlBulkCopy.AnalyzeTargetAndCreateUpdateBulkCommand(BulkCopySimpleResultSet internalResults)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:line 102
+07:30:23,058 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+07:30:27,979 - [9] - INFO  - Game.Server.GameServer - Saving database complete!
+07:30:27,981 - [9] - INFO  - Game.Server.GameServer - Saved all databases and 2 players in 8049ms
+07:31:19,966 - [15] - INFO  - Game.Server.GameServer - Begin ping check....
+07:31:19,967 - [15] - INFO  - Game.Server.GameServer - End ping check....
+07:31:19,970 - [15] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:31:19,971 - [15] - INFO  - Game.Server.GameServer - End ping center check....
+07:31:20,185 - [15] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:31:20,185 - [15] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:31:20,186 - [15] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+07:32:20,199 - [15] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:32:20,199 - [15] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:32:20,200 - [15] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+07:33:20,211 - [15] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:33:20,213 - [15] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:33:20,214 - [15] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+07:34:19,979 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+07:34:19,981 - [8] - INFO  - Game.Server.GameServer - End ping check....
+07:34:19,992 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:34:19,995 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+07:34:20,225 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:34:20,225 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:34:20,227 - [8] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+07:35:19,936 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+07:35:20,032 - [8] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: The given ColumnMapping does not match up with any column in the source or destination.
+   at System.Data.SqlClient.SqlBulkCopy.AnalyzeTargetAndCreateUpdateBulkCommand(BulkCopySimpleResultSet intern07:44:03,100 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+07:44:05,173 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+07:44:05,180 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+07:44:05,557 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+07:44:05,558 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+07:44:05,558 - [MAIN] - INFO  - Game.Server.GameServer - Edition:21000: True
+07:44:05,659 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+07:44:05,703 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+07:44:05,746 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+07:44:05,816 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+07:44:07,879 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+07:44:08,015 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+07:44:08,171 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+07:44:08,374 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+07:44:08,515 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+07:44:08,624 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+07:44:08,686 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+07:44:08,733 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+07:44:08,920 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+07:44:08,951 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+07:44:08,998 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+07:44:09,029 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+07:44:09,045 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+07:44:09,076 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+07:44:09,139 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+07:44:09,263 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+07:44:09,386 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+07:44:09,391 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+07:44:09,393 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+07:44:09,427 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+07:44:09,486 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+07:44:09,508 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+07:44:09,513 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+07:44:09,641 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 192.168.1.3:9208 loaded...
+07:44:09,655 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+07:44:09,655 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+07:44:09,658 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+07:44:09,759 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+07:44:09,807 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 127 handlers from GameServer Assembly!
+07:44:09,818 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+07:44:09,830 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+07:44:09,834 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9202
+07:44:09,851 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+07:44:09,856 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9208
+07:44:09,944 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+07:44:09,951 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+07:44:44,631 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:49553
+07:44:44,634 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:49553), received bytes=0
+07:44:44,662 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:49554
+07:44:46,188 - [4] - WARN  - Game.Base.Packets.PacketProcessor - (192.168.1.3:49554) Handle packet Thread 4 Game.Server.Packets.Client.UserLoginHandler took 1497ms!
+07:45:09,660 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:45:09,660 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:45:09,660 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:46:09,670 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:46:09,670 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:46:09,670 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:47:09,657 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+07:47:09,660 - [7] - INFO  - Game.Server.GameServer - End ping check....
+07:47:09,661 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:47:09,662 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+07:47:09,684 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:47:09,684 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:47:09,685 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:48:09,698 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:48:09,699 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:48:09,700 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:49:09,654 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+07:49:09,714 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:49:09,714 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:49:09,714 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:49:09,804 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+07:50:09,666 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+07:50:09,666 - [7] - INFO  - Game.Server.GameServer - End ping check....
+07:50:09,666 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:50:09,676 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+07:50:09,726 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:50:09,726 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:50:09,726 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:51:09,743 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:51:09,743 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:51:09,743 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:52:09,752 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:52:09,756 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:52:09,758 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:53:09,676 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+07:53:09,679 - [7] - INFO  - Game.Server.GameServer - End ping check....
+07:53:09,680 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:53:09,682 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+07:53:09,766 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:53:09,767 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:53:09,768 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:54:09,660 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+07:54:09,661 - [8] - INFO  - Game.Server.GameServer - Saving database...
+07:54:09,666 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+07:54:09,719 - [8] - INFO  - Game.Server.GameServer - Saving database complete!
+07:54:09,720 - [8] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 62ms
+07:54:09,779 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:54:09,779 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:54:09,781 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:54:24,340 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:49554), received bytes=0
+07:54:30,718 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:49652
+07:54:30,718 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:49652), received bytes=0
+07:54:30,748 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:49653
+07:55:09,793 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:55:09,794 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:55:09,795 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:56:09,684 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+07:56:09,684 - [7] - INFO  - Game.Server.GameServer - End ping check....
+07:56:09,684 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:56:09,684 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+07:56:09,814 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:56:09,814 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:56:09,814 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:57:09,820 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:57:09,820 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:57:09,821 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:58:09,833 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:58:09,834 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:58:09,835 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:59:09,664 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+07:59:09,665 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+07:59:09,691 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+07:59:09,692 - [8] - INFO  - Game.Server.GameServer - End ping check....
+07:59:09,694 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:59:09,696 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+07:59:09,847 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:59:09,847 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:59:09,848 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:00:09,862 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:00:09,863 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:00:09,864 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:01:09,874 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:01:09,875 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:01:09,876 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:02:09,705 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+08:02:09,706 - [7] - INFO  - Game.Server.GameServer - End ping check....
+08:02:09,708 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+08:02:09,709 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+08:02:09,889 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:02:09,889 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:02:09,891 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:03:09,901 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:03:09,902 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:03:09,904 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:04:09,668 - [8] - INFO  - Game.Server.GameServer - Saving database...
+08:04:09,668 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+08:04:09,720 - [8] - INFO  - Game.Server.GameServer - Saving database complete!
+08:04:09,720 - [8] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 47ms
+08:04:09,824 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+08:04:09,915 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:04:09,916 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:04:09,917 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:05:09,714 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+08:05:09,715 - [7] - INFO  - Game.Server.GameServer - End ping check....
+08:05:09,718 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+08:05:09,719 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+08:05:09,929 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:05:09,930 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:05:09,932 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:06:09,942 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:06:09,943 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:06:09,944 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:07:09,957 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:07:09,958 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:07:09,960 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:08:09,723 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+08:08:09,723 - [8] - INFO  - Game.Server.GameServer - End ping check....
+08:08:09,723 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+08:08:09,723 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+08:08:09,973 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:08:09,973 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:08:09,973 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:09:09,678 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+08:09:09,678 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+08:09:09,984 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:09:09,984 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:09:09,985 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:10:09,998 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:10:09,998 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:10:10,000 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:11:09,737 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+08:11:09,737 - [8] - INFO  - Game.Server.GameServer - End ping check....
+08:11:09,737 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+08:11:09,737 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+08:11:10,017 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:11:10,017 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:11:10,017 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:12:10,023 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:12:10,023 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:12:10,025 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:13:10,038 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:13:10,038 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:13:10,039 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:14:09,679 - [8] - INFO  - Game.Server.GameServer - Saving database...
+08:14:09,679 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+08:14:09,703 - [8] - INFO  - Game.Server.GameServer - Saving database complete!
+08:14:09,703 - [8] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 16ms
+08:14:09,741 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+08:14:09,742 - [8] - INFO  - Game.Server.GameServer - End ping check....
+08:14:09,744 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+08:14:09,746 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+08:14:09,834 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+08:14:10,051 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:14:10,052 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:14:10,054 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:15:10,065 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:15:10,066 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:15:10,067 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:16:10,078 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:16:10,079 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:16:10,080 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:17:09,748 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+08:17:09,748 - [7] - INFO  - Game.Server.GameServer - End ping check....
+08:17:09,748 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+08:17:09,748 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+08:17:10,092 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:17:10,094 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:17:10,094 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:18:10,111 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:18:10,111 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:18:10,111 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:19:09,688 - [9] - INFO  - Game.Server.GameServer - Saving Record...
+08:19:09,689 - [9] - INFO  - Game.Server.GameServer - Saving Record complete!
+08:19:10,127 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:19:10,127 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:19:10,127 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:20:09,762 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+08:20:09,762 - [9] - INFO  - Game.Server.GameServer - End ping check....
+08:20:09,762 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+08:20:09,762 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+08:20:10,133 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:20:10,139 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:20:10,141 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:21:10,147 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:21:10,149 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:21:10,150 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:22:10,159 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:22:10,161 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:22:10,161 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:23:09,770 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+08:23:09,772 - [9] - INFO  - Game.Server.GameServer - End ping check....
+08:23:09,773 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+08:23:09,779 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+08:23:10,174 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:23:10,177 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:23:10,178 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:24:09,690 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+08:24:09,692 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+08:24:09,690 - [7] - INFO  - Game.Server.GameServer - Saving database...
+08:24:09,749 - [7] - INFO  - Game.Server.GameServer - Saving database complete!
+08:24:09,750 - [7] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 47ms
+08:24:10,188 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:24:10,188 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:24:10,188 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:25:10,200 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:25:10,202 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:25:10,202 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:26:09,781 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+08:26:09,787 - [9] - INFO  - Game.Server.GameServer - End ping check....
+08:26:09,788 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+08:26:09,789 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+08:26:10,213 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:26:10,214 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:26:10,216 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:27:10,234 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:27:10,234 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:27:10,234 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:28:10,242 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:28:10,242 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:28:10,243 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:28:15,394 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:49653), received bytes=0
+08:29:09,699 - [9] - INFO  - Game.Server.GameServer - Saving Record...
+08:29:09,790 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+08:29:09,791 - [7] - INFO  - Game.Server.GameServer - End ping check....
+08:29:09,792 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+08:29:09,792 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+08:29:10,018 - [9] - INFO  - Game.Server.GameServer - Saving Record complete!
+08:29:10,256 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:29:10,257 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:29:10,258 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:30:10,268 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:30:10,269 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:30:10,270 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:31:10,284 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:31:10,285 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:31:10,285 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:32:09,798 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+08:32:09,799 - [9] - INFO  - Game.Server.GameServer - End ping check....
+08:32:09,800 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+08:32:09,801 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+08:32:10,296 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:32:10,296 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:32:10,297 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:33:10,310 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:33:10,311 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:33:10,313 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:34:09,701 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+08:34:09,701 - [7] - INFO  - Game.Server.GameServer - Saving database...
+08:34:09,702 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+08:34:09,763 - [7] - INFO  - Game.Server.GameServer - Saving database complete!
+08:34:09,763 - [7] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 63ms
+08:34:10,323 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:34:10,324 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:34:10,325 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:35:09,810 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+08:35:09,811 - [8] - INFO  - Game.Server.GameServer - End ping check....
+08:35:09,812 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+08:35:09,812 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+08:35:10,337 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:35:10,338 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:35:10,338 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:36:10,350 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:36:10,351 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:36:10,351 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:37:10,364 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:37:10,364 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:37:10,364 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:38:09,818 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+08:38:09,818 - [7] - INFO  - Game.Server.GameServer - End ping check....
+08:38:09,819 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+08:38:09,819 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+08:38:10,377 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:38:10,378 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:38:10,378 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:39:09,709 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+08:39:09,710 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+08:39:10,392 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:39:10,392 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:39:10,393 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:40:10,405 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:40:10,406 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:40:10,406 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:41:09,828 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+08:41:09,829 - [8] - INFO  - Game.Server.GameServer - End ping check....
+08:41:09,829 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+08:41:09,830 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+08:41:10,418 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:41:10,419 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:41:10,420 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:42:10,432 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:42:10,432 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:42:10,432 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:43:10,446 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:43:10,446 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:43:10,446 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:44:09,712 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+08:44:09,712 - [8] - INFO  - Game.Server.GameServer - Saving database...
+08:44:09,780 - [8] - INFO  - Game.Server.GameServer - Saving database complete!
+08:44:09,781 - [8] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 63ms
+08:44:09,835 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+08:44:09,836 - [9] - INFO  - Game.Server.GameServer - End ping check....
+08:44:09,837 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+08:44:09,837 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+08:44:09,878 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+08:44:10,462 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:44:10,462 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:44:10,462 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:45:10,473 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:45:10,474 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:45:10,475 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:46:10,486 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:46:10,486 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:46:10,486 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:47:09,848 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+08:47:09,848 - [9] - INFO  - Game.Server.GameServer - End ping check....
+08:47:09,848 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+08:47:09,848 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+08:47:10,508 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:47:10,508 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:47:10,508 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:47:14,428 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:51780
+08:47:14,428 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:51780), received bytes=0
+08:47:14,468 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:51783
+08:48:10,518 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:48:10,518 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:48:10,518 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:49:09,718 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+08:49:10,228 - [8] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: The given ColumnMapping does not match up with any column in the source or destination.
+   at System.Data.SqlClient.SqlBulkCopy.AnalyzeTargetAndCreateUpdateBulkCommand(BulkCopySimpleResultSet internalResults)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:line 102
+08:49:10,248 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+08:49:10,528 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:49:10,528 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:49:10,528 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:50:09,859 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+08:50:09,859 - [8] - INFO  - Game.Server.GameServer - End ping check....
+08:50:09,859 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+08:50:09,859 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+08:50:10,549 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:50:10,549 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:50:10,549 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:51:10,559 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:51:10,559 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:51:10,559 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:52:10,569 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:52:10,569 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:52:10,569 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:53:09,869 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+08:53:09,879 - [8] - INFO  - Game.Server.GameServer - End ping check....
+08:53:09,879 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+08:53:09,879 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+08:53:10,589 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:53:10,589 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:53:10,589 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:54:09,729 - [8] - INFO  - Game.Server.GameServer - Saving database...
+08:54:09,729 - [9] - INFO  - Game.Server.GameServer - Saving Record...
+08:54:09,749 - [8] - INFO  - Game.Server.GameServer - Saving database complete!
+08:54:09,749 - [8] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 16ms
+08:54:10,479 - [9] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: The given ColumnMapping does not match up with any column in the source or destination.
+   at System.Data.SqlClient.SqlBulkCopy.AnalyzeTargetAndCreateUpdateBulkCommand(BulkCopySimpleResultSet internalResults)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:line 102
+08:54:10,479 - [9] - INFO  - Game.Server.GameServer - Saving Record complete!
+08:54:10,599 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:54:10,599 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:54:10,599 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:55:10,609 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:55:10,609 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:55:10,609 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:56:09,879 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+08:56:09,879 - [8] - INFO  - Game.Server.GameServer - End ping check....
+08:56:09,879 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+08:56:09,879 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+08:56:10,629 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:56:10,629 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:56:10,629 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:56:45,309 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:51783), received bytes=0
+08:56:52,019 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:51860
+08:56:52,019 - [14] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:51860), received bytes=0
+08:56:52,069 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:51863
+08:57:10,636 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:57:10,636 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:57:10,636 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:58:10,655 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:58:10,655 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:58:10,655 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:59:09,735 - [9] - INFO  - Game.Server.GameServer - Saving Record...
+08:59:09,887 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+08:59:09,887 - [7] - INFO  - Game.Server.GameServer - End ping check....
+08:59:09,887 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+08:59:09,888 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+08:59:10,090 - [9] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: The given ColumnMapping does not match up with any column in the source or destination.
+   at System.Data.SqlClient.SqlBulkCopy.AnalyzeTargetAndCreateUpdateBulkCommand(BulkCopySimpleResultSet internalResults)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:line 102
+08:59:10,092 - [9] - INFO  - Game.Server.GameServer - Saving Record complete!
+08:59:10,662 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:59:10,663 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:59:10,663 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+09:00:10,677 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+09:00:10,687 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+09:00:10,687 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+09:01:10,697 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+09:01:10,697 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+09:01:10,697 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+09:02:09,894 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+09:02:09,894 - [7] - INFO  - Game.Server.GameServer - End ping check....
+09:02:09,895 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+09:02:09,896 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+09:02:10,703 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+09:02:10,715 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+09:02:10,715 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+09:03:10,725 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+09:03:10,725 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+09:03:10,725 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+09:04:09,735 - [7] - INFO  - Game.Server.GameServer - Saving database...
+09:04:09,735 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+09:04:09,745 - [7] - INFO  - Game.Server.GameServer - Saving database complete!
+09:04:09,745 - [7] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 0ms
+09:04:09,835 - [8] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: The given ColumnMapping does not match up with any column in the source or destination.
+   at System.Data.SqlClient.SqlBulkCopy.AnalyzeTargetAndCreateUpdateBulkCommand(BulkCopySimpleResultSet internalResults)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:line 102
+09:04:09,835 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+09:04:10,735 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+09:04:10,735 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+09:04:10,735 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+09:04:43,775 - [22] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:51863), received bytes=0
+09:04:49,995 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:52048
+09:04:49,995 - [22] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:52048), received bytes=0
+09:04:50,045 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:52051
+09:05:09,905 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+09:05:09,905 - [7] - INFO  - Game.Server.GameServer - End ping check....
+09:05:09,905 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+09:05:09,905 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+09:05:10,745 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+09:05:10,745 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+09:05:10,745 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+09:06:01,355 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:52051), received bytes=0
+09:06:07,695 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:52059
+09:06:07,695 - [26] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:52059), received bytes=0
+09:06:07,745 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:52062
+09:06:10,765 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+09:06:10,765 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+09:06:10,765 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+09:07:10,775 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+09:07:10,775 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+09:07:10,775 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+09:07:12,305 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:52062), received bytes=0
+09:07:18,795 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:52069
+09:07:18,795 - [27] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:52069), received bytes=0
+09:07:18,835 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:52072
+09:08:09,915 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+09:08:09,915 - [9] - INFO  - Game.Server.GameServer - End ping check....
+09:08:09,915 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+09:08:09,915 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+09:08:10,785 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+09:08:10,785 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+09:08:10,785 - [9] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+09:08:40,837 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:52088
+09:08:40,839 - [28] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:52088), received bytes=0
+09:08:40,884 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:52091
+09:09:09,739 - [9] - INFO  - Game.Server.GameServer - Saving Record...
+09:09:09,745 - [9] - INFO  - Game.Server.GameServer - Saving Record complete!
+09:09:10,798 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+09:09:10,798 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+09:09:10,798 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+09:10:10,812 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+09:10:10,813 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+09:10:10,813 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+09:10:16,204 - [29] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:52091), received bytes=0
+09:10:22,835 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:52107
+09:10:22,838 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:52107), received bytes=0
+09:10:22,884 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:52110
+09:11:09,924 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+09:11:09,924 - [8] - INFO  - Game.Server.GameServer - End ping check....
+09:11:09,924 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+09:11:09,924 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+09:11:10,834 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+09:11:10,834 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+09:11:10,834 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+09:11:17,654 - [32] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:52110), received bytes=0
+09:11:24,124 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:52120
+09:11:24,124 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:52120), received bytes=0
+09:11:24,174 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:52123
+09:12:10,840 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+09:12:10,840 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+09:12:10,840 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+09:13:08,322 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+09:13:08,322 - [34] - INFO  - Game.Server.GameServer - Saving Record...
+09:13:08,332 - [34] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: The given ColumnMapping does not match up with any column in the source or destination.
+   at Sy09:14:21,363 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+09:14:23,313 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+09:14:23,323 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+09:14:23,713 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+09:14:23,713 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+09:14:23,713 - [MAIN] - INFO  - Game.Server.GameServer - Edition:21000: True
+09:14:23,773 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+09:14:23,813 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+09:14:23,893 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+09:14:23,933 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+09:14:25,633 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+09:14:25,693 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+09:14:25,803 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+09:14:26,003 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+09:14:26,063 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+09:14:26,083 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+09:14:26,143 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+09:14:26,203 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+09:14:26,253 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+09:14:26,323 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+09:14:26,333 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+09:14:26,383 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+09:14:26,433 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+09:14:26,613 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+09:14:26,673 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+09:14:26,783 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+09:14:26,923 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+09:14:26,923 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+09:14:26,923 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+09:14:26,943 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+09:14:26,993 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+09:14:27,023 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+09:14:27,023 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+09:14:27,103 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 192.168.1.3:9208 loaded...
+09:14:27,113 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+09:14:27,113 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+09:14:27,113 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+09:14:27,143 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+09:14:27,173 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 127 handlers from GameServer Assembly!
+09:14:27,183 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+09:14:27,223 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+09:14:27,223 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9202
+09:14:27,263 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+09:14:27,263 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9208
+09:14:27,293 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+09:14:27,303 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+09:14:47,295 - [12] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:52274
+09:14:47,295 - [12] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:52274), received bytes=0
+09:20:37,518 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+09:20:37,788 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+09:20:37,788 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+09:20:37,838 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+09:20:37,838 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+09:20:37,838 - [MAIN] - INFO  - Game.Server.GameServer - Edition:21000: True
+09:20:37,848 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+09:20:37,868 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+09:20:37,878 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+09:20:37,908 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+09:20:38,028 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+09:20:38,068 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+09:20:38,088 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+09:20:38,108 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+09:20:38,118 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+09:20:38,118 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+09:20:38,138 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+09:20:38,148 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+09:20:38,158 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+09:20:38,178 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+09:20:38,178 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+09:20:38,188 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+09:20:38,198 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+09:20:38,208 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+09:20:38,218 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+09:20:38,238 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+09:20:38,278 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+09:20:38,278 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+09:20:38,278 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+09:20:38,288 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+09:20:38,298 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+09:20:38,298 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+09:20:38,298 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+09:20:38,308 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 192.168.1.3:9208 loaded...
+09:20:38,318 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+09:20:38,318 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+09:20:38,318 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+09:20:38,328 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+09:20:38,358 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 127 handlers from GameServer Assembly!
+09:20:38,378 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+09:20:38,388 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+09:20:38,388 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9202
+09:20:38,388 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+09:20:38,408 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9208
+09:20:38,418 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+09:20:38,428 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+09:20:51,865 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:52306
+09:20:51,865 - [11] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:52306), received bytes=0
+09:20:51,905 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:52309
+09:21:41,415 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+09:21:41,415 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+09:21:41,415 - [6] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+09:22:39,765 - [15] - INFO  - Game.Server.GameServer - Buff Scaning ...
+09:22:39,765 - [15] - INFO  - Game.Server.GameServer - Buff Scan complete!
+09:22:41,235 - [15] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+09:22:51,965 - [11] - WARN  - Game.Base.Packets.PacketProcessor - (192.168.1.3:52309) Handle packet Thread 11 Game.Server.Packets.Client.ItemStrengthenHandler took 73804ms!
+09:23:08,207 - [11] - WARN  - Game.Base.Packets.PacketProcessor - (192.168.1.3:52309) Handle packet Thread 11 Game.Server.Packets.Client.StoreClearItemHandler took 7207ms!
+09:23:38,337 - [6] - INFO  - Game.Server.GameServer - Begin ping check....
+09:23:38,337 - [6] - INFO  - Game.Server.GameServer - End ping check....
+09:23:38,337 - [6] - INFO  - Game.Server.GameServer - Begin ping center check....
+09:23:38,347 - [6] - INFO  - Game.Server.GameServer - End ping center check....
+09:23:38,357 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+09:23:38,357 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+09:23:38,357 - [14] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+09:24:38,367 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+09:24:38,367 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+09:24:38,367 - [14] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+09:24:43,737 - [11] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:52309), received bytes=0
+09:24:50,047 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:52326
+09:24:50,047 - [11] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:52326), received bytes=0
+09:24:50,077 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:52329
+09:25:14,807 - [11] - WARN  - Game.Base.Packets.PacketProcessor - (192.168.1.3:52329) Handle packet Thread 11 Game.Server.Packets.Client.StoreClearItemHandler took 3276ms!
+09:25:38,317 - [15] - INFO  - Game.Server.GameServer - Saving Record...
+09:25:38,387 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+09:25:38,387 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+09:25:38,387 - [6] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+09:26:37,798 - [15] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: The given ColumnMapping does not match up with any column in the source or destination.
+   at System.Data.SqlClient.SqlBulkCopy.AnalyzeTargetAndCreateUpdateBulkCommand(BulkCopySimpleResultSet internalResults)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:line 102
+09:26:37,808 - [15] - INFO  - Game.Server.GameServer - Saving Record complete!
+09:26:38,338 - [14] - INFO  - Game.Server.GameServer - Begin ping check....
+09:26:38,338 - [14] - INFO  - Game.Server.GameServer - End ping check....
+09:26:38,338 - [14] - INFO  - Game.Server.GameServer - Begin ping center check....
+09:26:38,338 - [14] - INFO  - Game.Server.GameServer - End ping center check....
+09:26:38,398 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+09:26:38,398 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+09:26:38,398 - [6] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+09:26:53,758 - [11] - WARN  - Game.Base.Packets.PacketProcessor - (192.168.1.3:52329) Handle packet Thread 11 Game.Server.Packets.Client.ItemStrengthenHandler took 609:42:19,640 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+09:42:19,905 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+09:42:19,905 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+09:42:19,937 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+09:42:19,937 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+09:42:19,937 - [MAIN] - INFO  - Game.Server.GameServer - Edition:21000: True
+09:42:19,952 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+09:42:19,968 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+09:42:19,983 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+09:42:19,983 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+09:42:20,108 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+09:42:20,155 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+09:42:20,171 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+09:42:20,186 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+09:42:20,202 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+09:42:20,202 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+09:42:20,217 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+09:42:20,217 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+09:42:20,233 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+09:42:20,249 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+09:42:20,249 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+09:42:20,264 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+09:42:20,264 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+09:42:20,280 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+09:42:20,280 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+09:42:20,311 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+09:42:20,327 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+09:42:20,342 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+09:42:20,342 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+09:42:20,342 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+09:42:20,358 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+09:42:20,358 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+09:42:20,358 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+09:42:20,373 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 192.168.1.3:9208 loaded...
+09:42:20,373 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+09:42:20,373 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+09:42:20,373 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+09:42:20,389 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+09:42:20,420 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 127 handlers from GameServer Assembly!
+09:42:20,436 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+09:42:20,436 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+09:42:20,451 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9202
+09:42:20,451 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+09:42:20,467 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9208
+09:42:20,467 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+09:42:20,483 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+09:42:29,566 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:52518
+09:42:29,566 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:52518), received bytes=0
+0909:51:20,346 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+09:51:20,616 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+09:51:20,616 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+09:51:20,656 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+09:51:20,656 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+09:51:20,656 - [MAIN] - INFO  - Game.Server.GameServer - Edition:21000: True
+09:51:20,656 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+09:51:20,686 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+09:51:20,686 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+09:51:20,696 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+09:51:20,826 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+09:51:20,856 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+09:51:20,916 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+09:51:20,936 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+09:51:20,946 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+09:51:20,946 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+09:51:20,966 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+09:51:20,976 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+09:51:20,986 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+09:51:20,996 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+09:51:21,006 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+09:51:21,016 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+09:51:21,026 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+09:51:21,036 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+09:51:21,046 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+09:51:21,066 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+09:51:21,096 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+09:51:21,096 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+09:51:21,096 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+09:51:21,106 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+09:51:21,116 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+09:51:21,116 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+09:51:21,116 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+09:51:21,126 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 192.168.1.3:9208 loaded...
+09:51:21,136 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+09:51:21,136 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+09:51:21,136 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+09:51:21,156 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+09:51:21,186 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 127 handlers from GameServer Assembly!
+09:51:21,196 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+09:51:21,206 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+09:51:21,206 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9202
+09:51:21,206 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+09:51:21,216 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9208
+09:51:21,226 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+09:51:21,236 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+09:51:35,444 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:52707
+09:51:35,450 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:52707), received bytes=0
+09:51:35,540 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:52710
+09:52:21,151 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+09:52:21,152 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+09:52:21,153 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+09:52:39,893 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:52710), received bytes=0
+09:52:46,186 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:52780
+09:52:46,188 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:52780), received bytes=0
+09:52:46,219 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:52783
+09:53:21,161 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+09:53:21,162 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+09:53:21,163 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+09:54:21,153 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+09:54:21,157 - [8] - INFO  - Game.Server.GameServer - End ping check....
+09:54:21,158 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+09:54:21,160 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+09:54:21,175 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+09:54:21,175 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+09:54:21,177 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+09:55:21,189 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+09:55:21,189 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+09:55:21,191 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+09:56:21,147 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+09:56:21,203 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+09:56:21,203 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+09:56:21,204 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+09:56:21,453 - [7] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: The given ColumnMapping does not match up with any column in the source or destination.
+   at System.Data.SqlClient.SqlBulkCopy.AnalyzeTargetAndCreateUpdateBulkCommand(BulkCopySimpleResultSet internalResults)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:line 102
+09:56:21,459 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+09:56:31,709 - [16] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:52783), received bytes=0
+09:56:37,972 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:52805
+09:56:37,974 - [16] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:52805), received bytes=0
+09:56:38,005 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:52808
+09:57:21,157 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+09:57:21,158 - [8] - INFO  - Game.Server.GameServer - End ping check....
+09:57:21,159 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+09:57:21,159 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+09:57:21,217 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+09:57:21,217 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+09:57:21,218 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+09:57:42,912 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:52808), received bytes=0
+09:58:21,244 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+09:58:21,244 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+09:58:21,244 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+09:59:21,255 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+09:59:21,255 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+09:59:21,255 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:00:11,207 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:53092
+10:00:11,209 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:53092), received bytes=0
+10:00:11,241 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:53095
+10:00:12,647 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:53095), received bytes=0
+10:00:21,165 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+10:00:21,167 - [7] - INFO  - Game.Server.GameServer - End ping check....
+10:00:21,168 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+10:00:21,170 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+10:00:21,257 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:00:21,258 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:00:21,260 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:01:21,150 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+10:01:21,151 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+10:01:21,154 - [8] - INFO  - Game.Server.GameServer - Saving database...
+10:01:21,173 - [8] - INFO  - Game.Server.GameServer - Saving database complete!
+10:01:21,173 - [8] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 16ms
+10:01:21,271 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:01:21,271 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:01:21,273 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:02:21,285 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:02:21,285 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:02:21,287 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:03:21,176 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+10:03:21,177 - [7] - INFO  - Game.Server.GameServer - End ping check....
+10:03:21,177 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+10:03:21,184 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+10:03:21,297 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:03:21,298 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:03:21,299 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:04:21,311 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:04:21,311 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:04:21,313 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:05:21,325 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:05:21,325 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:05:21,326 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:06:21,159 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+10:06:21,159 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+10:06:21,189 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+10:06:21,189 - [8] - INFO  - Game.Server.GameServer - End ping check....
+10:06:21,189 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+10:06:21,189 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+10:06:21,339 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:06:21,339 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:06:21,339 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:07:21,352 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:07:21,352 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:07:21,352 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:08:21,365 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:08:21,365 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:08:21,366 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:09:21,201 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+10:09:21,201 - [7] - INFO  - Game.Server.GameServer - End ping check....
+10:09:21,201 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+10:09:21,201 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+10:09:21,381 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:09:21,381 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:09:21,381 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:10:21,392 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:10:21,393 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:10:21,394 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:11:21,160 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+10:11:21,160 - [7] - INFO  - Game.Server.GameServer - Saving database...
+10:11:21,171 - [7] - INFO  - Game.Server.GameServer - Saving database complete!
+10:11:21,172 - [7] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 0ms
+10:11:21,325 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+10:11:21,415 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:11:21,415 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:11:21,415 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:12:21,206 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+10:12:21,207 - [7] - INFO  - Game.Server.GameServer - End ping check....
+10:12:21,208 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+10:12:21,209 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+10:12:21,421 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:12:21,422 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:12:21,424 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:13:21,434 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:13:21,434 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:13:21,436 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:14:21,447 - [20] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:14:21,448 - [20] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:14:21,449 - [20] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:15:21,213 - [20] - INFO  - Game.Server.GameServer - Begin ping check....
+10:15:21,214 - [20] - INFO  - Game.Server.GameServer - End ping check....
+10:15:21,215 - [20] - INFO  - Game.Server.GameServer - Begin ping center check....
+10:15:21,216 - [20] - INFO  - Game.Server.GameServer - End ping center check....
+10:15:21,461 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:15:21,462 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:15:21,463 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:16:21,167 - [20] - INFO  - Game.Server.GameServer - Saving Record...
+10:16:21,168 - [20] - INFO  - Game.Server.GameServer - Saving Record complete!
+10:16:21,475 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:16:21,475 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:16:21,476 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:17:21,488 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:17:21,489 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+10:17:21,490 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+10:18:21,223 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+10:18:21,223 - [8] - INFO  - Game.Server.GameServer - End ping check....
+10:18:21,225 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+10:18:21,227 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+10:18:21,502 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+10:18:2116:17:41,810 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+16:17:45,860 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+16:17:45,865 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+16:17:46,375 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+16:17:46,376 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+16:17:46,377 - [MAIN] - INFO  - Game.Server.GameServer - Edition:21000: True
+16:17:46,384 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+16:17:46,451 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+16:17:46,636 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+16:17:46,925 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+16:17:56,293 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+16:17:56,363 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+16:17:56,493 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+16:17:56,675 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+16:17:56,811 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+16:17:56,850 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+16:17:56,905 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+16:17:56,978 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+16:17:57,191 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+16:17:57,227 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+16:17:57,270 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+16:17:57,282 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+16:17:57,297 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+16:17:57,369 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+16:17:57,378 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+16:17:57,540 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+16:17:57,732 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+16:17:57,758 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+16:17:57,761 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+16:17:57,851 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+16:17:57,887 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+16:17:57,946 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+16:17:57,952 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+16:17:58,029 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 192.168.1.3:9208 loaded...
+16:17:58,045 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+16:17:58,046 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+16:17:58,049 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+16:17:58,194 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+16:17:58,269 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 127 handlers from GameServer Assembly!
+16:17:58,283 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+16:17:58,298 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+16:17:58,304 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9202
+16:17:58,314 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+16:17:58,331 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9208
+16:17:58,337 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+16:17:58,346 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+16:18:58,056 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:18:58,058 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:18:58,059 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+16:19:58,068 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:19:58,069 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:19:58,071 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+16:20:03,226 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:55966
+16:20:11,485 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:55966), received bytes=0
+16:20:58,054 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+16:20:58,058 - [8] - INFO  - Game.Server.GameServer - End ping check....
+16:20:58,060 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+16:20:58,062 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+16:20:58,081 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:20:58,082 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:20:58,084 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:21:58,095 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:21:58,096 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:21:58,098 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:22:58,054 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+16:22:58,108 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:22:58,110 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:22:58,110 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:22:58,296 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+16:23:58,061 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+16:23:58,062 - [7] - INFO  - Game.Server.GameServer - End ping check....
+16:23:58,064 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+16:23:58,066 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+16:23:58,122 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:23:58,123 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:23:58,125 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:24:58,134 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:24:58,135 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:24:58,136 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:25:36,685 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:56110
+16:25:46,848 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:56110), received bytes=0
+16:25:58,149 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:25:58,150 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:25:58,151 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:26:58,073 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+16:26:58,074 - [7] - INFO  - Game.Server.GameServer - End ping check....
+16:26:58,076 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+16:26:58,077 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+16:26:58,163 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:26:58,164 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:26:58,166 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:27:58,053 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+16:27:58,054 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+16:27:58,058 - [7] - INFO  - Game.Server.GameServer - Saving database...
+16:27:58,065 - [7] - INFO  - Game.Server.GameServer - Saving database complete!
+16:27:58,066 - [7] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 0ms
+16:27:58,176 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:27:58,177 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:27:58,179 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:28:58,189 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:28:58,190 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:28:58,193 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:29:52,289 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:56125
+16:29:58,081 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+16:29:58,083 - [7] - INFO  - Game.Server.GameServer - End ping check....
+16:29:58,084 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+16:29:58,085 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+16:29:58,204 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:29:58,205 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:29:58,207 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:30:04,189 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:56125), received bytes=0
+16:30:58,217 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:30:58,218 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:30:58,218 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:31:14,527 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:56139
+16:31:21,006 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:56139), received bytes=0
+16:31:58,229 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:31:58,230 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:31:58,231 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:32:25,634 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:56148
+16:32:31,486 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:56148), received bytes=0
+16:32:58,064 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+16:32:58,065 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+16:32:58,092 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+16:32:58,093 - [7] - INFO  - Game.Server.GameServer - End ping check....
+16:32:58,095 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+16:32:58,096 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+16:32:58,244 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:32:58,245 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:32:58,247 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:33:58,257 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:33:58,258 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:33:58,260 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:34:58,271 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:34:58,272 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:34:58,274 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:35:58,101 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+16:35:58,102 - [7] - INFO  - Game.Server.GameServer - End ping check....
+16:35:58,104 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+16:35:58,106 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+16:35:58,285 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:35:58,286 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:35:58,287 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:36:47,525 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:56218
+16:36:58,298 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:36:58,299 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:36:58,300 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:37:27,700 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:56218), received bytes=0
+16:37:34,229 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:56230
+16:37:47,717 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:56230), received bytes=0
+16:37:58,064 - [7] - INFO  - Game.Server.GameServer - Saving database...
+16:37:58,064 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+16:37:58,070 - [7] - INFO  - Game.Server.GameServer - Saving database complete!
+16:37:58,071 - [7] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 0ms
+16:37:58,215 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+16:37:58,312 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:37:58,313 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:37:58,314 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:38:47,049 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:56239
+16:38:51,494 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:56239), received bytes=0
+16:38:58,111 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+16:38:58,112 - [7] - INFO  - Game.Server.GameServer - End ping check....
+16:38:58,113 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+16:38:58,115 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+16:38:58,324 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:38:58,325 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:38:58,326 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:39:44,857 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:56254
+16:39:49,337 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:56254), received bytes=0
+16:39:58,339 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:39:58,340 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:39:58,342 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:40:46,938 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:56270
+16:40:52,669 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:56270), received bytes=0
+16:40:58,352 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:40:58,353 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:40:58,355 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:41:58,121 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+16:41:58,121 - [8] - INFO  - Game.Server.GameServer - End ping check....
+16:41:58,122 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+16:41:58,123 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+16:41:58,367 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:41:58,368 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:41:58,369 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:42:58,075 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+16:42:58,077 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+16:42:58,380 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:42:58,381 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:42:58,383 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:43:58,394 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:43:58,395 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:43:58,396 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:44:58,130 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+16:44:58,131 - [7] - INFO  - Game.Server.GameServer - End ping check....
+16:44:58,133 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+16:44:58,135 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+16:44:58,407 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:44:58,408 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:44:58,410 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:45:58,420 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:45:58,421 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:45:58,423 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:46:58,434 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:46:58,435 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:46:58,436 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:47:58,075 - [7] - INFO  - Game.Server.GameServer - Saving database...
+16:47:58,075 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+16:47:58,110 - [7] - INFO  - Game.Server.GameServer - Saving database complete!
+16:47:58,111 - [7] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 31ms
+16:47:58,137 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+16:47:58,138 - [7] - INFO  - Game.Server.GameServer - End ping check....
+16:47:58,138 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+16:47:58,139 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+16:47:58,247 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+16:47:58,448 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:47:58,448 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:47:58,449 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:48:58,462 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:48:58,463 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:48:58,465 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:49:58,474 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:49:58,475 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:49:58,477 - [10] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:50:58,149 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+16:50:58,150 - [8] - INFO  - Game.Server.GameServer - End ping check....
+16:50:58,151 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+16:50:58,153 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+16:50:58,489 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:50:58,489 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:50:58,490 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:51:58,501 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:51:58,502 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:51:58,504 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:52:58,085 - [10] - INFO  - Game.Server.GameServer - Saving Record...
+16:52:58,211 - [10] - INFO  - Game.Server.GameServer - Saving Record complete!
+16:52:58,516 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:52:58,517 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:52:58,518 - [10] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:53:53,902 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:56425
+16:53:54,669 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:56425), received bytes=0
+16:53:58,159 - [10] - INFO  - Game.Server.GameServer - Begin ping check....
+16:53:58,160 - [10] - INFO  - Game.Server.GameServer - End ping check....
+16:53:58,161 - [10] - INFO  - Game.Server.GameServer - Begin ping center check....
+16:53:58,163 - [10] - INFO  - Game.Server.GameServer - End ping center check....
+16:53:58,530 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:53:58,531 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:53:58,532 - [10] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:54:58,542 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:54:58,543 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:54:58,544 - [10] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:55:58,556 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:55:58,557 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:55:58,559 - [10] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:56:58,168 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+16:56:58,169 - [9] - INFO  - Game.Server.GameServer - End ping check....
+16:56:58,171 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+16:56:58,172 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+16:56:58,570 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:56:58,571 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:56:58,572 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:57:58,088 - [9] - INFO  - Game.Server.GameServer - Saving database...
+16:57:58,088 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+16:57:58,090 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+16:57:58,095 - [9] - INFO  - Game.Server.GameServer - Saving database complete!
+16:57:58,096 - [9] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 0ms
+16:57:58,584 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:57:58,584 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:57:58,585 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:58:58,597 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:58:58,598 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:58:58,600 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+16:59:58,177 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+16:59:58,178 - [8] - INFO  - Game.Server.GameServer - End ping check....
+16:59:58,180 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+16:59:58,181 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+16:59:58,610 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+16:59:58,611 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+16:59:58,612 - [10] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+17:00:58,624 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:00:58,625 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:00:58,627 - [10] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+17:01:58,638 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:01:58,639 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:01:58,641 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+17:02:58,096 - [10] - INFO  - Game.Server.GameServer - Saving Record...
+17:02:58,097 - [10] - INFO  - Game.Server.GameServer - Saving Record complete!
+17:02:58,186 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+17:02:58,187 - [8] - INFO  - Game.Server.GameServer - End ping check....
+17:02:58,189 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+17:02:58,190 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+17:02:58,651 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:02:58,652 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:02:58,653 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+17:03:11,517 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:56585
+17:03:20,015 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:56585), received bytes=0
+17:03:58,665 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:03:58,665 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:03:58,665 - [10] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+17:04:24,918 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:56597
+17:04:28,761 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:56597), received bytes=0
+17:04:58,679 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:04:58,680 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:04:58,680 - [10] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+17:04:58,734 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:56606
+17:05:04,136 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:56606), received bytes=0
+17:05:08,740 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:56615
+17:05:12,765 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:56615), received bytes=0
+17:05:58,197 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+17:05:58,198 - [7] - INFO  - Game.Server.GameServer - End ping check....
+17:05:58,198 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+17:05:58,199 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+17:05:58,692 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:05:58,693 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:05:58,693 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+17:06:58,707 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:06:58,707 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:06:58,707 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+17:07:24,219 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:56672
+17:07:24,221 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:56672), received bytes=0
+17:07:24,254 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:56675
+17:07:48,067 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:56675), received bytes=0
+17:07:54,536 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:56688
+17:07:54,538 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:56688), received bytes=0
+17:07:54,569 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:56691
+17:07:58,099 - [9] - INFO  - Game.Server.GameServer - Saving database...
+17:07:58,099 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+17:07:58,121 - [9] - INFO  - Game.Server.GameServer - Saving database complete!
+17:07:58,122 - [9] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 16ms
+17:07:58,247 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+17:07:58,720 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:07:58,721 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:07:58,721 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+17:08:02,976 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:56691), received bytes=0
+17:08:09,422 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:56698
+17:08:09,424 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:56698), received bytes=0
+17:08:09,452 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:56701
+17:08:21,379 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:56701), received bytes=0
+17:08:27,618 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:56711
+17:08:27,620 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:56711), received bytes=0
+17:08:27,692 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:56714
+17:08:53,538 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:56714), received bytes=0
+17:08:58,204 - [10] - INFO  - Game.Server.GameServer - Begin ping check....
+17:08:58,204 - [10] - INFO  - Game.Server.GameServer - End ping check....
+17:08:58,205 - [10] - INFO  - Game.Server.GameServer - Begin ping center check....
+17:08:58,205 - [10] - INFO  - Game.Server.GameServer - End ping center check....
+17:08:58,734 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+17:08:58,734 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+17:08:58,735 - [10] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+17:08:59,751 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:56727
+17:08:59,754 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:56727), received bytes=0
+17:08:59,785 - [4] 17:14:02,170 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+17:14:06,086 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+17:14:06,086 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+17:14:06,226 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+17:14:06,226 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+17:14:06,226 - [MAIN] - INFO  - Game.Server.GameServer - Edition:21000: True
+17:14:06,242 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+17:14:06,304 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+17:14:06,398 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+17:14:06,601 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+17:14:12,419 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+17:14:12,466 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+17:14:12,607 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+17:14:12,763 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+17:14:12,856 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+17:14:12,903 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+17:14:12,965 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+17:14:13,012 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+17:14:13,090 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+17:14:13,137 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+17:14:13,184 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+17:14:13,199 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+17:14:13,215 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+17:14:13,262 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+17:14:13,262 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+17:14:13,355 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+17:14:13,449 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+17:14:13,465 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+17:14:13,465 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+17:14:13,480 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+17:14:13,636 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+17:14:13,683 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+17:14:13,683 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+17:14:13,745 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 192.168.1.3:9208 loaded...
+17:14:13,761 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+17:14:13,761 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+17:14:13,761 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+17:14:13,777 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+17:14:13,808 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 127 handlers from GameServer Assembly!
+17:14:13,823 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+17:14:13,839 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+17:14:13,855 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9202
+17:14:13,855 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+17:14:13,870 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9208
+17:14:13,870 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+17:14:13,886 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+17:14:17,665 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:57122
+17:14:17,665 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:57122), received bytes=0
+1718:55:52,604 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+18:55:54,020 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+18:55:54,023 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+18:55:54,076 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+18:55:54,076 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+18:55:54,076 - [MAIN] - INFO  - Game.Server.GameServer - Edition:21000: True
+18:55:54,083 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+18:55:54,116 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+18:55:54,211 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+18:55:54,231 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+18:55:55,777 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+18:55:55,830 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+18:55:55,986 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+18:55:56,110 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+18:55:56,219 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+18:55:56,266 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+18:55:56,297 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+18:55:56,391 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+18:55:56,531 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+18:55:56,578 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+18:55:56,621 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+18:55:56,629 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+18:55:56,643 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+18:55:56,669 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+18:55:56,674 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+18:55:56,741 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+18:55:56,858 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+18:55:56,863 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+18:55:56,864 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+18:55:56,923 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+18:55:56,945 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+18:55:56,956 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+18:55:56,959 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+18:55:57,009 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 192.168.1.3:9208 loaded...
+18:55:57,020 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+18:55:57,021 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+18:55:57,022 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+18:55:57,081 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+18:55:57,113 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 127 handlers from GameServer Assembly!
+18:55:57,123 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+18:55:57,137 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+18:55:57,141 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9202
+18:55:57,144 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+18:55:57,154 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9208
+18:55:57,158 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+18:55:57,167 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+18:56:57,037 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+18:56:57,038 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+18:56:57,040 - [8] - INFO  - Game.Server.GameServer - Buff all 19:00:35,351 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+19:00:35,602 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+19:00:35,602 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+19:00:35,642 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+19:00:35,642 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+19:00:35,642 - [MAIN] - INFO  - Game.Server.GameServer - Edition:21000: True
+19:00:35,652 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+19:00:35,672 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+19:00:35,682 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+19:00:35,692 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+19:00:35,812 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+19:00:35,856 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+19:00:35,877 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+19:00:35,893 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+19:00:35,900 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+19:00:35,907 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+19:00:35,920 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+19:00:35,928 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+19:00:35,937 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+19:00:35,952 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+19:00:35,958 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+19:00:35,966 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+19:00:35,973 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+19:00:36,006 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+19:00:36,011 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+19:00:36,035 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+19:00:36,066 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+19:00:36,070 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+19:00:36,071 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+19:00:36,083 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+19:00:36,088 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+19:00:36,093 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+19:00:36,096 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+19:00:36,107 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 192.168.1.3:9208 loaded...
+19:00:36,115 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+19:00:36,116 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+19:00:36,117 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+19:00:36,131 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+19:00:36,162 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 127 handlers from GameServer Assembly!
+19:00:36,173 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+19:00:36,185 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+19:00:36,189 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9202
+19:00:36,192 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+19:00:36,233 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9208
+19:00:36,238 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+19:00:36,247 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+19:00:49,551 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:50455
+19:00:49,571 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:50455), received bytes=0
+1919:04:09,307 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+19:04:09,627 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+19:04:09,627 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+19:04:09,807 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+19:04:09,807 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+19:04:09,807 - [MAIN] - INFO  - Game.Server.GameServer - Edition:21000: True
+19:04:09,817 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+19:04:09,837 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+19:04:09,847 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+19:04:09,857 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+19:04:10,037 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+19:04:10,077 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+19:04:10,107 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+19:04:10,127 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+19:04:10,137 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+19:04:10,147 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+19:04:10,157 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+19:04:10,167 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+19:04:10,177 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+19:04:10,197 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+19:04:10,207 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+19:04:10,217 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+19:04:10,217 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+19:04:10,247 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+19:04:10,247 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+19:04:10,287 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+19:04:10,317 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+19:04:10,317 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+19:04:10,327 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+19:04:10,337 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+19:04:10,337 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+19:04:10,347 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+19:04:10,347 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+19:04:10,357 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 192.168.1.3:9208 loaded...
+19:04:10,367 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+19:04:10,367 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+19:04:10,367 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+19:04:10,387 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+19:04:10,417 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 127 handlers from GameServer Assembly!
+19:04:10,427 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+19:04:10,447 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+19:04:10,447 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9202
+19:04:10,447 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+19:04:10,457 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9208
+19:04:10,467 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+19:04:10,477 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+19:04:52,418 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:50493
+19:04:52,438 - [11] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:50493), received bytes=0
+19:07:40,558 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+19:07:40,828 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+19:07:40,830 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+19:07:40,868 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+19:07:40,868 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+19:07:40,868 - [MAIN] - INFO  - Game.Server.GameServer - Edition:21000: True
+19:07:40,874 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+19:07:40,901 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+19:07:40,907 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+19:07:40,916 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+19:07:41,038 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+19:07:41,082 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+19:07:41,105 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+19:07:41,120 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+19:07:41,129 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+19:07:41,136 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+19:07:41,150 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+19:07:41,160 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+19:07:41,170 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+19:07:41,187 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+19:07:41,193 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+19:07:41,201 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+19:07:41,208 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+19:07:41,223 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+19:07:41,228 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+19:07:41,252 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+19:07:41,284 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+19:07:41,287 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+19:07:41,289 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+19:07:41,300 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+19:07:41,305 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+19:07:41,310 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+19:07:41,312 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+19:07:41,323 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 192.168.1.3:9208 loaded...
+19:07:41,330 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+19:07:41,330 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+19:07:41,332 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+19:07:41,344 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+19:07:41,374 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 127 handlers from GameServer Assembly!
+19:07:41,384 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+19:07:41,396 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+19:07:41,399 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9202
+19:07:41,401 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+19:07:41,408 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9208
+19:07:41,411 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+19:07:41,421 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+19:07:55,047 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:50529
+19:07:55,047 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:50529), received bytes=0
+19:07:55,167 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:50532
+19:08:41,332 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:08:41,332 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:08:41,332 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+19:09:28,971 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+19:09:41,344 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:09:41,344 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:09:41,345 - [8] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+19:09:44,430 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:50704
+19:09:44,431 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:50704), received bytes=0
+19:09:44,464 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:50707
+19:09:49,255 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:50722
+19:09:49,257 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:50722), received bytes=0
+19:09:49,288 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:50725
+19:10:41,334 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+19:10:41,338 - [8] - INFO  - Game.Server.GameServer - End ping check....
+19:10:41,339 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+19:10:41,340 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+19:10:41,358 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:10:41,359 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:10:41,360 - [9] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+19:11:10,642 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:50725), received bytes=0
+19:11:15,570 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:50734
+19:11:15,572 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:50734), received bytes=0
+19:11:15,604 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:50737
+19:11:41,373 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:11:41,373 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:11:41,374 - [8] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:12:41,329 - [10] - INFO  - Game.Server.GameServer - Saving Record...
+19:12:41,386 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:12:41,386 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:12:41,387 - [9] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:12:42,221 - [10] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: The given value of type String from the data source cannot be converted to type int of the specified target column. ---> System.FormatException: Failed to convert parameter value from a String to a Int32. ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType)
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType)
+   at System.Data.SqlClient.SqlBulkCopy.ConvertValue(Object value, _SqlMetaData metadata)
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlBulkCopy.ConvertValue(Object value, _SqlMetaData metadata)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:line 101
+19:12:42,243 - [10] - INFO  - Game.Server.GameServer - Saving Record complete!
+19:13:41,340 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+19:13:41,341 - [9] - INFO  - Game.Server.GameServer - End ping check....
+19:13:41,355 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+19:13:41,357 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+19:13:41,399 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:13:41,400 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:13:41,400 - [9] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:14:41,413 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:14:41,414 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:14:41,415 - [9] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:15:41,427 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:15:41,428 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:15:41,429 - [7] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:16:41,348 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+19:16:41,350 - [9] - INFO  - Game.Server.GameServer - End ping check....
+19:16:41,360 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+19:16:41,360 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+19:16:41,440 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:16:41,440 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:16:41,462 - [9] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:17:41,329 - [9] - INFO  - Game.Server.GameServer - Saving Record...
+19:17:41,330 - [9] - INFO  - Game.Server.GameServer - Saving Record complete!
+19:17:41,331 - [8] - INFO  - Game.Server.GameServer - Saving database...
+19:17:41,426 - [8] - INFO  - Game.Server.GameServer - Saving database complete!
+19:17:41,428 - [8] - INFO  - Game.Server.GameServer - Saved all databases and 3 players in 94ms
+19:17:41,453 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:17:41,454 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:17:41,454 - [8] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:18:41,468 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:18:41,470 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:18:41,470 - [8] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:19:41,362 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+19:19:41,362 - [9] - INFO  - Game.Server.GameServer - End ping check....
+19:19:41,362 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+19:19:41,362 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+19:19:41,482 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:19:41,483 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:19:41,484 - [9] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:20:41,495 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:20:41,496 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:20:41,496 - [10] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:21:41,508 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:21:41,509 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:21:41,510 - [7] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:22:41,338 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+19:22:41,338 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+19:22:41,365 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+19:22:41,366 - [7] - INFO  - Game.Server.GameServer - End ping check....
+19:22:41,373 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+19:22:41,374 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+19:22:41,522 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:22:41,523 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:22:41,524 - [9] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:23:41,536 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:23:41,536 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:23:41,537 - [8] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:24:41,549 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:24:41,550 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:24:41,551 - [10] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:25:41,378 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+19:25:41,379 - [7] - INFO  - Game.Server.GameServer - End ping check....
+19:25:41,383 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+19:25:41,384 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+19:25:41,562 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:25:41,563 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:25:41,564 - [8] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:26:41,576 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:26:41,580 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:26:41,581 - [8] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:27:41,340 - [7] - INFO  - Game.Server.GameServer - Saving database...
+19:27:41,340 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+19:27:41,429 - [7] - INFO  - Game.Server.GameServer - Saving database complete!
+19:27:41,430 - [7] - INFO  - Game.Server.GameServer - Saved all databases and 3 players in 78ms
+19:27:41,555 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+19:27:41,589 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:27:41,590 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:27:41,591 - [7] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:28:41,387 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+19:28:41,388 - [9] - INFO  - Game.Server.GameServer - End ping check....
+19:28:41,391 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+19:28:41,392 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+19:28:41,606 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:28:41,608 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:28:41,609 - [8] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:29:41,617 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:29:41,618 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:29:41,619 - [9] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:30:41,630 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:30:41,631 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:30:41,634 - [10] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:31:41,396 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+19:31:41,398 - [9] - INFO  - Game.Server.GameServer - End ping check....
+19:31:41,400 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+19:31:41,411 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+19:31:41,644 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:31:41,645 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:31:41,646 - [8] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:32:39,761 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:50737), received bytes=0
+19:32:41,349 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+19:32:41,350 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+19:32:41,657 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:32:41,657 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:32:41,659 - [10] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:33:41,679 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:33:41,679 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:33:41,679 - [7] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:34:41,409 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+19:34:41,409 - [8] - INFO  - Game.Server.GameServer - End ping check....
+19:34:41,409 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+19:34:41,409 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+19:34:41,689 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:34:41,689 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:34:41,689 - [8] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:35:41,699 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:35:41,702 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:35:41,706 - [7] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:35:42,929 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:50707), received bytes=0
+19:35:49,598 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:50902
+19:35:49,600 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:50902), received bytes=0
+19:35:49,631 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:50905
+19:36:41,712 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:36:41,712 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:36:41,713 - [7] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:37:41,350 - [8] - INFO  - Game.Server.GameServer - Saving database...
+19:37:41,350 - [10] - INFO  - Game.Server.GameServer - Saving Record...
+19:37:41,415 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+19:37:41,415 - [9] - INFO  - Game.Server.GameServer - End ping check....
+19:37:41,416 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+19:37:41,416 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+19:37:41,431 - [8] - INFO  - Game.Server.GameServer - Saving database complete!
+19:37:41,432 - [8] - INFO  - Game.Server.GameServer - Saved all databases and 3 players in 78ms
+19:37:41,726 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:37:41,727 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:37:41,727 - [8] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:37:41,810 - [10] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: The given value of type String from the data source cannot be converted to type int of the specified target column. ---> System.FormatException: Failed to convert parameter value from a String to a Int32. ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType)
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType)
+   at System.Data.SqlClient.SqlBulkCopy.ConvertValue(Object value, _SqlMetaData metadata)
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlBulkCopy.ConvertValue(Object value, _SqlMetaData metadata)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:line 101
+19:37:41,830 - [10] - INFO  - Game.Server.GameServer - Saving Record complete!
+19:38:41,740 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:38:41,741 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:38:41,742 - [8] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:39:41,753 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:39:41,753 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:39:41,753 - [7] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:40:41,425 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+19:40:41,426 - [7] - INFO  - Game.Server.GameServer - End ping check....
+19:40:41,427 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+19:40:41,428 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+19:40:41,767 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:40:41,767 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:40:41,767 - [9] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:41:41,780 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:41:41,781 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:41:41,782 - [7] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:42:40,193 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:50905), received bytes=0
+19:42:41,360 - [10] - INFO  - Game.Server.GameServer - Saving Record...
+19:42:41,374 - [10] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: The given value of type String from the data source cannot be converted to type int of the specified target column. ---> System.FormatException: Failed to convert parameter value from a String to a Int32. ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType)
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType)
+   at System.Data.SqlClient.SqlBulkCopy.ConvertValue(Object value, _SqlMetaData metadata)
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlBulkCopy.ConvertValue(Object value, _SqlMetaData metadata)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:line 101
+19:42:41,380 - [10] - INFO  - Game.Server.GameServer - Saving Record complete!
+19:42:41,797 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:42:41,797 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:42:41,797 - [10] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:42:46,211 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:51060
+19:42:46,211 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:51060), received bytes=0
+19:42:46,251 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:51063
+19:43:41,435 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+19:43:41,435 - [9] - INFO  - Game.Server.GameServer - End ping check....
+19:43:41,435 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+19:43:41,435 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+19:43:41,815 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:43:41,815 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:43:41,815 - [7] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:44:41,820 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:44:41,820 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:44:41,821 - [10] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:45:41,841 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:45:41,841 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:45:41,841 - [10] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:46:41,451 - [10] - INFO  - Game.Server.GameServer - Begin ping check....
+19:46:41,451 - [10] - INFO  - Game.Server.GameServer - End ping check....
+19:46:41,451 - [10] - INFO  - Game.Server.GameServer - Begin ping center check....
+19:46:41,451 - [10] - INFO  - Game.Server.GameServer - End ping center check....
+19:46:41,851 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:46:41,851 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:46:41,851 - [7] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:47:41,364 - [9] - INFO  - Game.Server.GameServer - Saving database...
+19:47:41,364 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+19:47:41,370 - [8] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: The given value of type String from the data source cannot be converted to type int of the specified target column. ---> System.FormatException: Failed to convert parameter value from a String to a Int32. ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType)
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType)
+   at System.Data.SqlClient.SqlBulkCopy.ConvertValue(Object value, _SqlMetaData metadata)
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlBulkCopy.ConvertValue(Object value, _SqlMetaData metadata)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:line 101
+19:47:41,374 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+19:47:41,404 - [9] - INFO  - Game.Server.GameServer - Saving database complete!
+19:47:41,405 - [9] - INFO  - Game.Server.GameServer - Saved all databases and 3 players in 32ms
+19:47:41,861 - [10] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:47:41,862 - [10] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:47:41,863 - [10] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+19:48:02,905 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:51118
+19:48:02,907 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:51118), received bytes=0
+19:48:02,937 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:51121
+19:48:41,874 - [7] - INFO  - Game.Serve19:54:17,988 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+19:54:19,202 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+19:54:19,205 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+19:54:19,356 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+19:54:19,356 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+19:54:19,356 - [MAIN] - INFO  - Game.Server.GameServer - Edition:21000: True
+19:54:19,364 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+19:54:19,390 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+19:54:19,396 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+19:54:19,420 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+19:54:21,062 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+19:54:21,127 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+19:54:21,152 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+19:54:21,279 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+19:54:21,294 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+19:54:21,307 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+19:54:21,326 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+19:54:21,336 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+19:54:21,347 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+19:54:21,365 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+19:54:21,372 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+19:54:21,380 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+19:54:21,388 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+19:54:21,404 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+19:54:21,409 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+19:54:21,435 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+19:54:21,466 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+19:54:21,470 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+19:54:21,471 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+19:54:21,483 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+19:54:21,509 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+19:54:21,514 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+19:54:21,516 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+19:54:21,554 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 192.168.1.3:9208 loaded...
+19:54:21,563 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+19:54:21,564 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+19:54:21,566 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+19:54:21,593 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+19:54:21,624 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 127 handlers from GameServer Assembly!
+19:54:21,634 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+19:54:21,647 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+19:54:21,650 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9202
+19:54:21,653 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+19:54:21,660 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9208
+19:54:21,664 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+19:54:21,672 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+19:54:31,007 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:51157
+19:54:31,014 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:51157), received bytes=0
+1919:55:29,295 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+19:55:29,648 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+19:55:29,651 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+19:55:29,827 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+19:55:29,828 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+19:55:29,829 - [MAIN] - INFO  - Game.Server.GameServer - Edition:21000: True
+19:55:29,837 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+19:55:29,864 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+19:55:29,871 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+19:55:29,963 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+19:55:30,140 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+19:55:30,185 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+19:55:30,209 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+19:55:30,226 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+19:55:30,235 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+19:55:30,243 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+19:55:30,257 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+19:55:30,267 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+19:55:30,277 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+19:55:30,294 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+19:55:30,301 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+19:55:30,309 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+19:55:30,317 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+19:55:30,333 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+19:55:30,339 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+19:55:30,367 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+19:55:30,400 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+19:55:30,404 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+19:55:30,405 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+19:55:30,417 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+19:55:30,422 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+19:55:30,427 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+19:55:30,429 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+19:55:30,439 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 192.168.1.3:9208 loaded...
+19:55:30,444 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+19:55:30,445 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+19:55:30,447 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+19:55:30,466 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+19:55:30,499 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 127 handlers from GameServer Assembly!
+19:55:30,509 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+19:55:30,522 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+19:55:30,526 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9202
+19:55:30,529 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+19:55:30,534 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9208
+19:55:30,540 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+19:55:30,550 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+19:55:48,420 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:51206
+19:55:48,424 - [11] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:51206), received bytes=0
+19:55:48,466 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:51209
+19:55:57,330 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:51222
+19:55:57,332 - [11] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:51222), received bytes=0
+19:55:57,369 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:51225
+19:56:30,458 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:56:30,460 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:56:30,461 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+19:57:30,470 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:57:30,471 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:57:30,474 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+19:58:30,459 - [15] - INFO  - Game.Server.GameServer - Begin ping check....
+19:58:30,463 - [15] - INFO  - Game.Server.GameServer - End ping check....
+19:58:30,473 - [15] - INFO  - Game.Server.GameServer - Begin ping center check....
+19:58:30,477 - [15] - INFO  - Game.Server.GameServer - End ping center check....
+19:58:30,482 - [16] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:58:30,483 - [16] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:58:30,485 - [16] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+19:59:30,495 - [15] - INFO  - Game.Server.GameServer - Buff Scaning ...
+19:59:30,496 - [15] - INFO  - Game.Server.GameServer - Buff Scan complete!
+19:59:30,497 - [15] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+20:00:22,319 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.PlayerBussiness.SendMail(MailInfo mail) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:line 1271
+20:00:22,350 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.PlayerBussiness.SendMail(MailInfo mail) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:line 1271
+20:00:30,453 - [16] - INFO  - Game.Server.GameServer - Saving Record...
+20:00:30,512 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+20:00:30,515 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+20:00:30,515 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+20:00:36,216 - [16] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: The given value of type String from the data source cannot be converted to type int of the specified target column. ---> System.FormatException: Failed to convert parameter value from a String to a Int32. ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType)
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType)
+   at System.Data.SqlClient.SqlBulkCopy.ConvertValue(Object value, _SqlMetaData metadata)
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlBulkCopy.ConvertValue(Object value, _SqlMetaData metadata)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:line 101
+20:00:36,234 - [16] - INFO  - Game.Server.GameServer - Saving Record complete!
+20:01:30,462 - [14] - INFO  - Game.Server.GameServer - Begin ping check....
+20:01:30,468 - [14] - INFO  - Game.Server.GameServer - End ping check....
+20:01:30,469 - [14] - INFO  - Game.Server.GameServer - Begin ping center check....
+20:01:30,470 - [14] - INFO  - Game.Server.GameServer - End ping center check....
+20:01:30,523 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+20:01:30,523 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+20:01:30,524 - [6] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+20:01:52,273 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.PlayerBussiness.SendMail(MailInfo mail) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:line 1271
+20:01:52,308 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.PlayerBussiness.SendMail(MailInfo mail) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:line 1271
+20:02:30,546 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+20:02:30,546 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+20:02:30,551 - [14] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+20:03:30,551 - [15] - INFO  - Game.Server.GameServer - Buff Scaning ...
+20:03:30,553 - [15] - INFO  - Game.Server.GameServer - Buff Scan complete!
+20:03:30,554 - [15] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+20:03:39,595 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:51400
+20:03:39,597 - [11] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:51400), received bytes=0
+20:03:39,628 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:51403
+20:04:30,472 - [6] - INFO  - Game.Server.GameServer - Begin ping check....
+20:04:30,472 - [6] - INFO  - Game.Server.GameServer - End ping check....
+20:04:30,481 - [6] - INFO  - Game.Server.GameServer - Begin ping center check....
+20:04:30,492 - [6] - INFO  - Game.Server.GameServer - End ping center check....
+20:04:30,563 - [16] - INFO  - Game.Server.GameServer - Buff Scaning ...
+20:04:30,564 - [16] - INFO  - Game.Server.GameServer - Buff Scan complete!
+20:04:30,569 - [16] - INFO  - Game.Server.GameServer - Buff all 3 players in 0ms
+20:05:28,990 - [11] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:51403), received bytes=0
+20:05:30,457 - [14] - INFO  - Game.Server.GameServer - Saving Record...
+20:05:30,460 - [15] - INFO  - Game.Server.GameServer - Saving database...
+20:05:30,491 - [14] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: The given value of type String from the data source cannot be converted to type int of the specified target column. ---> System.FormatException: Failed to convert parameter value from a String to a Int32. ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType)
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType)
+   at System.Data.SqlClient.SqlBulkCopy.ConvertValue(Object value, _SqlMetaData metadata)
+   --- End of inner exception stack trac

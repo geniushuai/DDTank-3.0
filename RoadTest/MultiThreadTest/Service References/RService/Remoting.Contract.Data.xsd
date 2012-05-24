@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Remoting.Contract.Data" xmlns:ser="http://schemas.microsoft.com/2003/10/Serialization/" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Remoting.Contract.Data" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+  <xs:complexType name="PlayerInfo">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Experience" type="xs:int" />
+      <xs:element minOccurs="0" name="FriendVerify" type="xs:int" />
+      <xs:element minOccurs="0" name="GuidId" type="ser:guid" />
+      <xs:element minOccurs="0" name="HasEnterAlum" type="xs:boolean" />
+      <xs:element minOccurs="0" name="HasExtendWish" type="xs:boolean" />
+      <xs:element minOccurs="0" name="HasPhoto" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="IsApprove" type="xs:boolean" />
+      <xs:element minOccurs="0" name="IsFirstLogin" type="xs:boolean" />
+      <xs:element minOccurs="0" name="LastScene" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Level" type="xs:int" />
+      <xs:element minOccurs="0" name="Money" type="xs:decimal" />
+      <xs:element minOccurs="0" name="NickName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PassWord" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="SchoolId" type="ser:guid" />
+      <xs:element minOccurs="0" name="SchoolName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Score" type="xs:int" />
+      <xs:element minOccurs="0" name="Sex" type="xs:boolean" />
+      <xs:element minOccurs="0" name="State" type="xs:int" />
+      <xs:element minOccurs="0" name="Style" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="StyleType" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TrueName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="UserName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="UserSign" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="PlayerInfo" nillable="true" type="tns:PlayerInfo" />
+  <xs:complexType name="ArrayOfPlayerInfo">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="PlayerInfo" nillable="true" type="tns:PlayerInfo" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfPlayerInfo" nillable="true" type="tns:ArrayOfPlayerInfo" />
+</xs:schema>

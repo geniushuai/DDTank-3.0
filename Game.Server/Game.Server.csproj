@@ -1,0 +1,458 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{ACEDF415-5072-402F-8542-BE1505C8AFF4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DLLServer.Mundo</RootNamespace>
+    <AssemblyName>DLLServerMundo</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=1.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.ServiceModel">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="zlib.net, Version=1.0.3.0, Culture=neutral, PublicKeyToken=47d7877cb3620160">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\zlib.net.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Battle\BattleMgr.cs" />
+    <Compile Include="Battle\BattleServer.cs" />
+    <Compile Include="Battle\ProxyGame.cs" />
+    <Compile Include="Buffer\AbstractBuffer.cs" />
+    <Compile Include="Buffer\BufferList.cs" />
+    <Compile Include="Buffer\GPMultipleBuffer.cs" />
+    <Compile Include="Buffer\KickProtectBuffer.cs" />
+    <Compile Include="Buffer\OfferMultipleBuffer.cs" />
+    <Compile Include="Buffer\PropsBuffer.cs" />
+    <Compile Include="Commands\Admin\ListObjectsCommand.cs" />
+    <Compile Include="Commands\Admin\ReloadCommand.cs" />
+    <Compile Include="Enumerate\eConsumerType.cs" />
+    <Compile Include="Enumerate\eSubConsumerType.cs" />
+    <Compile Include="Battle\FightServerConnector.cs" />
+    <Compile Include="GameServerConfig.cs" />
+    <Compile Include="Games\GameMgr.cs" />
+    <Compile Include="GameUtils\PlayerInventory.cs" />
+    <Compile Include="GameUtils\Scene.cs" />
+    <Compile Include="HotSpringRooms\AbstractMarryProcessor.cs" />
+    <Compile Include="HotSpringRooms\eRoomState.cs" />
+    <Compile Include="HotSpringRooms\HotSpringCmdType.cs" />
+    <Compile Include="HotSpringRooms\HotSpringProcessorAttribute.cs" />
+    <Compile Include="HotSpringRooms\HotSpringRoom.cs" />
+    <Compile Include="HotSpringRooms\IHotSpringProcessor.cs" />
+    <Compile Include="HotSpringRooms\TankHandle\ForbidCommand.cs" />
+    <Compile Include="HotSpringRooms\TankHandle\HotSpringCommandAttribute.cs" />
+    <Compile Include="HotSpringRooms\TankHandle\HotSpringCommandMgr.cs" />
+    <Compile Include="HotSpringRooms\TankHandle\IHotSpringCommandHandler.cs" />
+    <Compile Include="HotSpringRooms\TankHandle\InviteCommand.cs" />
+    <Compile Include="HotSpringRooms\TankHandle\KickCommand.cs" />
+    <Compile Include="HotSpringRooms\TankHandle\LargessCommand.cs" />
+    <Compile Include="HotSpringRooms\TankHandle\Position.cs" />
+    <Compile Include="HotSpringRooms\TankHandle\RenewWalFeeCommand.cs" />
+    <Compile Include="HotSpringRooms\TankHandle\RoomPlayerCommand.cs" />
+    <Compile Include="HotSpringRooms\TankHandle\TargetPointCommand.cs" />
+    <Compile Include="HotSpringRooms\TankHandle\TimeUpdateCommand.cs" />
+    <Compile Include="HotSpringRooms\TankHotSpringLogicProcessor.cs" />
+    <Compile Include="HotSpringRooms\TankHandle\ContinuationCommand.cs" />
+    <Compile Include="LoginServerConnector.cs" />
+    <Compile Include="ChatServer\eChatServerPacket.cs" />
+    <Compile Include="GameClient.cs" />
+    <Compile Include="GameObjects\GamePlayer.cs" />
+    <Compile Include="GameUtils\AbstractInventory.cs" />
+    <Compile Include="GameUtils\PlayerEquipInventory.cs" />
+    <Compile Include="Managers\AntiAddictionMgr.cs" />
+    <Compile Include="Managers\AwardMgr.cs" />
+    <Compile Include="Managers\ConsortiaMgr.cs">
+      <SubType>
+      </SubType>
+    </Compile>
+    <Compile Include="Managers\MacroDropMgr.cs" />
+    <Compile Include="Managers\RateMgr.cs" />
+    <Compile Include="Managers\FightRateMgr.cs" />
+    <Compile Include="Managers\FusionMgr.cs" />
+    <Compile Include="Managers\MarryRoomMgr.cs" />
+    <Compile Include="Managers\RefineryMgr.cs" />
+    <Compile Include="Managers\StrengthenMgr.cs" />
+    <Compile Include="Packets\Client\AASControlHandler.cs" />
+    <Compile Include="Packets\Client\AASInfoSetHandle.cs" />
+    <Compile Include="Packets\Client\AASStateGetHandler.cs" />
+    <Compile Include="Packets\Client\ACActionHandler.cs" />
+    <Compile Include="Packets\Client\ActivePullDownHandler.cs" />
+    <Compile Include="Packets\Client\AuctionAddHandler.cs" />
+    <Compile Include="Packets\Client\AuctionDeleteHandler.cs" />
+    <Compile Include="Packets\Client\AuctionUpdateHandler.cs" />
+    <Compile Include="Packets\Client\BigBugleHandler.cs" />
+    <Compile Include="Packets\Client\BuffInfoHandler.cs" />
+    <Compile Include="Packets\Client\CaddyClearAllHandler.cs" />
+    <Compile Include="Packets\Client\CardDataHander.cs" />
+    <Compile Include="Packets\Client\CardUseHandler.cs" />
+    <Compile Include="Packets\Client\CheckCodeHandler.cs" />
+    <Compile Include="Packets\Client\ClientErrorLog.cs" />
+    <Compile Include="Packets\Client\ConsortiaAllyAddHandler.cs" />
+    <Compile Include="Packets\Client\ConsortiaApplyAllyAddHandler.cs" />
+    <Compile Include="Packets\Client\ConsortiaApplyAllyDeleteHandler.cs" />
+    <Compile Include="Packets\Client\ConsortiaApplyAllyPassHandler.cs" />
+    <Compile Include="Packets\Client\ConsortiaApplyLoginDeleteHandler.cs" />
+    <Compile Include="Packets\Client\ConsortiaApplyLoginHandler.cs" />
+    <Compile Include="Packets\Client\ConsortiaApplyLoginPassHandler.cs" />
+    <Compile Include="Packets\Client\ConsortiaChangeChairmanHandler.cs" />
+    <Compile Include="Packets\Client\ConsortiaChatHandler.cs" />
+    <Compile Include="Packets\Client\ConsortiaCreateHandler.cs" />
+    <Compile Include="Packets\Client\ConsortiaDescriptionUpdateHandler.cs" />
+    <Compile Include="Packets\Client\ConsortiaDisbandHandler.cs" />
+    <Compile Include="Packets\Client\ConsortiaDutyAddHandler.cs" />
+    <Compile Include="Packets\Client\ConsortiaDutyDeleteHandler.cs" />
+    <Compile Include="Packets\Client\ConsortiaDutyUpdateHandler.cs" />
+    <Compile Include="Packets\Client\ConsortiaEquipControlHandler.cs" />
+    <Compile Include="Packets\Client\ConsortiaInviteAddHandler.cs" />
+    <Compile Include="Packets\Client\ConsortiaInviteDeleteHandler.cs" />
+    <Compile Include="Packets\Client\ConsortiaInvitePassHandler.cs" />
+    <Compile Include="Packets\Client\ConsortiaIsBanChatHandler.cs" />
+    <Compile Include="Packets\Client\ConsortiaPlacardUpdateHandler.cs" />
+    <Compile Include="Packets\Client\ConsortiaRichesOfferHandler.cs" />
+    <Compile Include="Packets\Client\ConsortiaShopUpGradeHandler.cs" />
+    <Compile Include="Packets\Client\ConsortiaSmithUpGradeHandler.cs" />
+    <Compile Include="Packets\Client\ConsortiaStoreUpGradeHandler.cs" />
+    <Compile Include="Packets\Client\ConsortiaUpGradeHandler.cs" />
+    <Compile Include="Packets\Client\ConsortiaUserDeleteHandler.cs" />
+    <Compile Include="Packets\Client\ConsortiaUserGradeUpdateHandler.cs" />
+    <Compile Include="Packets\Client\ConsortiaUserRemarkHandler.cs" />
+    <Compile Include="Packets\Client\ConsotiaApplyStateHandler.cs" />
+    <Compile Include="Packets\Client\DivorceApplyHandler.cs" />
+    <Compile Include="Packets\Client\FriendAddHandler.cs" />
+    <Compile Include="Packets\Client\FriendRemoveHandler.cs" />
+    <Compile Include="Packets\Client\FriendStateChangeHandler.cs" />
+    <Compile Include="Packets\Client\GameDataHandler.cs" />
+    <Compile Include="Packets\Client\GameInviteHandler.cs" />
+    <Compile Include="Packets\Client\GamePairUpCancelHandler.cs" />
+    <Compile Include="Packets\Client\GameRoomListHandler.cs" />
+    <Compile Include="Packets\Client\GameTakeOutHandler.cs" />
+    <Compile Include="Packets\Client\GameTakeTempItemsHandler.cs" />
+    <Compile Include="Packets\Client\GameUserCaptainHandler.cs" />
+    <Compile Include="Packets\Client\GameUserCloseHandler.cs" />
+    <Compile Include="Packets\Client\GameUserCreateHandler.cs" />
+    <Compile Include="Packets\Client\GameUserDailyAward.cs" />
+    <Compile Include="Packets\Client\GameUserGameTypeHandler.cs" />
+    <Compile Include="Packets\Client\GameUserKickHandler.cs" />
+    <Compile Include="Packets\Client\GameUserLeaveHandler.cs" />
+    <Compile Include="Packets\Client\GameUserLoginHandler.cs" />
+    <Compile Include="Packets\Client\GameUserOpenHandler.cs" />
+    <Compile Include="Packets\Client\GameUserPairUpSetUpHandler.cs" />
+    <Compile Include="Packets\Client\GameUserSetUpHandler.cs" />
+    <Compile Include="Packets\Client\GameUserStartHandler.cs" />
+    <Compile Include="Packets\Client\GameUserTeamHandler.cs" />
+    <Compile Include="Packets\Client\GameUserUpdatePlaceHandler.cs" />
+    <Compile Include="Packets\Client\GoodsPresentHandler.cs" />
+    <Compile Include="Packets\Client\HotSpringCmdDataHandler.cs" />
+    <Compile Include="Packets\Client\HotSpringEnterConfirmHandler.cs" />
+    <Compile Include="Packets\Client\HotSpringEnterHandler.cs" />
+    <Compile Include="Packets\Client\HotSpringPlayerRemoveNoticeHandler.cs" />
+    <Compile Include="Packets\Client\HotSpringRoomCreateHandler.cs" />
+    <Compile Include="Packets\Client\HotSpringRoomEnterDataHandler.cs" />
+    <Compile Include="Packets\Client\HotSpringRoomEnterViewHandler.cs" />
+    <Compile Include="Packets\Client\HotSpringRoomListGetHandler.cs" />
+    <Compile Include="Packets\Client\HotSpringRoomPlayerAddHandler.cs" />
+    <Compile Include="Packets\Client\HotSpringRoomPlayerRemoveHandler.cs" />
+    <Compile Include="Packets\Client\HotSpringRoomQuickEnterHandler.cs" />
+    <Compile Include="Packets\Client\IPacketHandler.cs" />
+    <Compile Include="Packets\Client\ItemCompareHandler.cs" />
+    <Compile Include="Packets\Client\ItemComposeHandler.cs" />
+    <Compile Include="Packets\Client\ItemEmbedBackOutHandler.cs" />
+    <Compile Include="Packets\Client\ItemFusionHandler.cs" />
+    <Compile Include="Packets\Client\ItemInlayHandle.cs" />
+    <Compile Include="Packets\Client\ItemOverdueHandler.cs" />
+    <Compile Include="Packets\Client\ItemReclaimHandler.cs" />
+    <Compile Include="Packets\Client\ItemRefineryHandler.cs" />
+    <Compile Include="Packets\Client\ItemStrengthenHandler.cs" />
+    <Compile Include="Packets\Client\ItemTransferHandler.cs" />
+    <Compile Include="Packets\Client\ItemTrendHandle.cs" />
+    <Compile Include="Packets\Client\LotteryFinishHandler.cs" />
+    <Compile Include="Packets\Client\LotteryOpenBoxHandler.cs" />
+    <Compile Include="Packets\Client\MailGetAttachHandler.cs" />
+    <Compile Include="Packets\Client\MailPaymentCancelHandler.cs" />
+    <Compile Include="Packets\Client\MarryApplyHandler.cs" />
+    <Compile Include="Packets\Client\MarryApplyReplyHandler.cs" />
+    <Compile Include="Packets\Client\MarryDataHandler.cs" />
+    <Compile Include="Packets\Client\MarryInfoAddHandler.cs" />
+    <Compile Include="Packets\Client\MarryInfoDeleteHandler.cs" />
+    <Compile Include="Packets\Client\MarryInfoGetHandler.cs" />
+    <Compile Include="Packets\Client\MarryInfoUpdateHandler.cs" />
+    <Compile Include="Packets\Client\MarryRoomCreateHandler.cs" />
+    <Compile Include="Packets\Client\MarryRoomInfoUpdateHandler.cs" />
+    <Compile Include="Packets\Client\MarryRoomLoginHandler.cs" />
+    <Compile Include="Packets\Client\MarrySceneChangeHandler.cs" />
+    <Compile Include="Packets\Client\MarryStateHandler.cs" />
+    <Compile Include="Packets\Client\MarryStatusHandler.cs" />
+    <Compile Include="Packets\Client\OpenUpArkHandler.cs" />
+    <Compile Include="Packets\Client\PacketHandlerAttribute.cs" />
+    <Compile Include="Packets\Client\PassWordTwoHandle.cs" />
+    <Compile Include="Packets\Client\PingTimeCallBackHandler.cs" />
+    <Compile Include="Packets\Client\PropBuyHandler.cs" />
+    <Compile Include="Packets\Client\PropDeleteHandler.cs" />
+    <Compile Include="Packets\Client\PropSellHandler.cs" />
+    <Compile Include="Packets\Client\QuestAddHandler.cs" />
+    <Compile Include="Packets\Client\QuestCheckHandler.cs" />
+    <Compile Include="Packets\Client\QuestFinishHandler.cs" />
+    <Compile Include="Packets\Client\QuestRemoveHandler.cs" />
+    <Compile Include="Packets\Client\SceneChangeChannel.cs" />
+    <Compile Include="Packets\Client\SceneChatHandler.cs" />
+    <Compile Include="Packets\Client\SceneSmileHandler.cs" />
+    <Compile Include="Packets\Client\SceneUsersListHandler.cs" />
+    <Compile Include="Packets\Client\SmallBugleHandler.cs" />
+    <Compile Include="Packets\Client\StoreClearItemHandler.cs" />
+    <Compile Include="Packets\Client\StoreItemHandler.cs" />
+    <Compile Include="Packets\Client\SyncSystemDateHandler.cs" />
+    <Compile Include="Packets\Client\TankAllHandler.cs" />
+    <Compile Include="Packets\Client\Test30Hand.cs" />
+    <Compile Include="Packets\Client\UserAnswerHandler.cs" />
+    <Compile Include="Packets\Client\UserBreakItemHandler.cs" />
+    <Compile Include="Packets\Client\UserBuyItemHandler.cs" />
+    <Compile Include="Packets\Client\UserChainItemHandler.cs" />
+    <Compile Include="Packets\Client\UserChangeItemColorHandler.cs" />
+    <Compile Include="Packets\Client\UserChangeItemPlaceHandler.cs" />
+    <Compile Include="Packets\Client\UserDeleteItemHandler.cs" />
+    <Compile Include="Packets\Client\UserDeleteMailHandler.cs" />
+    <Compile Include="Packets\Client\UserEnterMarrySceneHandler.cs" />
+    <Compile Include="Packets\Client\UserEnterSceneHandler.cs" />
+    <Compile Include="Packets\Client\UserEquipListHandler.cs" />
+    <Compile Include="Packets\Client\UserHideItemHandler.cs" />
+    <Compile Include="Packets\Client\UserItemContineueHandler.cs" />
+    <Compile Include="Packets\Client\UserLeaveMarryRoom.cs" />
+    <Compile Include="Packets\Client\UserLeaveSceneHandler.cs" />
+    <Compile Include="Packets\Client\UserLoginHandler.cs" />
+    <Compile Include="Packets\Client\UserPlayerStateHandler.cs" />
+    <Compile Include="Packets\Client\UserPrivateChatHandler.cs" />
+    <Compile Include="Packets\Client\UserSceneReadyHandler.cs" />
+    <Compile Include="Packets\Client\UserSellItemHandler.cs" />
+    <Compile Include="Packets\Client\UserSendMailHandler.cs" />
+    <Compile Include="Packets\Client\UserSynchActionHandler.cs" />
+    <Compile Include="Packets\Client\UserUnchainItemHandler.cs" />
+    <Compile Include="Packets\Client\UserUpdateGPHandler.cs" />
+    <Compile Include="Packets\Client\UserUpdateMailHandler.cs" />
+    <Compile Include="Packets\eDutyRightType.cs" />
+    <Compile Include="Packets\eMailType.cs" />
+    <Compile Include="Packets\eMarryApplyType.cs" />
+    <Compile Include="Packets\ePackageType.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Packets\Server\ConsolePacketLib.cs" />
+    <Compile Include="Quests\BaseCondition.cs" />
+    <Compile Include="Quests\BaseQuest.cs" />
+    <Compile Include="Quests\ClientModifyCondition.cs" />
+    <Compile Include="Quests\DirectFinishCondition.cs" />
+    <Compile Include="Quests\FinishGameCondition.cs" />
+    <Compile Include="Quests\GameFightByGameCondition.cs" />
+    <Compile Include="Quests\GameKillByGameCondition.cs" />
+    <Compile Include="Quests\GameMissionOverCondition.cs" />
+    <Compile Include="Quests\GameOverByGameCondition.cs" />
+    <Compile Include="Quests\ItemComposeCondition.cs" />
+    <Compile Include="Quests\ItemFusionCondition.cs" />
+    <Compile Include="Quests\GameCopyOverCondition.cs" />
+    <Compile Include="Quests\GameCopyPassCondition.cs" />
+    <Compile Include="Quests\GameFightByRoomCondition.cs" />
+    <Compile Include="Quests\GameKillByRoomCondition.cs" />
+    <Compile Include="Quests\GameMonsterCondition.cs" />
+    <Compile Include="Quests\GameOverByRoomCondition.cs" />
+    <Compile Include="Quests\ItemMountingCondition.cs" />
+    <Compile Include="Quests\UsingItemCondition.cs" />
+    <Compile Include="Quests\ItemStrengthenCondition.cs" />
+    <Compile Include="Quests\ItemMeltCondition.cs" />
+    <Compile Include="Quests\OwnConsortiaCondition.cs" />
+    <Compile Include="Quests\OwnMarryCondition.cs" />
+    <Compile Include="Quests\OwnPropertyCondition.cs" />
+    <Compile Include="Quests\QuestInventory.cs" />
+    <Compile Include="Quests\ShopCondition.cs" />
+    <Compile Include="Quests\TurnPropertyCondition.cs" />
+    <Compile Include="Quests\OwnGradeCondition.cs" />
+    <Compile Include="Rooms\ExitWaitRoomAction.cs" />
+    <Compile Include="Rooms\RoomSetupChangeAction.cs" />
+    <Compile Include="Rooms\StartProxyGameAction.cs" />
+    <Compile Include="Rooms\StopProxyGameAction.cs" />
+    <Compile Include="SceneMarryRooms\eRoomState.cs" />
+    <Compile Include="SceneMarryRooms\TankHandle\GunsaluteCommand.cs" />
+    <Compile Include="SceneMarryRooms\TankHandle\Position.cs" />
+    <Compile Include="Rooms\BaseRoom.cs" />
+    <Compile Include="Rooms\BaseWaitingRoom.cs" />
+    <Compile Include="Rooms\CancelPickupAction.cs" />
+    <Compile Include="Rooms\CreateRoomAction.cs" />
+    <Compile Include="Rooms\EnterRoomAction.cs" />
+    <Compile Include="Rooms\EnterWaitingRoomAction.cs" />
+    <Compile Include="Rooms\ExitRoomAction.cs" />
+    <Compile Include="Rooms\IAction.cs" />
+    <Compile Include="Rooms\KickPlayerAction.cs" />
+    <Compile Include="Rooms\RoomMgr.cs" />
+    <Compile Include="Rooms\StartGameAction.cs" />
+    <Compile Include="Rooms\SwitchTeamAction.cs" />
+    <Compile Include="Rooms\UpdatePlayerStateAction.cs" />
+    <Compile Include="Rooms\UpdateRoomPosAction.cs" />
+    <Compile Include="SceneMarryRooms\AbstractMarryProcessor.cs" />
+    <Compile Include="SceneMarryRooms\MarryProcessorAttribute.cs" />
+    <Compile Include="SceneMarryRooms\IMarryProcessor.cs" />
+    <Compile Include="SceneMarryRooms\MarryRoom.cs" />
+    <Compile Include="SceneMarryRooms\MarryCmdType.cs" />
+    <Compile Include="SceneMarryRooms\TankHandle\ContinuationCommand.cs" />
+    <Compile Include="SceneMarryRooms\TankHandle\ForbidCommand.cs" />
+    <Compile Include="SceneMarryRooms\TankHandle\HymenealCommand.cs" />
+    <Compile Include="SceneMarryRooms\TankHandle\InviteCommand.cs" />
+    <Compile Include="SceneMarryRooms\TankHandle\KickCommand.cs" />
+    <Compile Include="SceneMarryRooms\TankHandle\LargessCommand.cs" />
+    <Compile Include="SceneMarryRooms\TankHandle\MoveCommand.cs" />
+    <Compile Include="SceneMarryRooms\TankHandle\UserFirecrackersCommand.cs" />
+    <Compile Include="SceneMarryRooms\TankMarryLogicProcessor.cs" />
+    <Compile Include="SceneMarryRooms\TankHandle\MarryCommandAttbute.cs" />
+    <Compile Include="SceneMarryRooms\TankHandle\MarryCommandMgr.cs" />
+    <Compile Include="SceneMarryRooms\TankHandle\IMarryCommandHandler.cs" />
+    <Compile Include="Statics\LogItemType.cs" />
+    <Compile Include="Statics\ItemAddType.cs" />
+    <Compile Include="Statics\ItemRemoveType.cs" />
+    <Compile Include="Statics\LogMgr.cs" />
+    <Compile Include="Statics\LogMoneyType.cs" />
+    <Compile Include="Statics\MoneyAddType.cs" />
+    <Compile Include="Managers\LevelMgr.cs" />
+    <Compile Include="Managers\LoginMgr.cs" />
+    <Compile Include="Packets\eMessageType.cs" />
+    <Compile Include="Service References\WebLogin\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="GameServer.cs" />
+    <Compile Include="GlobalConstants.cs" />
+    <Compile Include="Packets\Server\AbstractPacketLib.cs" />
+    <Compile Include="Packets\Server\IPacketLib.cs" />
+    <Compile Include="Packets\Server\PacketLibAttribute.cs" />
+    <Compile Include="Packets\Server\PacketProcessor.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Managers\WorldMgr.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Bussiness\Bussiness.csproj">
+      <Project>{87C66FCB-06BB-42C0-86E1-ED814A77EBE4}</Project>
+      <Name>Bussiness</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Game.Base\Game.Base.csproj">
+      <Project>{0015BF52-A89D-4D4C-B212-D2228FF1DF71}</Project>
+      <Name>Game.Base</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Game.Logic\Game.Logic.csproj">
+      <Project>{92507F15-0EA3-4C51-82A0-F0CAC68E9FB3}</Project>
+      <Name>Game.Logic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Road.Flash\Road.Flash.csproj">
+      <Project>{310A9027-532A-4009-A903-AB6CB23E487B}</Project>
+      <Name>Road.Flash</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SqlDataProvider\SqlDataProvider.csproj">
+      <Project>{037F4B7B-B05B-44A9-B83E-32C21D7A7B41}</Project>
+      <Name>SqlDataProvider</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Config\logconfig.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\WebLogin\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\WebLogin\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\WebLogin\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\DataSources\Remoting.Contract.Data.ItemInfo.datasource" />
+    <None Include="Properties\DataSources\Remoting.Contract.Data.PlayerInfo.datasource" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\WebLogin\PassPort1.disco" />
+    <None Include="Service References\WebLogin\PassPort1.wsdl" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\WebLogin\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Design\" />
+    <Folder Include="ServerProperties\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

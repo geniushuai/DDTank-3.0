@@ -1,0 +1,24 @@
+20:05:28,882 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - Script compilation failed because: 
+20:05:28,882 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - 当前上下文中不存在名称“totalMissionCount”
+20:05:28,882 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr -    d:\workspace\Server\Game.Service\bin\Debug\scripts\AI\Game\ExplorationHardGame.cs Line:12 Col:13
+20:05:28,882 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - Script compilation failed because: 
+20:05:28,882 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - 当前上下文中不存在名称“missionIds”
+20:05:28,882 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr -    d:\workspace\Server\Game.Service\bin\Debug\scripts\AI\Game\ExplorationHardGame.cs Line:13 Col:13
+20:05:28,882 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - Script compilation failed because: 
+20:05:28,882 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - 当前上下文中不存在名称“totalMissionCount”
+20:05:28,882 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr -    d:\workspace\Server\Game.Service\bin\Debug\scripts\AI\Game\ExplorationNormalGame.cs Line:12 Col:13
+20:05:28,882 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - Script compilation failed because: 
+20:05:28,882 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - 当前上下文中不存在名称“missionIds”
+20:05:28,882 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr -    d:\workspace\Server\Game.Service\bin\Debug\scripts\AI\Game\ExplorationNormalGame.cs Line:13 Col:13
+20:05:28,882 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - Script compilation failed because: 
+20:05:28,882 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - 当前上下文中不存在名称“totalMissionCount”
+20:05:28,887 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr -    d:\workspace\Server\Game.Service\bin\Debug\scripts\AI\Game\ExplorationSimpleGame.cs Line:12 Col:13
+20:05:28,887 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - Script compilation failed because: 
+20:05:28,887 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - 当前上下文中不存在名称“missionIds”
+20:05:28,887 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr -    d:\workspace\Server\Game.Service\bin\Debug\scripts\AI\Game\ExplorationSimpleGame.cs Line:13 Col:13
+20:05:28,887 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - Script compilation failed because: 
+20:05:28,887 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - 当前上下文中不存在名称“totalMissionCount”
+20:05:28,887 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr -    d:\workspace\Server\Game.Service\bin\Debug\scripts\AI\Game\ExplorationTerrorGame.cs Line:12 Col:13
+20:05:28,892 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - Script compilation failed because: 
+20:05:28,892 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - 当前上下文中不存在名称“missionIds”
+20:05:28,892 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr -    d:\workspace\Server\Game.Service\bin\Debug\scripts\AI\Game\ExplorationTerrorGame.cs Line:13 Col:13

@@ -1,0 +1,1927 @@
+06:21:11,723 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+06:21:12,453 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+06:21:12,463 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+06:21:12,493 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+06:21:12,493 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+06:21:12,493 - [MAIN] - INFO  - Game.Server.GameServer - Edition:21000: True
+06:21:12,503 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+06:21:12,533 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+06:21:12,543 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+06:21:12,563 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+06:21:12,703 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+06:21:12,743 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+06:21:12,763 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+06:21:12,773 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+06:21:12,783 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+06:21:12,793 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+06:21:12,813 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+06:21:12,813 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+06:21:12,823 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+06:21:12,843 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+06:21:12,843 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+06:21:12,853 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+06:21:12,863 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+06:21:12,873 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+06:21:12,883 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+06:21:12,903 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+06:21:12,933 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+06:21:12,933 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+06:21:12,933 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+06:21:12,943 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+06:21:12,953 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+06:21:12,953 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+06:21:12,953 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+06:21:12,963 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 192.168.1.3:9208 loaded...
+06:21:12,973 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+06:21:12,973 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+06:21:12,973 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+06:21:12,983 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+06:21:13,023 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 127 handlers from GameServer Assembly!
+06:21:13,033 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+06:21:13,053 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+06:21:13,053 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9202
+06:21:13,053 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+06:21:13,063 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9208
+06:21:13,073 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+06:21:13,083 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+06:21:14,073 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:49958), received bytes=0
+06:21:23,668 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:50007
+06:21:23,673 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:50007), received bytes=0
+06:21:23,711 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:50010
+06:22:12,984 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:22:12,984 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:22:12,984 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:23:12,994 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:23:12,994 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:23:12,994 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:24:12,974 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+06:24:12,974 - [8] - INFO  - Game.Server.GameServer - End ping check....
+06:24:12,974 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+06:24:12,984 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+06:24:13,014 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:24:13,014 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:24:13,014 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:25:13,024 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:25:13,024 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:25:13,024 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:26:12,974 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+06:26:13,034 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:26:13,034 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:26:13,034 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:26:13,944 - [7] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: The given value of type String from the data source cannot be converted to type int of the specified target column. ---> System.FormatException: Failed to convert parameter value from a String to a Int32. ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType)
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType)
+   at System.Data.SqlClient.SqlBulkCopy.ConvertValue(Object value, _SqlMetaData metadata)
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlBulkCopy.ConvertValue(Object value, _SqlMetaData metadata)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:line 102
+06:26:13,984 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+06:26:18,464 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:50010), received bytes=0
+06:27:12,984 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+06:27:12,984 - [8] - INFO  - Game.Server.GameServer - End ping check....
+06:27:12,984 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+06:27:12,994 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+06:27:13,054 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:27:13,054 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:27:13,054 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:28:13,064 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:28:13,064 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:28:13,064 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:29:13,074 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:29:13,074 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:29:13,074 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:30:12,994 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+06:30:12,994 - [7] - INFO  - Game.Server.GameServer - End ping check....
+06:30:12,994 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+06:30:12,994 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+06:30:13,094 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:30:13,094 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:30:13,094 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:31:12,984 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+06:31:12,984 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+06:31:12,984 - [8] - INFO  - Game.Server.GameServer - Saving database...
+06:31:13,104 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:31:13,104 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:31:13,104 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:31:13,204 - [8] - INFO  - Game.Server.GameServer - Saving database complete!
+06:31:13,204 - [8] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 219ms
+06:32:13,114 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:32:13,114 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:32:13,114 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:33:13,005 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+06:33:13,005 - [7] - INFO  - Game.Server.GameServer - End ping check....
+06:33:13,005 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+06:33:13,005 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+06:33:13,135 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:33:13,135 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:33:13,135 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:34:13,147 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:34:13,147 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:34:13,147 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:35:13,157 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:35:13,157 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:35:13,157 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:36:12,987 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+06:36:12,987 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+06:36:13,017 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+06:36:13,017 - [7] - INFO  - Game.Server.GameServer - End ping check....
+06:36:13,017 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+06:36:13,017 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+06:36:13,177 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:36:13,177 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:36:13,177 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:37:13,187 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:37:13,187 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:37:13,187 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:38:13,197 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:38:13,197 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:38:13,197 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:39:13,027 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+06:39:13,027 - [8] - INFO  - Game.Server.GameServer - End ping check....
+06:39:13,027 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+06:39:13,027 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+06:39:13,217 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:39:13,217 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:39:13,217 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:40:13,227 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:40:13,227 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:40:13,227 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:41:12,987 - [9] - INFO  - Game.Server.GameServer - Saving database...
+06:41:12,987 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+06:41:13,045 - [9] - INFO  - Game.Server.GameServer - Saving database complete!
+06:41:13,046 - [9] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 47ms
+06:41:13,145 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+06:41:13,236 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:41:13,236 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:41:13,237 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:42:13,035 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+06:42:13,036 - [7] - INFO  - Game.Server.GameServer - End ping check....
+06:42:13,037 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+06:42:13,038 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+06:42:13,250 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:42:13,250 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:42:13,251 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:43:13,264 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:43:13,264 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:43:13,264 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:44:13,278 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:44:13,279 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:44:13,280 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:45:13,042 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+06:45:13,043 - [9] - INFO  - Game.Server.GameServer - End ping check....
+06:45:13,044 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+06:45:13,045 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+06:45:13,290 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:45:13,291 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:45:13,292 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:46:12,996 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+06:46:13,116 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+06:46:13,305 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:46:13,306 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:46:13,307 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:47:13,318 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:47:13,319 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:47:13,320 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:48:13,058 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+06:48:13,058 - [8] - INFO  - Game.Server.GameServer - End ping check....
+06:48:13,058 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+06:48:13,058 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+06:48:13,338 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:48:13,338 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:48:13,338 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:49:13,349 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:49:13,349 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:49:13,349 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:50:13,359 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:50:13,359 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:50:13,359 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:51:12,999 - [8] - INFO  - Game.Server.GameServer - Saving database...
+06:51:12,999 - [9] - INFO  - Game.Server.GameServer - Saving Record...
+06:51:13,069 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+06:51:13,069 - [7] - INFO  - Game.Server.GameServer - End ping check....
+06:51:13,069 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+06:51:13,069 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+06:51:13,379 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:51:13,429 - [9] - INFO  - Game.Server.GameServer - Saving Record complete!
+06:51:13,469 - [8] - INFO  - Game.Server.GameServer - Saving database complete!
+06:51:13,469 - [8] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 468ms
+06:51:13,469 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:51:13,479 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 93ms
+06:52:13,390 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:52:13,390 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:52:13,390 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:53:13,400 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:53:13,400 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:53:13,400 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:54:13,070 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+06:54:13,070 - [9] - INFO  - Game.Server.GameServer - End ping check....
+06:54:13,070 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+06:54:13,070 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+06:54:13,420 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:54:13,420 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:54:13,420 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:55:13,427 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:55:13,427 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:55:13,427 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:56:13,008 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+06:56:13,008 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+06:56:13,448 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:56:13,448 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:56:13,448 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:57:13,088 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+06:57:13,088 - [8] - INFO  - Game.Server.GameServer - End ping check....
+06:57:13,088 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+06:57:13,088 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+06:57:13,458 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:57:13,458 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:57:13,458 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:58:13,467 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:58:13,467 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:58:13,467 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+06:59:13,482 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+06:59:13,483 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+06:59:13,484 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:00:13,090 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+07:00:13,091 - [9] - INFO  - Game.Server.GameServer - End ping check....
+07:00:13,092 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:00:13,093 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+07:00:13,494 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:00:13,495 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:00:13,496 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:01:13,009 - [8] - INFO  - Game.Server.GameServer - Saving database...
+07:01:13,009 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+07:01:13,015 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+07:01:13,024 - [8] - INFO  - Game.Server.GameServer - Saving database complete!
+07:01:13,025 - [8] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 16ms
+07:01:13,507 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:01:13,508 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:01:13,509 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:02:13,523 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:02:13,524 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:02:13,525 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:03:13,103 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+07:03:13,105 - [8] - INFO  - Game.Server.GameServer - End ping check....
+07:03:13,106 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:03:13,107 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+07:03:13,536 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:03:13,537 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:03:13,538 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:04:13,549 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:04:13,550 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:04:13,550 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:05:13,562 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:05:13,562 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:05:13,563 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:06:13,017 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+07:06:13,113 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+07:06:13,115 - [9] - INFO  - Game.Server.GameServer - End ping check....
+07:06:13,115 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:06:13,115 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+07:06:13,132 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+07:06:13,577 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:06:13,578 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:06:13,578 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:07:13,589 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:07:13,589 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:07:13,589 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:08:13,611 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:08:13,611 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:08:13,611 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:09:13,117 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+07:09:13,117 - [8] - INFO  - Game.Server.GameServer - End ping check....
+07:09:13,117 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:09:13,117 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+07:09:13,617 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:09:13,617 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:09:13,617 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:10:13,638 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:10:13,638 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:10:13,638 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:11:13,028 - [8] - INFO  - Game.Server.GameServer - Saving database...
+07:11:13,028 - [9] - INFO  - Game.Server.GameServer - Saving Record...
+07:11:13,028 - [9] - INFO  - Game.Server.GameServer - Saving Record complete!
+07:11:13,038 - [8] - INFO  - Game.Server.GameServer - Saving database complete!
+07:11:13,038 - [8] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 15ms
+07:11:13,648 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:11:13,648 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:11:13,648 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:12:13,128 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+07:12:13,128 - [8] - INFO  - Game.Server.GameServer - End ping check....
+07:12:13,128 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:12:13,128 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+07:12:13,658 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:12:13,658 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:12:13,658 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:13:13,678 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:13:13,678 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:13:13,678 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:14:13,688 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:14:13,688 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:14:13,688 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:15:13,138 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+07:15:13,138 - [8] - INFO  - Game.Server.GameServer - End ping check....
+07:15:13,138 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:15:13,138 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+07:15:13,698 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:15:13,698 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:15:13,698 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:16:13,038 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+07:16:13,038 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+07:16:13,718 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:16:13,718 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:16:13,718 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:17:13,728 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:17:13,728 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:17:13,728 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:18:13,148 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+07:18:13,148 - [9] - INFO  - Game.Server.GameServer - End ping check....
+07:18:13,148 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:18:13,148 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+07:18:13,748 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:18:13,748 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:18:13,748 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:19:13,758 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:19:13,758 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:19:13,758 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:20:13,768 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:20:13,768 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:20:13,768 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:21:13,038 - [8] - INFO  - Game.Server.GameServer - Saving database...
+07:21:13,038 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+07:21:13,098 - [8] - INFO  - Game.Server.GameServer - Saving database complete!
+07:21:13,098 - [8] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 62ms
+07:21:13,158 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+07:21:13,158 - [8] - INFO  - Game.Server.GameServer - End ping check....
+07:21:13,158 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:21:13,158 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+07:21:13,188 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+07:21:13,788 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:21:13,788 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:21:13,788 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:22:13,799 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:22:13,799 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:22:13,799 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:23:13,809 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:23:13,809 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:23:13,809 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:24:13,169 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+07:24:13,169 - [7] - INFO  - Game.Server.GameServer - End ping check....
+07:24:13,169 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:24:13,169 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+07:24:13,829 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:24:13,829 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:24:13,829 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:25:13,839 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:25:13,839 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:25:13,839 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:26:13,039 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+07:26:13,169 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+07:26:13,849 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:26:13,849 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:26:13,849 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:27:13,179 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+07:27:13,179 - [9] - INFO  - Game.Server.GameServer - End ping check....
+07:27:13,179 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:27:13,179 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+07:27:13,869 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:27:13,869 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:27:13,869 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:28:13,879 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:28:13,879 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:28:13,879 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:29:13,889 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:29:13,889 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:29:13,889 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:30:13,190 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+07:30:13,190 - [9] - INFO  - Game.Server.GameServer - End ping check....
+07:30:13,190 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:30:13,190 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+07:30:13,902 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:30:13,902 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:30:13,902 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:31:13,047 - [8] - INFO  - Game.Server.GameServer - Saving database...
+07:31:13,047 - [9] - INFO  - Game.Server.GameServer - Saving Record...
+07:31:13,047 - [9] - INFO  - Game.Server.GameServer - Saving Record complete!
+07:31:13,087 - [8] - INFO  - Game.Server.GameServer - Saving database complete!
+07:31:13,087 - [8] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 31ms
+07:31:13,917 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:31:13,917 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:31:13,917 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:32:13,931 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:32:13,931 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:32:13,931 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:32:51,105 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:51714
+07:32:51,105 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:51714), received bytes=0
+07:32:51,235 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:51717
+07:33:13,197 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+07:33:13,197 - [7] - INFO  - Game.Server.GameServer - End ping check....
+07:33:13,197 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:33:13,198 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+07:33:13,942 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:33:13,942 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:33:13,942 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:34:13,964 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:34:13,964 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:34:13,964 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:34:22,024 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:51717)
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Server.GameUtils.PlayerEquipInventory.MoveItem(Int32 fromSlot, Int32 toSlot, Int32 count) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameUtils\PlayerEquipInventory.cs:line 71
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 36
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+07:34:22,114 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 00 0F 0F 0F 02 00 00 00 00 35 00 0F 0F 0E   ...........5....
+
+07:34:24,204 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:51717)
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Server.GameUtils.PlayerEquipInventory.MoveItem(Int32 fromSlot, Int32 toSlot, Int32 count) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameUtils\PlayerEquipInventory.cs:line 71
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 36
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+07:34:24,204 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 00 0F 0F 0F 02 00 00 00 00 2E 00 0F 0F 0E   ................
+
+07:34:27,164 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:51717)
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Server.GameUtils.PlayerEquipInventory.MoveItem(Int32 fromSlot, Int32 toSlot, Int32 count) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameUtils\PlayerEquipInventory.cs:line 71
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 36
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+07:34:27,164 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 00 0F 0F 0F 02 00 00 00 00 0D 00 00 00 01   ................
+
+07:34:44,264 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Received packet code is outside of m_packetHandlers array bounds!  pakLib:Game.Base.Packets.AbstractPacketLib IP:192.168.1.3:51717 char:trieu2
+07:34:44,264 - [4] - ERROR - Game.Base.Packets.PacketProcessor - ===> <192.168.1.3:51717> Packet 0x1B1 (0x119) length: 26 (ThreadId=4)
+0000: 71 AB 00 1A 01 B1 00 00 00 11 01 01 01 01 01 01   q...............
+0010: 01 01 01 01 01 00 01 01 01 54 00 00 00 00 00 00   .........T......
+0020: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0030: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0040: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0050: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0060: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0070: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0080: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0090: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+00A0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+00B0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+00C0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+00D0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+00E0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+00F0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0100: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0110: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0120: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0130: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0140: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0150: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0160: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0170: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0180: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0190: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+01A0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+01B0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+01C0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+01D0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+01E0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+01F0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0200: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0210: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0220: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0230: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0240: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0250: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0260: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0270: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0280: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0290: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+02A0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+02B0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+02C0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+02D0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+02E0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+02F0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0300: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0310: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0320: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0330: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0340: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0350: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0360: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0370: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0380: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0390: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+03A0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+03B0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+03C0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+03D0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+03E0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+03F0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0400: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0410: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0420: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0430: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0440: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0450: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0460: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0470: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0480: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0490: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+04A0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+04B0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+04C0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+04D0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+04E0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+04F0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0500: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0510: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0520: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0530: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0540: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0550: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0560: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0570: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0580: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0590: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+05A0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+05B0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+05C0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+05D0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+05E0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+05F0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0600: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0610: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0620: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0630: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0640: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0650: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0660: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0670: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0680: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0690: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+06A0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+06B0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+06C0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+06D0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+06E0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+06F0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0700: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0710: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0720: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0730: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0740: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0750: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0760: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0770: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0780: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+0790: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+07A0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+07B0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+07C0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+07D0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+07E0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+07F0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+
+07:35:06,374 - [5] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:35:06,374 - [5] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.StartGameAction,127ms!
+07:35:06,374 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:35:06,374 - [5] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 129 ms,count:1
+07:35:06,444 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitPlayerLoadingAction
+07:35:07,554 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:35:07,574 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:35:07,694 - [6] - WARN  - Game.Server.Games.GameMgr - Game Mgr spent too much times: 86 ms, count:1
+07:35:11,214 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:35:11,334 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingFallingAction
+07:35:11,344 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingFallingAction
+07:35:11,344 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.PhysicalObjDoAction
+07:35:11,354 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.PhysicalObjDoAction
+07:35:11,354 - [6] - WARN  - Game.Server.Games.GameMgr - Game Mgr spent too much times: 102 ms, count:1
+07:35:13,974 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:35:13,974 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:35:13,974 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:35:15,414 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:35:15,484 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSayAction
+07:35:15,484 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSayAction
+07:35:15,484 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingPlayeMovieAction
+07:35:15,494 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingRangeAttackingAction
+07:35:19,864 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:35:19,904 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+07:35:20,694 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:35:20,774 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:35:20,844 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:35:20,934 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:35:21,004 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:35:21,094 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:35:21,174 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:35:21,244 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:35:21,494 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:35:24,914 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:35:27,054 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:35:27,744 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:35:28,694 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:35:28,724 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:35:28,724 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:35:28,804 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:35:28,844 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSayAction
+07:35:28,844 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSayAction
+07:35:28,844 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingPlayeMovieAction
+07:35:28,844 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:35:31,424 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingFallingAction
+07:35:31,424 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingFallingAction
+07:35:33,644 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:35:33,694 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:35:33,694 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:35:33,694 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:35:37,724 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:35:37,764 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:35:40,884 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:35:40,964 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:35:41,004 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:35:41,004 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:35:41,004 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:35:48,164 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:35:48,204 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:35:48,284 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:35:48,324 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+07:35:49,094 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:35:50,144 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:35:50,874 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:35:53,924 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:35:56,334 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:35:56,334 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:35:56,604 - [6] - WARN  - Game.Server.Games.GameMgr - Game Mgr spent too much times: 246 ms, count:1
+07:35:57,374 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:35:58,374 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:35:58,404 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:35:58,484 - [6] - WARN  - Game.Server.Games.GameMgr - Game Mgr spent too much times: 81 ms, count:1
+07:36:00,564 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSayAction
+07:36:00,564 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSayAction
+07:36:00,574 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingPlayeMovieAction
+07:36:00,574 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSealAction
+07:36:00,574 - [6] - WARN  - Game.Server.Games.GameMgr - Game Mgr spent too much times: 92 ms, count:1
+07:36:03,604 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingDelayEffectAction
+07:36:05,644 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:36:05,693 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSayAction
+07:36:05,693 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:36:05,693 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:36:05,733 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:36:10,670 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:36:10,750 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:36:13,047 - [9] - INFO  - Game.Server.GameServer - Saving Record...
+07:36:13,206 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+07:36:13,207 - [7] - INFO  - Game.Server.GameServer - End ping check....
+07:36:13,208 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:36:13,208 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+07:36:13,390 - [9] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: The given value of type String from the data source cannot be converted to type int of the specified target column. ---> System.FormatException: Failed to convert parameter value from a String to a Int32. ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType)
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType)
+   at System.Data.SqlClient.SqlBulkCopy.ConvertValue(Object value, _SqlMetaData metadata)
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlBulkCopy.ConvertValue(Object value, _SqlMetaData metadata)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:line 102
+07:36:13,543 - [9] - INFO  - Game.Server.GameServer - Saving Record complete!
+07:36:13,985 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:36:13,986 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:36:13,986 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:36:31,788 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:37:13,997 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:37:13,998 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:37:13,998 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:37:29,822 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:51717), received bytes=0
+07:37:39,847 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:51820
+07:37:39,848 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:51820), received bytes=0
+07:37:39,965 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:51823
+07:38:14,012 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:38:14,012 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:38:14,012 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:39:13,213 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+07:39:13,214 - [9] - INFO  - Game.Server.GameServer - End ping check....
+07:39:13,214 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:39:13,215 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+07:39:14,025 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:39:14,026 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:39:14,026 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:40:14,046 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:40:14,046 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:40:14,046 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:40:30,066 - [5] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:40:30,126 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:40:30,166 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitPlayerLoadingAction
+07:40:31,226 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:40:31,246 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:40:34,817 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:40:34,861 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingFallingAction
+07:40:36,936 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:40:36,980 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:40:36,980 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:40:36,980 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:40:36,981 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:40:36,981 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:40:36,982 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:40:36,982 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:40:36,982 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:40:36,983 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:40:36,983 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:40:36,983 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:40:40,773 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:40:40,973 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:40:42,170 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:40:43,489 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:40:43,769 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:40:44,048 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:40:44,327 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:40:44,724 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:40:44,764 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:40:44,924 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:40:45,004 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:40:45,044 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSayAction
+07:40:45,045 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSayAction
+07:40:45,046 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+07:40:46,700 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:40:47,466 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:40:50,653 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:40:51,019 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:40:52,313 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:40:55,071 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:40:55,071 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:40:55,157 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:40:55,157 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:40:55,158 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:40:56,098 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:40:56,131 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:40:57,112 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:41:01,652 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:41:01,694 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingFallingAction
+07:41:01,694 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:41:01,695 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:41:01,695 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:41:01,695 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:41:01,695 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:41:01,696 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:41:01,696 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:41:01,696 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:41:01,696 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:41:03,215 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:41:03,254 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:41:05,015 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:41:05,653 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:41:05,693 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:41:05,773 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:41:05,812 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:41:06,492 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:41:06,532 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:41:06,533 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:41:06,693 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:41:07,013 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:41:07,053 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:41:07,133 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:41:07,173 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSayAction
+07:41:07,174 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSayAction
+07:41:07,175 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+07:41:07,500 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:41:11,068 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:41:11,068 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:41:13,056 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+07:41:13,056 - [7] - INFO  - Game.Server.GameServer - Saving database...
+07:41:13,296 - [7] - INFO  - Game.Server.GameServer - Saving database complete!
+07:41:13,297 - [7] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 234ms
+07:41:13,405 - [8] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: The given value of type String from the data source cannot be converted to type int of the specified target column. ---> System.FormatException: Failed to convert parameter value from a String to a Int32. ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType)
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType)
+   at System.Data.SqlClient.SqlBulkCopy.ConvertValue(Object value, _SqlMetaData metadata)
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlBulkCopy.ConvertValue(Object value, _SqlMetaData metadata)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:line 102
+07:41:13,405 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+07:41:13,985 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:41:14,029 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:41:14,030 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:41:14,030 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:41:14,030 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:41:14,031 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:41:14,031 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:41:14,031 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:41:14,031 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:41:14,032 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:41:14,032 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:41:14,053 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:41:14,054 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:41:14,054 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:41:17,356 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:41:17,957 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:41:18,037 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:41:20,715 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:41:20,795 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:41:20,835 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSayAction
+07:41:20,836 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+07:41:21,149 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:41:23,267 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:41:23,304 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:41:23,899 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:41:25,753 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:41:25,753 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:41:25,773 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:41:25,773 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:41:25,773 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:41:25,773 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:41:25,773 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:41:28,533 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:41:28,573 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingFallingAction
+07:41:28,573 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:41:28,573 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:41:28,573 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:41:28,573 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:41:28,573 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:41:28,573 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:41:28,573 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:41:28,573 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:41:32,703 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:41:32,743 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:41:32,783 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:41:33,583 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:41:35,463 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:41:35,663 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:41:35,983 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:41:36,023 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:41:36,103 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:41:36,143 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSayAction
+07:41:36,143 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSayAction
+07:41:36,143 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+07:41:36,553 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:41:37,263 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:41:38,753 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:41:39,993 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:41:44,423 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:41:44,423 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:41:44,463 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:41:44,463 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:41:45,423 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:41:45,463 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:41:46,423 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:41:49,503 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:41:49,543 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingFallingAction
+07:41:49,543 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:41:49,543 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:41:49,543 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:41:49,543 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:41:49,543 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:41:49,543 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:41:49,543 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:41:49,543 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:41:49,583 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:41:52,223 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:41:52,743 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:41:53,703 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:41:53,783 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:41:53,863 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:41:54,623 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:41:54,703 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:41:54,783 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:42:10,243 - [5] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:42:10,333 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:42:10,363 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitPlayerLoadingAction
+07:42:11,415 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:42:11,441 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:42:13,226 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+07:42:13,227 - [7] - INFO  - Game.Server.GameServer - End ping check....
+07:42:13,227 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:42:13,228 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+07:42:14,065 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:42:14,065 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:42:14,065 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:42:15,004 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:42:15,044 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingFallingAction
+07:42:15,844 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:42:17,124 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:42:17,164 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:42:17,164 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:42:17,164 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:42:17,164 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:42:17,164 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:42:17,164 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:42:17,164 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:42:17,164 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:42:17,174 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:42:17,174 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:42:17,174 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:42:20,404 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:42:21,924 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:42:22,124 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:42:22,164 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:42:22,164 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:42:24,004 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:42:24,124 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:42:24,684 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:42:25,244 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:42:25,364 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:42:25,444 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:42:25,484 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSayAction
+07:42:25,484 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+07:42:25,954 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:42:27,554 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:42:28,844 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:42:29,304 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:42:29,974 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:42:31,134 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:42:31,534 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:42:35,274 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:42:35,274 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:42:36,274 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:42:37,274 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:42:40,484 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:42:40,524 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:42:40,524 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:42:40,524 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:42:40,524 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:42:40,524 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:42:40,524 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:42:40,524 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:42:40,524 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:42:40,524 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:42:40,524 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:42:40,524 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:42:44,284 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:42:44,604 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:42:44,644 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:42:44,684 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:42:44,844 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:42:44,844 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:42:44,884 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:42:44,964 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:42:45,004 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:42:45,044 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:42:45,444 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:42:45,484 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:42:45,484 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:42:46,764 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:42:46,804 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:42:46,884 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:42:46,924 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSayAction
+07:42:46,924 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSayAction
+07:42:46,924 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+07:42:47,299 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:42:48,616 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:42:51,108 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:42:51,108 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:42:51,128 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:42:51,128 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:42:51,128 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:42:53,490 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:42:53,530 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:42:53,531 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:42:53,531 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:42:53,531 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:42:53,532 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:42:53,532 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:42:53,532 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:42:53,532 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:42:53,532 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:42:53,532 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:42:54,970 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:42:54,971 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:42:55,009 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:42:55,010 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:42:55,528 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:42:55,567 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:42:56,888 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:42:56,968 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:42:57,849 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:42:58,208 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:42:58,208 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:42:58,248 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:42:58,368 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:42:58,448 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:42:58,488 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSayAction
+07:42:58,489 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+07:42:59,300 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:43:04,667 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:43:05,407 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:43:07,467 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:43:07,468 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:43:07,490 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:43:07,491 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:43:08,498 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:43:09,499 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:43:13,511 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:43:13,550 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:43:13,550 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:43:13,551 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:43:13,551 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:43:13,551 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:43:13,553 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:43:13,554 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:43:13,554 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:43:13,554 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:43:13,555 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:43:14,084 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:43:14,084 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:43:14,084 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:43:16,930 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:43:17,890 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:43:18,651 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:43:18,690 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:43:20,008 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:43:21,215 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:43:21,295 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:43:21,335 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSayAction
+07:43:21,335 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSayAction
+07:43:21,335 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+07:43:21,675 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:43:23,005 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:43:23,355 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:43:23,955 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:43:27,315 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:43:28,055 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:43:29,305 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:43:29,305 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:43:30,315 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:43:31,355 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:43:34,455 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:43:34,495 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:43:34,495 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:43:34,495 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:43:34,495 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:43:34,495 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:43:34,495 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:43:34,495 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:43:34,495 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:43:34,495 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:43:34,495 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:43:34,505 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:43:36,015 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:43:36,015 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:43:36,055 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:43:36,055 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:43:36,735 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:43:36,775 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:43:36,775 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:43:36,775 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:43:36,815 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:43:36,815 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:43:37,735 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:43:37,775 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:43:38,815 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:43:39,015 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:43:39,855 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:43:39,895 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:43:41,575 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:43:41,655 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:43:41,695 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSayAction
+07:43:41,695 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+07:43:42,035 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:43:42,575 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:43:43,735 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:43:45,505 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:43:46,025 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:43:46,505 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:43:47,905 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:43:47,905 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:43:47,945 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:43:47,945 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:43:47,945 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:43:47,945 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:43:47,945 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:43:47,945 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:43:47,945 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:43:48,905 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:43:49,905 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:43:53,825 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:43:53,865 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingFallingAction
+07:43:53,865 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:43:53,865 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:43:53,865 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:43:53,865 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:43:53,865 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:43:53,865 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:43:53,865 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:43:53,865 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:43:58,425 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:43:58,545 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:43:58,905 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:44:00,745 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:44:01,225 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:44:01,305 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:44:01,385 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:44:01,425 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSayAction
+07:44:01,425 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSayAction
+07:44:01,425 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:44:01,425 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:44:01,425 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:44:01,425 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:44:01,425 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:44:01,425 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:44:01,425 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:44:01,425 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:44:01,425 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:44:01,425 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:44:03,305 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:44:03,345 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:44:03,625 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:44:03,665 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:44:03,945 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:44:03,985 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:44:05,385 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:44:06,225 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:44:06,545 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:44:09,225 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:44:09,465 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:44:09,505 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:44:09,585 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:44:09,625 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+07:44:10,755 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:44:11,585 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:44:12,355 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:44:12,915 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:44:13,445 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:44:14,095 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:44:14,095 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:44:14,095 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:44:15,845 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:44:17,145 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:44:17,655 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:44:18,075 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:44:18,105 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:44:18,125 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:44:18,185 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:44:18,225 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSayAction
+07:44:18,225 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:44:18,225 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:44:18,225 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:44:18,225 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:44:18,225 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:44:18,225 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:44:18,225 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:44:18,225 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:44:18,225 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:44:18,225 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:44:18,225 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:44:19,985 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:44:19,985 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:44:20,025 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:44:20,025 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:44:21,465 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:44:21,505 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:44:21,945 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:44:21,945 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:44:21,985 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:44:22,785 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:44:23,305 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:44:23,505 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:44:23,545 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:44:25,385 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:44:25,465 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:44:25,505 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+07:44:25,875 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:44:29,455 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:44:29,895 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:44:31,475 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:44:31,675 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:44:32,155 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:44:33,025 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:44:33,025 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:44:33,065 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:44:33,065 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:44:33,065 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:44:33,065 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:44:33,065 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:44:33,065 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:44:34,025 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:44:35,025 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:44:38,745 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:44:38,785 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSayAction
+07:44:38,785 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:44:38,785 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:44:38,785 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:44:38,785 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:44:38,785 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:44:38,785 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:44:38,785 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:44:38,785 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:44:41,785 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:44:41,825 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:44:41,985 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:44:42,025 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:44:42,545 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:44:43,065 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:44:43,225 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:44:43,265 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+07:44:44,385 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:44:45,205 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:44:45,985 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:44:46,525 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:44:48,265 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:44:48,865 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:44:50,115 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:44:50,115 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:44:50,145 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:44:50,145 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:44:50,145 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:44:50,145 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:44:51,155 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:44:52,155 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:44:56,265 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:44:56,305 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:44:56,305 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:44:56,305 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:44:56,305 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:44:56,305 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:44:56,305 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:44:56,305 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:44:56,305 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:44:57,745 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:44:57,785 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:44:59,785 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:45:00,265 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:45:00,305 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:45:00,505 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:45:00,545 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:45:00,585 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:45:00,705 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:45:01,145 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:45:01,225 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:45:01,265 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+07:45:01,675 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:45:03,425 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:45:03,955 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:45:04,475 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:45:05,465 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:45:08,255 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:45:09,655 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:45:13,235 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+07:45:13,235 - [8] - INFO  - Game.Server.GameServer - End ping check....
+07:45:13,235 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:45:13,235 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+07:45:14,105 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:45:14,105 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:45:14,105 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:45:14,675 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:45:14,675 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:45:15,675 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:45:15,985 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:45:16,695 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:45:17,705 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:45:18,705 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:45:22,745 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:45:22,785 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSayAction
+07:45:22,785 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSayAction
+07:45:22,785 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:45:22,785 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:45:22,785 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:45:22,785 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:45:22,785 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:45:22,785 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:45:22,785 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:45:22,785 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:45:22,785 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:45:25,515 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:45:25,555 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:45:25,635 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:45:25,675 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:45:25,795 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:45:25,835 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:45:26,315 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:45:26,555 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:45:27,155 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:45:27,915 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:45:28,435 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:45:28,475 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+07:45:28,785 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:45:29,315 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:45:31,105 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:45:31,705 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:45:32,225 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:45:34,325 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:45:36,385 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:45:36,385 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:45:36,395 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:45:36,395 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:45:36,395 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:45:37,385 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:45:38,385 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:45:39,385 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:45:40,395 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:45:43,275 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:45:43,315 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:45:43,315 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:45:43,315 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:45:43,315 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:45:43,315 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:45:43,315 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:45:47,155 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:45:47,755 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:45:47,875 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:45:48,235 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:45:48,315 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:45:48,355 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:45:48,355 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:45:48,355 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:45:48,355 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:45:48,355 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:45:48,355 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:45:51,435 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:45:51,475 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:45:52,755 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:45:52,795 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingBeatAction
+07:45:53,195 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:45:53,435 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:45:53,515 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:45:53,555 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSayAction
+07:45:53,555 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+07:45:53,975 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:45:54,825 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:45:55,655 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:45:56,465 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:45:57,275 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:45:57,675 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:45:58,305 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:45:59,055 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:46:02,975 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:46:03,625 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:46:08,555 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:46:08,555 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:46:08,595 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:09,555 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:46:10,555 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:46:13,065 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+07:46:13,205 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+07:46:13,395 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:46:13,395 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:46:13,395 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:46:13,395 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+07:46:13,395 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:14,125 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:46:14,125 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:46:14,125 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:46:16,955 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:46:17,315 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:46:17,595 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:46:18,115 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+07:46:18,195 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:18,235 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSayAction
+07:46:18,235 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+07:46:18,985 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:46:20,315 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:46:22,605 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:46:24,315 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:46:24,315 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:46:24,355 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:24,355 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:24,355 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:24,355 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:25,355 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:46:26,355 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:46:30,195 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:30,275 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:30,355 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:31,435 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:32,515 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:33,595 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:34,635 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:35,715 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:36,795 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:37,835 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:38,915 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:39,955 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:41,035 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:42,115 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:43,155 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:44,235 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:45,275 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:46,355 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:47,435 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:48,475 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:49,555 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:50,635 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:51,715 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:52,795 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:53,835 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:54,915 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:55,995 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:57,075 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:58,155 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:46:59,195 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:47:00,275 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:47:01,315 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:47:02,395 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:47:03,435 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:47:04,475 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:47:05,555 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:47:06,635 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:47:07,715 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:47:08,795 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:47:09,875 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:47:10,955 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:47:12,035 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:47:12,455 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:47:12,475 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:47:13,115 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitPlayerLoadingAction
+07:47:14,135 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:47:14,135 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:47:14,135 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:47:14,905 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:47:14,915 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:47:18,475 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:47:18,515 - [6] - ERROR - Game.Logic.Phy.Object.SimpleBoss - Can't create abrain :GameServerScript.AI.NPC.NormalQueenAntAi
+07:47:18,515 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingFallingAction
+07:47:18,515 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSayAction
+07:47:18,515 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.PhysicalObjDoAction
+07:47:18,515 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.PhysicalObjDoAction
+07:47:18,515 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.PhysicalObjDoAction
+07:47:18,515 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.PhysicalObjDoAction
+07:47:29,595 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:47:29,675 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:47:29,715 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+07:47:30,275 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:47:32,305 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:47:32,305 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:47:33,345 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:47:36,665 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:47:37,305 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:47:38,305 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:47:38,315 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:47:38,355 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:47:38,435 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:47:38,515 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:47:38,555 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+07:47:39,105 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:47:40,765 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:47:41,285 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:47:42,875 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:47:43,575 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:47:46,425 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:47:46,425 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:47:47,425 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:47:48,425 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:47:51,475 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:47:51,555 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:47:51,635 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:47:51,675 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+07:47:52,185 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:47:54,635 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:47:55,325 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:47:56,185 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:47:59,425 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:47:59,425 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:00,425 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:01,425 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:03,495 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:48:03,575 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:48:03,615 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+07:48:06,505 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:07,705 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:08,505 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:09,305 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:10,105 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:10,305 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:10,625 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:13,155 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:13,245 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+07:48:13,245 - [7] - INFO  - Game.Server.GameServer - End ping check....
+07:48:13,245 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:48:13,245 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+07:48:14,155 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:48:14,155 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:48:14,155 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:48:14,495 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:14,505 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:14,535 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:48:14,555 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:14,615 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:48:14,695 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:48:14,735 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+07:48:15,225 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:15,235 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:16,685 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:17,055 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:18,875 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:18,875 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:19,875 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:20,875 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:23,975 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:48:24,055 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:48:24,095 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+07:48:24,555 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:25,745 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:26,455 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:29,826 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:29,826 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:30,826 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:31,826 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:34,936 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:48:35,016 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:48:35,056 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+07:48:35,506 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:36,596 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:37,016 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:38,526 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:39,306 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:40,106 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:40,876 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:42,736 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:43,186 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:43,276 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:43,356 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:43,426 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:43,516 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:43,556 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:43,576 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:48:43,586 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:43,656 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:48:43,736 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:48:43,816 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:48:43,856 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+07:48:44,226 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:45,396 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:48,936 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:49,256 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:49,646 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:49,986 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:50,616 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:54,076 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:54,076 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:55,076 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:56,076 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:48:57,076 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:49:00,176 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:49:00,256 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:49:00,296 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+07:49:01,106 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:49:02,156 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:49:02,956 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:49:03,756 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:49:04,556 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:49:05,356 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:49:05,596 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:49:08,496 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:49:09,076 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:49:09,106 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:49:09,106 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:49:09,186 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:49:09,266 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:49:09,306 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+07:49:09,756 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:49:10,916 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:49:11,446 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:49:13,826 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:49:13,826 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:49:14,166 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:49:14,166 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:49:14,166 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:49:14,826 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:49:14,866 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:49:15,826 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+07:49:19,746 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:49:40,786 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+07:50:14,176 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:50:14,176 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:50:14,176 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:51:13,064 - [7] - INFO  - Game.Server.GameServer - Saving database...
+07:51:13,064 - [9] - INFO  - Game.Server.GameServer - Saving Record...
+07:51:13,084 - [9] - INFO  - Game.Server.GameServer - Saving Record complete!
+07:51:13,088 - [7] - INFO  - Game.Server.GameServer - Saving database complete!
+07:51:13,089 - [7] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 15ms
+07:51:13,253 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+07:51:13,254 - [9] - INFO  - Game.Server.GameServer - End ping check....
+07:51:13,254 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:51:13,255 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+07:51:14,187 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:51:14,188 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:51:14,189 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:52:14,209 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:52:14,209 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:52:14,209 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:53:14,216 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:53:14,216 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:53:14,216 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:54:13,262 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+07:54:13,262 - [8] - INFO  - Game.Server.GameServer - End ping check....
+07:54:13,262 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:54:13,262 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+07:54:14,229 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:54:14,230 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:54:14,231 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:55:14,242 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:55:14,242 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:55:14,243 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:56:13,078 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+07:56:13,669 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+07:56:14,255 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:56:14,255 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:56:14,255 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:57:13,272 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+07:57:13,273 - [7] - INFO  - Game.Server.GameServer - End ping check....
+07:57:13,273 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+07:57:13,274 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+07:57:14,269 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:57:14,270 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:57:14,270 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:58:14,283 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:58:14,284 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:58:14,285 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+07:59:14,296 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+07:59:14,297 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+07:59:14,298 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:00:13,280 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+08:00:13,281 - [9] - INFO  - Game.Server.GameServer - End ping check....
+08:00:13,281 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+08:00:13,281 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+08:00:14,310 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:00:14,311 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:00:14,311 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:01:13,079 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+08:01:13,079 - [7] - INFO  - Game.Server.GameServer - Saving database...
+08:01:13,080 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+08:01:13,183 - [7] - INFO  - Game.Server.GameServer - Saving database complete!
+08:01:13,184 - [7] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 93ms
+08:01:14,323 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:01:14,323 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:01:14,323 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:02:14,338 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:02:14,339 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:02:14,340 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:03:13,297 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+08:03:13,297 - [9] - INFO  - Game.Server.GameServer - End ping check....
+08:03:13,297 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+08:03:13,297 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+08:03:14,351 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:03:14,351 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:03:14,351 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:04:14,365 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:04:14,365 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:04:14,366 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:05:14,377 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:05:14,378 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:05:14,379 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:06:13,088 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+08:06:13,298 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+08:06:13,298 - [7] - INFO  - Game.Server.GameServer - End ping check....
+08:06:13,301 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+08:06:13,302 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+08:06:13,813 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+08:06:14,390 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:06:14,394 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:06:14,395 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:07:14,405 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:07:14,405 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:07:14,406 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:08:14,418 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:08:14,419 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:08:14,419 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:09:13,312 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+08:09:13,313 - [7] - INFO  - Game.Server.GameServer - End ping check....
+08:09:13,314 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+08:09:13,314 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+08:09:14,432 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:09:14,432 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:09:14,432 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:10:14,450 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:10:14,451 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:10:14,451 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:11:13,087 - [7] - INFO  - Game.Server.GameServer - Saving database...
+08:11:13,087 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+08:11:13,088 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+08:11:13,151 - [7] - INFO  - Game.Server.GameServer - Saving database complete!
+08:11:13,151 - [7] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 62ms
+08:11:14,459 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:11:14,489 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:11:14,489 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 15ms
+08:12:13,318 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+08:12:13,318 - [8] - INFO  - Game.Server.GameServer - End ping check....
+08:12:13,318 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+08:12:13,329 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+08:12:14,473 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:12:14,473 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:12:14,474 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:13:14,486 - [9] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:13:14,486 - [9] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:13:14,487 - [9] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:14:14,500 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:14:14,500 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:14:14,500 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:15:13,331 - [9] - INFO  - Game.Server.GameServer - Begin ping check....
+08:15:13,332 - [9] - INFO  - Game.Server.GameServer - End ping check....
+08:15:13,332 - [9] - INFO  - Game.Server.GameServer - Begin ping center check....
+08:15:13,340 - [9] - INFO  - Game.Server.GameServer - End ping center check....
+08:15:14,513 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:15:14,514 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:15:14,514 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:16:13,099 - [8] - INFO  - Game.Server.GameServer - Saving Record...
+08:16:13,101 - [8] - INFO  - Game.Server.GameServer - Saving Record complete!
+08:16:14,527 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:16:14,527 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:16:14,527 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:17:14,541 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:17:14,541 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:17:14,542 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:18:13,337 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+08:18:13,337 - [8] - INFO  - Game.Server.GameServer - End ping check....
+08:18:13,338 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+08:18:13,338 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+08:18:14,554 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:18:14,565 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:18:14,566 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:19:01,228 - [4] - 08:28:43,637 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+08:28:46,703 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+08:28:46,703 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+08:28:47,232 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+08:28:47,233 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+08:28:47,234 - [MAIN] - INFO  - Game.Server.GameServer - Edition:21000: True
+08:28:47,288 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+08:28:47,332 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+08:28:47,339 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+08:28:47,399 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+08:28:49,320 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+08:28:49,400 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+08:28:49,841 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+08:28:50,091 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+08:28:50,149 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+08:28:50,197 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+08:28:50,232 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+08:28:50,288 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+08:28:50,368 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+08:28:50,445 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+08:28:50,460 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+08:28:50,542 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+08:28:50,574 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+08:28:50,634 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+08:28:50,642 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+08:28:50,686 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+08:28:50,782 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+08:28:50,787 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+08:28:50,790 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+08:28:50,805 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+08:28:50,867 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+08:28:50,931 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+08:28:50,937 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+08:28:51,010 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 192.168.1.3:9208 loaded...
+08:28:51,020 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+08:28:51,020 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+08:28:51,022 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+08:28:51,068 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+08:28:51,105 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 127 handlers from GameServer Assembly!
+08:28:51,115 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+08:28:51,120 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+08:28:51,120 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9202
+08:28:51,120 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+08:28:51,136 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 192.168.1.3:9208
+08:28:51,151 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+08:28:51,151 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+08:28:52,159 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:54707), received bytes=0
+08:29:21,062 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:54739
+08:29:21,062 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:54739), received bytes=0
+08:29:21,102 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:54742
+08:29:23,533 - [4] - WARN  - Game.Base.Packets.PacketProcessor - (192.168.1.3:54742) Handle packet Thread 4 Game.Server.Packets.Client.UserLoginHandler took 2371ms!
+08:29:51,037 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:29:51,037 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:29:51,037 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:30:51,051 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:30:51,051 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:30:51,051 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:31:25,871 - [5] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+08:31:25,871 - [5] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.StartGameAction,77ms!
+08:31:25,921 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+08:31:25,971 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitPlayerLoadingAction
+08:31:27,231 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+08:31:27,241 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+08:31:27,361 - [6] - WARN  - Game.Server.Games.GameMgr - Game Mgr spent too much times: 86 ms, count:1
+08:31:30,881 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+08:31:30,941 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingFallingAction
+08:31:33,001 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+08:31:33,081 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+08:31:33,081 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+08:31:33,081 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+08:31:33,081 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+08:31:33,081 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+08:31:33,081 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+08:31:38,441 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+08:31:38,881 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+08:31:39,801 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+08:31:39,841 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+08:31:40,041 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+08:31:40,121 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+08:31:40,161 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSayAction
+08:31:40,161 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+08:31:41,051 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+08:31:48,831 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+08:31:48,831 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+08:31:48,961 - [6] - WARN  - Game.Server.Games.GameMgr - Game Mgr spent too much times: 125 ms, count:1
+08:31:51,041 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+08:31:51,041 - [8] - INFO  - Game.Server.GameServer - End ping check....
+08:31:51,061 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+08:31:51,061 - [8] - INFO  - Game.Server.GameServer - End ping center check....
+08:31:51,071 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:31:51,071 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:31:51,071 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:31:52,521 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+08:31:52,561 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingFallingAction
+08:31:52,561 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+08:31:52,561 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+08:31:52,561 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+08:31:52,561 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+08:31:52,561 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+08:31:52,571 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+08:31:52,571 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+08:31:52,571 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+08:31:52,571 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+08:31:52,571 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+08:31:52,611 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+08:31:58,041 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+08:31:58,241 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+08:31:58,321 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+08:31:58,361 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+08:31:58,521 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+08:31:58,641 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+08:31:59,161 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+08:31:59,401 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+08:31:59,441 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+08:31:59,761 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+08:31:59,841 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+08:31:59,881 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSayAction
+08:31:59,881 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+08:32:08,801 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+08:32:11,551 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+08:32:11,551 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+08:32:15,131 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+08:32:15,171 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingFallingAction
+08:32:15,171 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+08:32:15,181 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+08:32:15,181 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+08:32:15,181 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+08:32:15,181 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+08:32:15,191 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+08:32:15,191 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+08:32:15,191 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+08:32:15,191 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+08:32:15,191 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+08:32:15,191 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+08:32:15,191 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+08:32:15,201 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+08:32:15,201 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+08:32:15,201 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingMoveToAction
+08:32:15,201 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+08:32:20,371 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+08:32:20,531 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+08:32:20,731 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+08:32:20,771 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+08:32:20,811 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+08:32:20,971 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+08:32:21,091 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+08:32:21,371 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+08:32:21,371 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+08:32:21,411 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+08:32:21,451 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+08:32:21,491 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+08:32:21,771 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+08:32:22,011 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+08:32:22,091 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingCallFunctionAction
+08:32:22,171 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+08:32:22,211 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.LivingSayAction
+08:32:22,211 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+08:32:30,381 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+08:32:38,781 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+08:32:38,781 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+08:32:42,211 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+08:32:42,251 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.WaitLivingAttackingAction
+08:32:48,871 - [4] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.ProcessPacketAction
+08:32:51,081 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:32:51,091 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:32:51,091 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:32:54,681 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:54742), received bytes=0
+08:32:58,521 - [8] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.RemovePlayerAction
+08:32:58,561 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+08:32:58,641 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+08:32:58,721 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+08:33:01,301 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:54795
+08:33:01,301 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:54795), received bytes=0
+08:33:01,331 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:54798
+08:33:19,771 - [6] - INFO  - Game.Logic.BaseGame - Game.Logic.Actions.CheckPVEGameStateAction
+08:33:51,032 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+08:33:51,092 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+08:33:51,092 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+08:33:51,092 - [8] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+08:33:51,702 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+08:33:57,462 - [4] - INFO  - Game.Base.BaseClient - Disconnecting client (192.168.1.3:54798), received bytes=0
+08:34:51,042 - [8] - INFO  - Game.Server.Gam

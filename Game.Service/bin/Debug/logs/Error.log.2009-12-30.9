@@ -1,0 +1,18 @@
+16:34:25,383 - [11] - ERROR - Game.Server.LoginServerConnector - LoginServerConnector is OnDisconnect!
+16:34:25,396 - [11] - ERROR - Game.Server.GameServer - Center Server Disconnect! Stopping Server
+16:34:25,399 - [11] - ERROR - Game.Server.GameServer - GameServer.Stop() - enter method
+16:34:25,444 - [11] - ERROR - Game.Server.GameServer - Server Stopped!
+16:34:25,681 - [15] - ERROR - Game.Base.BaseServer - AcceptAsync is error!
+System.InvalidOperationException: 在执行此操作前必须先调用 Listen 方法。
+   在 System.Net.Sockets.Socket.AcceptAsync(SocketAsyncEventArgs e)
+   在 Game.Base.BaseServer.AcceptAsync() 位置 D:\workspace\Server\Game.Base\BaseServer.cs:行号 72
+16:34:25,780 - [11] - ERROR - Game.Base.BaseConnector - Connect 192.168.0.4:9208 failed:System.InvalidOperationException: "现在已经正在使用此 SocketAsyncEventArgs 实例进行异步套接字操作。";
+   在 System.Net.Sockets.SocketAsyncEventArgs.StartOperationCommon(Socket socket)
+   在 System.Net.Sockets.Socket.ReceiveAsync(SocketAsyncEventArgs e)
+   在 Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) 位置 D:\workspace\Server\Game.Base\BaseClient.cs:行号 231
+   在 Game.Base.BaseClient.ReceiveAsync() 位置 D:\workspace\Server\Game.Base\BaseClient.cs:行号 206
+   在 Game.Base.BaseConnector.Connect() 位置 D:\workspace\Server\Game.Base\BaseConnector.cs:行号 56
+16:34:25,917 - [11] - ERROR - Game.Server.GameServer - Revert login is successful!
+16:34:27,372 - [18] - ERROR - Game.Server.GameServer - GameServer.Stop() - enter method
+16:34:27,412 - [18] - ERROR - Game.Server.LoginServerConnector - LoginServerConnector is OnDisconnect!
+16:34:27,414 - [18] - ERROR - Game.Server.GameServer - Server Stopped!

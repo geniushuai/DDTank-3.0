@@ -1,0 +1,14 @@
+21:46:19,526 - [12] - ERROR - Game.Server.Rooms.RoomMgr - RoomMgr execute action error:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Rooms.BaseRoom.RemovePlayerAtUnsafe(Int32 pos) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Rooms\BaseRoom.cs:line 689
+   at Game.Server.Rooms.KickPlayerAction.Execute() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Rooms\KickPlayerAction.cs:line 22
+   at Game.Server.Rooms.RoomMgr.ExecuteActions() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Rooms\RoomMgr.cs:line 160
+21:46:24,088 - [12] - ERROR - Game.Server.Rooms.RoomMgr - RoomMgr execute action error:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Rooms.BaseRoom.RemovePlayerAtUnsafe(Int32 pos) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Rooms\BaseRoom.cs:line 689
+   at Game.Server.Rooms.KickPlayerAction.Execute() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Rooms\KickPlayerAction.cs:line 22
+   at Game.Server.Rooms.RoomMgr.ExecuteActions() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Rooms\RoomMgr.cs:line 160
+21:46:51,565 - [16] - ERROR - Game.Base.Packets.StreamProcessor - AsyncTcpSendCallback
+System.InvalidOperationException: Queue empty.
+   at System.Collections.Queue.Dequeue()
+   at Game.Base.Packets.StreamProcessor.AsyncTcpSendCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\Packets\StreamProcessor.cs:line 216

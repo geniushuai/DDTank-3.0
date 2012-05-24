@@ -1,0 +1,3 @@
+23:59:41,497 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436

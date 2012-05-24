@@ -1,0 +1,6 @@
+15:53:15,842 - [11] - ERROR - Game.Server.Games.GameMgr - Create game error:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.Phy.Object.Player.InitBuffer(List`1 equpedEffect) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Phy\Object\Player.cs:line 244
+   at Game.Logic.Phy.Object.Player..ctor(IGamePlayer player, Int32 id, BaseGame game, Int32 team) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Phy\Object\Player.cs:line 85
+   at Game.Logic.PVEGame..ctor(Int32 id, Int32 roomId, PveInfo info, List`1 players, Map map, eRoomType roomType, eGameType gameType, Int32 timeType, eHardLevel hardLevel) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\PVEGame.cs:line 71
+   at Game.Server.Games.GameMgr.StartPVEGame(Int32 roomId, List`1 players, Int32 copyId, eRoomType roomType, eGameType gameType, Int32 timeType, eHardLevel hardLevel, Int32 levelLimits) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Games\GameMgr.cs:line 232

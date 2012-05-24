@@ -1,0 +1,30 @@
+19:10:43,277 - [10] - ERROR - Game.Server.LoginServerConnector - LoginServerConnector is OnDisconnect!
+19:10:43,277 - [10] - ERROR - Game.Server.GameServer - Center Server Disconnect! Stopping Server
+19:10:43,282 - [10] - ERROR - Game.Server.GameServer - GameServer.Stop() - enter method
+19:10:43,317 - [10] - ERROR - Game.Server.GameServer - Server Stopped!
+19:10:43,719 - [10] - ERROR - Game.Base.BaseConnector - Connect 192.168.0.4:9208 failed:System.InvalidOperationException: "现在已经正在使用此 SocketAsyncEventArgs 实例进行异步套接字操作。";
+   在 System.Net.Sockets.SocketAsyncEventArgs.StartOperationCommon(Socket socket)
+   在 System.Net.Sockets.Socket.ReceiveAsync(SocketAsyncEventArgs e)
+   在 Game.Base.BaseClient.ReceiveAsyncImp(SocketAsyncEventArgs e) 位置 D:\workspace\Server\Game.Base\BaseClient.cs:行号 231
+   在 Game.Base.BaseClient.ReceiveAsync() 位置 D:\workspace\Server\Game.Base\BaseClient.cs:行号 206
+   在 Game.Base.BaseConnector.Connect() 位置 D:\workspace\Server\Game.Base\BaseConnector.cs:行号 56
+19:10:43,874 - [10] - ERROR - Game.Server.GameServer - Revert login is successful!
+19:15:43,792 - [6] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: 无法访问目标表“Log_Money”。 ---> System.Data.SqlClient.SqlException: 在向服务器发送请求时发生传输级错误。 (provider: TCP 提供程序, error: 0 - 远程主机强迫关闭了一个现有的连接。)
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParserStateObject.WriteSni()
+   在 System.Data.SqlClient.TdsParserStateObject.WritePacket(Byte flushMode)
+   在 System.Data.SqlClient.TdsParserStateObject.ExecuteFlush()
+   在 System.Data.SqlClient.TdsParser.TdsExecuteSQLBatch(String text, Int32 timeout, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlBulkCopy.CreateAndExecuteInitialQuery()
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table)
+   在 Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) 位置 D:\workspace\Server\Bussiness\ItemRecordBussiness.cs:行号 101
+20:35:57,633 - [13] - ERROR - Game.Server.GameServer - GameServer.Stop() - enter method
+20:35:57,708 - [13] - ERROR - Game.Server.LoginServerConnector - LoginServerConnector is OnDisconnect!
+20:35:57,708 - [13] - ERROR - Game.Server.GameServer - Server Stopped!

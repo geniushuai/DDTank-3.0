@@ -1,0 +1,39 @@
+<publishData>
+  <publishTarget publishUrl="\\127.0.0.1\request\">
+    <file relUrl="SearchFriends.ashx" publishTime="07/17/2008 11:47:46" />
+    <file relUrl="bin/log4net.dll" publishTime="06/10/2008 14:19:44" />
+    <file relUrl="GetThisExtendWish.ashx" publishTime="07/17/2008 11:47:46" />
+    <file relUrl="SearchUserExtendWish.ashx" publishTime="07/17/2008 11:47:46" />
+    <file relUrl="LoadItemTemplateInfo.ashx" publishTime="07/17/2008 11:47:46" />
+    <file relUrl="bin/Road.Flash.dll" publishTime="07/21/2008 18:17:46" />
+    <file relUrl="LoadShopItems.ashx" publishTime="07/17/2008 11:47:46" />
+    <file relUrl="LoadUserDetailInfo.ashx" publishTime="07/17/2008 11:47:46" />
+    <file relUrl="LoadUserMail.ashx" publishTime="07/17/2008 11:47:46" />
+    <file relUrl="bin/log4net.xml" publishTime="06/10/2008 14:19:44" />
+    <file relUrl="LoadDormitories.ashx" publishTime="07/17/2008 11:47:46" />
+    <file relUrl="LoadUniversitiesByProvince.ashx" publishTime="07/17/2008 11:47:46" />
+    <file relUrl="Login.ashx" publishTime="07/17/2008 11:47:46" />
+    <file relUrl="LoadColleages.ashx" publishTime="07/17/2008 11:47:46" />
+    <file relUrl="ReadWish.ashx" publishTime="07/17/2008 11:47:46" />
+    <file relUrl="bin/RoadDatabase.dll" publishTime="07/21/2008 18:17:08" />
+    <file relUrl="bin/Road.Flash.pdb" publishTime="07/21/2008 18:17:46" />
+    <file relUrl="LoadUserIMList.ashx" publishTime="07/17/2008 11:47:46" />
+    <file relUrl="Web.config" publishTime="07/17/2008 11:47:46" />
+    <file relUrl="BuyDefinedGoods.ashx" publishTime="07/17/2008 11:47:46" />
+    <file relUrl="GetGameSecne.ashx" publishTime="07/17/2008 11:47:46" />
+    <file relUrl="bin/RoadDatabase.pdb" publishTime="07/21/2008 18:17:08" />
+    <file relUrl="bin/Road.Request.pdb" publishTime="07/21/2008 18:17:46" />
+    <file relUrl="LoadCities.ashx" publishTime="07/17/2008 11:47:46" />
+    <file relUrl="LoadProvinces.ashx" publishTime="07/17/2008 11:47:46" />
+    <file relUrl="LoadShopDefinedGoods.ashx" publishTime="07/17/2008 11:47:46" />
+    <file relUrl="LoadMajors.ashx" publishTime="07/17/2008 11:47:46" />
+    <file relUrl="LoadItemInfo.ashx" publishTime="07/17/2008 11:47:46" />
+    <file relUrl="LoadUserDefinedGoods.ashx" publishTime="07/17/2008 11:47:46" />
+    <file relUrl="bin/Road.Request.dll" publishTime="07/21/2008 18:17:46" />
+    <file relUrl="GetSceneLeaveMessage.ashx" publishTime="07/17/2008 11:47:46" />
+    <file relUrl="LoadCountries.ashx" publishTime="07/17/2008 11:47:46" />
+    <file relUrl="LoadUniversities.ashx" publishTime="07/17/2008 11:47:46" />
+    <file relUrl="AddUserExtendWish.ashx" publishTime="07/17/2008 11:47:46" />
+    <file relUrl="LoadUserItems.ashx" publishTime="07/17/2008 11:47:46" />
+  </publishTarget>
+</publishData>

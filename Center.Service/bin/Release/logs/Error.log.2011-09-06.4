@@ -1,0 +1,6 @@
+16:50:50,991 - [22] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.Security.Cryptography.CryptographicException: The data to be decrypted exceeds the maximum for this modulus of 128 bytes.
+   at System.Security.Cryptography.RSACryptoServiceProvider.Decrypt(Byte[] rgb, Boolean fOAEP)
+   at Center.Server.ServerClient.HandleLogin(GSPacketIn pkg) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\workspace\Server\Center.Server\ServerClient.cs:line 154
+   at Center.Server.ServerClient.OnRecvPacket(GSPacketIn pkg) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\workspace\Server\Center.Server\ServerClient.cs:line 70
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\workspace\Server\Game.Base\Packets\StreamProcessor.cs:line 359

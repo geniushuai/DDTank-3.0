@@ -1,0 +1,6 @@
+22:29:31,856 - [9] - ERROR - Game.Server.GameServer - AsynProcessPacket
+System.OverflowException: Operação aritmética resultou em um estouro.
+   em Game.Base.PacketIn.ReadBytes(Int32 maxLen) na C:\Users\Welington\Documents\Server3.0\Game.Base\PacketIn.cs:linha 158
+   em Game.Base.PacketIn.ReadBytes() na C:\Users\Welington\Documents\Server3.0\Game.Base\PacketIn.cs:linha 166
+   em Game.Server.LoginServerConnector.HandleRSAKey(GSPacketIn packet) na C:\Users\Welington\Documents\Server3.0\Game.Server\LoginServerConnector.cs:linha 149
+   em Game.Server.LoginServerConnector.AsynProcessPacket(Object state) na C:\Users\Welington\Documents\Server3.0\Game.Server\LoginServerConnector.cs:linha 57

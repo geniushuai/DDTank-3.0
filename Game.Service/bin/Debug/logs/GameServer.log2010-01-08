@@ -1,0 +1,84 @@
+11:02:56,132 - [11] - WARN  - Game.Base.Packets.PacketProcessor - (192.168.0.21:4683) Handle packet Thread 11 Game.Server.Packets.Client.UserLoginHandler took 2262ms!
+11:02:57,352 - [11] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+11:02:57,353 - [11] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+11:03:09,436 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.StartGameAction,642ms!
+11:03:09,439 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 644 ms,count:1
+11:03:10,821 - [14] - WARN  - Game.Server.Games.GameMgr - Game Mgr spent too much times: 132 ms, count:1
+11:03:17,441 - [14] - WARN  - Game.Server.Games.GameMgr - Game Mgr spent too much times: 130 ms, count:1
+11:04:02,001 - [14] - WARN  - Game.Server.Games.GameMgr - Game Mgr spent too much times: 105 ms, count:1
+11:18:24,990 - [3] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+11:18:24,990 - [3] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+11:18:25,196 - [3] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\workspace\Server\Bussiness\PlayerBussiness.cs:行号 392
+11:18:52,023 - [14] - WARN  - Game.Server.Games.GameMgr - Game Mgr spent too much times: 90 ms, count:1
+11:19:09,123 - [14] - WARN  - Game.Server.Games.GameMgr - Game Mgr spent too much times: 124 ms, count:1
+11:19:27,554 - [14] - WARN  - Game.Server.Games.GameMgr - Game Mgr spent too much times: 124 ms, count:1
+11:22:01,295 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\workspace\Server\Bussiness\PlayerBussiness.cs:行号 392
+11:23:09,819 - [3] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+11:23:09,820 - [3] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+11:23:09,860 - [3] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\workspace\Server\Bussiness\PlayerBussiness.cs:行号 392
+11:23:42,056 - [14] - WARN  - Game.Server.Games.GameMgr - Game Mgr spent too much times: 124 ms, count:1
+11:23:59,419 - [14] - WARN  - Game.Server.Games.GameMgr - Game Mgr spent too much times: 123 ms, count:1
+11:25:34,921 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\workspace\Server\Bussiness\PlayerBussiness.cs:行号 392
+11:28:12,540 - [15] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+11:28:12,549 - [15] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+11:28:12,579 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\workspace\Server\Bussiness\PlayerBussiness.cs:行号 392
+11:29:06,801 - [14] - WARN  - Game.Server.Games.GameMgr - Game Mgr spent too much times: 113 ms, count:1
+11:29:23,515 - [14] - WARN  - Game.Server.Games.GameMgr - Game Mgr spent too much times: 128 ms, count:1
+11:29:38,989 - [3] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\workspace\Server\Bussiness\PlayerBussiness.cs:行号 392
+11:35:27,790 - [3] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+11:35:27,790 - [3] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+11:35:27,872 - [3] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussin14:19:35,952 - [14] - WARN  - Game.Server.Games.GameMgr - Game Mgr spent too much times: 94 ms, count:0
+14:23:18,353 - [15] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+14:23:18,359 - [15] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+14:23:25,943 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.StartGameAction,341ms!
+14:23:25,944 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 341 ms,count:1
+14:29:43,877 - [15] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+14:29:43,884 - [15] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+14:44:50,033 - [15] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+14:44:50,033 - [15] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+14:48:53,712 - [15] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+14:48:53,712 - [15] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+14:49:04,685 - [15] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+14:49:04,685 - [15] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+14:51:43,378 - [14] - WARN  - Game.Server.Games.GameMgr - Game Mgr spent too much times: 96 ms, count:1
+14:51:57,555 - [14] - WARN  - Game.Server.Games.GameMgr - Game Mgr spent too much times: 125 ms, count:1
+14:52:11,101 - [14] - WARN  - Game.Server.Games.GameMgr - Game Mgr spent too much times: 370 ms, count:1
+15:00:31,415 - [15] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+15:00:31,427 - [15] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+15:00:50,772 - [15] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+15:00:50,773 - [15] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+15:01:44,786 - [14] - WARN  - Game.Server.Games.GameMgr - Game Mgr spent too much times: 311 ms, count:1
+15:02:02,096 - [14] - WARN  - Game.Server.Games.GameMgr - Game Mgr spent too much times: 523 ms, count:1
+15:10:52,606 - [15] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+15:10:52,608 - [15] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+15:11:22,915 - [6] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+15:11:22,916 - [6] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+15:12:40,409 - [15] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+15:12:40,420 - [15] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+15:13:29,094 - [14] - WARN  - Game.Server.Games.GameMgr - Game Mgr spent too much times: 118 ms, count:1
+15:13:44,326 - [14] - WARN  - Game.Server.Games.GameMgr - Game Mgr spent too much times: 104 ms, count:1
+15:27:32,009 - [6] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+15:27:32,009 - [6] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+15:28:07,225 - [6] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+15:28:07,229 - [6] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+15:31:11,848 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 232 ms,count:0
+15:31:32,615 - [15] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+15:31:32,618 - [15] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+15:31:58,526 - [15] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+15:31:58,539 - [15] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+15:33:00,049 - [6] - ERROR - Game.Server.Quests.BaseCondition - Can't find quest condition : 21
+15:33:00,050 - [6] - ERROR - Game.Server.Quests.BaseCondition -

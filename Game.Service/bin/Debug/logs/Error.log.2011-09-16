@@ -1,0 +1,49 @@
+20:10:49,393 - [6] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x09
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.Phy.Object.Player.StartMoving() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Phy\Object\Player.cs:line 422
+   at Game.Logic.Cmd.MoveStartCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\MoveStartCommand.cs:line 34
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+20:10:49,957 - [6] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x09
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.Phy.Object.Player.StartMoving() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Phy\Object\Player.cs:line 422
+   at Game.Logic.Cmd.MoveStartCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\MoveStartCommand.cs:line 34
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+20:10:50,036 - [6] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x09
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.Phy.Object.Player.StartMoving() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Phy\Object\Player.cs:line 422
+   at Game.Logic.Cmd.MoveStartCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\MoveStartCommand.cs:line 34
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+20:10:50,116 - [6] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x09
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.Phy.Object.Player.StartMoving() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Phy\Object\Player.cs:line 422
+   at Game.Logic.Cmd.MoveStartCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\MoveStartCommand.cs:line 34
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+20:10:50,196 - [6] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x09
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.Phy.Object.Player.StartMoving() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Phy\Object\Player.cs:line 422
+   at Game.Logic.Cmd.MoveStartCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\MoveStartCommand.cs:line 34
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+20:10:50,275 - [6] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x09
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.Phy.Object.Player.StartMoving() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Phy\Object\Player.cs:line 422
+   at Game.Logic.Cmd.MoveStartCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\MoveStartCommand.cs:line 34
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+20:10:50,354 - [6] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x09
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.Phy.Object.Player.StartMoving() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Phy\Object\Player.cs:line 422
+   at Game.Logic.Cmd.MoveStartCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\MoveStartCommand.cs:line 34
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+20:10:50,473 - [6] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x09
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.Phy.Object.Player.StartMoving() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Phy\Object\Player.cs:line 422
+   at Game.Logic.Cmd.MoveStartCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\MoveStartCommand.cs:line 34
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+20:20:33,007 - [6] - ERROR - Game.Logic.PVEGame - game ai script Playing error:System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GameServerScript.AI.Messions.CHM1274.OnStartGame() in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Service\bin\Debug\scripts\AI\Messions\CHM1274.cs:line 64
+   at Game.Logic.PVEGame.PrepareNewGame() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\PVEGame.cs:line 616
+20:22:45,410 - [6] - ERROR - Game.Logic.PVEGame - <log4net.Error>Exception during StringFormat: Index (zero based) must be greater than or equal to zero and less than the size of the argument list. <format>game ai script m_gameAI.OnShooted() error:{1}</format><args>{System.NullReferenceException: Object reference not set to an instance of an object.
+   at GameServerScript.AI.Messions.CHM1276.OnShooted() in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Service\bin\Debug\scripts\AI\Messions\CHM1276.cs:line 262
+   at Game.Logic.PVEGame.OnShooted() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\PVEGame.cs:line 1173}</args></log4net.Error>

@@ -1,0 +1,356 @@
+12:20:21,905 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - Script compilation failed because: 
+12:20:21,916 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - ÃüÃû¿Õ¼ä¡°GameServerScript.AI.Game¡±ÒÑ¾­°üº¬ÁË¡°TerrorGame¡±µÄ¶¨Òå
+12:20:21,917 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr -    d:\workspace\Server\Game.Service\bin\Debug\scripts\AI\Game\TerrorGame.cs Line:8 Col:18
+12:20:29,934 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - Script compilation failed because: 
+12:20:29,946 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - ÃüÃû¿Õ¼ä¡°GameServerScript.AI.Game¡±ÒÑ¾­°üº¬ÁË¡°TerrorGame¡±µÄ¶¨Òå
+12:20:29,947 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr -    d:\workspace\Server\Game.Service\bin\Debug\scripts\AI\Game\TerrorGame.cs Line:8 Col:18
+12:20:49,505 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - Script compilation failed because: 
+12:20:49,517 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - ÃüÃû¿Õ¼ä¡°GameServerScript.AI.Game¡±ÒÑ¾­°üº¬ÁË¡°TerrorGame¡±µÄ¶¨Òå
+12:20:49,518 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr -    d:\workspace\Server\Game.Service\bin\Debug\scripts\AI\Game\TerrorGame.cs Line:8 Col:18
+12:21:07,365 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - Script compilation failed because: 
+12:21:07,377 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - ÃüÃû¿Õ¼ä¡°GameServerScript.AI.Game¡±ÒÑ¾­°üº¬ÁË¡°TerrorGame¡±µÄ¶¨Òå
+12:21:07,378 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr -    d:\workspace\Server\Game.Service\bin\Debug\scripts\AI\Game\TerrorGame.cs Line:8 Col:18
+12:22:03,909 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - Script compilation failed because: 
+12:22:03,920 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr - ÃüÃû¿Õ¼ä¡°GameServerScript.AI.Game¡±ÒÑ¾­°üº¬ÁË¡°TerrorGame¡±µÄ¶¨Òå
+12:22:03,922 - [MAIN] - ERROR - Game.Server.Managers.ScriptMgr -    d:\workspace\Server\Game.Service\bin\Debug\scripts\AI\Game\TerrorGame.cs Line:8 Col:18
+14:28:13,529 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID3----µ±Ç°ÑªÁ¿-436
+14:28:13,565 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID2----µ±Ç°ÑªÁ¿-421
+14:28:13,568 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID4----µ±Ç°ÑªÁ¿-45
+14:28:13,572 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID5----µ±Ç°ÑªÁ¿29
+14:28:13,575 - [14] - WARN  - Game.Server.Games.GameMgr - Game Mgr spent too much times: 118 ms, count:1
+14:28:14,510 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID1----µ±Ç°ÑªÁ¿-424
+14:28:14,513 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID5----µ±Ç°ÑªÁ¿-905
+14:28:33,386 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID21----µ±Ç°ÑªÁ¿15
+14:28:33,387 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID17----µ±Ç°ÑªÁ¿-53
+14:28:33,399 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID15----µ±Ç°ÑªÁ¿-57
+14:28:33,403 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID23----µ±Ç°ÑªÁ¿-51
+14:28:34,427 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID21----µ±Ç°ÑªÁ¿-914
+14:28:34,429 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID16----µ±Ç°ÑªÁ¿-53
+14:28:34,431 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID24----µ±Ç°ÑªÁ¿-449
+14:28:35,451 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID22----µ±Ç°ÑªÁ¿-416
+14:28:35,457 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID20----µ±Ç°ÑªÁ¿-436
+14:28:35,462 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID19----µ±Ç°ÑªÁ¿-466
+14:28:35,463 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID18----µ±Ç°ÑªÁ¿-421
+15:09:46,500 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 115 ms,count:0
+15:12:00,236 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı·¶Î§¹¥»÷----Íæ¼ÒÃû³Æ:,ID0----µ±Ç°ÑªÁ¿2146
+15:12:33,301 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı·¶Î§¹¥»÷----Íæ¼ÒÃû³Æ:,ID0----µ±Ç°ÑªÁ¿2025
+15:13:02,407 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:,ID0----µ±Ç°ÑªÁ¿1834
+15:13:17,530 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:,ID0----µ±Ç°ÑªÁ¿1643
+16:52:37,855 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:,ID1----µ±Ç°ÑªÁ¿2065
+16:52:53,069 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID2----µ±Ç°ÑªÁ¿285
+16:53:57,031 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯ÊıĞ¡¹ÖÉËÑª----Íæ¼ÒÃû³Æ:,ID0----µ±Ç°ÑªÁ¿1256
+16:54:03,236 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID18----µ±Ç°ÑªÁ¿87
+16:54:35,613 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯ÊıĞ¡¹ÖÉËÑª----Íæ¼ÒÃû³Æ:,ID1----µ±Ç°ÑªÁ¿1915
+16:54:38,513 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯ÊıĞ¡¹ÖÉËÑª----Íæ¼ÒÃû³Æ:,ID1----µ±Ç°ÑªÁ¿1765
+16:55:00,932 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:,ID0----µ±Ç°ÑªÁ¿893
+16:55:00,932 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:,ID1----µ±Ç°ÑªÁ¿1468
+16:55:19,765 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯ÊıĞ¡¹ÖÉËÑª----Íæ¼ÒÃû³Æ:,ID1----µ±Ç°ÑªÁ¿1318
+16:55:19,980 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯ÊıĞ¡¹ÖÉËÑª----Íæ¼ÒÃû³Æ:,ID1----µ±Ç°ÑªÁ¿1168
+16:55:22,587 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯ÊıĞ¡¹ÖÉËÑª----Íæ¼ÒÃû³Æ:,ID1----µ±Ç°ÑªÁ¿1018
+17:04:59,990 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID2----µ±Ç°ÑªÁ¿224
+17:22:31,082 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID2----µ±Ç°ÑªÁ¿237
+17:23:49,124 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯ÊıĞ¡¹ÖÉËÑª----Íæ¼ÒÃû³Æ:,ID0----µ±Ç°ÑªÁ¿1256
+17:23:51,332 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯ÊıĞ¡¹ÖÉËÑª----Íæ¼ÒÃû³Æ:,ID0----µ±Ç°ÑªÁ¿1058
+17:23:51,664 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯ÊıĞ¡¹ÖÉËÑª----Íæ¼ÒÃû³Æ:,ID0----µ±Ç°ÑªÁ¿860
+17:24:19,736 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯ÊıĞ¡¹ÖÉËÑª----Íæ¼ÒÃû³Æ:,ID0----µ±Ç°ÑªÁ¿662
+17:24:19,739 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯ÊıĞ¡¹ÖÉËÑª----Íæ¼ÒÃû³Æ:,ID0----µ±Ç°ÑªÁ¿464
+17:24:19,740 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯ÊıĞ¡¹ÖÉËÑª----Íæ¼ÒÃû³Æ:,ID0----µ±Ç°ÑªÁ¿266
+17:24:22,788 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯ÊıĞ¡¹ÖÉËÑª----Íæ¼ÒÃû³Æ:,ID0----µ±Ç°ÑªÁ¿68
+17:24:23,207 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯ÊıĞ¡¹ÖÉËÑª----Íæ¼ÒÃû³Æ:,ID0----µ±Ç°ÑªÁ¿-130
+17:24:36,881 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID19----µ±Ç°ÑªÁ¿340
+17:24:37,872 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID19----µ±Ç°ÑªÁ¿180
+17:24:38,901 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID19----µ±Ç°ÑªÁ¿20
+17:24:45,668 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯ÊıĞ¡¹ÖÉËÑª----Íæ¼ÒÃû³Æ:,ID1----µ±Ç°ÑªÁ¿2122
+17:24:45,791 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯ÊıĞ¡¹ÖÉËÑª----Íæ¼ÒÃû³Æ:,ID1----µ±Ç°ÑªÁ¿1972
+17:24:46,947 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯ÊıĞ¡¹ÖÉËÑª----Íæ¼ÒÃû³Æ:,ID1----µ±Ç°ÑªÁ¿1822
+17:24:47,026 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯ÊıĞ¡¹ÖÉËÑª----Íæ¼ÒÃû³Æ:,ID1----µ±Ç°ÑªÁ¿1672
+17:24:50,957 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID5----µ±Ç°ÑªÁ¿432
+17:24:50,958 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID6----µ±Ç°ÑªÁ¿422
+17:24:50,959 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID18----µ±Ç°ÑªÁ¿380
+17:24:50,960 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID2----µ±Ç°ÑªÁ¿114
+17:24:50,960 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID3----µ±Ç°ÑªÁ¿426
+17:24:50,960 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID9----µ±Ç°ÑªÁ¿426
+17:24:50,961 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID17----µ±Ç°ÑªÁ¿434
+17:24:50,963 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID5----µ±Ç°ÑªÁ¿353
+17:24:50,964 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID6----µ±Ç°ÑªÁ¿353
+17:24:50,965 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID18----µ±Ç°ÑªÁ¿266
+17:24:52,025 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID5----µ±Ç°ÑªÁ¿285
+17:24:52,029 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID6----µ±Ç°ÑªÁ¿275
+17:24:52,031 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID18----µ±Ç°ÑªÁ¿189
+17:24:52,033 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID2----µ±Ç°ÑªÁ¿35
+17:24:52,034 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID3----µ±Ç°ÑªÁ¿310
+17:24:52,055 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID9----µ±Ç°ÑªÁ¿352
+17:24:52,057 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID17----µ±Ç°ÑªÁ¿368
+17:24:52,059 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID5----µ±Ç°ÑªÁ¿206
+17:24:52,102 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID6----µ±Ç°ÑªÁ¿206
+17:24:52,104 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID18----µ±Ç°ÑªÁ¿116
+17:24:52,105 - [14] - WARN  - Game.Server.Games.GameMgr - Game Mgr spent too much times: 97 ms, count:1
+17:24:53,070 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID5----µ±Ç°ÑªÁ¿100
+17:24:53,070 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID6----µ±Ç°ÑªÁ¿128
+17:24:53,071 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID18----µ±Ç°ÑªÁ¿39
+17:24:53,071 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID2----µ±Ç°ÑªÁ¿-44
+17:24:53,072 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID3----µ±Ç°ÑªÁ¿236
+17:24:53,072 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID9----µ±Ç°ÑªÁ¿278
+17:24:53,072 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID17----µ±Ç°ÑªÁ¿302
+17:24:53,073 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID5----µ±Ç°ÑªÁ¿21
+17:24:53,073 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID6----µ±Ç°ÑªÁ¿59
+17:24:53,074 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID18----µ±Ç°ÑªÁ¿-34
+17:24:56,988 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯ÊıĞ¡¹ÖÉËÑª----Íæ¼ÒÃû³Æ:,ID1----µ±Ç°ÑªÁ¿1522
+17:24:56,989 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯ÊıĞ¡¹ÖÉËÑª----Íæ¼ÒÃû³Æ:,ID1----µ±Ç°ÑªÁ¿1372
+17:24:56,991 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯ÊıĞ¡¹ÖÉËÑª----Íæ¼ÒÃû³Æ:,ID1----µ±Ç°ÑªÁ¿1222
+17:24:57,018 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯ÊıĞ¡¹ÖÉËÑª----Íæ¼ÒÃû³Æ:,ID1----µ±Ç°ÑªÁ¿1072
+17:24:59,653 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯ÊıĞ¡¹ÖÉËÑª----Íæ¼ÒÃû³Æ:,ID1----µ±Ç°ÑªÁ¿922
+17:25:00,138 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯ÊıĞ¡¹ÖÉËÑª----Íæ¼ÒÃû³Æ:,ID1----µ±Ç°ÑªÁ¿772
+17:25:01,098 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯ÊıĞ¡¹ÖÉËÑª----Íæ¼ÒÃû³Æ:,ID1----µ±Ç°ÑªÁ¿622
+17:25:02,220 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯ÊıĞ¡¹ÖÉËÑª----Íæ¼ÒÃû³Æ:,ID1----µ±Ç°ÑªÁ¿472
+17:25:05,381 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID12----µ±Ç°ÑªÁ¿388
+17:25:05,382 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID19----µ±Ç°ÑªÁ¿-58
+17:25:05,383 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID3----µ±Ç°ÑªÁ¿158
+17:25:05,394 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID4----µ±Ç°ÑªÁ¿432
+17:25:05,396 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID5----µ±Ç°ÑªÁ¿-49
+17:25:05,399 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID6----µ±Ç°ÑªÁ¿-19
+17:25:05,404 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID9----µ±Ç°ÑªÁ¿200
+17:25:05,405 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID10----µ±Ç°ÑªÁ¿430
+17:25:05,408 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID11----µ±Ç°ÑªÁ¿378
+17:25:05,415 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID17----µ±Ç°ÑªÁ¿224
+17:25:05,417 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID13----µ±Ç°ÑªÁ¿419
+17:25:05,418 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID20----µ±Ç°ÑªÁ¿388
+17:25:05,419 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID21----µ±Ç°ÑªÁ¿425
+17:25:06,415 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID13----µ±Ç°ÑªÁ¿337
+17:25:06,421 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID20----µ±Ç°ÑªÁ¿316
+17:25:06,421 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID21----µ±Ç°ÑªÁ¿308
+17:25:06,425 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID3----µ±Ç°ÑªÁ¿80
+17:25:06,440 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID4----µ±Ç°ÑªÁ¿364
+17:25:06,442 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID9----µ±Ç°ÑªÁ¿122
+17:25:06,443 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID10----µ±Ç°ÑªÁ¿360
+17:25:06,444 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID11----µ±Ç°ÑªÁ¿256
+17:25:06,445 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID17----µ±Ç°ÑªÁ¿146
+17:25:06,447 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID13----µ±Ç°ÑªÁ¿256
+17:25:06,448 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID20----µ±Ç°ÑªÁ¿244
+17:25:06,449 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID21----µ±Ç°ÑªÁ¿233
+17:25:07,451 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID13----µ±Ç°ÑªÁ¿174
+17:25:07,454 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID20----µ±Ç°ÑªÁ¿132
+17:25:07,454 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID21----µ±Ç°ÑªÁ¿158
+17:25:07,455 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID3----µ±Ç°ÑªÁ¿2
+17:25:07,455 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID4----µ±Ç°ÑªÁ¿296
+17:25:07,455 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID9----µ±Ç°ÑªÁ¿44
+17:25:07,455 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID10----µ±Ç°ÑªÁ¿251
+17:25:07,455 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID11----µ±Ç°ÑªÁ¿178
+17:25:07,455 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID17----µ±Ç°ÑªÁ¿68
+17:25:07,456 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID13----µ±Ç°ÑªÁ¿93
+17:25:07,456 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID20----µ±Ç°ÑªÁ¿60
+17:25:07,456 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID21----µ±Ç°ÑªÁ¿41
+17:25:11,452 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯ÊıĞ¡¹ÖÉËÑª----Íæ¼ÒÃû³Æ:,ID1----µ±Ç°ÑªÁ¿322
+17:25:11,452 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯ÊıĞ¡¹ÖÉËÑª----Íæ¼ÒÃû³Æ:,ID1----µ±Ç°ÑªÁ¿172
+17:25:11,453 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯ÊıĞ¡¹ÖÉËÑª----Íæ¼ÒÃû³Æ:,ID1----µ±Ç°ÑªÁ¿22
+17:25:11,453 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯ÊıĞ¡¹ÖÉËÑª----Íæ¼ÒÃû³Æ:,ID1----µ±Ç°ÑªÁ¿-128
+17:31:01,051 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:·Ûºìà£¹¾,ID2----µ±Ç°ÑªÁ¿239
+17:31:07,015 - [6] - ERROR - Game.Base.Config.BaseAppConfig - Exception in ServerProperties Load: 
+System.FormatException: ÊäÈë×Ö·û´®µÄ¸ñÊ½²»ÕıÈ·¡£
+   ÔÚ System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   ÔÚ System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   ÔÚ System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   ÔÚ System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   ÔÚ System.Convert.ChangeType(Object value, Type conversionType)
+   ÔÚ Game.Base.Config.BaseAppConfig.LoadConfigProperty(ConfigPropertyAttribute attrib) Î»ÖÃ D:\workspace\Server\Game.Base\Config\BaseAppConfig.cs:ĞĞºÅ 46
+17:31:11,666 - [15] - ERROR - Game.Base.Config.BaseAppConfig - Exception in ServerProperties Load: 
+System.FormatException: ÊäÈë×Ö·û´®µÄ¸ñÊ½²»ÕıÈ·¡£
+   ÔÚ System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   ÔÚ System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   ÔÚ System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   ÔÚ System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   ÔÚ System.Convert.ChangeType(Object value, Type conversionType)
+   ÔÚ Game.Base.Config.BaseAppConfig.LoadConfigProperty(ConfigPropertyAttribute attrib) Î»ÖÃ D:\workspace\Server\Game.Base\Config\BaseAppConfig.cs:ĞĞºÅ 46
+17:31:39,063 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯ÊıĞ¡¹ÖÉËÑª----Íæ¼ÒÃû³Æ:,ID1----µ±Ç°ÑªÁ¿2122
+17:32:06,010 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:,ID0----µ±Ç°ÑªÁ¿1278
+17:32:06,013 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯Êı±¬Õ¨----Íæ¼ÒÃû³Æ:,ID1----µ±Ç°ÑªÁ¿1986
+17:32:10,910 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯ÊıĞ¡¹ÖÉËÑª----Íæ¼ÒÃû³Æ:,ID1----µ±Ç°ÑªÁ¿1836
+17:32:13,036 - [14] - ERROR - Game.Logic.Phy.Object.Living - µ÷ÓÃº¯ÊıĞ¡¹ÖÉËÑª----Íæ¼ÒÃû³Æ:,ID1----µ±Ç°ÑªÁ¿1686
+17:32:34,201 - [15] - ERROR - Game.Base.Config.BaseAppConfig - Exception in ServerProperties Load: 
+System.FormatException: ÊäÈë×Ö·û´®µÄ¸ñÊ½²»ÕıÈ·¡£
+   ÔÚ System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   ÔÚ System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   ÔÚ System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   ÔÚ System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   ÔÚ System.Convert.ChangeType(Object value, Type conversionType)
+   ÔÚ Game.Base.Config.BaseAppConfig.LoadConfigProperty(ConfigPropertyAttribute attrib) Î»ÖÃ D:\workspace\Server\Game.Base\Config\BaseAppConfig.cs:ĞĞºÅ 46
+17:32:38,154 - [8] - ERROR - Game.Server.GameServer - Center Server Disconnect! Stopping Server
+17:32:38,155 - [8] - ERROR - Game.Server.GameServer - Start the game server again after 1 second,and left try times:3
+17:32:40,536 - [8] - ERROR - Game.Base.BaseConnector - Connect 192.168.0.4:9202 failed:System.Net.Sockets.SocketException: ÓÉÓÚÄ¿±ê¼ÆËã»ú»ı¼«¾Ü¾ø£¬ÎŞ·¨Á¬½Ó¡£ 192.168.0.4:9202
+   ÔÚ System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   ÔÚ System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   ÔÚ Game.Base.BaseConnector.Connect() Î»ÖÃ D:\workspace\Server\Game.Base\BaseConnector.cs:ĞĞºÅ 52
+17:35:39,488 - [6] - ERROR - Game.Server.GameServer - PingCheck center callback
+System.NullReferenceException: Î´½«¶ÔÏóÒıÓÃÉèÖÃµ½¶ÔÏóµÄÊµÀı¡£
+   ÔÚ Game.Base.Packets.StreamProcessor.SendTCP(GSPacketIn packet) Î»ÖÃ D:\workspace\Server\Game.Base\Packets\StreamProcessor.cs:ĞĞºÅ 105
+   ÔÚ Game.Base.BaseClient.SendTCP(GSPacketIn pkg) Î»ÖÃ D:\workspace\Server\Game.Base\BaseClient.cs:ĞĞºÅ 283
+   ÔÚ Game.Server.LoginServerConnector.SendPingCenter() Î»ÖÃ D:\workspace\Server\Game.Server\LoginServerConnector.cs:ĞĞºÅ 919
+   ÔÚ Game.Server.GameServer.PingCheck(Object sender) Î»ÖÃ D:\workspace\Server\Game.Server\GameServer.cs:ĞĞºÅ 682
+17:38:39,494 - [6] - ERROR - Game.Server.GameServer - PingCheck center callback
+System.NullReferenceException: Î´½«¶ÔÏóÒıÓÃÉèÖÃµ½¶ÔÏóµÄÊµÀı¡£
+   ÔÚ Game.Base.Packets.StreamProcessor.SendTCP(GSPacketIn packet) Î»ÖÃ D:\workspace\Server\Game.Base\Packets\StreamProcessor.cs:ĞĞºÅ 105
+   ÔÚ Game.Base.BaseClient.SendTCP(GSPacketIn pkg) Î»ÖÃ D:\workspace\Server\Game.Base\BaseClient.cs:ĞĞºÅ 283
+   ÔÚ Game.Server.LoginServerConnector.SendPingCenter() Î»ÖÃ D:\workspace\Server\Game.Server\LoginServerConnector.cs:ĞĞºÅ 919
+   ÔÚ Game.Server.GameServer.PingCheck(Object sender) Î»ÖÃ D:\workspace\Server\Game.Server\GameServer.cs:ĞĞºÅ 682
+17:41:39,504 - [6] - ERROR - Game.Server.GameServer - PingCheck center callback
+System.NullReferenceException: Î´½«¶ÔÏóÒıÓÃÉèÖÃµ½¶ÔÏóµÄÊµÀı¡£
+   ÔÚ Game.Base.Packets.StreamProcessor.SendTCP(GSPacketIn packet) Î»ÖÃ D:\workspace\Server\Game.Base\Packets\StreamProcessor.cs:ĞĞºÅ 105
+   ÔÚ Game.Base.BaseClient.SendTCP(GSPacketIn pkg) Î»ÖÃ D:\workspace\Server\Game.Base\BaseClient.cs:ĞĞºÅ 283
+   ÔÚ Game.Server.LoginServerConnector.SendPingCenter() Î»ÖÃ D:\workspace\Server\Game.Server\LoginServerConnector.cs:ĞĞºÅ 919
+   ÔÚ Game.Server.GameServer.PingCheck(Object sender) Î»ÖÃ D:\workspace\Server\Game.Server\GameServer.cs:ĞĞºÅ 682
+17:44:39,514 - [6] - ERROR - Game.Server.GameServer - PingCheck center callback
+System.NullReferenceException: Î´½«¶ÔÏóÒıÓÃÉèÖÃµ½¶ÔÏóµÄÊµÀı¡£
+   ÔÚ Game.Base.Packets.StreamProcessor.SendTCP(GSPacketIn packet) Î»ÖÃ D:\workspace\Server\Game.Base\Packets\StreamProcessor.cs:ĞĞºÅ 105
+   ÔÚ Game.Base.BaseClient.SendTCP(GSPacketIn pkg) Î»ÖÃ D:\workspace\Server\Game.Base\BaseClient.cs:ĞĞºÅ 283
+   ÔÚ Game.Server.LoginServerConnector.SendPingCenter() Î»ÖÃ D:\workspace\Server\Game.Server\LoginServerConnector.cs:ĞĞºÅ 919
+   ÔÚ Game.Server.GameServer.PingCheck(Object sender) Î»ÖÃ D:\workspace\Server\Game.Server\GameServer.cs:ĞĞºÅ 682
+17:47:39,522 - [6] - ERROR - Game.Server.GameServer - PingCheck center callback
+System.NullReferenceException: Î´½«¶ÔÏóÒıÓÃÉèÖÃµ½¶ÔÏóµÄÊµÀı¡£
+   ÔÚ Game.Base.Packets.StreamProcessor.SendTCP(GSPacketIn packet) Î»ÖÃ D:\workspace\Server\Game.Base\Packets\StreamProcessor.cs:ĞĞºÅ 105
+   ÔÚ Game.Base.BaseClient.SendTCP(GSPacketIn pkg) Î»ÖÃ D:\workspace\Server\Game.Base\BaseClient.cs:ĞĞºÅ 283
+   ÔÚ Game.Server.LoginServerConnector.SendPingCenter() Î»ÖÃ D:\workspace\Server\Game.Server\LoginServerConnector.cs:ĞĞºÅ 919
+   ÔÚ Game.Server.GameServer.PingCheck(Object sender) Î»ÖÃ D:\workspace\Server\Game.Server\GameServer.cs:ĞĞºÅ 682
+17:50:39,533 - [6] - ERROR - Game.Server.GameServer - PingCheck center callback
+System.NullReferenceException: Î´½«¶ÔÏóÒıÓÃÉèÖÃµ½¶ÔÏóµÄÊµÀı¡£
+   ÔÚ Game.Base.Packets.StreamProcessor.SendTCP(GSPacketIn packet) Î»ÖÃ D:\workspace\Server\Game.Base\Packets\StreamProcessor.cs:ĞĞºÅ 105
+   ÔÚ Game.Base.BaseClient.SendTCP(GSPacketIn pkg) Î»ÖÃ D:\workspace\Server\Game.Base\BaseClient.cs:ĞĞºÅ 283
+   ÔÚ Game.Server.LoginServerConnector.SendPingCenter() Î»ÖÃ D:\workspace\Server\Game.Server\LoginServerConnector.cs:ĞĞºÅ 919
+   ÔÚ Game.Server.GameServer.PingCheck(Object sender) Î»ÖÃ D:\workspace\Server\Game.Server\GameServer.cs:ĞĞºÅ 682
+17:53:39,574 - [15] - ERROR - Game.Server.GameServer - PingCheck center callback
+System.NullReferenceException: Î´½«¶ÔÏóÒıÓÃÉèÖÃµ½¶ÔÏóµÄÊµÀı¡£
+   ÔÚ Game.Base.Packets.StreamProcessor.SendTCP(GSPacketIn packet) Î»ÖÃ D:\workspace\Server\Game.Base\Packets\StreamProcessor.cs:ĞĞºÅ 105
+   ÔÚ Game.Base.BaseClient.SendTCP(GSPacketIn pkg) Î»ÖÃ D:\workspace\Server\Game.Base\BaseClient.cs:ĞĞºÅ 283
+   ÔÚ Game.Server.LoginServerConnector.SendPingCenter() Î»ÖÃ D:\workspace\Server\Game.Server\LoginServerConnector.cs:ĞĞºÅ 919
+   ÔÚ Game.Server.GameServer.PingCheck(Object sender) Î»ÖÃ D:\workspace\Server\Game.Server\GameServer.cs:ĞĞºÅ 682
+17:56:39,559 - [6] - ERROR - Game.Server.GameServer - PingCheck center callback
+System.NullReferenceException: Î´½«¶ÔÏóÒıÓÃÉèÖÃµ½¶ÔÏóµÄÊµÀı¡£
+   ÔÚ Game.Base.Packets.StreamProcessor.SendTCP(GSPacketIn packet) Î»ÖÃ D:\workspace\Server\Game.Base\Packets\StreamProcessor.cs:ĞĞºÅ 105
+   ÔÚ Game.Base.BaseClient.SendTCP(GSPacketIn pkg) Î»ÖÃ D:\workspace\Server\Game.Base\BaseClient.cs:ĞĞºÅ 283
+   ÔÚ Game.Server.LoginServerConnector.SendPingCenter() Î»ÖÃ D:\workspace\Server\Game.Server\LoginServerConnector.cs:ĞĞºÅ 919
+   ÔÚ Game.Server.GameServer.PingCheck(Object sender) Î»ÖÃ D:\workspace\Server\Game.Server\GameServer.cs:ĞĞºÅ 682
+17:59:39,567 - [6] - ERROR - Game.Server.GameServer - PingCheck center callback
+System.NullReferenceException: Î´½«¶ÔÏóÒıÓÃÉèÖÃµ½¶ÔÏóµÄÊµÀı¡£
+   ÔÚ Game.Base.Packets.StreamProcessor.SendTCP(GSPacketIn packet) Î»ÖÃ D:\workspace\Server\Game.Base\Packets\StreamProcessor.cs:ĞĞºÅ 105
+   ÔÚ Game.Base.BaseClient.SendTCP(GSPacketIn pkg) Î»ÖÃ D:\workspace\Server\Game.Base\BaseClient.cs:ĞĞºÅ 283
+   ÔÚ Game.Server.LoginServerConnector.SendPingCenter() Î»ÖÃ D:\workspace\Server\Game.Server\LoginServerConnector.cs:ĞĞºÅ 919
+   ÔÚ Game.Server.GameServer.PingCheck(Object sender) Î»ÖÃ D:\workspace\Server\Game.Server\GameServer.cs:ĞĞºÅ 682
+18:02:39,572 - [6] - ERROR - Game.Server.GameServer - PingCheck center callback
+System.NullReferenceException: Î´½«¶ÔÏóÒıÓÃÉèÖÃµ½¶ÔÏóµÄÊµÀı¡£
+   ÔÚ Game.Base.Packets.StreamProcessor.SendTCP(GSPacketIn packet) Î»ÖÃ D:\workspace\Server\Game.Base\Packets\StreamProcessor.cs:ĞĞºÅ 105
+   ÔÚ Game.Base.BaseClient.SendTCP(GSPacketIn pkg) Î»ÖÃ D:\workspace\Server\Game.Base\BaseClient.cs:ĞĞºÅ 283
+   ÔÚ Game.Server.LoginServerConnector.SendPingCenter() Î»ÖÃ D:\workspace\Server\Game.Server\LoginServerConnector.cs:ĞĞºÅ 919
+   ÔÚ Game.Server.GameServer.PingCheck(Object sender) Î»ÖÃ D:\workspace\Server\Game.Server\GameServer.cs:ĞĞºÅ 682
+18:05:39,582 - [15] - ERROR - Game.Server.GameServer - PingCheck center callback
+System.NullReferenceException: Î´½«¶ÔÏóÒıÓÃÉèÖÃµ½¶ÔÏóµÄÊµÀı¡£
+   ÔÚ Game.Base.Packets.StreamProcessor.SendTCP(GSPacketIn packet) Î»ÖÃ D:\workspace\Server\Game.Base\Packets\StreamProcessor.cs:ĞĞºÅ 105
+   ÔÚ Game.Base.BaseClient.SendTCP(GSPacketIn pkg) Î»ÖÃ D:\workspace\Server\Game.Base\BaseClient.cs:ĞĞºÅ 283
+   ÔÚ Game.Server.LoginServerConnector.SendPingCenter() Î»ÖÃ D:\workspace\Server\Game.Server\LoginServerConnector.cs:ĞĞºÅ 919
+   ÔÚ Game.Server.GameServer.PingCheck(Object sender) Î»ÖÃ D:\workspace\Server\Game.Server\GameServer.cs:ĞĞºÅ 682
+18:08:39,591 - [15] - ERROR - Game.Server.GameServer - PingCheck center callback
+System.NullReferenceException: Î´½«¶ÔÏóÒıÓÃÉèÖÃµ½¶ÔÏóµÄÊµÀı¡£
+   ÔÚ Game.Base.Packets.StreamProcessor.SendTCP(GSPacketIn packet) Î»ÖÃ D:\workspace\Server\Game.Base\Packets\StreamProcessor.cs:ĞĞºÅ 105
+   ÔÚ Game.Base.BaseClient.SendTCP(GSPacketIn pkg) Î»ÖÃ D:\workspace\Server\Game.Base\BaseClient.cs:ĞĞºÅ 283
+   ÔÚ Game.Server.LoginServerConnector.SendPingCenter() Î»ÖÃ D:\workspace\Server\Game.Server\LoginServerConnector.cs:ĞĞºÅ 919
+   ÔÚ Game.Server.GameServer.PingCheck(Object sender) Î»ÖÃ D:\workspace\Server\Game.Server\GameServer.cs:ĞĞºÅ 682
+18:11:39,601 - [6] - ERROR - Game.Server.GameServer - PingCheck center callback
+System.NullReferenceException: Î´½«¶ÔÏóÒıÓÃÉèÖÃµ½¶ÔÏóµÄÊµÀı¡£
+   ÔÚ Game.Base.Packets.StreamProcessor.SendTCP(GSPacketIn packet) Î»ÖÃ D:\workspace\Server\Game.Base\Packets\StreamProcessor.cs:ĞĞºÅ 105
+   ÔÚ Game.Base.BaseClient.SendTCP(GSPacketIn pkg) Î»ÖÃ D:\workspace\Server\Game.Base\BaseClient.cs:ĞĞºÅ 283
+   ÔÚ Game.Server.LoginServerConnector.SendPingCenter() Î»ÖÃ D:\workspace\Server\Game.Server\LoginServerConnector.cs:ĞĞºÅ 919
+   ÔÚ Game.Server.GameServer.PingCheck(Object sender) Î»ÖÃ D:\workspace\Server\Game.Server\GameServer.cs:ĞĞºÅ 682
+18:14:39,610 - [6] - ERROR - Game.Server.GameServer - PingCheck center callback
+System.NullReferenceException: Î´½«¶ÔÏóÒıÓÃÉèÖÃµ½¶ÔÏóµÄÊµÀı¡£
+   ÔÚ Game.Base.Packets.StreamProcessor.SendTCP(GSPacketIn packet) Î»ÖÃ D:\workspace\Server\Game.Base\Packets\StreamProcessor.cs:ĞĞºÅ 105
+   ÔÚ Game.Base.BaseClient.SendTCP(GSPacketIn pkg) Î»ÖÃ D:\workspace\Server\Game.Base\BaseClient.cs:ĞĞºÅ 283
+   ÔÚ Game.Server.LoginServerConnector.SendPingCenter() Î»ÖÃ D:\workspace\Server\Game.Server\LoginServerConnector.cs:ĞĞºÅ 919
+   ÔÚ Game.Server.GameServer.PingCheck(Object sender) Î»ÖÃ D:\workspace\Server\Game.Server\GameServer.cs:ĞĞºÅ 682
+18:17:39,617 - [6] - ERROR - Game.Server.GameServer - PingCheck center callback
+System.NullReferenceException: Î´½«¶ÔÏóÒıÓÃÉèÖÃµ½¶ÔÏóµÄÊµÀı¡£
+   ÔÚ Game.Base.Packets.StreamProcessor.SendTCP(GSPacketIn packet) Î»ÖÃ D:\workspace\Server\Game.Base\Packets\StreamProcessor.cs:ĞĞºÅ 105
+   ÔÚ Game.Base.BaseClient.SendTCP(GSPacketIn pkg) Î»ÖÃ D:\workspace\Server\Game.Base\BaseClient.cs:ĞĞºÅ 283
+   ÔÚ Game.Server.LoginServerConnector.SendPingCenter() Î»ÖÃ D:\workspace\Server\Game.Server\LoginServerConnector.cs:ĞĞºÅ 919
+   ÔÚ Game.Server.GameServer.PingCheck(Object sender) Î»ÖÃ D:\workspace\Server\Game.Server\GameServer.cs:ĞĞºÅ 682
+18:20:39,629 - [6] - ERROR - Game.Server.GameServer - PingCheck center callback
+System.NullReferenceException: Î´½«¶ÔÏóÒıÓÃÉèÖÃµ½¶ÔÏóµÄÊµÀı¡£
+   ÔÚ Game.Base.Packets.StreamProcessor.SendTCP(GSPacketIn packet) Î»ÖÃ D:\workspace\Server\Game.Base\Packets\StreamProcessor.cs:ĞĞºÅ 105
+   ÔÚ Game.Base.BaseClient.SendTCP(GSPacketIn pkg) Î»ÖÃ D:\workspace\Server\Game.Base\BaseClient.cs:ĞĞºÅ 283
+   ÔÚ Game.Server.LoginServerConnector.SendPingCenter() Î»ÖÃ D:\workspace\Server\Game.Server\LoginServerConnector.cs:ĞĞºÅ 919
+   ÔÚ Game.Server.GameServer.PingCheck(Object sender) Î»ÖÃ D:\workspace\Server\Game.Server\GameServer.cs:ĞĞºÅ 682
+18:23:39,637 - [6] - ERROR - Game.Server.GameServer - PingCheck center callback
+System.NullReferenceException: Î´½«¶ÔÏóÒıÓÃÉèÖÃµ½¶ÔÏóµÄÊµÀı¡£
+   ÔÚ Game.Base.Packets.StreamProcessor.SendTCP(GSPacketIn packet) Î»ÖÃ D:\workspace\Server\Game.Base\Packets\StreamProcessor.cs:ĞĞºÅ 105
+   ÔÚ Game.Base.BaseClient.SendTCP(GSPacketIn pkg) Î»ÖÃ D:\workspace\Server\Game.Base\BaseClient.cs:ĞĞºÅ 283
+   ÔÚ Game.Server.LoginServerConnector.SendPingCenter() Î»ÖÃ D:\workspace\Server\Game.Server\LoginServerConnector.cs:ĞĞºÅ 919
+   ÔÚ Game.Server.GameServer.PingCheck(Object sender) Î»ÖÃ D:\workspace\Server\Game.Server\GameServer.cs:ĞĞºÅ 682
+18:26:39,643 - [6] - ERROR - Game.Server.GameServer - PingCheck center callback
+System.NullReferenceException: Î´½«¶ÔÏóÒıÓÃÉèÖÃµ½¶ÔÏóµÄÊµÀı¡£
+   ÔÚ Game.Base.Packets.StreamProcessor.SendTCP(GSPacketIn packet) Î»ÖÃ D:\workspace\Server\Game.Base\Packets\StreamProcessor.cs:ĞĞºÅ 105
+   ÔÚ Game.Base.BaseClient.SendTCP(GSPacketIn pkg) Î»ÖÃ D:\workspace\Server\Game.Base\BaseClient.cs:ĞĞºÅ 283
+   ÔÚ Game.Server.LoginServerConnector.SendPingCenter() Î»ÖÃ D:\workspace\Server\Game.Server\LoginServerConnector.cs:ĞĞºÅ 919
+   ÔÚ Game.Server.GameServer.PingCheck(Object sender) Î»ÖÃ D:\workspace\Server\Game.Server\GameServer.cs:ĞĞºÅ 682
+18:29:39,658 - [6] - ERROR - Game.Server.GameServer - PingCheck center callback
+System.NullReferenceException: Î´½«¶ÔÏóÒıÓÃÉèÖÃµ½¶ÔÏóµÄÊµÀı¡£
+   ÔÚ Game.Base.Packets.StreamProcessor.SendTCP(GSPacketIn packet) Î»ÖÃ D:\workspace\Server\Game.Base\Packets\StreamProcessor.cs:ĞĞºÅ 105
+   ÔÚ Game.Base.BaseClient.SendTCP(GSPacketIn pkg) Î»ÖÃ D:\workspace\Server\Game.Base\BaseClient.cs:ĞĞºÅ 283
+   ÔÚ Game.Server.LoginServerConnector.SendPingCenter() Î»ÖÃ D:\workspace\Server\Game.Server\LoginServerConnector.cs:ĞĞºÅ 919
+   ÔÚ Game.Server.GameServer.PingCheck(Object sender) Î»ÖÃ D:\workspace\Server\Game.Server\GameServer.cs:ĞĞºÅ 682
+18:32:39,661 - [15] - ERROR - Game.Server.GameServer - PingCheck center callback
+System.NullReferenceException: Î´½«¶ÔÏóÒıÓÃÉèÖÃµ½¶ÔÏóµÄÊµÀı¡£
+   ÔÚ Game.Base.Packets.StreamProcessor.SendTCP(GSPacketIn packet) Î»ÖÃ D:\workspace\Server\Game.Base\Packets\StreamProcessor.cs:ĞĞºÅ 105
+   ÔÚ Game.Base.BaseClient.SendTCP(GSPacketIn pkg) Î»ÖÃ D:\workspace\Server\Game.Base\BaseClient.cs:ĞĞºÅ 283
+   ÔÚ Game.Server.LoginServerConnector.SendPingCenter() Î»ÖÃ D:\workspace\Server\Game.Server\LoginServerConnector.cs:ĞĞºÅ 919
+   ÔÚ Game.Server.GameServer.PingCheck(Object sender) Î»ÖÃ D:\workspace\Server\Game.Server\GameServer.cs:ĞĞºÅ 682
+18:35:39,676 - [6] - ERROR - Game.Server.GameServer - PingCheck center callback
+System.NullReferenceException: Î´½«¶ÔÏóÒıÓÃÉèÖÃµ½¶ÔÏóµÄÊµÀı¡£
+   ÔÚ Game.Base.Packets.StreamProcessor.SendTCP(GSPacketIn packet) Î»ÖÃ D:\workspace\Server\Game.Base\Packets\StreamProcessor.cs:ĞĞºÅ 105
+   ÔÚ Game.Base.BaseClient.SendTCP(GSPacketIn pkg) Î»ÖÃ D:\workspace\Server\Game.Base\BaseClient.cs:ĞĞºÅ 283
+   ÔÚ Game.Server.LoginServerConnector.SendPingCenter() Î»ÖÃ D:\workspace\Server\Game.Server\LoginServerConnector.cs:ĞĞºÅ 919
+   ÔÚ Game.Server.GameServer.PingCheck(Object sender) Î»ÖÃ D:\workspace\Server\Game.Server\GameServer.cs:ĞĞºÅ 682
+18:38:39,682 - [15] - ERROR - Game.Server.GameServer - PingCheck center callback
+System.NullReferenceException: Î´½«¶ÔÏóÒıÓÃÉèÖÃµ½¶ÔÏóµÄÊµÀı¡£
+   ÔÚ Game.Base.Packets.StreamProcessor.SendTCP(GSPacketIn packet) Î»ÖÃ D:\workspace\Server\Game.Base\Packets\StreamProcessor.cs:ĞĞºÅ 105
+   ÔÚ Game.Base.BaseClient.SendTCP(GSPacketIn pkg) Î»ÖÃ D:\workspace\Server\Game.Base\BaseClient.cs:ĞĞºÅ 283
+   ÔÚ Game.Server.LoginServerConnector.SendPingCenter() Î»ÖÃ D:\workspace\Server\Game.Server\LoginServerConnector.cs:ĞĞºÅ 919
+   ÔÚ Game.Server.GameServer.PingCheck(Object sender) Î»ÖÃ D:\workspace\Server\Game.Server\GameServer.cs:ĞĞºÅ 682
+18:41:39,695 - [15] - ERROR - Game.Server.GameServer - PingCheck center callback
+System.NullReferenceException: Î´½«¶ÔÏóÒıÓÃÉèÖÃµ½¶ÔÏóµÄÊµÀı¡£
+   ÔÚ Game.Base.Packets.StreamProcessor.SendTCP(GSPacketIn packet) Î»ÖÃ D:\workspace\Server\Game.Base\Packets\StreamProcessor.cs:ĞĞºÅ 105
+   ÔÚ Game.Base.BaseClient.SendTCP(GSPacketIn pkg) Î»ÖÃ D:\workspace\Server\Game.Base\BaseClient.cs:ĞĞºÅ 283
+   ÔÚ Game.Server.LoginServerConnector.SendPingCenter() Î»ÖÃ D:\workspace\Server\Game.Server\LoginServerConnector.cs:ĞĞºÅ 919
+   ÔÚ Game.Server.GameServer.PingCheck(Object sender) Î»ÖÃ D:\workspace\Server\Game.Server\GameServer.cs:ĞĞºÅ 682
+18:44:39,705 - [6] - ERROR - Game.Server.GameServer - PingCheck center callback
+System.NullReferenceException: Î´½«¶ÔÏóÒıÓÃÉèÖÃµ½¶ÔÏóµÄÊµÀı¡£
+   ÔÚ Game.Base.Packets.StreamProcessor.SendTCP(GSPacketIn packet) Î»ÖÃ D:\workspace\Server\Game.Base\Packets\StreamProcessor.cs:ĞĞºÅ 105
+   ÔÚ Game.Base.BaseClient.SendTCP(GSPacketIn pkg) Î»ÖÃ D:\workspace\Server\Game.Base\BaseClient.cs:ĞĞºÅ 283
+   ÔÚ Game.Server.LoginServerConnector.SendPingCenter() Î»ÖÃ D:\workspace\Server\Game.Server\LoginServerConnector.cs:ĞĞºÅ 919
+   ÔÚ Game.Server.GameServer.PingCheck(Object sender) Î»ÖÃ D:\workspace\Server\Game.Server\GameServer.cs:ĞĞºÅ 682
+18:47:39,710 - [6] - ERROR - Game.Server.GameServer - PingCheck center callback
+System.NullReferenceException: Î´½«¶ÔÏóÒıÓÃÉèÖÃµ½¶ÔÏóµÄÊµÀı¡£
+   ÔÚ Game.Base.Packets.StreamProcessor.SendTCP(GSPacketIn packet) Î»ÖÃ D:\workspace\Server\Game.Base\Packets\StreamProcessor.cs:ĞĞºÅ 105
+   ÔÚ Game.Base.BaseClient.SendTCP(GSPacketIn pkg) Î»ÖÃ D:\workspace\Server\Game.Base\BaseClient.cs:ĞĞºÅ 283
+   ÔÚ Game.Server.LoginServerConnector.SendPingCenter() Î»ÖÃ D:\workspace\Server\Game.Server\LoginServerConnector.cs:ĞĞºÅ 919
+   ÔÚ Game.Server.GameServer.PingCheck(Object sender) Î»ÖÃ D:\workspace\Server\Game.Server\GameServer.cs:ĞĞºÅ 682
+18:50:39,726 - [6] - ERROR - Game.Server.GameServer - PingCheck center callback
+System.NullReferenceException: Î´½«¶ÔÏóÒıÓÃÉèÖÃµ½¶ÔÏóµÄÊµÀı¡£
+   ÔÚ Game.Base.Packets.StreamProcessor.SendTCP(GSPacketIn packet) Î»ÖÃ D:\workspace\Server\Game.Base\Packets\StreamProcessor.cs:ĞĞºÅ 105
+   ÔÚ Game.Base.BaseClient.SendTCP(GSPacketIn pkg) Î»ÖÃ D:\workspace\Server\Game.Base\BaseClient.cs:ĞĞºÅ 283
+   ÔÚ Game.Server.LoginServerConnector.SendPingCenter() Î»ÖÃ D:\workspace\Server\Game.Server\LoginServerConnector.cs:ĞĞºÅ 919
+   ÔÚ Game.Server.GameServer.PingCheck(Object sender) Î»ÖÃ D:\workspace\Server\Game.Server\GameServer.cs:ĞĞºÅ 682
+18:53:39,736 - [15] - ERROR - Game.Server.GameServer - PingCheck center callback
+System.NullReferenceException: Î´½«¶ÔÏóÒıÓÃÉèÖÃµ½¶ÔÏóµÄÊµÀı¡£
+   ÔÚ Game.Base.Packets.StreamProcessor.SendTCP(GSPacketIn packet) Î»ÖÃ D:\workspace\Server\Game.Base\Packets\StreamProcessor.cs:ĞĞºÅ 105
+   ÔÚ Game.Base.BaseClient.SendTCP(GSPacketIn pkg) Î»ÖÃ D:\workspace\Server\Game.Base\BaseClient.cs:ĞĞºÅ 283
+   ÔÚ Game.Server.LoginServerConnector.SendPingCenter() Î»ÖÃ D:\workspace\Server\Game.Server\LoginServerConnector.cs:ĞĞºÅ 919
+   ÔÚ Game.Server.GameServer.PingCheck(Object sender) Î»ÖÃ D:\workspace\Server\Game.Server\GameServer.cs:ĞĞºÅ 682
+18:56:39,739 - [6] - ERROR - Game.Server.GameServer - PingCheck center callback
+System.NullReferenceException: Î´½«¶ÔÏóÒıÓÃÉèÖÃµ½¶ÔÏóµÄÊµÀı¡£
+   ÔÚ Game.Base.Packets.StreamProcessor.SendTCP(GSPacketIn packet) Î»ÖÃ D:\workspace\Server\Game.Base\Packets\StreamProcessor.cs:ĞĞºÅ 105
+   ÔÚ Game.Base.BaseClient.SendTCP(GSPacketIn pkg) Î»ÖÃ D:\workspace\Server\Game.Base\BaseClient.cs:ĞĞºÅ 283
+   ÔÚ Game.Server.LoginServerConnector.SendPingCenter() Î»ÖÃ D:\workspace\Server\Game.Server\LoginServerConnector.cs:ĞĞºÅ 919
+   ÔÚ Game.Server.GameServer.PingCheck(Object sender) Î»ÖÃ D:\workspace\Server\Game.Server\GameServer.cs:ĞĞºÅ 682
+18:59:39,754 - [6] - ERROR - Game.Server.GameServer - PingCheck center callback
+System.NullReferenceException: Î´½«¶ÔÏóÒıÓÃÉèÖÃµ½¶ÔÏóµÄÊµÀı¡£
+   ÔÚ Game.Base.Packets.StreamProcessor.SendTCP(GSPacketIn packet) Î»ÖÃ D:\workspace\Server\Game.Base\Packets\StreamProcessor.cs:ĞĞºÅ 105
+   ÔÚ Game.Base.BaseClient.SendTCP(GSPacketIn pkg) Î»ÖÃ D:\workspace\Server\Game.Base\BaseClient.cs:ĞĞºÅ 283
+   ÔÚ Game.Server.LoginServerConnector.SendPingCenter() Î»ÖÃ D:\workspace\Server\Game.Server\LoginServerConnector.cs:ĞĞºÅ 919
+   Ô

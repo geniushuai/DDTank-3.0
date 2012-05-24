@@ -1,0 +1,44 @@
+14:25:34,489 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+14:25:34,584 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading Edition Value is 23000
+14:25:34,585 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MustComposeGold Value is 1000
+14:25:34,585 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MustFusionGold Value is 400
+14:25:34,586 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MustStrengthenGold Value is 1000
+14:25:34,586 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading CheckRewardItem Value is 11001
+14:25:34,586 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading CheckCount Value is 20
+14:25:34,587 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading HymenealMoney Value is 500
+14:25:34,587 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DivorcedMoney Value is 5214
+14:25:34,588 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MarryRoomCreateMoney Value is 2000,2700,3400
+14:25:34,588 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading BoxAppearCondition Value is 4
+14:25:34,589 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DisableCommands Value is    
+14:25:34,589 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading AssState Value is False
+14:25:34,590 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DailyAwardState Value is True
+14:25:34,590 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading Cess Value is 0
+14:25:34,590 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading BeginAuction Value is 45
+14:25:34,591 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading EndAuction Value is 75
+14:25:34,604 - [MAIN] - INFO  - Center.Server.CenterServer - Recompile Scripts: True
+14:25:34,634 - [MAIN] - INFO  - Center.Server.CenterServer - Registering global event handlers: true
+14:25:34,635 - [MAIN] - INFO  - Center.Server.CenterServer - Script components: True
+14:25:34,635 - [MAIN] - INFO  - Center.Server.CenterServer - Check Server Edition:23000: True
+14:25:34,640 - [MAIN] - INFO  - Center.Server.CenterServer - InitSocket Port:9202: True
+14:25:34,765 - [MAIN] - INFO  - Center.Server.CenterService - Center Service started!
+14:25:34,765 - [MAIN] - INFO  - Center.Server.CenterServer - Center Service: True
+14:25:34,774 - [MAIN] - INFO  - Center.Server.ServerMgr - Load server list from db.
+14:25:34,774 - [MAIN] - INFO  - Center.Server.CenterServer - Load serverlist: True
+14:25:34,782 - [MAIN] - INFO  - Center.Server.CenterServer - Init ConsortiaLevelMgr: True
+14:25:34,790 - [MAIN] - INFO  - Center.Server.CenterServer - Init MacroDropMgr: True
+14:25:34,796 - [MAIN] - INFO  - Center.Server.CenterServer - LanguageMgr Init: True
+14:25:34,798 - [MAIN] - INFO  - Center.Server.CenterServer - Init Global Timers: True
+14:25:34,811 - [MAIN] - DEBUG - Game.Base.CommandMgr - ScriptMgr: Searching for commands in Center.Server, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+14:25:34,813 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &gp,Manage game properties at runtime.
+14:25:34,814 - [MAIN] - DEBUG - Game.Base.CommandMgr - ScriptMgr: Searching for commands in Game.Base, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+14:25:34,815 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &cmd,Config the command system.
+14:25:34,815 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &sm,Script Manager console commands.
+14:25:34,816 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &cs,Compile the C# scripts.
+14:25:34,817 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 4 commands!
+14:25:34,825 - [MAIN] - DEBUG - Game.Base.BaseServer - Server is now listening to incoming connections!
+14:25:34,825 - [MAIN] - INFO  - Center.Server.CenterServer - base.Start(): True
+14:25:34,830 - [MAIN] - INFO  - Center.Server.CenterServer - GameServer is now open for connections!
+14:25:34,831 - [MAIN] - INFO  - Bussiness.GameProperties - Saving game properties into db!
+14:26:34,809 - [5] - INFO  - Center.Server.CenterServer - Saving database...
+14:26:34,809 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+14:26:34,809 - [

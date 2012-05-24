@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoadTest", "RoadTest\RoadTest.csproj", "{8ED3D121-7993-4C2A-BDF7-E13ADCBD7EE2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C04678D3-E68D-4041-A976-F1D19131425E}"
+	ProjectSection(SolutionItems) = preProject
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+		RoadTest.vsmdi = RoadTest.vsmdi
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThreadTest", "MultiThreadTest\MultiThreadTest.csproj", "{89410159-76AA-459B-9488-25F7F61F68DF}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = RoadTest.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ED3D121-7993-4C2A-BDF7-E13ADCBD7EE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED3D121-7993-4C2A-BDF7-E13ADCBD7EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED3D121-7993-4C2A-BDF7-E13ADCBD7EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED3D121-7993-4C2A-BDF7-E13ADCBD7EE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89410159-76AA-459B-9488-25F7F61F68DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89410159-76AA-459B-9488-25F7F61F68DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89410159-76AA-459B-9488-25F7F61F68DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89410159-76AA-459B-9488-25F7F61F68DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,24 @@
+21:28:57,974 - [13] - ERROR - Game.Logic.Phy.Object.SimpleBoss - lua function:StartAttacking error
+LuaInterface.LuaException: ./ai/npc/monstrous_humanoid.lua:35: invalid arguments to method: SimpleBoss.Shoot
+   在 LuaInterface.Lua.ThrowExceptionFromError(Int32 oldTop)
+   在 LuaInterface.Lua.callFunction(Object function, Object[] args, Type[] returnTypes)
+   在 LuaInterface.Lua.callFunction(Object function, Object[] args)
+   在 LuaInterface.LuaFunction.Call(Object[] args)
+   在 Game.Logic.Phy.Object.SimpleBoss.RunLuaFunction(String func, Object[] args) 位置 D:\workspace\Server\Game.Logic\Phy\Object\SimpleBoss.cs:行号 226
+21:29:10,204 - [13] - ERROR - Game.Logic.Phy.Object.SimpleBoss - lua function:StartAttacking error
+LuaInterface.LuaException: ./ai/npc/monstrous_humanoid.lua:19: invalid arguments to method: SimpleBoss.Shoot
+   在 LuaInterface.Lua.ThrowExceptionFromError(Int32 oldTop)
+   在 LuaInterface.Lua.callFunction(Object function, Object[] args, Type[] returnTypes)
+   在 LuaInterface.Lua.callFunction(Object function, Object[] args)
+   在 LuaInterface.LuaFunction.Call(Object[] args)
+   在 Game.Logic.Phy.Object.SimpleBoss.RunLuaFunction(String func, Object[] args) 位置 D:\workspace\Server\Game.Logic\Phy\Object\SimpleBoss.cs:行号 226
+21:29:12,931 - [13] - ERROR - Game.Logic.PVEGame - lua function:GameOver error
+LuaInterface.LuaException: ai/mission/1001.lua:77: attempt to call method 'ClearSimpNpc' (a string value)
+   在 LuaInterface.Lua.ThrowExceptionFromError(Int32 oldTop)
+   在 LuaInterface.Lua.callFunction(Object function, Object[] args, Type[] returnTypes)
+   在 LuaInterface.Lua.callFunction(Object function, Object[] args)
+   在 LuaInterface.LuaFunction.Call(Object[] args)
+   在 Game.Logic.PVEGame.RunMissionLuaFunction(String func, Object[] args) 位置 D:\workspace\Server\Game.Logic\PVEGame.cs:行号 423
+21:30:29,057 - [14] - ERROR - Game.Server.GameServer - GameServer.Stop() - enter method
+21:30:29,092 - [14] - ERROR - Game.Server.LoginServerConnector - LoginServerConnector is OnDisconnect!
+21:30:29,102 - [14] - ERROR - Game.Server.GameServer - Server Stopped!

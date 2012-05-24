@@ -1,0 +1,9 @@
+21:32:32,283 - [10] - ERROR - Game.Server.Rooms.RoomMgr - RoomMgr execute action error:
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Game.Base.Packets.AbstractPacketLib.SendUpdateRoomList(List`1 roomlist) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\AbstractPacketLib.cs:line 514
+   at Game.Server.Rooms.EnterWaitingRoomAction.Execute() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Rooms\EnterWaitingRoomAction.cs:line 37
+   at Game.Server.Rooms.RoomMgr.ExecuteActions() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Rooms\RoomMgr.cs:line 160

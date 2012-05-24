@@ -1,0 +1,12 @@
+15:26:06,015 - [14] - ERROR - Game.Base.Packets.StreamProcessor - AsyncTcpSendCallback
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.CopyTo3(Byte[] dst, Int32 dstOffset, Int32 offset, Byte[] key, Int32& packetArrangeSend)
+   at Game.Base.Packets.StreamProcessor.AsyncTcpSendCallback(Object sender, SocketAsyncEventArgs e)
+15:26:06,015 - [15] - ERROR - Game.Base.Packets.StreamProcessor - AsyncTcpSendCallback
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.CopyTo3(Byte[] dst, Int32 dstOffset, Int32 offset, Byte[] key, Int32& packetArrangeSend)
+   at Game.Base.Packets.StreamProcessor.AsyncTcpSendCallback(Object sender, SocketAsyncEventArgs e)
+15:26:30,708 - [15] - ERROR - Game.Base.Packets.StreamProcessor - AsyncTcpSendCallback
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Game.Base.PacketIn.CopyTo3(Byte[] dst, Int32 dstOffset, Int32 offset, Byte[] key, Int32& packetArrangeSend)
+   at Game.Base.Packets.StreamProcessor.AsyncTcpSendCallback(Object sender, SocketAsyncEventArgs e)

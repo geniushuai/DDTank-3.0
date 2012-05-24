@@ -1,0 +1,386 @@
+20:07:51,841 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:07:52,918 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 00 00 00 00 06 0C 00 00 00 05 00 00 00 01   ................
+
+20:09:07,677 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.OpenUpArkHandler  client: 192.168.1.3:53299)
+System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.Enumerable.Max(IEnumerable`1 source)
+   at Bussiness.Managers.ItemBoxMgr.CreateItemBox(Int32 DateId, List`1 itemInfos, Int32& gold, Int32& point, Int32& giftToken) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\Managers\ItemBoxMgr.cs:line 134
+   at Game.Server.Packets.Client.OpenUpArkHandler.OpenUpItem(String data, Int32[] bag, List`1 infos, Int32& gold, Int32& money, Int32& giftToken) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\OpenUpArkHandler.cs:line 180
+   at Game.Server.Packets.Client.OpenUpArkHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\OpenUpArkHandler.cs:line 35
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:09:07,837 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 17 00 3F 00 00 00 11 00 00 00 00 00 00   q....?..........
+0010: 00 00 01 00 00 00 03                              .......         
+
+20:10:24,504 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:10:24,505 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 00 00 00 00 06 0C 00 00 00 05 00 00 00 01   ................
+
+20:10:26,868 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:10:26,869 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 01 00 00 00 02 0C 00 00 00 00 00 00 00 01   ................
+
+20:10:28,737 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:10:28,738 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 01 00 00 00 02 0C 00 00 00 01 00 00 00 01   ................
+
+20:10:30,938 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:10:30,939 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 01 00 00 00 02 0C 00 00 00 01 00 00 00 01   ................
+
+20:10:32,834 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:10:32,835 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 01 00 00 00 02 0C 00 00 00 02 00 00 00 01   ................
+
+20:10:34,572 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:10:34,573 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 01 00 00 00 02 0C 00 00 00 00 00 00 00 01   ................
+
+20:10:39,867 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:10:39,868 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 01 00 00 00 00 0C 00 00 00 02 00 00 00 01   ................
+
+20:10:42,503 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:10:42,504 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 00 00 00 00 07 0C 00 00 00 01 00 00 00 01   ................
+
+20:10:44,475 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:10:44,476 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 00 00 00 00 06 0C 00 00 00 01 00 00 00 01   ................
+
+20:10:46,588 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:10:46,590 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 00 00 00 00 27 0C 00 00 00 01 00 00 00 01   ......'.........
+
+20:10:49,140 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:10:49,141 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 01 00 00 00 01 0C 00 00 00 02 00 00 00 01   ................
+
+20:10:54,307 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:10:54,308 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 00 00 00 00 07 0C 00 00 00 00 00 00 00 01   ................
+
+20:10:58,996 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:10:58,997 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 00 00 00 00 07 0C 00 00 00 02 00 00 00 01   ................
+
+20:11:04,148 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:11:04,149 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 00 00 00 00 06 0C 00 00 00 05 00 00 00 01   ................
+
+20:11:09,939 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:11:09,939 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 00 00 00 00 21 0C 00 00 00 05 00 00 00 01   ......!.........
+
+20:11:17,941 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:11:17,943 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 00 00 00 00 20 0C 00 00 00 05 00 00 00 01   ...... .........
+
+20:11:21,139 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:11:21,140 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 01 00 00 00 02 0C 00 00 00 00 00 00 00 01   ................
+
+20:11:35,660 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:11:35,660 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 01 00 00 00 03 0C 00 00 00 03 00 00 00 01   ................
+
+20:11:38,622 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:11:38,624 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 01 00 00 00 03 0C 00 00 00 03 00 00 00 01   ................
+
+20:11:41,548 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:11:41,549 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 01 00 00 00 04 0C 00 00 00 04 00 00 00 01   ................
+
+20:11:54,936 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:11:54,938 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 01 00 00 00 02 0C 00 00 00 02 00 00 00 01   ................
+
+20:12:01,338 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:12:01,339 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 00 00 00 00 06 0C 00 00 00 05 00 00 00 01   ................
+
+20:12:25,570 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:12:25,571 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 01 00 00 00 01 0C 00 00 00 02 00 00 00 01   ................
+
+20:12:28,099 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:12:28,100 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 01 00 00 00 01 0C 00 00 00 02 00 00 00 01   ................
+
+20:12:29,971 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:12:29,972 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 00 00 00 00 07 0C 00 00 00 01 00 00 00 01   ................
+
+20:12:31,676 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:12:31,677 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 00 00 00 00 06 0C 00 00 00 01 00 00 00 01   ................
+
+20:12:34,704 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:12:34,705 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 00 00 00 00 01 0C 00 00 00 01 00 00 00 01   ................
+
+20:12:36,936 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:12:36,937 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 00 00 00 00 07 0C 00 00 00 01 00 00 00 01   ................
+
+20:13:45,121 - [10] - ERROR - Bussiness.BaseBussiness - Money Log Error:System.InvalidOperationException: The given ColumnMapping does not match up with any column in the source or destination.
+   at System.Data.SqlClient.SqlBulkCopy.AnalyzeTargetAndCreateUpdateBulkCommand(BulkCopySimpleResultSet internalResults)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternal()
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServer(Int32 columnCount)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Bussiness.ItemRecordBussiness.LogMoneyDb(DataTable dt) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\ItemRecordBussiness.cs:line 102
+20:23:47,555 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:23:47,605 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 00 00 00 00 06 0C 00 00 00 01 00 00 00 01   ................
+
+20:23:51,912 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:23:51,913 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 00 00 00 00 06 0C 00 00 00 05 00 00 00 01   ................
+
+20:23:54,125 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:23:54,128 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 00 00 00 00 06 0C 00 00 00 05 00 00 00 01   ................
+
+20:23:56,476 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:23:56,477 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 01 00 00 00 02 0C 00 00 00 01 00 00 00 01   ................
+
+20:23:58,419 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:23:58,419 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 01 00 00 00 02 0C 00 00 00 01 00 00 00 01   ................
+
+20:31:17,420 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:31:17,421 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 01 00 00 00 02 0C 00 00 00 00 00 00 00 01   ................
+
+20:31:20,052 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:31:20,052 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 01 00 00 00 02 0C 00 00 00 01 00 00 00 01   ................
+
+20:31:23,140 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:31:23,141 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 01 00 00 00 03 0C 00 00 00 03 00 00 00 01   ................
+
+20:31:24,992 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:31:24,993 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 01 00 00 00 03 0C 00 00 00 03 00 00 00 01   ................
+
+20:31:27,701 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:31:27,702 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 01 00 00 00 04 0C 00 00 00 04 00 00 00 01   ................
+
+20:31:30,186 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:31:30,187 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 00 00 00 00 06 0C 00 00 00 05 00 00 00 01   ................
+
+20:40:41,813 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 192.168.1.3:53299)
+System.NotSupportedException: Did not support this type bag: 12
+   at Game.Server.GameObjects.GamePlayer.GetInventory(eBageType bageType) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameObjects\GamePlayer.cs:line 172
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Client\UserChangeItemPlaceHandler.cs:line 29
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+20:40:41,814 - [4] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 00 31 00 00 00 11 00 00 00 00 00 00   q.. .1..........
+0010: 00 00 00 00 00 00 00 0C 00 00 00 05 00 00 00 01   ................
+

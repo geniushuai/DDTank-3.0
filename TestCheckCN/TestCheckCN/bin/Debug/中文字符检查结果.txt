@@ -1,0 +1,20 @@
+D:\技术练习集中营\技术练习\文件中判断中文字符的方法\TestCheckCN\testnote.txt
+Line:1  #中文包
+Line:4  #协议包中的就不加命名空间前缀
+Line:72  ItemStrengthenHandler.NoStrength:此V?t ph?m Kh?ng th? c??ng hóa.
+finish
+D:\技术练习集中营\技术练习\文件中判断中文字符的方法\TestCheckCN\testnote.txt
+Line:1  #中文包
+Line:4  #协议包中的就不加命名空间前缀
+Line:72  ItemStrengthenHandler.NoStrength:此V?t ph?m Kh?ng th? c??ng hóa.
+finish
+D:\技术练习集中营\技术练习\文件中判断中文字符的方法\testnote.txt
+finish
+D:\技术练习集中营\技术练习\文件中判断中文字符的方法\TestCheckCN\TestCheckCN\Program.cs
+Line:15                  Console.WriteLine("请将带检查文件拖拽至窗口内。");
+Line:37              //using (FileStream fs = File.OpenRead("D:\\技术练习集中营\\技术练习\\文件中判断中文字符的方法\\TestCheckCN\\testnote.txt"))
+Line:84              int chfrom = Convert.ToInt32("4e00", 16);    //范围（0x4e00～0x9fff）转换成int（chfrom～chend）
+Line:90                  code = Char.ConvertToUtf32(CString, i);    //获得字符串CString中指定索引index处字符unicode编码
+Line:94                      return true;     //当code在中文范围内返回true
+Line:106              using (FileStream fs = File.Open(".//中文字符检查结果.txt", FileMode.Append))
+finish

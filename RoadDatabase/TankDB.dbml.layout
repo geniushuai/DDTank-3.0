@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 22.625, 17.5" name="TankDB">
+  <DataContextMoniker Name="/TankDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="41fd19de-d45a-4a01-832d-7a33bc8b0835" absoluteBounds="0.75, 10.125, 2, 1.4483463541666666">
+      <DataClassMoniker Name="/TankDBDataContext/Game_Map_Po" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0020d3d6-903f-4343-a3b8-e05c1bd0473f" absoluteBounds="0.765, 10.585, 1.9700000000000002, 0.88834635416666674" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b793b214-9ec2-45d1-a386-80afafa67d8c" absoluteBounds="9.75, 3, 2, 1.4483463541666666">
+      <DataClassMoniker Name="/TankDBDataContext/Map_Good" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4ffdf5c1-eb62-43e7-9785-2db13db854ea" absoluteBounds="9.765, 3.46, 1.9700000000000002, 0.88834635416666674" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="11bb1116-b50a-4cad-8492-8dc37c076e8f" absoluteBounds="9.75, 12.25, 2, 2.2914453124999987">
+      <DataClassMoniker Name="/TankDBDataContext/Server_List" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5ef7b3ff-83c8-4100-b401-7820f3decc7f" absoluteBounds="9.765, 12.71, 1.9700000000000002, 1.7314453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1f999143-fb69-42d9-8f80-da3cd5364292" absoluteBounds="12, 0.75, 2, 1.6169661458333329">
+      <DataClassMoniker Name="/TankDBDataContext/Shop" />
+      <nestedChildShapes>
+        <elementListCompartment Id="12a91665-a4f2-4c6e-99c2-7c996ae9c184" absoluteBounds="12.015, 1.21, 1.9700000000000002, 1.0569661458333333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="89a018d5-9884-49b5-baf6-9909b742be8e" absoluteBounds="0.5, 14.125, 2, 1.4483463541666666">
+      <DataClassMoniker Name="/TankDBDataContext/Shop_Goods_Category" />
+      <nestedChildShapes>
+        <elementListCompartment Id="128ef6e8-234f-4e08-ad78-1d886d249058" absoluteBounds="0.51500000000000012, 14.585, 1.9700000000000002, 0.88834635416666674" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="64778208-59b8-4f4c-94fd-2e20c0d2ae8e" absoluteBounds="9.375, 0.75, 2, 1.7855859375">
+      <DataClassMoniker Name="/TankDBDataContext/Sys_Users_Friend" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c678eb56-25b7-4adb-bce1-48f4adb89fc2" absoluteBounds="9.39, 1.21, 1.9700000000000002, 1.2255859375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="218eee3c-9285-4ba4-aebc-b3b91eb0953f" absoluteBounds="0.875, 6.5, 2, 3.4717838541666666">
+      <DataClassMoniker Name="/TankDBDataContext/Consortia" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b05e54fd-78c3-4e6a-be0c-ad58f4de0b02" absoluteBounds="0.89000000000000012, 6.96, 1.9700000000000002, 2.9117838541666665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="673ed08f-93df-4cf7-8ad8-f467fe32b55e" absoluteBounds="3.75, 0.75, 2, 2.4600651041666666">
+      <DataClassMoniker Name="/TankDBDataContext/Consortia_User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ded60918-385a-434c-b2d3-9ef15a7e38cf" absoluteBounds="3.765, 1.21, 1.9700000000000002, 1.9000651041666665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="99c76ee4-bac4-4c3b-b019-42fd34c28083" absoluteBounds="0.625, 3.125, 2, 1.9542057291666666">
+      <DataClassMoniker Name="/TankDBDataContext/Consortia_Apply" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8df43f8b-4cb6-4559-98df-b0bad317afaa" absoluteBounds="0.64000000000000012, 3.585, 1.9700000000000002, 1.3942057291666665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0f8e8a8b-5440-4acd-935d-f09e070a5ae1" absoluteBounds="3.75, 7.75, 2, 1.9542057291666666">
+      <DataClassMoniker Name="/TankDBDataContext/Consortia_Organise" />
+      <nestedChildShapes>
+        <elementListCompartment Id="acf46a6d-770d-4186-b678-832aada6fe38" absoluteBounds="3.765, 8.21, 1.9700000000000002, 1.3942057291666665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e8d82962-83ab-48f2-8cdb-5eafb856a300" absoluteBounds="20.375, 7.875, 2, 3.4717838541666666">
+      <DataClassMoniker Name="/TankDBDataContext/Sys_Users_Good" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9e58f757-3fa1-4b7d-aee1-0316b28a5f25" absoluteBounds="20.39, 8.335, 1.9700000000000002, 2.9117838541666665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e012fb28-4e08-47ce-917f-55314f6616ab" absoluteBounds="9.625, 4.75, 2, 7.1814192708333326">
+      <DataClassMoniker Name="/TankDBDataContext/Shop_Good" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b0459657-04e2-4eb9-bd65-35777e315847" absoluteBounds="9.64, 5.21, 1.9700000000000002, 6.621419270833333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f3083a30-7682-4c94-84b9-e4f7ea5702a4" absoluteBounds="6.125, 14.75, 2, 2.4600651041666666">
+      <DataClassMoniker Name="/TankDBDataContext/Sys_Users_Fight" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fe2810a5-82d0-41ce-b770-f587a5b91604" absoluteBounds="6.1400000000000006, 15.21, 1.9700000000000002, 1.9000651041666665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="873d19a1-bb0f-4b92-8dc5-f57388dea6f5" absoluteBounds="6.375, 9.875, 2, 4.4835026041666666">
+      <DataClassMoniker Name="/TankDBDataContext/Sys_Users_Detail" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c972f7e2-63de-4b3f-a0df-9e49036bbf5c" absoluteBounds="6.3900000000000006, 10.335, 1.9700000000000002, 3.923502604166667" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b3ab0fe6-e9da-4bfe-8b5d-2c26e93eeb67" absoluteBounds="6.125, 4.375, 2, 5.3266015625">
+      <DataClassMoniker Name="/TankDBDataContext/Quest" />
+      <nestedChildShapes>
+        <elementListCompartment Id="051ccfb6-2c5f-4041-b55f-4d9bfb33407d" absoluteBounds="6.14, 4.835, 1.9700000000000002, 4.7666015625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="447ec595-5586-45f6-84c3-1f2da4bc7477" absoluteBounds="1.375, 1, 2, 1.7855859375">
+      <DataClassMoniker Name="/TankDBDataContext/QuestData" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e08c7ed8-1320-4cef-ac82-31987501a4ef" absoluteBounds="1.3900000000000001, 1.46, 1.9700000000000002, 1.2255859375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6721aec1-5e69-41e3-97c1-73e44ff924f4" absoluteBounds="3.25, 3.5, 2, 3.8090234374999996">
+      <DataClassMoniker Name="/TankDBDataContext/Game_Map" />
+      <nestedChildShapes>
+        <elementListCompartment Id="baddc0fc-9a58-482a-8980-5290548dcf01" absoluteBounds="3.2649999999999997, 3.96, 1.9700000000000002, 3.2490234375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="796475ef-f473-47c4-804a-6947097af8a4" absoluteBounds="12.5, 3, 2, 3.9776432291666666">
+      <DataClassMoniker Name="/TankDBDataContext/Ball" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8e2bbee9-a65b-40f4-b8f4-4f7ac516806f" absoluteBounds="12.515, 3.46, 1.9700000000000002, 3.4176432291666665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="98cb88b7-9e34-4ea6-be5b-c35d1ea0296d" absoluteBounds="6.875, 0.5, 2, 3.8090234374999996">
+      <DataClassMoniker Name="/TankDBDataContext/User_Message" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0cb9ebc9-970d-4fb6-abfd-ca4db43a338a" absoluteBounds="6.89, 0.96, 1.9700000000000002, 3.2490234375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

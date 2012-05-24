@@ -1,0 +1,36 @@
+2010-01-04 11:35:53,155 - client log:Error #2030: 遇到文件尾。
+Error: Error #2030: 遇到文件尾。
+	at flash.utils::ByteArray/readUTF()
+	at tank.manager::SocketManager/__socketData()[D:\workspace\PVE_Version\TankCore\src\tank\manager\SocketManager.as:113]
+	at flash.events::EventDispatcher/dispatchEventFunction()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at road.comm::ByteSocket/handlePackage()[E:\RoadUtils(PvE)\src\road\comm\ByteSocket.as:279]
+	at road.comm::ByteSocket/readPackage()[E:\RoadUtils(PvE)\src\road\comm\ByteSocket.as:255]
+	at road.comm::ByteSocket/handleIncoming()[E:\RoadUtils(PvE)\src\road\comm\ByteSocket.as:195]
+2010-01-04 16:08:35,487 - client log:Error #2030: 遇到文件尾。
+Error: Error #2030: 遇到文件尾。
+	at flash.utils::ByteArray/readUTF()
+	at tank.manager::SocketManager/__socketData()[D:\workspace\PVE_Version\TankCore\src\tank\manager\SocketManager.as:113]
+	at flash.events::EventDispatcher/dispatchEventFunction()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at road.comm::ByteSocket/handlePackage()[E:\RoadUtils(PvE)\src\road\comm\ByteSocket.as:279]
+	at road.comm::ByteSocket/readPackage()[E:\RoadUtils(PvE)\src\road\comm\ByteSocket.as:255]
+	at road.comm::ByteSocket/handleIncoming()[E:\RoadUtils(PvE)\src\road\comm\ByteSocket.as:195]
+2010-01-04 18:25:57,818 - client log:Error #2030: 遇到文件尾。
+Error: Error #2030: 遇到文件尾。
+	at flash.utils::ByteArray/readUTF()
+	at tank.manager::SocketManager/__socketData()[D:\workspace\PVE_Version\TankCore\src\tank\manager\SocketManager.as:113]
+	at flash.events::EventDispatcher/dispatchEventFunction()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at road.comm::ByteSocket/handlePackage()[E:\RoadUtils(PvE)\src\road\comm\ByteSocket.as:279]
+	at road.comm::ByteSocket/readPackage()[E:\RoadUtils(PvE)\src\road\comm\ByteSocket.as:255]
+	at road.comm::ByteSocket/handleIncoming()[E:\RoadUtils(PvE)\src\road\comm\ByteSocket.as:195]
+2010-01-04 19:18:12,740 - client log:Error #2030: 遇到文件尾。
+Error: Error #2030: 遇到文件尾。
+	at flash.utils::ByteArray/readUTF()
+	at tank.manager::SocketManager/__socketData()[D:\workspace\PVE_Version\TankCore\src\tank\manager\SocketManager.as:113]
+	at flash.events::EventDispatcher/dispatchEventFunction()
+	at flash.events::EventDispatcher/dispatchEvent()
+	at road.comm::ByteSocket/handlePackage()[E:\RoadUtils(PvE)\src\road\comm\ByteSocket.as:279]
+	at road.comm::ByteSocket/readPackage()[E:\RoadUtils(PvE)\src\road\comm\ByteSocket.as:255]
+	at road.comm::ByteSocket/handleIncoming()[E:\RoadUtils(PvE)\src\road\comm\ByteSocket.as:195]

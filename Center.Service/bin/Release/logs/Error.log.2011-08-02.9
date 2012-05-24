@@ -1,0 +1,28 @@
+14:05:21,630 - [MAIN] - ERROR - Center.Server.CenterService - Start center server failed:System.ArgumentException: The provided URI scheme 'http' is invalid; expected 'net.tcp'.
+Parameter name: context.ListenUriBaseAddress
+   at System.ServiceModel.Channels.TransportChannelListener..ctor(TransportBindingElement bindingElement, BindingContext context, MessageEncoderFactory defaultMessageEncoderFactory, HostNameComparisonMode hostNameComparisonMode)
+   at System.ServiceModel.Channels.ConnectionOrientedTransportChannelListener..ctor(ConnectionOrientedTransportBindingElement bindingElement, BindingContext context)
+   at System.ServiceModel.Channels.TcpChannelListener..ctor(TcpTransportBindingElement bindingElement, BindingContext context)
+   at System.ServiceModel.Channels.TcpDuplexChannelListener..ctor(TcpTransportBindingElement bindingElement, BindingContext context)
+   at System.ServiceModel.Channels.TcpTransportBindingElement.BuildChannelListener[TChannel](BindingContext context)
+   at System.ServiceModel.Channels.BindingContext.BuildInnerChannelListener[TChannel]()
+   at System.ServiceModel.Channels.MessageEncodingBindingElement.InternalBuildChannelListener[TChannel](BindingContext context)
+   at System.ServiceModel.Channels.BinaryMessageEncodingBindingElement.BuildChannelListener[TChannel](BindingContext context)
+   at System.ServiceModel.Channels.BindingContext.BuildInnerChannelListener[TChannel]()
+   at System.ServiceModel.Channels.TransactionFlowBindingElement.BuildChannelListener[TChannel](BindingContext context)
+   at System.ServiceModel.Channels.BindingContext.BuildInnerChannelListener[TChannel]()
+   at System.ServiceModel.Channels.Binding.BuildChannelListener[TChannel](Uri listenUriBaseAddress, String listenUriRelativeAddress, ListenUriMode listenUriMode, BindingParameterCollection parameters)
+   at System.ServiceModel.Description.DispatcherBuilder.MaybeCreateListener(Boolean actuallyCreate, Type[] supportedChannels, Binding binding, BindingParameterCollection parameters, Uri listenUriBaseAddress, String listenUriRelativeAddress, ListenUriMode listenUriMode, ServiceThrottle throttle, IChannelListener& result, Boolean supportContextSession)
+   at System.ServiceModel.Description.DispatcherBuilder.BuildChannelListener(StuffPerListenUriInfo stuff, ServiceHostBase serviceHost, Uri listenUri, ListenUriMode listenUriMode, Boolean supportContextSession, IChannelListener& result)
+   at System.ServiceModel.Description.DispatcherBuilder.InitializeServiceHost(ServiceDescription description, ServiceHostBase serviceHost)
+   at System.ServiceModel.ServiceHostBase.InitializeRuntime()
+   at System.ServiceModel.ServiceHostBase.OnBeginOpen()
+   at System.ServiceModel.ServiceHostBase.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open()
+   at Center.Server.CenterService.Start() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Center.Server\Services\CenterService.cs:line 288
+14:05:21,771 - [MAIN] - ERROR - Center.Server.CenterServer - SaveRecordProc
+System.ArgumentNullException: Value cannot be null.
+   at System.Threading.Monitor.Enter(Object obj)
+   at Center.Server.Statics.LogMgr.Save() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Center.Server\Statics\LogMgr.cs:line 100
+   at Center.Server.CenterServer.SaveRecordProc(Object sender) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Center.Server\CenterServer.cs:line 393

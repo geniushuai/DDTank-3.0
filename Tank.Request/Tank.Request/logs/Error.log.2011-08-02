@@ -1,0 +1,6 @@
+2011-08-02 22:06:58,219 - [22] - ERROR - Bussiness.Interface.BaseInterface - UnEncryptLogin
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.Interface.BaseInterface.UnEncryptLogin(String content, Int32& result, String site) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\Interface\BaseInterface.cs:line 317
+2011-08-02 22:20:15,738 - [24] - ERROR - Tank.Request.LoadUserEquip - LoadUserEquip
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Tank.Request.LoadUserEquip.ProcessRequest(HttpContext context) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Tank.Request\LoadUserEquip.ashx.cs:line 39

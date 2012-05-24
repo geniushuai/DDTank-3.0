@@ -1,0 +1,22 @@
+15:48:26,777 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x02
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.Effects.LockDirectionEquipEffect.player_AfterKillingLiving(Living living, Living target, Int32 damageAmount, Int32 criticalAmount) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Effects\LockDirectionEquipEffect.cs:line 46
+   at Game.Logic.Phy.Object.Living.OnAfterKillingLiving(Living target, Int32 damageAmount, Int32 criticalAmount) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Phy\Object\Living.cs:line 994
+   at Game.Logic.Phy.Object.Player.OnAfterKillingLiving(Living target, Int32 damageAmount, Int32 criticalAmount) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Phy\Object\Player.cs:line 799
+   at Game.Logic.Phy.Object.SimpleBomb.BombImp() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Phy\Object\SimpleBomb.cs:line 282
+   at Game.Logic.Phy.Object.SimpleBomb.StartMoving() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Phy\Object\SimpleBomb.cs:line 135
+   at Game.Logic.Phy.Object.Living.ShootImp(Int32 bombId, Int32 x, Int32 y, Int32 force, Int32 angle, Int32 bombCount) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Phy\Object\Living.cs:line 650
+   at Game.Logic.Phy.Object.Player.Shoot(Int32 x, Int32 y, Int32 force, Int32 angle) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Phy\Object\Player.cs:line 653
+   at Game.Logic.Cmd.FireCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\FireCommand.cs:line 22
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34
+15:49:26,805 - [11] - ERROR - Game.Logic.Actions.ProcessPacketAction - Player Id: 0  cmd:0x02
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.Effects.LockDirectionEquipEffect.player_AfterKillingLiving(Living living, Living target, Int32 damageAmount, Int32 criticalAmount) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Effects\LockDirectionEquipEffect.cs:line 46
+   at Game.Logic.Phy.Object.Living.OnAfterKillingLiving(Living target, Int32 damageAmount, Int32 criticalAmount) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Phy\Object\Living.cs:line 994
+   at Game.Logic.Phy.Object.Player.OnAfterKillingLiving(Living target, Int32 damageAmount, Int32 criticalAmount) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Phy\Object\Player.cs:line 799
+   at Game.Logic.Phy.Object.SimpleBomb.BombImp() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Phy\Object\SimpleBomb.cs:line 282
+   at Game.Logic.Phy.Object.SimpleBomb.StartMoving() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Phy\Object\SimpleBomb.cs:line 135
+   at Game.Logic.Phy.Object.Living.ShootImp(Int32 bombId, Int32 x, Int32 y, Int32 force, Int32 angle, Int32 bombCount) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Phy\Object\Living.cs:line 650
+   at Game.Logic.Phy.Object.Player.Shoot(Int32 x, Int32 y, Int32 force, Int32 angle) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Phy\Object\Player.cs:line 653
+   at Game.Logic.Cmd.FireCommand.HandleCommand(BaseGame game, Player player, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Cmd\FireCommand.cs:line 22
+   at Game.Logic.Actions.ProcessPacketAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\Actions\ProcessPacketAction.cs:line 34

@@ -1,0 +1,49 @@
+20:46:41,671 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+20:46:43,870 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+20:46:43,872 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+20:46:43,955 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+20:46:43,956 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+20:46:43,956 - [MAIN] - INFO  - Game.Server.GameServer - Edition:21000: True
+20:46:43,965 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+20:46:43,989 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+20:46:43,992 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+20:46:44,096 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+20:46:47,149 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+20:46:47,193 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+20:46:47,373 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+20:46:48,171 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+20:46:48,351 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+20:46:48,897 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+20:46:48,912 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+20:46:49,066 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+20:46:49,655 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+20:46:49,673 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+20:46:50,234 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+20:46:50,241 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+20:46:50,312 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+20:46:50,716 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+20:46:50,722 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+20:46:50,979 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+20:46:53,333 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+20:46:53,337 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+20:46:53,339 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+20:46:53,791 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+20:46:53,840 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+20:46:54,062 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+20:46:54,065 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+20:46:54,454 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+20:46:54,456 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+20:46:54,456 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+20:46:54,457 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+20:46:54,874 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+20:46:54,876 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Setup: True
+20:46:54,902 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 130 handlers from GameServer Assembly!
+20:46:54,912 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+20:46:54,921 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+20:46:54,924 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9202
+20:46:54,934 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+20:46:54,940 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9208
+20:46:54,949 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+20:46:54,957 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+20:47:21,859 - [4] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:49305
+20:47:21,864 - [4] - INFO  - Game.Base.BaseCl

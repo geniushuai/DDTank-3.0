@@ -1,0 +1,18 @@
+LuaInterface.dll
+
+在2.0.3版本上修改了：防止内存泄露和回收的错误。
+---Lua.cs
+ public virtual void Dispose()
+        {
+            if (translator != null)
+            {
+                translator.pendingEvents.Dispose();
+                translator = null;
+            }
+        
+            this.Close();
+            //System.GC.Collect(); --------justin
+            //System.GC.WaitForPendingFinalizers();
+        }
+
+注意LuaInterface.dll在发布的时候要发布64位版本。

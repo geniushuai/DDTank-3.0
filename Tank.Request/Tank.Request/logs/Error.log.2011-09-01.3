@@ -1,0 +1,18 @@
+2011-09-01 15:28:53,179 - [15] - ERROR - Bussiness.Interface.BaseInterface - UnEncryptLogin
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.Interface.BaseInterface.UnEncryptLogin(String content, Int32& result, String site) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\Interface\BaseInterface.cs:line 317
+2011-09-01 17:04:38,715 - [116] - ERROR - Bussiness.Interface.BaseInterface - UnEncryptLogin
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.Interface.BaseInterface.UnEncryptLogin(String content, Int32& result, String site) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\Interface\BaseInterface.cs:line 317
+2011-09-01 17:12:44,911 - [102] - ERROR - Bussiness.Interface.BaseInterface - LoginAndUpdate
+System.ServiceModel.CommunicationObjectFaultedException: The communication object, System.ServiceModel.Channels.ServiceChannel, cannot be used for communication because it is in the Faulted state.
+
+Server stack trace: 
+   at System.ServiceModel.Channels.CommunicationObject.Close(TimeSpan timeout)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at System.ServiceModel.ICommunicationObject.Close(TimeSpan timeout)
+   at System.ServiceModel.ClientBase`1.System.ServiceModel.ICommunicationObject.Close(TimeSpan timeout)
+   at Bussiness.Interface.BaseInterface.CreateLogin(String name, String password, String& message, Int32& isFirst, String IP, Boolean& isError, Boolean firstValidate, Boolean& isActive, String site, String nickname) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\Interface\BaseInterface.cs:line 255

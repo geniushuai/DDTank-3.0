@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="23f8e460-dab9-480e-828f-4c295a78e420" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8000/PlayerService/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="9101b863-aaea-4a3c-b63a-624a36891ad7" SourceId="1" SourceUrl="http://localhost:8000/PlayerService/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="77cbd49c-3cc9-4cb3-bf0c-724c10f974cd" SourceId="1" SourceUrl="http://localhost:8000/PlayerService/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="1013b27e-7898-40dd-a70f-2f859834fcab" SourceId="1" SourceUrl="http://localhost:8000/PlayerService/mex" />
+    <MetadataFile FileName="Remoting.Contract.Data.xsd" MetadataType="Schema" ID="17921628-5bc4-4394-a73c-e588724b7e64" SourceId="1" SourceUrl="http://localhost:8000/PlayerService/mex" />
+    <MetadataFile FileName="Arrays.xsd" MetadataType="Schema" ID="c39ca0b4-d699-46c8-9053-6223bd117f49" SourceId="1" SourceUrl="http://localhost:8000/PlayerService/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

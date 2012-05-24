@@ -1,0 +1,9 @@
+19:55:33,941 - [12] - ERROR - Game.Server.Games.GameMgr - Create game error:
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at Game.Logic.PVEGame.SetupMissions(String missionIds) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\PVEGame.cs:line 181
+   at GameServerScript.AI.Game.CopyTerrorGame.OnCreated() in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Service\bin\Debug\scripts\AI\Game\CopyTerrorGame.cs:line 14
+   at Game.Logic.PVEGame..ctor(Int32 id, Int32 roomId, PveInfo info, List`1 players, Map map, eRoomType roomType, eGameType gameType, Int32 timeType, eHardLevel hardLevel) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Logic\PVEGame.cs:line 102
+   at Game.Server.Games.GameMgr.StartPVEGame(Int32 roomId, List`1 players, Int32 copyId, eRoomType roomType, eGameType gameType, Int32 timeType, eHardLevel hardLevel, Int32 levelLimits) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\Games\GameMgr.cs:line 232

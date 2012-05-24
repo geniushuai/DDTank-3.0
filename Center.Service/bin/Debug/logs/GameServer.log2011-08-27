@@ -1,0 +1,720 @@
+16:15:34,495 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+16:15:34,495 - [7] - INFO  - Center.Server.CenterServer - Saving Record...
+16:15:34,523 - [5] - INFO  - Center.Server.CenterServer - Saving database...
+16:15:34,524 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+16:15:34,525 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+16:15:34,526 - [6] - INFO  - Center.Server.CenterServer - Saving Record complete!
+16:15:34,525 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+16:15:34,528 - [7] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+16:15:34,529 - [5] - INFO  - Center.Server.CenterServer - Saving database complete!
+16:15:34,530 - [5] - INFO  - Center.Server.CenterServer - Saved all databases 16ms
+16:16:34,508 - [7] - INFO  - Center.Server.CenterServer - Saving database...
+16:16:34,510 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+16:16:34,508 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+16:16:34,515 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+16:16:34,511 - [5] - INFO  - Center.Server.CenterServer - Saving Record...
+16:16:34,527 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+16:16:34,522 - [8] - INFO  - Center.Server.CenterServer - Saving Record complete!
+16:16:34,521 - [7] - INFO  - Center.Server.CenterServer - Saving database complete!
+16:16:34,529 - [7] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+16:16:34,528 - [5] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+16:17:34,522 - [8] - INFO  - Center.Server.CenterServer - Saving database...
+16:17:34,523 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+16:17:34,522 - [7] - INFO  - Center.Server.CenterServer - Saving Record...
+16:17:34,525 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+16:17:34,522 - [5] - INFO  - Center.Server.CenterServer - Saving Record...
+16:17:34,528 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+16:17:34,529 - [5] - INFO  - Center.Server.CenterServer - Saving Record complete!
+16:17:34,539 - [8] - INFO  - Center.Server.CenterServer - Saving database complete!
+16:17:34,539 - [8] - INFO  - Center.Server.CenterServer - Saved all databases 15ms
+16:17:34,539 - [7] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+16:18:34,537 - [6] - INFO  - Center.Server.CenterServer - Saving database...
+16:18:34,540 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+16:18:34,537 - [5] - INFO  - Center.Server.CenterServer - Saving Record...
+16:18:34,542 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+16:18:34,539 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+16:18:34,543 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+16:18:34,543 - [5] - INFO  - Center.Server.CenterServer - Saving Record complete!
+16:18:34,544 - [6] - INFO  - Center.Server.CenterServer - Saving database complete!
+16:18:34,548 - [6] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+16:18:34,547 - [8] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+16:19:34,550 - [8] - INFO  - Center.Server.CenterServer - Saving database...
+16:19:34,551 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+16:19:34,550 - [7] - INFO  - Center.Server.CenterServer - Saving Record...
+16:19:34,553 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+16:19:34,550 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+16:19:34,555 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+16:19:34,555 - [7] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+16:19:34,555 - [8] - INFO  - Center.Server.CenterServer - Saving database complete!
+16:19:34,559 - [8] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+16:19:34,557 - [6] - INFO  - Center.Server.CenterServer - Saving Record complete!
+16:20:34,562 - [8] - INFO  - Center.Server.CenterServer - Saving database...
+16:20:34,563 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+16:20:34,562 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+16:20:34,566 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+16:20:34,562 - [7] - INFO  - Center.Server.CenterServer - Saving Record...
+16:20:34,567 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+16:20:34,567 - [8] - INFO  - Center.Server.CenterServer - Saving database complete!
+16:20:34,570 - [8] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+16:20:34,569 - [7] - INFO  - Center.Server.CenterServer - Saving Record complete!
+16:20:34,568 - [6] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+16:21:34,577 - [6] - INFO  - Center.Server.CenterServer - Saving database...
+16:21:34,578 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+16:21:34,577 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+16:21:34,579 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+16:21:34,577 - [5] - INFO  - Center.Server.CenterServer - Saving Record...
+16:21:34,580 - [8] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+16:21:34,581 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+16:21:34,581 - [5] - INFO  - Center.Server.CenterServer - Saving Record complete!
+16:21:34,581 - [6] - INFO  - Center.Server.CenterServer - Saving database complete!
+16:21:34,583 - [6] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+16:22:34,590 - [6] - INFO  - Center.Server.CenterServer - Saving database...
+16:22:34,592 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+16:22:34,590 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+16:22:34,594 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+16:22:34,595 - [8] - INFO  - Center.Server.CenterServer - Saving Record complete!
+16:22:34,590 - [5] - INFO  - Center.Server.CenterServer - Saving Record...
+16:22:34,597 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+16:22:34,597 - [6] - INFO  - Center.Server.CenterServer - Saving database complete!
+16:22:34,598 - [6] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+16:22:34,598 - [5] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+16:23:34,604 - [7] - INFO  - Center.Server.CenterServer - Saving database...
+16:23:34,605 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+16:23:34,604 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+16:23:34,607 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+16:23:34,604 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+16:23:34,608 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+16:23:34,609 - [7] - INFO  - Center.Server.CenterServer - Saving database complete!
+16:23:34,610 - [7] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+16:23:34,609 - [8] - INFO  - Center.Server.CenterServer - Saving Record complete!
+16:23:34,609 - [6] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+16:24:34,617 - [8] - INFO  - Center.Server.CenterServer - Saving database...
+16:24:34,618 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+16:24:34,617 - [7] - INFO  - Center.Server.CenterServer - Saving Record...
+16:24:34,620 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+16:24:34,621 - [7] - INFO  - Center.Server.CenterServer - Saving Record complete!
+16:24:34,622 - [8] - INFO  - Center.Server.CenterServer - Saving database complete!
+16:24:34,622 - [8] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+16:24:34,617 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+16:24:34,624 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+16:24:34,626 - [6] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+16:25:34,631 - [8] - INFO  - Center.Server.CenterServer - Saving database...
+16:25:34,632 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+16:25:34,631 - [7] - INFO  - Center.Server.CenterServer - Saving Record...
+16:25:34,634 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+16:25:34,631 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+16:25:34,635 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+16:25:34,635 - [8] - INFO  - Center.Server.CenterServer - Saving database complete!
+16:25:34,637 - [8] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+16:25:34,637 - [7] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+16:25:34,636 - [6] - INFO  - Center.Server.CenterServer - Saving Record complete!
+16:26:34,647 - [5] - INFO  - Center.Server.CenterServer - Saving database...
+16:26:34,647 - [7] - INFO  - Center.Server.CenterServer - Saving Record...
+16:26:34,650 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+16:26:34,650 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+16:26:34,652 - [7] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+16:26:34,647 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+16:26:34,654 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+16:26:34,654 - [5] - INFO  - Center.Server.CenterServer - Saving database complete!
+16:26:34,675 - [6] - INFO  - Center.Server.CenterServer - Saving Record complete!
+16:26:34,675 - [5] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+16:27:34,658 - [7] - INFO  - Center.Server.CenterServer - Saving database...
+16:27:34,659 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+16:27:34,658 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+16:27:34,661 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+16:27:34,658 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+16:27:34,663 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+16:27:34,663 - [7] - INFO  - Center.Server.CenterServer - Saving database complete!
+16:27:34,666 - [7] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+16:27:34,664 - [6] - INFO  - Center.Server.CenterServer - Saving Record complete!
+16:27:34,664 - [8] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+16:28:34,672 - [5] - INFO  - Center.Server.CenterServer - Saving database...
+16:28:34,672 - [7] - INFO  - Center.Server.CenterServer - Saving Record...
+16:28:34,679 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+16:28:34,678 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+16:28:34,680 - [7] - INFO  - Center.Server.CenterServer - Saving Record complete!
+16:28:34,672 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+16:28:34,685 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+16:28:34,685 - [5] - INFO  - Center.Server.CenterServer - Saving database complete!
+16:28:34,687 - [5] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+16:28:34,688 - [6] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+16:29:34,684 - [8] - INFO  - Center.Server.CenterServer - Saving database...
+16:29:34,685 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+16:29:34,684 - [7] - INFO  - Center.Server.CenterServer - Saving Record...
+16:29:34,687 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+16:29:34,684 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+16:29:34,689 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+16:29:34,689 - [7] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+16:29:34,688 - [8] - INFO  - Center.Server.CenterServer - Saving database complete!
+16:29:34,694 - [8] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+16:29:34,692 - [6] - INFO  - Center.Server.CenterServer - Saving Record complete!
+16:30:34,700 - [8] - INFO  - Center.Server.CenterServer - Saving database...
+16:30:34,702 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+16:30:34,700 - [7] - INFO  - Center.Server.CenterServer - Saving Record...
+16:30:34,704 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+16:30:34,705 - [8] - INFO  - Center.Server.CenterServer - Saving database complete!
+16:30:34,706 - [8] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+16:30:34,705 - [7] - INFO  - Center.Server.CenterServer - Saving Record complete!
+16:30:34,701 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+16:30:34,709 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+16:30:34,711 - [6] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+16:31:34,713 - [7] - INFO  - Center.Server.CenterServer - Saving database...
+16:31:34,714 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+16:31:34,713 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+16:31:34,714 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+16:31:34,714 - [8] - INFO  - Center.Server.CenterServer - Saving Record complete!
+16:31:34,715 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+16:31:34,715 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+16:31:34,716 - [8] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+16:31:34,717 - [7] - INFO  - Center.Server.CenterServer - Saving database complete!
+16:31:34,718 - [7] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+16:32:34,726 - [7] - INFO  - Center.Server.CenterServer - Saving database...
+16:32:34,726 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+16:32:34,730 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+16:32:34,726 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+16:32:34,731 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+16:32:34,729 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+16:32:34,732 - [8] - INFO  - Center.Server.CenterServer - Saving Record complete!
+16:32:34,733 - [6] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+16:32:34,733 - [7] - INFO  - Center.Server.CenterServer - Saving database complete!
+16:32:34,734 - [7] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+16:33:34,739 - [5] - INFO  - Center.Server.CenterServer - Saving database...
+16:33:34,739 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+16:33:34,741 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+16:33:34,745 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+16:33:34,748 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+16:33:34,748 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+16:33:34,756 - [6] - INFO  - Center.Server.CenterServer - Saving Record complete!
+16:33:34,757 - [8] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+16:33:34,801 - [5] - INFO  - Center.Server.CenterServer - Saving database complete!
+16:33:34,802 - [5] - INFO  - Center.Server.CenterServer - Saved all databases 63ms
+16:34:34,753 - [5] - INFO  - Center.Server.CenterServer - Saving database...
+16:34:34,755 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+16:34:34,753 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+16:34:34,756 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+16:34:34,754 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+16:34:34,756 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+16:34:34,757 - [6] - INFO  - Center.Server.CenterServer - Saving Record complete!
+16:34:35,149 - [5] - INFO  - Center.Server.CenterServer - Saving database complete!
+16:34:35,150 - [5] - INFO  - Center.Server.CenterServer - Saved all databases 390ms
+16:34:35,210 - [8] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+16:35:34,768 - [6] - INFO  - Center.Server.CenterServer - Saving database...
+16:35:34,777 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+16:35:34,768 - [5] - INFO  - Center.Server.CenterServer - Saving Record...
+16:35:34,785 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+16:35:34,786 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+16:35:34,791 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+16:35:34,793 - [6] - INFO  - Center.Server.CenterServer - Saving database complete!
+16:35:34,794 - [8] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+16:35:34,795 - [6] - INFO  - Center.Server.CenterServer - Saved all databases 16ms
+16:35:34,794 - [5] - INFO  - Center.Server.CenterServer - Saving Record complete!
+16:36:13,605 - [12] - DEBUG - Game.Base.BaseClient - Disconnecting client (192.168.1.3:49552), received bytes=0
+16:36:34,781 - [6] - INFO  - Center.Server.CenterServer - Saving database...
+16:36:34,782 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+16:36:34,781 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+16:36:34,783 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+16:36:34,781 - [5] - INFO  - Center.Server.CenterServer - Saving Record...
+16:36:34,784 - [8] - INFO  - Center.Server.CenterServer - Saving Record complete!
+16:36:34,785 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+16:36:34,787 - [5] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+16:36:34,789 - [6] - INFO  - Center.Server.CenterServer - Saving database complete!
+16:36:34,790 - [6] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+16:37:34,794 - [7] - INFO  - Center.Server.CenterServer - Saving database...
+16:37:34,795 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+16:37:34,794 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+16:37:34,795 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+16:37:34,794 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+16:37:34,796 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+16:37:34,796 - [6] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+16:37:34,801 - [8] - INFO  - Center.Server.CenterServer - Saving Record complete!
+16:37:34,797 - [7] - INFO  - Center.Server.CenterServer - Saving database complete!
+16:37:34,804 - [7] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+16:38:34,808 - [8] - INFO  - Center.Server.CenterServer - Saving database...
+16:38:34,809 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+16:38:34,808 - [5] - INFO  - Center.Server.CenterServer - Saving Record...
+16:38:34,809 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+16:38:34,811 - [5] - INFO  - Center.Server.CenterServer - Saving Record complete!
+16:38:34,808 - [7] - INFO  - Center.Server.CenterServer - Saving Record...
+16:38:34,811 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+16:38:34,812 - [7] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+16:38:34,812 - [8] - INFO  - Center.Server.CenterServer - Saving database complete!
+16:38:34,814 - [8] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+16:39:34,822 - [8] - INFO  - Center.Server.CenterServer - Saving database...
+16:39:34,822 - [5] - INFO  - Center.Server.CenterServer - Saving Record...
+16:39:34,822 - [7] - INFO  - Center.Server.CenterServer - Saving Record...
+16:39:34,829 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+16:39:34,829 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+16:39:34,829 - [7] - INFO  - Center.Server.CenterServer - Saving Record complete!
+16:39:34,828 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+16:39:34,830 - [5] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+16:39:34,832 - [8] - INFO  - Center.Server.CenterServer - Saving database complete!
+16:39:34,832 - [8] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+16:40:34,835 - [8] - INFO  - Center.Server.CenterServer - Saving database...
+16:40:34,835 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+16:40:34,835 - [7] - INFO  - Center.Server.CenterServer - Saving Record...
+16:40:34,836 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+16:40:34,837 - [7] - INFO  - Center.Server.CenterServer - Saving Record complete!
+16:40:34,836 - [5] - INFO  - Center.Server.CenterServer - Saving Record...
+16:40:34,838 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+16:40:34,838 - [5] - INFO  - Center.Server.CenterServer - Scan Consortia 17:02:19,163 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+17:02:22,927 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading Edition Value is 11000
+17:02:22,960 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MustComposeGold Value is 1000
+17:02:22,961 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MustFusionGold Value is 400
+17:02:22,961 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MustStrengthenGold Value is 1000
+17:02:22,962 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading CheckRewardItem Value is 11001
+17:02:22,962 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading CheckCount Value is 20
+17:02:22,963 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading HymenealMoney Value is 500
+17:02:22,963 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DivorcedMoney Value is 5214
+17:02:22,964 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading MarryRoomCreateMoney Value is 2000,2700,3400
+17:02:22,964 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading BoxAppearCondition Value is 4
+17:02:22,971 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DisableCommands Value is    
+17:02:22,972 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading AssState Value is False
+17:02:22,972 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading DailyAwardState Value is True
+17:02:22,973 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading Cess Value is 0
+17:02:22,998 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading BeginAuction Value is 45
+17:02:23,000 - [MAIN] - DEBUG - Bussiness.GameProperties - Loading EndAuction Value is 75
+17:02:23,043 - [MAIN] - INFO  - Center.Server.CenterServer - Recompile Scripts: True
+17:02:23,073 - [MAIN] - INFO  - Center.Server.CenterServer - Registering global event handlers: true
+17:02:23,074 - [MAIN] - INFO  - Center.Server.CenterServer - Script components: True
+17:02:23,075 - [MAIN] - INFO  - Center.Server.CenterServer - Check Server Edition:11000: True
+17:02:23,081 - [MAIN] - INFO  - Center.Server.CenterServer - InitSocket Port:9202: True
+17:02:37,342 - [MAIN] - INFO  - Center.Server.CenterService - Center Service started!
+17:02:37,343 - [MAIN] - INFO  - Center.Server.CenterServer - Center Service: True
+17:02:37,437 - [MAIN] - INFO  - Center.Server.ServerMgr - Load server list from db.
+17:02:37,438 - [MAIN] - INFO  - Center.Server.CenterServer - Load serverlist: True
+17:02:37,648 - [MAIN] - INFO  - Center.Server.CenterServer - Init ConsortiaLevelMgr: True
+17:02:37,689 - [MAIN] - INFO  - Center.Server.CenterServer - Init MacroDropMgr: True
+17:02:37,716 - [MAIN] - INFO  - Center.Server.CenterServer - LanguageMgr Init: True
+17:02:37,724 - [MAIN] - INFO  - Center.Server.CenterServer - Init Global Timers: True
+17:02:37,742 - [MAIN] - DEBUG - Game.Base.CommandMgr - ScriptMgr: Searching for commands in Center.Server, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+17:02:37,744 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &gp,Manage game properties at runtime.
+17:02:37,746 - [MAIN] - DEBUG - Game.Base.CommandMgr - ScriptMgr: Searching for commands in Game.Base, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+17:02:37,749 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &cmd,Config the command system.
+17:02:37,750 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &cs,Compile the C# scripts.
+17:02:37,751 - [MAIN] - DEBUG - Game.Base.CommandMgr - Load: &sm,Script Manager console commands.
+17:02:37,754 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 4 commands!
+17:02:37,786 - [MAIN] - DEBUG - Game.Base.BaseServer - Server is now listening to incoming connections!
+17:02:37,787 - [MAIN] - INFO  - Center.Server.CenterServer - base.Start(): True
+17:02:37,791 - [MAIN] - INFO  - Center.Server.CenterServer - GameServer is now open for connections!
+17:02:37,792 - [MAIN] - INFO  - Bussiness.GameProperties - Saving game properties into db!
+17:02:41,649 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 192.168.1.3:50234
+17:02:41,817 - [3] - DEBUG - Game.Base.Packets.StreamProcessor - Send Pkg to 192.168.1.3:50234 :
+0000: 71 AB 00 95 00 00 00 00 00 00 00 00 00 00 00 00   q...............
+0010: 00 00 9C 9D 60 1C 33 12 3E 41 35 20 F0 5F AE 96   ....`.3.>A5 ._..
+0020: 28 2C 79 34 D8 8E 8B 5D A1 38 44 7A DA 71 71 88   (,y4...].8Dz.qq.
+0030: 00 1D AB E7 F8 6D 16 65 DE ED 45 AB 0D 76 8E F1   .....m.e..E..v..
+0040: 32 D8 30 AE 45 FF 4A FF 96 56 F1 2C DE A1 1B 6F   2.0.E.J..V.,...o
+0050: E4 18 50 6C DB 1F 2F 24 C5 5F 03 3E 9D 31 E0 9C   ..Pl../$._.>.1..
+0060: F7 C9 4A 56 18 8E F3 B1 EE B3 AA A9 B9 22 EA EB   ..JV........."..
+0070: FF 94 AE DF DD F1 60 53 3F F3 0D F8 5E 56 3A 5B   ......`S?...^V:[
+0080: 37 3F 70 FB 45 FB A2 EE CE FB E9 D9 ED CE D8 48   7?p.E..........H
+0090: 12 69 01 00 01                                    .i...           
+
+17:02:41,827 - [3] - DEBUG - Game.Base.BaseClient - Send To (192.168.1.3:50234) 149 bytes
+17:02:41,879 - [3] - DEBUG - Game.Base.Packets.StreamProcessor - Recieve Packet:
+0000: 71 AB 00 92 00 01 00 00 00 00 00 00 00 00 00 00   q...............
+0010: 00 00 31 DF 91 34 93 E4 68 E1 A9 EB 68 5E 64 75   ..1..4..h...h^du
+0020: C0 91 7A 9C FB 57 F5 18 3C 2E B1 BA 97 28 93 B0   ..z..W..<....(..
+0030: 36 38 AF 70 25 56 18 35 75 A2 50 4C F3 96 97 23   68.p%V.5u.PL...#
+0040: F3 64 86 44 BB A6 AF 21 D6 0C 08 C0 4F E9 B8 1F   .d.D...!....O...
+0050: 8A 66 D3 69 A9 B5 8B E4 EE A2 1E 0D 02 AF 44 14   .f.i..........D.
+0060: 4B 4B 85 0B BD A3 A3 CC 06 B9 E7 24 8C CD 83 CE   KK.........$....
+0070: 4C 62 A6 11 37 16 2C E4 63 57 9C C9 1D 80 CA CE   Lb..7.,.cW......
+0080: BC FE 6E 5E A9 B5 5A 1A 9D 00 9A B3 F2 9B 42 9D   ..n^..Z.......B.
+0090: 08 5C                                             .\              
+
+17:02:41,889 - [3] - DEBUG - Game.Base.Packets.StreamProcessor - Send Pkg to 192.168.1.3:50234 :
+0000: 71 AB 00 14 00 08 00 00 00 00 00 00 00 00 00 00   q...............
+0010: 00 00 00 01                                       ....            
+
+17:02:41,890 - [3] - DEBUG - Game.Base.BaseClient - Send To (192.168.1.3:50234) 20 bytes
+17:03:37,740 - [5] - INFO  - Center.Server.CenterServer - Saving database...
+17:03:37,743 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+17:03:37,748 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+17:03:37,746 - [7] - INFO  - Center.Server.CenterServer - Saving Record...
+17:03:37,750 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+17:03:37,749 - [6] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:03:37,745 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+17:03:37,781 - [5] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:03:37,782 - [5] - INFO  - Center.Server.CenterServer - Saved all databases 32ms
+17:03:37,859 - [7] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:04:37,750 - [7] - INFO  - Center.Server.CenterServer - Saving database...
+17:04:37,751 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+17:04:37,750 - [5] - INFO  - Center.Server.CenterServer - Saving Record...
+17:04:37,752 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+17:04:37,750 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+17:04:37,753 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:04:37,754 - [7] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:04:37,754 - [7] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:04:37,754 - [8] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:04:37,756 - [5] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:05:37,764 - [5] - INFO  - Center.Server.CenterServer - Saving database...
+17:05:37,766 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+17:05:37,764 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+17:05:37,767 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+17:05:37,764 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+17:05:37,768 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:05:37,769 - [8] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:05:37,769 - [6] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:05:37,776 - [5] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:05:37,777 - [5] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:06:37,777 - [5] - INFO  - Center.Server.CenterServer - Saving database...
+17:06:37,779 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+17:06:37,777 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+17:06:37,780 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+17:06:37,781 - [6] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:06:37,777 - [7] - INFO  - Center.Server.CenterServer - Saving Record...
+17:06:37,783 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+17:06:37,783 - [5] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:06:37,784 - [7] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:06:37,786 - [5] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:07:37,791 - [8] - INFO  - Center.Server.CenterServer - Saving database...
+17:07:37,792 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:07:37,791 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+17:07:37,794 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+17:07:37,791 - [5] - INFO  - Center.Server.CenterServer - Saving Record...
+17:07:37,796 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+17:07:37,797 - [8] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:07:37,800 - [8] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:07:37,797 - [6] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:07:37,801 - [5] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:08:37,804 - [8] - INFO  - Center.Server.CenterServer - Saving database...
+17:08:37,805 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:08:37,804 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+17:08:37,806 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+17:08:37,804 - [7] - INFO  - Center.Server.CenterServer - Saving Record...
+17:08:37,807 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+17:08:37,808 - [8] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:08:37,808 - [8] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:08:37,809 - [6] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:08:37,809 - [7] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:09:37,818 - [8] - INFO  - Center.Server.CenterServer - Saving database...
+17:09:37,819 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:09:37,818 - [7] - INFO  - Center.Server.CenterServer - Saving Record...
+17:09:37,821 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+17:09:37,822 - [8] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:09:37,822 - [8] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:09:37,823 - [7] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:09:37,818 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+17:09:37,825 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+17:09:37,827 - [6] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:10:37,832 - [7] - INFO  - Center.Server.CenterServer - Saving database...
+17:10:37,833 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+17:10:37,832 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+17:10:37,835 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:10:37,836 - [7] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:10:37,838 - [7] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:10:37,836 - [8] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:10:37,832 - [5] - INFO  - Center.Server.CenterServer - Saving Record...
+17:10:37,842 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+17:10:37,843 - [5] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:11:37,845 - [7] - INFO  - Center.Server.CenterServer - Saving database...
+17:11:37,846 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+17:11:37,845 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+17:11:37,848 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:11:37,848 - [7] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:11:37,851 - [7] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:11:37,845 - [5] - INFO  - Center.Server.CenterServer - Saving Record...
+17:11:37,856 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+17:11:37,857 - [5] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:11:37,850 - [8] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:12:37,859 - [6] - INFO  - Center.Server.CenterServer - Saving database...
+17:12:37,862 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+17:12:37,859 - [7] - INFO  - Center.Server.CenterServer - Saving Record...
+17:12:37,864 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+17:12:37,859 - [5] - INFO  - Center.Server.CenterServer - Saving Record...
+17:12:37,865 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+17:12:37,866 - [6] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:12:37,871 - [6] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:12:37,869 - [5] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:12:37,874 - [7] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:13:37,873 - [7] - INFO  - Center.Server.CenterServer - Saving database...
+17:13:37,875 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+17:13:37,873 - [5] - INFO  - Center.Server.CenterServer - Saving Record...
+17:13:37,877 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+17:13:37,873 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+17:13:37,878 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:13:37,879 - [8] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:13:37,879 - [7] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:13:37,881 - [7] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:13:37,880 - [5] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:14:37,886 - [8] - INFO  - Center.Server.CenterServer - Saving database...
+17:14:37,887 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:14:37,886 - [7] - INFO  - Center.Server.CenterServer - Saving Record...
+17:14:37,886 - [5] - INFO  - Center.Server.CenterServer - Saving Record...
+17:14:37,891 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+17:14:37,890 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+17:14:37,892 - [5] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:14:37,891 - [8] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:14:37,895 - [8] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:14:37,896 - [7] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:15:37,899 - [7] - INFO  - Center.Server.CenterServer - Saving database...
+17:15:37,900 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+17:15:37,899 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+17:15:37,900 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:15:37,902 - [7] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:15:37,902 - [7] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:15:37,899 - [5] - INFO  - Center.Server.CenterServer - Saving Record...
+17:15:37,905 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+17:15:37,906 - [5] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:15:37,902 - [8] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:16:37,913 - [8] - INFO  - Center.Server.CenterServer - Saving database...
+17:16:37,914 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:16:37,913 - [5] - INFO  - Center.Server.CenterServer - Saving Record...
+17:16:37,922 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+17:16:37,920 - [8] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:16:37,924 - [8] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:16:37,913 - [7] - INFO  - Center.Server.CenterServer - Saving Record...
+17:16:37,926 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+17:16:37,926 - [7] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:16:37,924 - [5] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:17:37,926 - [7] - INFO  - Center.Server.CenterServer - Saving database...
+17:17:37,927 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+17:17:37,926 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+17:17:37,929 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:17:37,930 - [7] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:17:37,931 - [7] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:17:37,930 - [8] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:17:37,926 - [5] - INFO  - Center.Server.CenterServer - Saving Record...
+17:17:37,937 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+17:17:37,938 - [5] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:18:37,940 - [5] - INFO  - Center.Server.CenterServer - Saving database...
+17:18:37,940 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+17:18:37,943 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:18:37,942 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+17:18:37,940 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+17:18:37,947 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+17:18:37,944 - [8] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:18:37,949 - [5] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:18:37,949 - [5] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:18:37,966 - [6] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:19:37,955 - [7] - INFO  - Center.Server.CenterServer - Saving database...
+17:19:37,956 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+17:19:37,955 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+17:19:37,958 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:19:37,955 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+17:19:37,960 - [7] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:19:37,962 - [7] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:19:37,961 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+17:19:37,965 - [6] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:19:37,959 - [8] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:20:37,968 - [7] - INFO  - Center.Server.CenterServer - Saving database...
+17:20:37,969 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+17:20:37,968 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+17:20:37,971 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:20:37,968 - [5] - INFO  - Center.Server.CenterServer - Saving Record...
+17:20:37,974 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+17:20:37,972 - [8] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:20:37,980 - [7] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:20:37,982 - [7] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:20:38,056 - [5] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:21:37,981 - [6] - INFO  - Center.Server.CenterServer - Saving database...
+17:21:37,983 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+17:21:37,981 - [5] - INFO  - Center.Server.CenterServer - Saving Record...
+17:21:37,985 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+17:21:37,981 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+17:21:37,987 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:21:37,986 - [5] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:21:37,989 - [6] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:21:37,990 - [8] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:21:37,992 - [6] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:22:37,995 - [8] - INFO  - Center.Server.CenterServer - Saving database...
+17:22:37,996 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:22:37,995 - [7] - INFO  - Center.Server.CenterServer - Saving Record...
+17:22:38,001 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+17:22:37,995 - [5] - INFO  - Center.Server.CenterServer - Saving Record...
+17:22:38,003 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+17:22:38,003 - [7] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:22:38,003 - [8] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:22:38,006 - [8] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:22:38,005 - [5] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:23:38,008 - [5] - INFO  - Center.Server.CenterServer - Saving database...
+17:23:38,009 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+17:23:38,008 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+17:23:38,010 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+17:23:38,008 - [7] - INFO  - Center.Server.CenterServer - Saving Record...
+17:23:38,011 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+17:23:38,011 - [6] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:23:38,013 - [7] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:23:38,013 - [5] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:23:38,014 - [5] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:24:38,021 - [7] - INFO  - Center.Server.CenterServer - Saving database...
+17:24:38,022 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+17:24:38,021 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+17:24:38,024 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:24:38,025 - [7] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:24:38,027 - [7] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:24:38,025 - [8] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:24:38,024 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+17:24:38,031 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+17:24:38,033 - [6] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:25:38,036 - [8] - INFO  - Center.Server.CenterServer - Saving database...
+17:25:38,037 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:25:38,036 - [7] - INFO  - Center.Server.CenterServer - Saving Record...
+17:25:38,037 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+17:25:38,036 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+17:25:38,038 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+17:25:38,038 - [6] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:25:38,039 - [7] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:25:38,039 - [8] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:25:38,041 - [8] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:26:38,049 - [6] - INFO  - Center.Server.CenterServer - Saving database...
+17:26:38,050 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+17:26:38,049 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+17:26:38,050 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:26:38,049 - [5] - INFO  - Center.Server.CenterServer - Saving Record...
+17:26:38,052 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+17:26:38,052 - [6] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:26:38,055 - [6] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:26:38,051 - [8] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:26:38,055 - [5] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:27:38,064 - [6] - INFO  - Center.Server.CenterServer - Saving database...
+17:27:38,065 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+17:27:38,064 - [5] - INFO  - Center.Server.CenterServer - Saving Record...
+17:27:38,068 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+17:27:38,066 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+17:27:38,068 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:27:38,068 - [5] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:27:38,069 - [6] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:27:38,070 - [6] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:27:38,070 - [8] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:28:38,076 - [5] - INFO  - Center.Server.CenterServer - Saving database...
+17:28:38,077 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+17:28:38,076 - [7] - INFO  - Center.Server.CenterServer - Saving Record...
+17:28:38,078 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+17:28:38,076 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+17:28:38,079 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+17:28:38,079 - [5] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:28:38,080 - [5] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:28:38,078 - [7] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:28:38,080 - [6] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:29:38,090 - [8] - INFO  - Center.Server.CenterServer - Saving database...
+17:29:38,090 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+17:29:38,092 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+17:29:38,091 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:29:38,090 - [7] - INFO  - Center.Server.CenterServer - Saving Record...
+17:29:38,093 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+17:29:38,093 - [6] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:29:38,094 - [7] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:29:38,094 - [8] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:29:38,095 - [8] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:30:38,104 - [7] - INFO  - Center.Server.CenterServer - Saving database...
+17:30:38,105 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+17:30:38,104 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+17:30:38,105 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+17:30:38,104 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+17:30:38,106 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:30:38,106 - [6] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:30:38,107 - [7] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:30:38,106 - [8] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:30:38,107 - [7] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:31:38,118 - [7] - INFO  - Center.Server.CenterServer - Saving Record...
+17:31:38,119 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+17:31:38,118 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+17:31:38,119 - [7] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:31:38,118 - [5] - INFO  - Center.Server.CenterServer - Saving database...
+17:31:38,122 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:31:38,129 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+17:31:38,130 - [5] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:31:38,131 - [5] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:31:38,132 - [8] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:32:38,131 - [7] - INFO  - Center.Server.CenterServer - Saving database...
+17:32:38,132 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+17:32:38,131 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+17:32:38,132 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+17:32:38,131 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+17:32:38,133 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:32:38,134 - [6] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:32:38,134 - [8] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:32:38,134 - [7] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:32:38,137 - [7] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:33:38,144 - [5] - INFO  - Center.Server.CenterServer - Saving database...
+17:33:38,144 - [7] - INFO  - Center.Server.CenterServer - Saving Record...
+17:33:38,145 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+17:33:38,145 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+17:33:38,145 - [7] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:33:38,144 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+17:33:38,147 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:33:38,148 - [5] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:33:38,148 - [8] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:33:38,148 - [5] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:34:38,159 - [8] - INFO  - Center.Server.CenterServer - Saving database...
+17:34:38,160 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:34:38,159 - [7] - INFO  - Center.Server.CenterServer - Saving Record...
+17:34:38,160 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+17:34:38,159 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+17:34:38,161 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+17:34:38,161 - [6] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:34:38,162 - [7] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:34:38,162 - [8] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:34:38,164 - [8] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:35:38,172 - [8] - INFO  - Center.Server.CenterServer - Saving database...
+17:35:38,173 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:35:38,172 - [7] - INFO  - Center.Server.CenterServer - Saving Record...
+17:35:38,173 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+17:35:38,172 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+17:35:38,174 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+17:35:38,174 - [6] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:35:38,180 - [8] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:35:38,181 - [8] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:35:38,264 - [7] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:36:38,184 - [5] - INFO  - Center.Server.CenterServer - Saving database...
+17:36:38,184 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+17:36:38,185 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:36:38,184 - [7] - INFO  - Center.Server.CenterServer - Saving Record...
+17:36:38,185 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+17:36:38,237 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+17:36:38,237 - [7] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:36:38,241 - [5] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:36:38,242 - [5] - INFO  - Center.Server.CenterServer - Saved all databases 46ms
+17:36:38,251 - [8] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:37:38,199 - [5] - INFO  - Center.Server.CenterServer - Saving database...
+17:37:38,199 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+17:37:38,201 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:37:38,199 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+17:37:38,203 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+17:37:38,200 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+17:37:38,201 - [8] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:37:38,209 - [5] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:37:38,210 - [5] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:37:38,267 - [6] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:38:38,212 - [6] - INFO  - Center.Server.CenterServer - Saving database...
+17:38:38,212 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+17:38:38,212 - [5] - INFO  - Center.Server.CenterServer - Saving Record...
+17:38:38,234 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+17:38:38,235 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:38:38,236 - [8] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:38:38,235 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+17:38:38,241 - [6] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:38:38,242 - [6] - INFO  - Center.Server.CenterServer - Saved all databases 15ms
+17:38:38,254 - [5] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:39:38,226 - [8] - INFO  - Center.Server.CenterServer - Saving database...
+17:39:38,227 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:39:38,226 - [5] - INFO  - Center.Server.CenterServer - Saving Record...
+17:39:38,226 - [7] - INFO  - Center.Server.CenterServer - Saving Record...
+17:39:38,228 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+17:39:38,228 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+17:39:38,231 - [5] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:39:38,234 - [8] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:39:38,234 - [8] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:39:38,250 - [7] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:40:38,239 - [7] - INFO  - Center.Server.CenterServer - Saving database...
+17:40:38,240 - [7] - DEBUG - Center.Server.CenterServer - Save ThreadId=7
+17:40:38,239 - [5] - INFO  - Center.Server.CenterServer - Saving Record...
+17:40:38,240 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+17:40:38,239 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+17:40:38,241 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:40:38,246 - [7] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:40:38,248 - [7] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:40:38,246 - [8] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:40:38,260 - [5] - INFO  - Center.Server.CenterServer - Scan Consortia complete!
+17:41:38,253 - [5] - INFO  - Center.Server.CenterServer - Saving database...
+17:41:38,253 - [8] - INFO  - Center.Server.CenterServer - Saving Record...
+17:41:38,254 - [6] - INFO  - Center.Server.CenterServer - Saving Record...
+17:41:38,261 - [6] - DEBUG - Center.Server.CenterServer - Save ThreadId=6
+17:41:38,259 - [5] - DEBUG - Center.Server.CenterServer - Save ThreadId=5
+17:41:38,260 - [8] - DEBUG - Center.Server.CenterServer - Save ThreadId=8
+17:41:38,261 - [8] - INFO  - Center.Server.CenterServer - Saving Record complete!
+17:41:38,264 - [5] - INFO  - Center.Server.CenterServer - Saving database complete!
+17:41:38,264 - [5] - INFO  - Center.Server.CenterServer - Saved all databases 0ms
+17:41:38,271 - [6] - INFO  - Center.Server.Ce

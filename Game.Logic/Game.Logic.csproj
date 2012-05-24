@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{92507F15-0EA3-4C51-82A0-F0CAC68E9FB3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Game.Logic</RootNamespace>
+    <AssemblyName>Game.Logic</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="LuaInterface, Version=2.0.0.32533, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\LuaInterface.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualStudio.TeamSystem.Data.UnitTesting, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AbstractGame.cs" />
+    <Compile Include="Actions\BaseAction.cs" />
+    <Compile Include="Actions\CheckPVEGameStateAction.cs" />
+    <Compile Include="Actions\FocusAction.cs" />
+    <Compile Include="Actions\LivingCallFunctionAction.cs" />
+    <Compile Include="Actions\LivingChangeDirectionAction.cs" />
+    <Compile Include="Actions\LivingDelayEffectAction.cs" />
+    <Compile Include="Actions\LivingDieAction.cs" />
+    <Compile Include="Actions\LivingBeatAction.cs" />
+    <Compile Include="Actions\LivingDirectSetXYAction.cs" />
+    <Compile Include="Actions\LivingFallingAction.cs" />
+    <Compile Include="Actions\LivingJumpAction.cs" />
+    <Compile Include="Actions\LivingMoveToAction.cs" />
+    <Compile Include="Actions\LivingPlayeMovieAction.cs" />
+    <Compile Include="Actions\LivingRangeAttackingAction.cs" />
+    <Compile Include="Actions\LivingSayAction.cs" />
+    <Compile Include="Actions\LivingSealAction.cs" />
+    <Compile Include="Actions\LivingShootAction.cs" />
+    <Compile Include="Actions\PhysicalObjDoAction.cs" />
+    <Compile Include="Actions\PlaySoundAction.cs" />
+    <Compile Include="Actions\WaitPlayerLoadingAction.cs" />
+    <Compile Include="AI\ABrain.cs" />
+    <Compile Include="AI\APVEGameControl.cs" />
+    <Compile Include="AI\AMissionControl.cs" />
+    <Compile Include="AI\Game\SimplePVEGameControl.cs" />
+    <Compile Include="AI\Mission\SimpleMissionControl.cs" />
+    <Compile Include="AI\Npc\SimpleBrain.cs" />
+    <Compile Include="BallMgr.cs" />
+    <Compile Include="BaseGame.cs">
+    </Compile>
+    <Compile Include="Actions\CheckPVPGameStateAction.cs" />
+    <Compile Include="Cmd\BossTakeCardCommand.cs" />
+    <Compile Include="Cmd\DirectionCommand.cs" />
+    <Compile Include="Cmd\FireCommand.cs" />
+    <Compile Include="Cmd\FireTagCommand.cs" />
+    <Compile Include="Cmd\FlyCommand.cs" />
+    <Compile Include="Cmd\GameCommandAttribute.cs" />
+    <Compile Include="Cmd\MissionPrepareCommand.cs" />
+    <Compile Include="Cmd\SecondWeaponCommand.cs" />
+    <Compile Include="Cmd\ICommandHandler.cs" />
+    <Compile Include="Cmd\LoadCommand.cs" />
+    <Compile Include="Cmd\MissionStartCommand.cs" />
+    <Compile Include="Cmd\MoveStartCommand.cs" />
+    <Compile Include="Cmd\PaymentTakeCardCommand.cs" />
+    <Compile Include="Cmd\PickCommand.cs" />
+    <Compile Include="Cmd\PropUseCommand.cs" />
+    <Compile Include="Cmd\SetGhostTargetCommand.cs" />
+    <Compile Include="Cmd\SkipNextCommand.cs" />
+    <Compile Include="Cmd\StuntCommand.cs" />
+    <Compile Include="Cmd\SuicideCommand.cs" />
+    <Compile Include="Cmd\TakeCardCommand.cs" />
+    <Compile Include="Cmd\TryAgainCommand.cs" />
+    <Compile Include="Cmd\WannaLeadCommand.cs" />
+    <Compile Include="Cmd\CommandMgr.cs" />
+    <Compile Include="BallConfigMgr.cs" />
+    <Compile Include="DropInfoMgr.cs" />
+    <Compile Include="DropInventory.cs" />
+    <Compile Include="eBattleRemoveMoneyType.cs" />
+    <Compile Include="eEffectType.cs" />
+    <Compile Include="Effects\AbstractEffect.cs" />
+    <Compile Include="Effects\AddBombEquipEffect.cs" />
+    <Compile Include="Effects\AddDanderEquipEffect.cs" />
+    <Compile Include="Effects\AddTurnEquipEffect.cs" />
+    <Compile Include="Effects\ArmorPiercerEquipEffect.cs" />
+    <Compile Include="Effects\AssimilateBloodEffect.cs" />
+    <Compile Include="Effects\AssimilateDamageEffect.cs" />
+    <Compile Include="Effects\AtomBombEquipEffect.cs" />
+    <Compile Include="Effects\AvoidDamageEffect.cs" />
+    <Compile Include="Effects\BasePlayerEffect.cs" />
+    <Compile Include="Effects\ContinueReduceBloodEffect.cs" />
+    <Compile Include="Effects\ContinueReduceBloodEquipEffect.cs" />
+    <Compile Include="Effects\ContinueReduceDamageEffect.cs" />
+    <Compile Include="Effects\ContinueReduceDamageEquipEffect.cs" />
+    <Compile Include="Effects\EffectList.cs" />
+    <Compile Include="Effects\HideEffect.cs" />
+    <Compile Include="Effects\IceFronzeEffect.cs" />
+    <Compile Include="Effects\InvinciblyEffect.cs" />
+    <Compile Include="Effects\LockDirectionEffect.cs" />
+    <Compile Include="Effects\LockDirectionEquipEffect.cs" />
+    <Compile Include="Effects\MakeCriticalEffect.cs" />
+    <Compile Include="Effects\NoHoleEffect.cs" />
+    <Compile Include="Effects\ReduceBloodEquipEffect.cs" />
+    <Compile Include="Effects\ReduceDamageEffect.cs" />
+    <Compile Include="Effects\ReduceStrengthEffect.cs" />
+    <Compile Include="Effects\ReduceStrengthEquipEffect.cs" />
+    <Compile Include="Effects\ReflexDamageEquipEffect.cs" />
+    <Compile Include="Effects\SealEffect.cs" />
+    <Compile Include="Effects\SealEquipEffect.cs" />
+    <Compile Include="eLivingType.cs" />
+    <Compile Include="eMapType.cs" />
+    <Compile Include="ePackageType.cs" />
+    <Compile Include="Actions\GhostMoveAction.cs" />
+    <Compile Include="Actions\IAction.cs" />
+    <Compile Include="Effects\AddAgilityEffect.cs" />
+    <Compile Include="Effects\AddAttackEffect.cs" />
+    <Compile Include="Effects\AddBloodEffect.cs" />
+    <Compile Include="Effects\AddDamageEffect.cs" />
+    <Compile Include="Effects\AddDefenceEffect.cs" />
+    <Compile Include="Effects\AddLuckyEffect.cs" />
+    <Compile Include="Effects\FatalEffect.cs" />
+    <Compile Include="Effects\IceFronzeEquipEffect.cs" />
+    <Compile Include="Effects\NoHoleEquipEffect.cs" />
+    <Compile Include="IGamePlayer.cs" />
+    <Compile Include="LoadingFileInfo.cs" />
+    <Compile Include="MapMgr.cs" />
+    <Compile Include="MissionInfoMgr.cs" />
+    <Compile Include="NPCInfoMgr.cs" />
+    <Compile Include="NpcStatementsMgr.cs" />
+    <Compile Include="Phy\Actions\ActionType.cs" />
+    <Compile Include="Phy\Actions\BombAction.cs" />
+    <Compile Include="Phy\Maps\Map.cs" />
+    <Compile Include="Phy\Maps\Tile.cs" />
+    <Compile Include="Phy\Maths\EulerVector.cs" />
+    <Compile Include="Phy\Maths\PointHelper.cs" />
+    <Compile Include="Phy\Object\BombObject.cs" />
+    <Compile Include="Phy\Object\BombType.cs" />
+    <Compile Include="Phy\Object\Box.cs" />
+    <Compile Include="Phy\Object\CanShootInfo.cs" />
+    <Compile Include="Phy\Object\layer.cs" />
+    <Compile Include="Phy\Object\Living.cs" />
+    <Compile Include="Phy\Object\PhysicalObj.cs" />
+    <Compile Include="Phy\Object\Physics.cs" />
+    <Compile Include="Phy\Object\Player.cs" />
+    <Compile Include="Phy\Object\SimpleBomb.cs" />
+    <Compile Include="Actions\ProcessPacketAction.cs" />
+    <Compile Include="Phy\Object\SimpleBoss.cs" />
+    <Compile Include="Phy\Object\SimpleNpc.cs" />
+    <Compile Include="Phy\Object\TurnedLiving.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Actions\RemovePlayerAction.cs" />
+    <Compile Include="PropItemMgr.cs" />
+    <Compile Include="Protocol\eFightPackageType.cs" />
+    <Compile Include="PVEGame.cs">
+    </Compile>
+    <Compile Include="PveInfoMgr.cs" />
+    <Compile Include="PVPGame.cs">
+    </Compile>
+    <Compile Include="Spells\eSpellType.cs" />
+    <Compile Include="Spells\FightingSpell\AddBallCountSpell.cs" />
+    <Compile Include="Spells\FightingSpell\AddDamagePlusSpell.cs" />
+    <Compile Include="Spells\FightingSpell\AddDanderSpell.cs" />
+    <Compile Include="Spells\FightingSpell\AddShootCountSpell.cs" />
+    <Compile Include="Spells\FightingSpell\AtomBombSpell.cs" />
+    <Compile Include="Spells\FightingSpell\BreachDefenceSpell.cs" />
+    <Compile Include="Spells\FightingSpell\NoHoleSpell.cs" />
+    <Compile Include="Spells\FightingSpell\SealSpell.cs" />
+    <Compile Include="Spells\FightingSpell\ShootStraightSpell.cs" />
+    <Compile Include="Spells\ISpellHandler.cs" />
+    <Compile Include="Spells\NormalSpell\AddLifeSpell.cs" />
+    <Compile Include="Spells\NormalSpell\BeckonSpell.cs" />
+    <Compile Include="Spells\NormalSpell\CarrySpell.cs" />
+    <Compile Include="Spells\NormalSpell\FrostSpell.cs" />
+    <Compile Include="Spells\NormalSpell\HideSpell.cs" />
+    <Compile Include="Spells\NormalSpell\VaneSpell.cs" />
+    <Compile Include="Spells\SpellAttibute.cs" />
+    <Compile Include="Spells\SpellMgr.cs" />
+    <Compile Include="eTankCmdType.cs" />
+    <Compile Include="Actions\WaitLivingAttackingAction.cs" />
+    <Compile Include="TickHelper.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Bussiness\Bussiness.csproj">
+      <Project>{87C66FCB-06BB-42C0-86E1-ED814A77EBE4}</Project>
+      <Name>Bussiness</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Game.Base\Game.Base.csproj">
+      <Project>{0015BF52-A89D-4D4C-B212-D2228FF1DF71}</Project>
+      <Name>Game.Base</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SqlDataProvider\SqlDataProvider.csproj">
+      <Project>{037F4B7B-B05B-44A9-B83E-32C21D7A7B41}</Project>
+      <Name>SqlDataProvider</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

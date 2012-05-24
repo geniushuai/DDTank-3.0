@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0015BF52-A89D-4D4C-B212-D2228FF1DF71}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Game.Base</RootNamespace>
+    <AssemblyName>Game.Base</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="zlib.net, Version=1.0.3.0, Culture=neutral, PublicKeyToken=47d7877cb3620160">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\zlib.net.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseClient.cs" />
+    <Compile Include="BaseConnector.cs" />
+    <Compile Include="BaseServer.cs" />
+    <Compile Include="BaseServerConfiguration.cs" />
+    <Compile Include="Commands\AbstractCommandHandler.cs" />
+    <Compile Include="Commands\BuildScriptCommand.cs" />
+    <Compile Include="Commands\CmdAttribute.cs" />
+    <Compile Include="Commands\CommandMgr.cs" />
+    <Compile Include="Commands\CommandMgrSetupCommand.cs" />
+    <Compile Include="Commands\ICommandHandler.cs" />
+    <Compile Include="Commands\ScriptManagerCommand.cs" />
+    <Compile Include="Config\BaseAppConfig.cs" />
+    <Compile Include="Config\ConfigElement.cs" />
+    <Compile Include="Config\ConfigPropertyAttribute.cs" />
+    <Compile Include="Config\XMLConfigFile.cs" />
+    <Compile Include="ConsoleClient.cs" />
+    <Compile Include="Events\GameEventMgr.cs" />
+    <Compile Include="Events\RoadEvent.cs" />
+    <Compile Include="Events\RoadEventHandlerCollection.cs" />
+    <Compile Include="Events\script\ScriptEvent.cs" />
+    <Compile Include="Events\script\ScriptLoadedEventAttribute.cs" />
+    <Compile Include="Events\script\ScriptUnloadedEventAttribute.cs" />
+    <Compile Include="Events\server\GameServerEvent.cs" />
+    <Compile Include="Events\server\GameServerStartedEventAttribute.cs" />
+    <Compile Include="Events\server\GameServerStoppedEventAttribute.cs" />
+    <Compile Include="Marshal.cs" />
+    <Compile Include="PacketIn.cs" />
+    <Compile Include="Packets\FSM.cs" />
+    <Compile Include="Packets\StreamProcessor.cs" />
+    <Compile Include="Packets\GSPacketIn.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QueueMgr.cs" />
+    <Compile Include="ResourceUtil.cs" />
+    <Compile Include="ScriptMgr.cs" />
+    <Compile Include="Statistics.cs" />
+    <Compile Include="WeakMulticastDelegate.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="WeakRef.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

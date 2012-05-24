@@ -1,0 +1,31 @@
+C:\Users\LONGTRIEU\Documents\Visual Studio 2010\Projects\Flash (2)\WebApplication1\bin\Languages\Language-vn.txt
+C:\Users\LONGTRIEU\Documents\Visual Studio 2010\Projects\Flash (2)\WebApplication1\bin\Languages\Language-zh_cn.txt
+C:\Users\LONGTRIEU\Documents\Visual Studio 2010\Projects\Flash (2)\WebApplication1\bin\WebApplication1.dll
+C:\Users\LONGTRIEU\Documents\Visual Studio 2010\Projects\Flash (2)\WebApplication1\bin\WebApplication1.pdb
+C:\Users\LONGTRIEU\Documents\Visual Studio 2010\Projects\Flash (2)\WebApplication1\bin\Bussiness.dll
+C:\Users\LONGTRIEU\Documents\Visual Studio 2010\Projects\Flash (2)\WebApplication1\bin\log4net.dll
+C:\Users\LONGTRIEU\Documents\Visual Studio 2010\Projects\Flash (2)\WebApplication1\bin\SqlDataProvider.dll
+C:\Users\LONGTRIEU\Documents\Visual Studio 2010\Projects\Flash (2)\WebApplication1\bin\Game.Base.dll
+C:\Users\LONGTRIEU\Documents\Visual Studio 2010\Projects\Flash (2)\WebApplication1\bin\zlib.net.dll
+C:\Users\LONGTRIEU\Documents\Visual Studio 2010\Projects\Flash (2)\WebApplication1\bin\Bussiness.pdb
+C:\Users\LONGTRIEU\Documents\Visual Studio 2010\Projects\Flash (2)\WebApplication1\bin\log4net.xml
+C:\Users\LONGTRIEU\Documents\Visual Studio 2010\Projects\Flash (2)\WebApplication1\bin\SqlDataProvider.pdb
+C:\Users\LONGTRIEU\Documents\Visual Studio 2010\Projects\Flash (2)\WebApplication1\bin\Game.Base.pdb
+C:\Users\LONGTRIEU\Documents\Visual Studio 2010\Projects\Flash (2)\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LONGTRIEU\Documents\Visual Studio 2010\Projects\Flash (2)\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\LONGTRIEU\Documents\Visual Studio 2010\Projects\Flash (2)\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\GameAdmin\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\GameAdmin\obj\Debug\WebApplication1.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\GameAdmin\bin\WebApplication1.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\GameAdmin\bin\WebApplication1.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\GameAdmin\bin\Bussiness.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\GameAdmin\bin\SqlDataProvider.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\GameAdmin\obj\Debug\WebApplication1.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\GameAdmin\bin\Languages\Language-vn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\GameAdmin\bin\Languages\Language-zh_cn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\GameAdmin\bin\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\GameAdmin\bin\zlib.net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\GameAdmin\bin\Bussiness.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\GameAdmin\bin\SqlDataProvider.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\GameAdmin\bin\log4net.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\GameAdmin\bin\Game.Base.pdb

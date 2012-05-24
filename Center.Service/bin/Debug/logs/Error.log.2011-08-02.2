@@ -1,0 +1,14 @@
+16:24:36,618 - [MAIN] - ERROR - Center.Server.CenterServer - Failed to start the server
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key)
+   at Bussiness.GameProperties.LoadProperty(ConfigPropertyAttribute attrib, ServiceBussiness sb) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\GameProperties\GameProperties.cs:line 102
+   at Bussiness.GameProperties.Load(Type type) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\GameProperties\GameProperties.cs:line 77
+   at Bussiness.GameProperties.Refresh() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\GameProperties\GameProperties.cs:line 137
+   at Center.Server.CenterServer.Start() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Center.Server\CenterServer.cs:line 72
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+

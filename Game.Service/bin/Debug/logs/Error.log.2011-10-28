@@ -1,0 +1,56 @@
+19:43:04,251 - [9] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.CardDataHander  client: 127.0.0.1:53428)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.CardDataHander.HandlePacket(GameClient client, GSPacketIn packet)
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+19:43:04,267 - [9] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 01 60 00 D8 00 00 00 11 00 00 00 00   q.. .`..........
+0010: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+
+19:43:12,668 - [9] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.CardDataHander  client: 127.0.0.1:53428)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.CardDataHander.HandlePacket(GameClient client, GSPacketIn packet)
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+19:43:12,672 - [9] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 01 60 00 D8 00 00 00 11 00 00 00 00   q.. .`..........
+0010: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+
+19:43:14,388 - [9] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.CardDataHander  client: 127.0.0.1:53428)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.CardDataHander.HandlePacket(GameClient client, GSPacketIn packet)
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+19:43:14,409 - [9] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 01 62 00 D8 00 00 00 11 00 00 00 00   q.. .b..........
+0010: 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 01   ................
+
+19:43:17,262 - [9] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.CardDataHander  client: 127.0.0.1:53428)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.CardDataHander.HandlePacket(GameClient client, GSPacketIn packet)
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+19:43:17,264 - [9] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 01 62 00 D8 00 00 00 11 00 00 00 00   q.. .b..........
+0010: 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 01   ................
+
+19:43:37,027 - [9] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.CardDataHander  client: 127.0.0.1:53428)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.CardDataHander.HandlePacket(GameClient client, GSPacketIn packet)
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+19:43:37,030 - [9] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 01 60 00 D8 00 00 00 11 00 00 00 00   q.. .`..........
+0010: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+
+19:43:56,099 - [9] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.CardDataHander  client: 127.0.0.1:53428)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.CardDataHander.HandlePacket(GameClient client, GSPacketIn packet)
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+19:43:56,102 - [9] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 01 60 00 D8 00 00 00 11 00 00 00 00   q.. .`..........
+0010: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+
+19:44:30,269 - [9] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.CardDataHander  client: 127.0.0.1:53428)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.CardDataHander.HandlePacket(GameClient client, GSPacketIn packet)
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+19:44:30,275 - [9] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 20 01 60 00 D8 00 00 00 11 00 00 00 00   q.. .`..........
+0010: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00   ................
+

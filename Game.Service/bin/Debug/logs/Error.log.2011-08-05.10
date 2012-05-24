@@ -1,0 +1,12 @@
+16:36:03,180 - [4] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Server.GameClient.OnRecv(Int32 num_bytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameClient.cs:line 102
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 265
+16:38:06,532 - [10] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Server.GameClient.OnRecv(Int32 num_bytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameClient.cs:line 102
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 265
+16:46:55,848 - [9] - ERROR - Game.Base.BaseClient - not connected RecvCallback:System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Send(Byte[] buffer)
+   at Game.Server.GameClient.OnRecv(Int32 num_bytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Server\GameClient.cs:line 102
+   at Game.Base.BaseClient.RecvEventCallback(Object sender, SocketAsyncEventArgs e) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Base\BaseClient.cs:line 265

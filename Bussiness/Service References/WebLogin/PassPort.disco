@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://localhost/admingunny/Flash_Port/PassPort.asmx?wsdl" docRef="http://localhost/admingunny/Flash_Port/PassPort.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://localhost/admingunny/Flash_Port/PassPort.asmx" xmlns:q1="dandantang" binding="q1:PassPortSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://localhost/admingunny/Flash_Port/PassPort.asmx" xmlns:q2="dandantang" binding="q2:PassPortSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>

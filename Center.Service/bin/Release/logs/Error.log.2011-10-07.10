@@ -1,0 +1,5 @@
+09:19:46,589 - [MAIN] - ERROR - Game.Base.BaseServer - InitSocket
+System.Net.Sockets.SocketException: Only one usage of each socket address (protocol/network address/port) is normally permitted
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Game.Base.BaseServer.InitSocket(IPAddress ip, Int32 port) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\workspace\Server\Game.Base\BaseServer.cs:line 155

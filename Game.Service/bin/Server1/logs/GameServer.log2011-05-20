@@ -1,0 +1,932 @@
+00:00:15,493 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:00:15,500 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:00:15,500 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+00:01:15,504 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:01:15,505 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:01:15,506 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+00:02:15,492 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+00:02:15,494 - [7] - INFO  - Game.Server.GameServer - End ping check....
+00:02:15,496 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+00:02:15,499 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+00:02:15,519 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:02:15,519 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:02:15,522 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+00:03:04,541 - [12] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+00:03:15,532 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:03:15,533 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:03:15,536 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+00:04:15,487 - [15] - INFO  - Game.Server.GameServer - Saving Record...
+00:04:15,508 - [15] - INFO  - Game.Server.GameServer - Saving Record complete!
+00:04:15,546 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:04:15,546 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:04:15,547 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+00:05:15,498 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+00:05:15,500 - [7] - INFO  - Game.Server.GameServer - End ping check....
+00:05:15,507 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+00:05:15,509 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+00:05:15,559 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:05:15,561 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:05:15,562 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+00:05:18,233 - [12] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2623
+00:05:18,341 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+00:05:30,423 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.EnterWaitingRoomAction,11769ms!
+00:05:30,425 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 11772 ms,count:1
+00:05:42,705 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.EnterWaitingRoomAction,1944ms!
+00:05:42,706 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 1944 ms,count:1
+00:06:15,572 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:06:15,573 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:06:15,577 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+00:07:15,587 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:07:15,587 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:07:15,590 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+00:07:26,878 - [12] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+00:07:37,471 - [12] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2659
+00:07:37,540 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+00:07:47,820 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.EnterWaitingRoomAction,9950ms!
+00:07:47,823 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 9953 ms,count:1
+00:08:09,857 - [12] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+00:08:15,508 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+00:08:15,508 - [7] - INFO  - Game.Server.GameServer - End ping check....
+00:08:15,510 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+00:08:15,510 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+00:08:15,600 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:08:15,600 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:08:15,602 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+00:08:20,354 - [12] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2685
+00:08:20,408 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+00:09:15,491 - [15] - INFO  - Game.Server.GameServer - Saving Record...
+00:09:15,492 - [7] - INFO  - Game.Server.GameServer - Saving database...
+00:09:15,497 - [15] - INFO  - Game.Server.GameServer - Saving Record complete!
+00:09:15,505 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+00:09:15,510 - [7] - INFO  - Game.Server.GameServer - Saving database complete!
+00:09:15,510 - [7] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 16ms
+00:09:15,614 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:09:15,614 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:09:15,616 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+00:10:15,633 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:10:15,633 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:10:15,634 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+00:10:37,957 - [12] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+00:10:55,717 - [12] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2718
+00:10:55,791 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+00:11:15,518 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+00:11:15,519 - [7] - INFO  - Game.Server.GameServer - End ping check....
+00:11:15,521 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+00:11:15,522 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+00:11:15,641 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:11:15,641 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:11:15,645 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+00:11:23,925 - [12] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+00:11:33,735 - [12] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2748
+00:11:33,798 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+00:12:15,654 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:12:15,655 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:12:15,657 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+00:13:15,667 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:13:15,668 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:13:15,673 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+00:14:15,499 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+00:14:15,504 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+00:14:15,527 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+00:14:15,527 - [7] - INFO  - Game.Server.GameServer - End ping check....
+00:14:15,528 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+00:14:15,529 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+00:14:15,681 - [15] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:14:15,682 - [15] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:14:15,685 - [15] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+00:14:41,727 - [12] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+00:15:15,694 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:15:15,695 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:15:15,695 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+00:16:15,710 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:16:15,710 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:16:15,711 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+00:17:15,537 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+00:17:15,539 - [7] - INFO  - Game.Server.GameServer - End ping check....
+00:17:15,563 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+00:17:15,574 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+00:17:15,723 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:17:15,724 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:17:15,736 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+00:18:15,735 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:18:15,736 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:18:15,736 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+00:19:15,499 - [7] - INFO  - Game.Server.GameServer - Saving database...
+00:19:15,501 - [7] - INFO  - Game.Server.GameServer - Saving database complete!
+00:19:15,504 - [7] - INFO  - Game.Server.GameServer - Saved all databases and 0 players in 0ms
+00:19:15,499 - [15] - INFO  - Game.Server.GameServer - Saving Record...
+00:19:15,513 - [15] - INFO  - Game.Server.GameServer - Saving Record complete!
+00:19:15,749 - [15] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:19:15,749 - [15] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:19:15,752 - [15] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+00:19:47,096 - [12] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2797
+00:19:47,174 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussine00:21:22,685 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+00:21:23,112 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+00:21:23,115 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+00:21:23,175 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+00:21:23,175 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+00:21:23,175 - [MAIN] - INFO  - Game.Server.GameServer - Edition:11000: True
+00:21:23,179 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+00:21:23,226 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+00:21:23,230 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+00:21:23,243 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+00:21:23,379 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+00:21:23,431 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+00:21:23,456 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+00:21:23,468 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+00:21:23,475 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+00:21:23,479 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+00:21:23,488 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+00:21:23,494 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+00:21:23,500 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+00:21:23,515 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+00:21:23,519 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+00:21:23,523 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+00:21:23,528 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+00:21:23,540 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+00:21:23,543 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+00:21:23,563 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+00:21:23,591 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+00:21:23,599 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+00:21:23,601 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+00:21:23,607 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+00:21:23,610 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+00:21:23,613 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+00:21:23,615 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+00:21:23,620 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+00:21:23,624 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+00:21:23,626 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+00:21:23,627 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+00:21:23,636 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+00:21:23,653 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 126 handlers from GameServer Assembly!
+00:21:23,659 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 6 commands!
+00:21:23,663 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+00:21:23,669 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9202
+00:21:23,671 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+00:21:23,807 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9208
+00:21:23,847 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+00:21:23,863 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+00:21:34,916 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2852
+00:21:35,237 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+00:22:23,640 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:22:23,642 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:22:23,644 - [6] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+00:23:21,000 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+00:23:23,651 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:23:23,651 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:23:23,654 - [6] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+00:24:23,638 - [6] - INFO  - Game.Server.GameServer - Begin ping check....
+00:24:23,640 - [6] - INFO  - Game.Server.GameServer - End ping check....
+00:24:23,642 - [6] - INFO  - Game.Server.GameServer - Begin ping center check....
+00:24:23,644 - [6] - INFO  - Game.Server.GameServer - End ping center check....
+00:24:23,665 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:24:23,666 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:24:23,667 - [6] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+00:25:23,677 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:25:23,679 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:25:23,683 - [6] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+00:26:23,634 - [6] - INFO  - Game.Server.GameServer - Saving Record...
+00:26:23,690 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:26:23,690 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:26:23,691 - [14] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+00:26:23,735 - [6] - INFO  - Game.Server.GameServer - Saving Record complete!
+00:27:23,644 - [14] - INFO  - Game.Server.GameServer - Begin ping check....
+00:27:23,644 - [14] - INFO  - Game.Server.GameServer - End ping check....
+00:27:23,646 - [14] - INFO  - Game.Server.GameServer - Begin ping center check....
+00:27:23,647 - [14] - INFO  - Game.Server.GameServer - End ping center check....
+00:27:23,705 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:27:23,705 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:27:23,707 - [6] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+00:28:23,718 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:28:23,718 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:28:23,718 - [6] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+00:29:23,734 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:29:23,735 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:29:23,738 - [14] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+00:30:23,655 - [6] - INFO  - Game.Server.GameServer - Begin ping check....
+00:30:23,655 - [6] - INFO  - Game.Server.GameServer - End ping check....
+00:30:23,655 - [6] - INFO  - Game.Server.GameServer - Begin ping center check....
+00:30:23,656 - [6] - INFO  - Game.Server.GameServer - End ping center check....
+00:30:23,745 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:30:23,745 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:30:23,746 - [6] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+00:31:23,639 - [14] - INFO  - Game.Server.GameServer - Saving database...
+00:31:23,639 - [6] - INFO  - Game.Server.GameServer - Saving Record...
+00:31:23,641 - [6] - INFO  - Game.Server.GameServer - Saving Record complete!
+00:31:23,640 - [14] - INFO  - Game.Server.GameServer - Saving database complete!
+00:31:23,642 - [14] - INFO  - Game.Server.GameServer - Saved all databases and 0 players in 0ms
+00:31:23,759 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:31:23,759 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:31:23,760 - [14] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+00:32:23,772 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:32:23,772 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:32:23,773 - [14] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+00:33:23,663 - [6] - INFO  - Game.Server.GameServer - Begin ping check....
+00:33:23,664 - [6] - INFO  - Game.Server.GameServer - End ping check....
+00:33:23,666 - [6] - INFO  - Game.Server.GameServer - Begin ping center check....
+00:33:23,666 - [6] - INFO  - Game.Server.GameServer - End ping center check....
+00:33:23,786 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:33:23,787 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:33:23,790 - [6] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+00:34:23,801 - [14] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:34:23,801 - [14] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:34:23,803 - [14] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+00:35:23,816 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:35:23,817 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:35:23,817 - [6] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+00:36:23,644 - [6] - INFO  - Game.Server.GameServer - Saving Record...
+00:36:23,644 - [6] - INFO  - Game.Server.GameServer - Saving Record complete!
+00:36:23,672 - [14] - INFO  - Game.Server.GameServer - Begin ping check....
+00:36:23,672 - [14] - INFO  - Game.Server.GameServer - End ping check....
+00:36:23,673 - [14] - INFO  - Game.Server.GameServer - Begin ping center check....
+00:36:23,674 - [14] - INFO  - Game.Server.GameServer - End ping center check....
+00:36:23,827 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:36:23,827 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:36:23,828 - [6] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+00:37:23,841 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:37:23,841 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:37:23,843 - [6] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+00:38:23,855 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:38:23,855 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:38:23,857 - [6] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+00:39:23,682 - [6] - INFO  - Game.Server.GameServer - Begin ping check....
+00:39:23,682 - [6] - INFO  - Game.Server.GameServer - End ping check....
+00:39:23,683 - [6] - INFO  - Game.Server.GameServer - Begin ping center check....
+00:39:23,684 - [6] - INFO  - Game.Server.GameServer - End ping center check....
+00:39:23,868 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:39:23,871 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:39:23,875 - [6] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+00:40:15,726 - [11] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:3010
+00:40:15,870 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+00:40:23,882 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:40:23,883 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:40:23,885 - [6] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+00:40:34,415 - [11] - WARN  - Game.Base.Packets.PacketProcessor - (127.0.0.1:3010) Handle packet Thread 11 Game.Server.Packets.Client.GameUserCreateHandler took 2169ms!
+00:40:35,704 - [12] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.CreateRoomAction,1250ms!
+00:40:35,729 - [12] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 1275 ms,count:1
+00:40:36,454 - [12] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr acti00:42:22,535 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+00:42:23,806 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+00:42:23,808 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+00:42:23,989 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+00:42:23,989 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+00:42:23,989 - [MAIN] - INFO  - Game.Server.GameServer - Edition:11000: True
+00:42:24,002 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+00:42:24,040 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+00:42:24,043 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+00:42:24,058 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+00:42:26,267 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+00:42:26,312 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+00:42:26,343 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+00:42:26,629 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+00:42:26,637 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+00:42:26,643 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+00:42:26,653 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+00:42:26,660 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+00:42:26,667 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+00:42:26,685 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+00:42:26,690 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+00:42:26,696 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+00:42:26,704 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+00:42:26,719 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+00:42:26,723 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+00:42:26,745 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+00:42:26,773 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+00:42:26,780 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+00:42:26,781 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+00:42:26,788 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+00:42:26,808 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+00:42:26,821 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+00:42:26,824 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+00:42:26,845 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+00:42:26,849 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+00:42:26,851 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+00:42:26,852 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+00:42:26,871 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+00:42:26,893 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 126 handlers from GameServer Assembly!
+00:42:26,931 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 6 commands!
+00:42:26,948 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+00:42:26,967 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9202
+00:42:26,970 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+00:42:27,001 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9208
+00:42:27,020 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+00:42:27,027 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+00:42:37,231 - [12] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:3090
+00:42:37,833 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+00:42:47,224 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.EnterWaitingRoomAction,9094ms!
+00:42:48,251 - [12] - WARN  - Game.Base.Packets.PacketProcessor - (127.0.0.1:3090) Handle packet Thread 12 Game.Server.Packets.Client.GameUserCreateHandler took 1591ms!
+00:42:48,252 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 10123 ms,count:1
+00:42:49,425 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.EnterWaitingRoomAction,1165ms!
+00:42:50,748 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.CreateRoomAction,1321ms!
+00:42:50,748 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 2488 ms,count:2
+00:42:53,234 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.UpdateRoomPosAction,2454ms!
+00:42:53,235 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 2455 ms,count:2
+00:43:12,521 - [12] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:3116
+00:43:12,606 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+00:43:32,698 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:43:35,278 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.EnterWaitingRoomAction,22346ms!
+00:43:35,292 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 22359 ms,count:1
+00:43:35,285 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:43:35,295 - [6] - INFO  - Game.Server.GameServer - Buff all 2 players in 2589ms
+00:44:26,869 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:44:26,869 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:44:26,871 - [6] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+00:45:26,858 - [6] - INFO  - Game.Server.GameServer - Begin ping check....
+00:45:26,861 - [6] - INFO  - Game.Server.GameServer - End ping check....
+00:45:26,864 - [6] - INFO  - Game.Server.GameServer - Begin ping center check....
+00:45:26,874 - [6] - INFO  - Game.Server.GameServer - End ping center check....
+00:45:26,883 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:45:26,884 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:45:26,885 - [6] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+00:46:26,896 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:46:26,896 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:46:26,899 - [6] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+00:47:26,853 - [15] - INFO  - Game.Server.GameServer - Saving Record...
+00:47:26,867 - [15] - INFO  - Game.Server.GameServer - Saving Record complete!
+00:47:26,910 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:47:26,910 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:47:26,911 - [6] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+00:47:58,052 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.ExitRoomAction,6885ms!
+00:47:58,056 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 6889 ms,count:1
+00:48:00,539 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.EnterWaitingRoomAction,2480ms!
+00:48:01,245 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.ExitRoomAction,704ms!
+00:48:01,247 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 3188 ms,count:2
+00:48:26,863 - [15] - INFO  - Game.Server.GameServer - Begin ping check....
+00:48:26,863 - [15] - INFO  - Game.Server.GameServer - End ping check....
+00:48:26,865 - [15] - INFO  - Game.Server.GameServer - Begin ping center check....
+00:48:26,866 - [15] - INFO  - Game.Server.GameServer - End ping center check....
+00:48:26,922 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:48:26,922 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:48:26,923 - [6] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+00:49:26,937 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:49:26,939 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:49:26,945 - [6] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+00:50:26,950 - [15] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:50:26,950 - [15] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:50:26,952 - [15] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+00:51:13,653 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.EnterWaitingRoomAction,26512ms!
+00:51:13,655 - [12] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+00:51:13,660 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 26520 ms,count:1
+00:51:13,680 - [12] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:3147
+00:51:13,755 - [6] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+00:51:18,733 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.EnterWaitingRoomAction,2222ms!
+00:51:18,735 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 2223 ms,count:1
+2011-05-20 00:51:35,886 - [15] - INFO  - Game.Server.GameServer - Buff Scaning ...
+2011-05-20 00:51:36,461 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.EnterWaitingRoomAction,10509ms!
+2011-05-20 00:51:36,463 - [6] - INFO  - Game.Server.GameServer - Begin ping check....
+2011-05-20 00:51:36,472 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 10520 ms,count:1
+2011-05-20 00:51:36,469 - [15] - INFO  - Game.Server.GameServer - Buff Scan complete!
+2011-05-20 00:51:37,064 - [15] - INFO  - Game.Server.GameServer - Buff all 2 players in 592ms
+2011-05-20 00:51:36,479 - [6] - INFO  - Game.Server.GameServer - End ping check....
+00:51:37,645 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.CreateRoomAction,1164ms!
+00:51:37,668 - [6] - INFO  - Game.Server.GameServer - Begin ping center check....
+00:51:37,673 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 1192 ms,count:1
+00:51:37,678 - [6] - INFO  - Game.Server.GameServer - End ping center check....
+00:51:40,796 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.UpdateRoomPosAction,2708ms!
+00:51:41,332 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.UpdateRoomPosAction,536ms!
+00:51:41,332 - [6] - WARN  - Game.Base.BaseClient - AsyncTcpSendCallback.BeginSend took 546ms! (TCP to client: 127.0.0.1:3090)
+00:51:41,337 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 3250 ms,count:2
+00:52:50,200 - [15] - INFO  - Game.Server.GameServer - Saving database...
+00:52:50,205 - [6] - INFO  - Game.Server.GameServer - Saving Record...
+00:52:52,079 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.ExitRoomAction,38681ms!
+00:52:52,081 - [12] - WARN  - Game.Base.Packets.PacketProcessor - (127.0.0.1:3090) Handle packet Thread 12 Game.Server.Packets.Client.GameUserCreateHandler took 1887ms!
+00:52:52,087 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 38688 ms,count:1
+00:52:52,087 - [6] - INFO  - Game.Server.GameServer - Saving Record complete!
+00:52:52,974 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.ExitRoomAction,878ms!
+00:52:52,978 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:52:52,096 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+2011-05-20 00:52:55,567 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.EnterWaitingRoomAction,2588ms!
+2011-05-20 00:52:55,568 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+2011-05-20 00:52:56,791 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.CreateRoomAction,1210ms!
+2011-05-20 00:52:56,800 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 4704 ms,count:3
+2011-05-20 00:52:56,795 - [6] - INFO  - Game.Server.GameServer - Buff all 2 players in 2590ms
+2011-05-20 00:52:56,795 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+2011-05-20 00:52:56,836 - [15] - INFO  - Game.Server.GameServer - Saving database complete!
+2011-05-20 00:52:56,837 - [15] - INFO  - Game.Server.GameServer - Saved all databases and 2 players in 6645ms
+00:53:04,339 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.UpdateRoomPosAction,1974ms!
+00:53:04,881 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.UpdateRoomPosAction,538ms!
+00:53:04,882 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 2517 ms,count:2
+00:53:24,791 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.ExitRoomAction,9829ms!
+00:53:24,794 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 9833 ms,count:1
+2011-05-20 00:53:24,791 - [12] - WARN  - Game.Base.Packets.PacketProcessor - (127.0.0.1:3090) Handle packet Thread 12 Game.Server.Packets.Client.GameUserCreateHandler took 2184ms!
+2011-05-20 00:53:27,512 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.ExitRoomAction,2716ms!
+2011-05-20 00:53:27,514 - [15] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:54:26,521 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.EnterWaitingRoomAction,59022ms!
+00:54:26,523 - [15] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:54:47,681 - [15] - INFO  - Game.Server.GameServer - Buff all 2 players in 59015ms
+00:54:49,374 - [15] - INFO  - Game.Server.GameServer - Buff Scaning ...
+2011-05-20 00:54:55,627 - [15] - INFO  - Game.Server.GameServer - Buff Scan complete!
+2011-05-20 00:55:22,490 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.CreateRoomAction,55986ms!
+2011-05-20 00:55:22,500 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 117753 ms,count:3
+2011-05-20 00:55:22,494 - [15] - INFO  - Game.Server.GameServer - Buff all 2 players in 6255ms
+00:54:47,680 - [6] - INFO  - Game.Server.GameServer - Begin ping check....
+00:55:22,508 - [6] - INFO  - Game.Server.GameServer - End ping check....
+00:55:22,508 - [6] - INFO  - Game.Server.GameServer - Begin ping center check....
+00:55:22,508 - [6] - INFO  - Game.Server.GameServer - End ping center check....
+00:55:27,020 - [15] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:55:27,029 - [15] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:55:27,030 - [15] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+00:56:27,033 - [6] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:56:27,033 - [6] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:56:27,035 - [6] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+00:56:42,296 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.UpdateRoomPosAction,6198ms!
+00:56:42,882 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.UpdateRoomPosAction,584ms!
+00:56:42,888 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 6790 ms,count:2
+00:57:15,496 - [12] - WARN  - Game.Base.Packets.PacketProcessor - (127.0.0.1:3090) Handle packet Thread 12 Game.Server.Packets.Client.GameUserCreateHandler took 9735ms!
+00:57:26,931 - [15] - INFO  - Game.Server.GameServer - Saving Record...
+00:57:28,498 - [15] - INFO  - Game.Server.GameServer - Saving Record complete!
+00:57:27,690 - [6] - INFO  - Game.Server.GameServer - Begin ping check....
+2011-05-20 00:57:39,680 - [15] - INFO  - Game.Server.GameServer - Buff Scaning ...
+2011-05-20 00:57:56,791 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.ExitRoomAction,58915ms!
+2011-05-20 00:57:56,797 - [6] - INFO  - Game.Server.GameServer - End ping check....
+2011-05-20 00:57:56,810 - [6] - INFO  - Game.Server.GameServer - Begin ping center check....
+2011-05-20 00:57:56,810 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 58934 ms,count:1
+2011-05-20 00:57:56,808 - [15] - INFO  - Game.Server.GameServer - Buff Scan complete!
+2011-05-20 00:57:58,909 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.ExitRoomAction,2094ms!
+2011-05-20 00:57:56,815 - [6] - INFO  - Game.Server.GameServer - End ping center check....
+2011-05-20 00:57:58,916 - [15] - INFO  - Game.Server.GameServer - Buff all 2 players in 17129ms
+2011-05-20 00:59:29,160 - [8] - INFO  - Game.Server.GameServer - Buff Scaning ...
+2011-05-20 00:59:35,174 - [15] - INFO  - Game.Server.GameServer - Buff Scaning ...
+00:59:40,966 - [8] - INFO  - Game.Server.GameServer - Buff Scan complete!
+00:59:40,970 - [8] - INFO  - Game.Server.GameServer - Buff all 2 players in 11810ms
+00:59:40,966 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.EnterWaitingRoomAction,102088ms!
+00:59:40,967 - [15] - INFO  - Game.Server.GameServer - Buff Scan complete!
+2011-05-20 00:59:40,971 - [6] - WARN  - Game.Base.BaseClient - AsyncTcpSendCallback.BeginSend took 8128ms! (TCP to client: 127.0.0.1:3147)
+2011-05-20 01:00:25,761 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.CreateRoomAction,44796ms!
+2011-05-20 01:00:25,768 - [15] - INFO  - Game.Server.GameServer - Buff all 2 players in 5788ms
+2011-05-20 01:00:25,775 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 149021 ms,count:3
+01:00:42,599 - [15] - INFO  - Game.Server.GameServer - Buff Scaning ...
+01:00:42,600 - [15] - INFO  - Game.Server.GameServer - Buff Scan complete!
+01:00:42,599 - [8] - INFO  - Game.Server.GameServer - Begin ping check....
+01:00:44,367 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.UpdateRoomPosAction,18597ms!
+01:00:44,385 - [8] - INFO  - Game.Server.GameServer - End ping check....
+01:00:44,379 - [15] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+01:00:44,388 - [8] - INFO  - Game.Server.GameServer - Begin ping center check....
+01:00:48,935 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.UpdateRoomPosAction,4550ms!
+01:00:48,940 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 23171 ms,count:3
+01:00:48,938 - [8] - INFO  - Game.Server22:59:12,778 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+22:59:14,509 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+22:59:14,511 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+22:59:14,591 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+22:59:14,592 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+22:59:14,592 - [MAIN] - INFO  - Game.Server.GameServer - Edition:11000: True
+22:59:14,596 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+22:59:14,653 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+22:59:14,656 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+22:59:14,670 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+22:59:18,457 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+22:59:18,531 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+22:59:18,575 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+22:59:19,299 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+22:59:19,372 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+22:59:19,426 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+22:59:19,442 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+22:59:19,453 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+22:59:19,588 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+22:59:19,603 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+22:59:19,669 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+22:59:19,674 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+22:59:19,681 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+22:59:19,713 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+22:59:19,717 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+22:59:19,815 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+22:59:19,889 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+22:59:19,893 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+22:59:19,895 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+22:59:19,939 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+22:59:19,964 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+22:59:19,981 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+22:59:19,997 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+22:59:20,004 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+22:59:20,006 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+22:59:20,007 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+22:59:20,008 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+22:59:20,035 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+22:59:20,052 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 126 handlers from GameServer Assembly!
+22:59:20,058 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 6 commands!
+22:59:20,063 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+22:59:20,069 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9202
+22:59:20,073 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+22:59:20,115 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9208
+22:59:20,122 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+22:59:20,131 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+23:00:20,022 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:00:20,022 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:00:20,023 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+23:01:05,968 - [12] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2664
+23:01:06,775 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:01:20,033 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:01:20,034 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:01:20,035 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+23:02:20,020 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+23:02:20,020 - [7] - INFO  - Game.Server.GameServer - End ping check....
+23:02:20,021 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+23:02:20,022 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+23:02:20,047 - [15] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:02:20,047 - [15] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:02:20,048 - [15] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+23:02:45,233 - [12] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:03:20,061 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:03:20,061 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:03:20,062 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+23:03:28,651 - [12] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2696
+23:03:28,790 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:03:56,553 - [12] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:04:20,019 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+23:04:20,028 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+23:04:20,075 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:04:20,075 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:04:20,076 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+23:05:20,028 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+23:05:20,028 - [7] - INFO  - Game.Server.GameServer - End ping check....
+23:05:20,029 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+23:05:20,030 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+23:05:20,087 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:05:20,087 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:05:20,089 - [7] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+23:06:20,100 - [15] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:06:20,100 - [15] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:06:20,102 - [15] - INFO  - Game.Server.GameServer - Buff all 0 players in 0ms
+23:06:30,400 - [12] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2733
+23:06:30,468 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:07:23,801 - [15] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:07:23,811 - [15] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:07:27,876 - [15] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+2011-05-20 23:07:31,924 - [7] - WARN  - Game.Base.BaseClient - AsyncTcpSendCallback.BeginSend took 1388ms! (TCP to client: 127.0.0.1:2733)
+2011-05-20 23:07:46,679 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.EnterWaitingRoomAction,67391ms!
+2011-05-20 23:07:46,683 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 67394 ms,count:1
+23:08:20,037 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+23:08:20,039 - [7] - INFO  - Game.Server.GameServer - End ping check....
+23:08:20,041 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+23:08:20,043 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+23:08:20,129 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:08:20,130 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:08:20,131 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+23:08:31,440 - [12] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:08:45,500 - [12] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2763
+23:08:45,564 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:09:17,633 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.EnterWaitingRoomAction,28716ms!
+23:09:17,633 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 28717 ms,count:1
+23:09:20,018 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+23:09:20,019 - [15] - INFO  - Game.Server.GameServer - Saving database...
+23:09:20,020 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+23:09:20,023 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:09:20,027 - [15] - INFO  - Game.Server.GameServer - Saving database complete!
+23:09:20,027 - [15] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 0ms
+23:09:20,143 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:09:20,144 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:09:20,146 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+23:10:20,156 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:10:20,156 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:10:20,157 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+23:11:20,048 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+23:11:20,048 - [7] - INFO  - Game.Server.GameServer - End ping check....
+23:11:20,050 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+23:11:20,051 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+23:11:20,169 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:11:20,169 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:11:20,171 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+23:11:53,307 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.EnterWaitingRoomAction,6043ms!
+23:11:53,308 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 6044 ms,count:1
+23:12:20,182 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:12:20,182 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:12:20,182 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+23:12:44,640 - [12] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:2804
+23:12:44,714 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:13:12,524 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.EnterWaitingRoomAction,27542ms!
+23:13:12,526 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 27544 ms,count:1
+23:13:20,196 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:13:20,197 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:13:20,198 - [7] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+23:14:20,028 - [15] - INFO  - Game.Server.GameServer - Saving Record...
+23:14:20,031 - [15] - INFO  - Game.Server.GameServer - Saving Record complete!
+23:14:20,055 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+23:14:20,055 - [7] - INFO  - Game.Server.GameServer - End ping check....
+23:14:20,056 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+23:14:20,057 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+23:14:20,210 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:14:20,210 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:14:20,211 - [7] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+23:15:20,223 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:15:20,228 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:15:20,228 - [7] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+23:16:20,238 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:16:20,238 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:16:20,239 - [7] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+23:17:20,066 - [15] - INFO  - Game.Server.GameServer - Begin ping check....
+23:17:20,070 - [15] - INFO  - Game.Server.GameServer - End ping check....
+23:17:20,074 - [15] - INFO  - Game.Server.GameServer - Begin ping center check....
+23:17:20,077 - [15] - INFO  - Game.Server.GameServer - End ping center check....
+23:17:20,250 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:17:20,250 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:17:20,250 - [7] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+23:17:51,539 - [12] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:18:20,264 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:18:20,264 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:18:20,264 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+23:19:20,032 - [7] - INFO  - Game.Server.GameServer - Saving database...
+23:19:20,032 - [15] - INFO  - Game.Server.GameServer - Saving Record...
+23:19:20,043 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:19:20,044 - [7] - INFO  - Game.Server.GameServer - Saving database complete!
+23:19:20,044 - [7] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 15ms
+23:19:20,088 - [15] - INFO  - Game.Server.GameServer - Saving Record complete!
+23:19:20,277 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:19:20,277 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:19:20,278 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+23:20:20,075 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+23:20:20,075 - [7] - INFO  - Game.Server.GameServer - End ping check....
+23:20:20,077 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+23:20:20,077 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+23:20:20,291 - [15] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:20:20,23:35:51,032 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+23:35:51,576 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+23:35:51,578 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+23:35:51,635 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+23:35:51,635 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+23:35:51,635 - [MAIN] - INFO  - Game.Server.GameServer - Edition:11000: True
+23:35:51,639 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+23:35:51,677 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+23:35:51,681 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+23:35:51,694 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+23:35:51,834 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+23:35:51,887 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+23:35:51,914 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+23:35:51,927 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+23:35:51,937 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+23:35:51,942 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+23:35:51,956 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+23:35:51,963 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+23:35:51,970 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+23:35:51,984 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+23:35:51,988 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+23:35:51,993 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+23:35:51,998 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+23:35:52,010 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+23:35:52,015 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+23:35:52,036 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+23:35:52,065 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+23:35:52,072 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+23:35:52,074 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+23:35:52,082 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+23:35:52,085 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+23:35:52,088 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+23:35:52,089 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+23:35:52,095 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+23:35:52,097 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+23:35:52,098 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+23:35:52,099 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+23:35:52,108 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+23:35:52,125 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 126 handlers from GameServer Assembly!
+23:35:52,132 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 6 commands!
+23:35:52,137 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+23:35:52,142 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9202
+23:35:52,144 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+23:35:52,168 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9208
+23:35:52,172 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+23:35:52,178 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+23:36:05,229 - [12] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:3069
+23:36:07,223 - [12] - WARN  - Game.Base.Packets.PacketProcessor - (127.0.0.1:3069) Handle packet Thread 12 Game.Server.Packets.Client.UserLoginHandler took 1981ms!
+23:36:07,365 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:36:12,650 - [12] - WARN  - Game.Base.Packets.PacketProcessor - (127.0.0.1:3069) Handle packet Thread 12 Game.Server.Packets.Client.MarryStateHandler took 1342ms!
+23:36:13,986 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.EnterWaitingRoomAction,3205ms!
+23:36:13,989 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 3208 ms,count:1
+23:36:33,346 - [12] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:3096
+23:36:33,426 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+2011-05-20 23:36:37,149 - [7] - WARN  - Game.Base.BaseClient - AsyncTcpSendCallback.BeginSend took 1264ms! (TCP to client: 127.0.0.1:3096)
+2011-05-20 23:36:38,415 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.EnterWaitingRoomAction,4700ms!
+2011-05-20 23:36:38,426 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 4711 ms,count:1
+23:36:52,625 - [15] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:36:52,642 - [15] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:36:52,656 - [15] - INFO  - Game.Server.GameServer - Buff all 2 players in 16ms
+23:36:57,240 - [12] - WARN  - Game.Base.Packets.PacketProcessor - (127.0.0.1:3096) Handle packet Thread 12 Game.Server.Packets.Client.SceneChatHandler took 8440ms!
+23:37:17,349 - [12] - WARN  - Game.Base.Packets.PacketProcessor - (127.0.0.1:3069) Handle packet Thread 12 Game.Server.Packets.Client.SceneChatHandler took 2481ms!
+23:37:52,113 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:37:52,113 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:37:52,115 - [7] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+23:38:17,104 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.EnterWaitingRoomAction,1076ms!
+23:38:17,106 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 1077 ms,count:1
+23:38:24,449 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.EnterWaitingRoomAction,786ms!
+23:38:24,451 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 787 ms,count:1
+23:38:52,099 - [15] - INFO  - Game.Server.GameServer - Begin ping check....
+23:39:03,208 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:39:07,567 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:39:07,569 - [7] - INFO  - Game.Server.GameServer - Buff all 2 players in 4352ms
+23:39:07,572 - [15] - INFO  - Game.Server.GameServer - End ping check....
+23:39:07,568 - [12] - WARN  - Game.Base.Packets.PacketProcessor - (127.0.0.1:3096) Handle packet Thread 12 Game.Server.Packets.Client.GameUserCreateHandler took 4352ms!
+23:39:07,581 - [15] - INFO  - Game.Server.GameServer - Begin ping center check....
+23:39:07,583 - [15] - INFO  - Game.Server.GameServer - End ping center check....
+23:39:33,164 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.CreateRoomAction,25570ms!
+23:39:33,170 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 25576 ms,count:1
+23:39:35,275 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.ExitWaitRoomAction,2104ms!
+23:39:40,462 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.UpdateRoomPosAction,5188ms!
+23:39:44,031 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.UpdateRoomPosAction,3571ms!
+23:39:44,041 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 10875 ms,count:3
+23:39:52,140 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:39:52,143 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:39:52,143 - [7] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+23:40:20,807 - [17] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:40:52,095 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+23:40:52,155 - [18] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:40:52,157 - [18] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:40:52,164 - [18] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+23:40:52,173 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+23:41:40,016 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.ExitRoomAction,3802ms!
+23:41:40,017 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 3802 ms,count:1
+23:41:41,874 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.ExitRoomAction,1857ms!
+23:41:44,233 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.EnterWaitingRoomAction,2358ms!
+23:41:44,233 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 4216 ms,count:2
+23:41:52,109 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+23:41:52,109 - [7] - INFO  - Game.Server.GameServer - End ping check....
+23:41:52,111 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+23:41:52,112 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+23:41:52,166 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:41:52,167 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:41:52,172 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+23:42:52,180 - [18] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:42:52,180 - [18] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:42:52,181 - [18] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+23:43:52,194 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:43:52,194 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:43:52,194 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+23:44:52,117 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+23:44:52,117 - [7] - INFO  - Game.Server.GameServer - End ping check....
+23:44:52,119 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+23:44:52,121 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+23:44:52,209 - [18] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:44:52,209 - [18] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:44:52,210 - [18] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+23:45:52,100 - [18] - INFO  - Game.Server.GameServer - Saving Record...
+23:45:52,100 - [7] - INFO  - Game.Server.GameServer - Saving database...
+23:45:52,104 - [18] - INFO  - Game.Server.GameServer - Saving Record complete!
+23:45:52,109 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:45:52,110 - [7] - INFO  - Game.Server.GameServer - Saving database complete!
+23:45:52,111 - [7] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 0ms
+23:45:52,222 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:45:52,224 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:45:52,224 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+23:46:52,235 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:46:52,237 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:46:52,238 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+23:47:52,126 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+23:47:52,126 - [7] - INFO  - Game.Server.GameServer - End ping check....
+23:47:52,127 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+23:47:52,128 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+23:47:52,249 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:47:52,249 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:47:52,251 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+23:48:52,262 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:48:52,262 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:48:52,263 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+23:49:52,313 - [18] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:49:52,321 - [18] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:49:52,375 - [18] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+23:50:36,086 - [17] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:3202
+23:50:36,287 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:50:48,003 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.EnterWaitingRoomAction,3602ms!
+23:50:48,005 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 3603 ms,count:1
+23:50:52,105 - [7] - INFO  - Game.Server.GameServer - Saving Record...
+23:50:52,105 - [7] - INFO  - Game.Server.GameServer - Saving Record complete!
+23:50:52,140 - [18] - INFO  - Game.Server.GameServer - Begin ping check....
+23:50:52,141 - [18] - INFO  - Game.Server.GameServer - End ping check....
+23:50:52,143 - [18] - INFO  - Game.Server.GameServer - Begin ping center check....
+23:50:52,146 - [18] - INFO  - Game.Server.GameServer - End ping center check....
+23:50:52,290 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:50:52,290 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:50:52,291 - [7] - INFO  - Game.Server.GameServer - Buff all 2 players in 0ms
+23:51:01,681 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.EnterWaitingRoomAction,504ms!
+23:51:01,681 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 505 ms,count:1
+23:51:14,582 - [17] - WARN  - Game.Base.Packets.PacketProcessor - (127.0.0.1:3096) Handle packet Thread 17 Game.Server.Packets.Client.GameUserCreateHandler took 1778ms!
+23:51:20,295 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.CreateRoomAction,5678ms!
+23:51:20,297 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 5680 ms,count:1
+23:51:21,028 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.ExitWaitRoomAction,732ms!
+23:51:24,393 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.UpdateRoomPosAction,3366ms!
+23:51:27,072 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.UpdateRoomPosAction,2677ms!
+23:51:27,073 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 6779 ms,count:3
+23:51:38,908 - [17] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:51:53,211 - [18] - INFO  - Game.Server.GameServer - Buff Scaning ...
+2011-05-20 23:51:54,617 - [18] - INFO  - Game.Server.GameServer - Buff Scan complete!
+2011-05-20 23:51:55,184 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.ExitRoomAction,4497ms!
+2011-05-20 23:51:55,188 - [18] - INFO  - Game.Server.GameServer - Buff all 1 players in 1404ms
+2011-05-20 23:51:55,192 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 4506 ms,count:1
+23:51:56,806 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.EnterWaitingRoomAction,1609ms!
+23:51:58,617 - [13] - WARN  - Game.Server.Rooms.RoomMgr - RoomMgr action spent too much times:Game.Server.Rooms.ExitRoomAction,1810ms!
+23:51:58,617 - [13] - WARN  - Game.Server.Rooms.RoomMgr - Room Mgr is spent too much times: 3421 ms,count:2
+23:52:52,316 - [18] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:52:52,317 - [18] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:52:52,318 - [18] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+23:53:52,146 - [7] - INFO  - Game.Server.GameServer - Begin ping check....
+23:53:52,146 - [7] - INFO  - Game.Server.GameServer - End ping check....
+23:53:52,147 - [7] - INFO  - Game.Server.GameServer - Begin ping center check....
+23:53:52,148 - [7] - INFO  - Game.Server.GameServer - End ping center check....
+23:53:52,330 - [18] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:53:52,333 - [18] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:53:52,334 - [18] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+23:54:52,343 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:54:52,344 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:54:52,347 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+23:55:52,111 - [7] - INFO  - Game.Server.GameServer - Saving database...
+23:55:52,111 - [18] - INFO  - Game.Server.GameServer - Saving Record...
+23:55:52,120 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Bussiness.PlayerBussiness.UpdatePlayer(PlayerInfo player) 位置 D:\Herman-PC\workspace\Server\Bussiness\PlayerBussiness.cs:行号 436
+23:55:52,122 - [7] - INFO  - Game.Server.GameServer - Saving database complete!
+23:55:52,122 - [7] - INFO  - Game.Server.GameServer - Saved all databases and 1 players in 16ms
+23:55:52,123 - [18] - INFO  - Game.Server.GameServer - Saving Record complete!
+23:55:52,357 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:55:52,357 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:55:52,358 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+23:56:52,154 - [18] - INFO  - Game.Server.GameServer - Begin ping check....
+23:56:52,155 - [18] - INFO  - Game.Server.GameServer - End ping check....
+23:56:52,157 - [18] - INFO  - Game.Server.GameServer - Begin ping center check....
+23:56:52,159 - [18] - INFO  - Game.Server.GameServer - End ping center check....
+23:56:52,371 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:56:52,372 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:56:52,375 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+23:57:52,384 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:57:52,384 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:57:52,386 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+23:58:52,398 - [7] - INFO  - Game.Server.GameServer - Buff Scaning ...
+23:58:52,398 - [7] - INFO  - Game.Server.GameServer - Buff Scan complete!
+23:58:52,401 - [7] - INFO  - Game.Server.GameServer - Buff all 1 players in 0ms
+23:59:52,164 - [18] - INFO  - Game.Server.GameServer - Begin ping check....
+23:59:52,168 - [18] - INFO  - Game.Server.GameServer - End ping check....
+23:59:52,171 - [18] - INFO  - Game.Server.GameServer - Begin ping center check....
+23:59:52,172 - [18] - INFO  - Game.Server.GameServer - End ping center check....
+23:59:52,426 - [7] 

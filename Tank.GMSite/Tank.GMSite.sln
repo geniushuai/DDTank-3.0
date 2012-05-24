@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tank.GMSite", "Tank.GMSite\Tank.GMSite.csproj", "{EE58CBA6-3EDB-410C-8045-FFD4873F344C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE58CBA6-3EDB-410C-8045-FFD4873F344C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE58CBA6-3EDB-410C-8045-FFD4873F344C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE58CBA6-3EDB-410C-8045-FFD4873F344C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE58CBA6-3EDB-410C-8045-FFD4873F344C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

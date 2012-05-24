@@ -1,0 +1,49 @@
+12:09:44,508 - [MAIN] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+12:09:47,247 - [MAIN] - INFO  - Game.Server.GameServer - Recompile Scripts: True
+12:09:47,249 - [MAIN] - INFO  - Game.Server.GameServer - Server rules: true
+12:09:47,668 - [MAIN] - INFO  - Game.Server.GameServer - Registering global event handlers: true
+12:09:47,668 - [MAIN] - INFO  - Game.Server.GameServer - Script components: True
+12:09:47,669 - [MAIN] - INFO  - Game.Server.GameServer - Edition:21000: True
+12:09:47,679 - [MAIN] - INFO  - Game.Server.GameServer - InitSocket Port:9200: True
+12:09:47,738 - [MAIN] - INFO  - Game.Server.GameServer - AllocatePacketBuffers(): True
+12:09:47,741 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Init: True
+12:09:47,924 - [MAIN] - INFO  - Game.Server.GameServer - WorldMgr Init: True
+12:09:55,986 - [MAIN] - INFO  - Game.Server.GameServer - MapMgr Init: True
+12:09:56,069 - [MAIN] - INFO  - Game.Server.GameServer - ItemMgr Init: True
+12:09:56,242 - [MAIN] - INFO  - Game.Server.GameServer - ItemBox Init: True
+12:09:59,949 - [MAIN] - INFO  - Game.Server.GameServer - BallMgr Init: True
+12:09:59,955 - [MAIN] - INFO  - Game.Server.GameServer - BallConfigMgr Init: True
+12:10:00,106 - [MAIN] - INFO  - Game.Server.GameServer - FusionMgr Init: True
+12:10:00,161 - [MAIN] - INFO  - Game.Server.GameServer - AwardMgr Init: True
+12:10:00,202 - [MAIN] - INFO  - Game.Server.GameServer - NPCInfoMgr Init: True
+12:10:00,235 - [MAIN] - INFO  - Game.Server.GameServer - MissionInfoMgr Init: True
+12:10:00,320 - [MAIN] - INFO  - Game.Server.GameServer - PveInfoMgr Init: True
+12:10:00,381 - [MAIN] - INFO  - Game.Server.GameServer - Drop Init: True
+12:10:00,414 - [MAIN] - INFO  - Game.Server.GameServer - FightRateMgr Init: True
+12:10:00,420 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaLevelMgr Init: True
+12:10:00,474 - [MAIN] - INFO  - Game.Server.GameServer - RefineryMgr Init: True
+12:10:00,517 - [MAIN] - INFO  - Game.Server.GameServer - StrengthenMgr Init: True
+12:10:00,526 - [MAIN] - INFO  - Game.Server.GameServer - PropItemMgr Init: True
+12:10:00,661 - [MAIN] - INFO  - Game.Server.GameServer - ShopMgr Init: True
+12:10:00,864 - [MAIN] - INFO  - Game.Server.GameServer - QuestMgr Init: True
+12:10:00,868 - [MAIN] - INFO  - Game.Server.GameServer - RoomMgr.Setup: True
+12:10:00,869 - [MAIN] - INFO  - Game.Server.GameServer - GameMgr.Start(): True
+12:10:00,943 - [MAIN] - INFO  - Game.Server.GameServer - ConsortiaMgr Init: True
+12:10:00,960 - [MAIN] - INFO  - Game.Server.GameServer - LanguageMgr Init: True
+12:10:00,996 - [MAIN] - INFO  - Game.Server.GameServer - ExperienceRateMgr Init: True
+12:10:00,998 - [MAIN] - INFO  - Game.Server.GameServer - MacroDropMgr Init: True
+12:10:01,099 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Battle server 127.0.0.1:9208 loaded...
+12:10:01,103 - [MAIN] - INFO  - Game.Server.Battle.BattleMgr - Total 1 battle server loaded.
+12:10:01,104 - [MAIN] - INFO  - Game.Server.GameServer - BattleMgr Setup: True
+12:10:01,106 - [MAIN] - INFO  - Game.Server.GameServer - Init Global Timers: True
+12:10:01,175 - [MAIN] - INFO  - Game.Server.GameServer - MarryRoomMgr Init: True
+12:10:01,176 - [MAIN] - INFO  - Game.Server.GameServer - LogMgr Setup: True
+12:10:01,219 - [MAIN] - INFO  - Game.Base.Packets.PacketProcessor - PacketProcessor: Loaded 137 handlers from GameServer Assembly!
+12:10:01,225 - [MAIN] - INFO  - Game.Base.CommandMgr - Loaded 7 commands!
+12:10:01,230 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+12:10:01,238 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9202
+12:10:01,279 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+12:10:01,294 - [MAIN] - INFO  - Game.Base.BaseConnector - Connected to 127.0.0.1:9208
+12:10:01,360 - [MAIN] - INFO  - Game.Server.GameServer - base.Start(): True
+12:10:01,410 - [MAIN] - INFO  - Game.Server.GameServer - GameServer is now open for connections!
+12:10:52,396 - [9] - INFO  - Game.Base.BaseServer - Inco

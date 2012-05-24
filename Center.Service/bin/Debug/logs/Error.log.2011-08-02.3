@@ -1,0 +1,26 @@
+16:23:22,648 - [MAIN] - ERROR - Center.Server.CenterServer - Failed to start the server
+System.IO.FileNotFoundException: Could not load file or assembly 'System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' or one of its dependencies. The system cannot find the file specified.
+File name: 'System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'
+   at Bussiness.ServiceBussiness.GetServerPropertyByKey(String key)
+   at Bussiness.GameProperties.LoadProperty(ConfigPropertyAttribute attrib, ServiceBussiness sb) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\GameProperties\GameProperties.cs:line 102
+   at Bussiness.GameProperties.Load(Type type) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\GameProperties\GameProperties.cs:line 77
+   at Bussiness.GameProperties.Refresh() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Bussiness\GameProperties\GameProperties.cs:line 137
+   at Center.Server.CenterServer.Start() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Center.Server\CenterServer.cs:line 72
+
+=== Pre-bind state information ===
+LOG: User = PC-PC\PC
+LOG: DisplayName = System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+ (Fully-specified)
+LOG: Appbase = file:///E:/temp/download/Gunny.phien-nhatrang/Herman-PC/workspace/Server/Center.Service/bin/Debug/
+LOG: Initial PrivatePath = NULL
+Calling assembly : Bussiness, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Center.Service\bin\Debug\Center.Service.vshost.exe.config
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v2.0.50727\config\machine.config.
+LOG: Post-policy reference: System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+LOG: Attempting download of new URL file:///E:/temp/download/Gunny.phien-nhatrang/Herman-PC/workspace/Server/Center.Service/bin/Debug/System.Data.DLL.
+LOG: Attempting download of new URL file:///E:/temp/download/Gunny.phien-nhatrang/Herman-PC/workspace/Server/Center.Service/bin/Debug/System.Data/System.Data.DLL.
+LOG: Attempting download of new URL file:///E:/temp/download/Gunny.phien-nhatrang/Herman-PC/workspace/Server/Center.Service/bin/Debug/System.Data.EXE.
+LOG: Attempting download of new URL file:///E:/temp/download/Gunny.phien-nhatrang/Herman-PC/workspace/Server/Center.Service/bin/Debug/System.Data/System.Data.EXE.
+

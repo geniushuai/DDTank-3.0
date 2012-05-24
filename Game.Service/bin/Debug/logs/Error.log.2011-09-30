@@ -1,0 +1,7 @@
+19:58:39,914 - [36] - ERROR - Game.Server.GameServer - Center Server Disconnect! Stopping Server
+19:58:39,929 - [36] - ERROR - Game.Server.GameServer - Start the game server again after 1 second,and left try times:3
+19:58:42,254 - [36] - ERROR - Game.Base.BaseConnector - Connect 127.0.0.1:9202 failed!
+19:58:56,606 - [34] - FATAL - Game.Server.GameServer - Unhandled exception!
+System.AccessViolationException: Attempted to read or write protected memory. This is often an indication that other memory is corrupt.
+19:58:56,621 - [34] - FATAL - Game.Server.GameServer - Unhandled exception!
+System.AccessViolationException: Attempted to read or write protected memory. This is often an indication that other memory is corrupt.

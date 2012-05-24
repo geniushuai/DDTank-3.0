@@ -1,0 +1,8 @@
+18:08:33,708 - [11] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.GamePairUpCancelHandler  client: 127.0.0.1:49547)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.GamePairUpCancelHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\Packets\Client\GamePairUpCancelHandler.cs:line 19
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+18:08:33,798 - [11] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 14 01 5A 00 D2 00 00 00 11 00 00 00 00   q....Z..........
+0010: 00 00 00 00                                       ....            
+

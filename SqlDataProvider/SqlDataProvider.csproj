@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{037F4B7B-B05B-44A9-B83E-32C21D7A7B41}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SqlDataProvider</RootNamespace>
+    <AssemblyName>SqlDataProvider</AssemblyName>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <PublishUrl>http://localhost/SqlDataProvider/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lib\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseClass\ApplicationLog.cs" />
+    <Compile Include="BaseClass\Sql_DbObject.cs" />
+    <Compile Include="Data\AASInfo.cs" />
+    <Compile Include="Data\ActiveInfo.cs" />
+    <Compile Include="Data\AuctionInfo.cs" />
+    <Compile Include="Data\BallInfo.cs" />
+    <Compile Include="Data\BestEquipInfo.cs" />
+    <Compile Include="Data\BufferInfo.cs" />
+    <Compile Include="Data\CategoryInfo.cs" />
+    <Compile Include="Data\ChargeRecordInfo.cs" />
+    <Compile Include="Data\ConsortiaAllyInfo.cs" />
+    <Compile Include="Data\ConsortiaApplyAllyInfo.cs" />
+    <Compile Include="Data\ConsortiaApplyUserInfo.cs" />
+    <Compile Include="Data\ConsortiaDutyInfo.cs" />
+    <Compile Include="Data\ConsortiaEquipControlInfo.cs" />
+    <Compile Include="Data\ConsortiaEventInfo.cs" />
+    <Compile Include="Data\ConsortiaInfo.cs" />
+    <Compile Include="Data\ConsortiaInviteUserInfo.cs" />
+    <Compile Include="Data\ConsortiaLevelInfo.cs" />
+    <Compile Include="Data\ConsortiaUserInfo.cs" />
+    <Compile Include="Data\BallConfigInfo.cs" />
+    <Compile Include="Data\HotSpringRoomInfo.cs" />
+    <Compile Include="Data\DailyAwardInfo.cs" />
+    <Compile Include="Data\DataObject.cs" />
+    <Compile Include="Data\DropCondiction.cs" />
+    <Compile Include="Data\DropItem.cs" />
+    <Compile Include="Data\ItemBoxInfo.cs" />
+    <Compile Include="Data\LogFight.cs" />
+    <Compile Include="Data\LogItem.cs" />
+    <Compile Include="Data\LogMoney.cs" />
+    <Compile Include="Data\LogServer.cs" />
+    <Compile Include="Data\MissionInfo.cs" />
+    <Compile Include="Data\PveInfo.cs" />
+    <Compile Include="Data\DropInfo.cs" />
+    <Compile Include="Data\NpcInfo.cs" />
+    <Compile Include="Data\QuestAwardInfo.cs" />
+    <Compile Include="Data\QuestConditionInfo.cs" />
+    <Compile Include="Data\RateInfo.cs" />
+    <Compile Include="Data\FightRateInfo.cs" />
+    <Compile Include="Data\FriendInfo.cs" />
+    <Compile Include="Data\FusionInfo.cs" />
+    <Compile Include="Data\ItemInfo.cs" />
+    <Compile Include="Data\ItemTemplateInfo.cs" />
+    <Compile Include="Data\MailInfo.cs" />
+    <Compile Include="Data\MapGoodsInfo.cs" />
+    <Compile Include="Data\MapInfo.cs" />
+    <Compile Include="Data\MapWeekInfo.cs" />
+    <Compile Include="Data\MarryApplyInfo.cs" />
+    <Compile Include="Data\MarryMatchInfo.cs" />
+    <Compile Include="Data\MarryProp.cs" />
+    <Compile Include="Data\MarryRoomInfo.cs" />
+    <Compile Include="Data\PlayerInfo.cs" />
+    <Compile Include="Data\PropInfo.cs" />
+    <Compile Include="Data\QuestDataInfo.cs" />
+    <Compile Include="Data\QuestInfo.cs" />
+    <Compile Include="Data\RecordInfo.cs" />
+    <Compile Include="Data\RefineryInfo.cs" />
+    <Compile Include="Data\ServerInfo.cs" />
+    <Compile Include="Data\ServerProperty.cs" />
+    <Compile Include="Data\ShopInfo.cs" />
+    <Compile Include="Data\ShopItemInfo.cs" />
+    <Compile Include="Data\StrengthenGoodsInfo.cs" />
+    <Compile Include="Data\StrengthenInfo.cs" />
+    <Compile Include="Data\UserInfo.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlHelper.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="说明.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

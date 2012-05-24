@@ -1,0 +1,23 @@
+15:38:43,893 - [11] - ERROR - Game.Logic.BaseGame - Map update error:
+System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Game.Logic.PVEGame.PrepareNewSession() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVEGame.cs:line 477
+   at Game.Logic.Actions.CheckPVEGameStateAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\CheckPVEGameStateAction.cs:line 36
+   at Game.Logic.BaseGame.Update(Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 697
+15:38:43,913 - [11] - ERROR - Game.Logic.BaseGame - Map update error:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.BaseGame.SendStartLoading(Int32 maxTime) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 1073
+   at Game.Logic.PVEGame.StartLoading() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVEGame.cs:line 531
+   at Game.Logic.Actions.CheckPVEGameStateAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\CheckPVEGameStateAction.cs:line 41
+   at Game.Logic.BaseGame.Update(Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 697
+15:40:06,064 - [11] - ERROR - Game.Logic.BaseGame - Map update error:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.PVEGame.StartGame() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVEGame.cs:line 567
+   at Game.Logic.Actions.CheckPVEGameStateAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\CheckPVEGameStateAction.cs:line 51
+   at Game.Logic.BaseGame.Update(Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 697
+15:40:06,286 - [11] - ERROR - Game.Logic.BaseGame - Map update error:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.PVEGame.GameOver() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVEGame.cs:line 1004
+   at Game.Logic.Actions.CheckPVEGameStateAction.Execute(BaseGame game, Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\CheckPVEGameStateAction.cs:line 77
+   at Game.Logic.BaseGame.Update(Int64 tick) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 697

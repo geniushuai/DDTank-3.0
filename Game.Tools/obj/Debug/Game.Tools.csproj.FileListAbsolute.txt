@@ -1,0 +1,147 @@
+D:\workspace\Server\Game.Tools\bin\Debug\Game.Tools.exe
+D:\workspace\Server\Game.Tools\bin\Debug\Game.Tools.pdb
+D:\workspace\Server\Game.Tools\bin\Debug\Game.Base.dll
+D:\workspace\Server\Game.Tools\bin\Debug\log4net.dll
+D:\workspace\Server\Game.Tools\bin\Debug\zlib.net.dll
+D:\workspace\Server\Game.Tools\bin\Debug\Game.Base.pdb
+D:\workspace\Server\Game.Tools\bin\Debug\log4net.xml
+D:\workspace\Server\Game.Tools\obj\Debug\ResolveAssemblyReference.cache
+D:\workspace\Server\Game.Tools\obj\Debug\Game.Tools.exe
+D:\workspace\Server\Game.Tools\obj\Debug\Game.Tools.pdb
+D:\workspace\Server\Game.Tools\bin\Debug\Languages\Language-vn.txt
+D:\workspace\Server\Game.Tools\bin\Debug\Languages\Language-zh_cn.txt
+D:\workspace\Server\Game.Tools\bin\Debug\battle.xml
+D:\workspace\Server\Game.Tools\bin\Debug\Game.Tools.exe.config
+D:\workspace\Server\Game.Tools\bin\Debug\Bussiness.dll
+D:\workspace\Server\Game.Tools\bin\Debug\Game.Logic.dll
+D:\workspace\Server\Game.Tools\bin\Debug\Game.Server.dll
+D:\workspace\Server\Game.Tools\bin\Debug\GameServerScript.dll
+D:\workspace\Server\Game.Tools\bin\Debug\Road.Flash.dll
+D:\workspace\Server\Game.Tools\bin\Debug\Road.Service.exe
+D:\workspace\Server\Game.Tools\bin\Debug\Road.Test.dll
+D:\workspace\Server\Game.Tools\bin\Debug\SqlDataProvider.dll
+D:\workspace\Server\Game.Tools\bin\Debug\Road.Test.pdb
+D:\workspace\Server\Game.Tools\bin\Debug\Game.Logic.pdb
+D:\workspace\Server\Game.Tools\bin\Debug\Road.Service.pdb
+D:\workspace\Server\Game.Tools\bin\Debug\SqlDataProvider.pdb
+D:\workspace\Server\Game.Tools\bin\Debug\Game.Server.pdb
+D:\workspace\Server\Game.Tools\bin\Debug\GameServerScript.pdb
+D:\workspace\Server\Game.Tools\bin\Debug\Bussiness.pdb
+D:\workspace\Server\Game.Tools\bin\Debug\Road.Flash.pdb
+D:\workspace\Server\Game.Tools\bin\Debug\logconfig.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Tools\bin\Debug\Languages\Language-zh_cn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Tools\bin\Debug\battle.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Tools\bin\Debug\logconfig.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Tools\bin\Debug\Game.Tools.exe.config
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Tools\bin\Debug\Game.Tools.exe
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Tools\bin\Debug\Game.Tools.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Tools\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Tools\obj\Debug\Game.Tools.exe
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Tools\obj\Debug\Game.Tools.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Tools\bin\Debug\Languages\Language-vn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Tools\bin\Debug\Bussiness.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Tools\bin\Debug\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Tools\bin\Debug\Game.Logic.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Tools\bin\Debug\Game.Server.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Tools\bin\Debug\GameServerScript.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Tools\bin\Debug\Road.Flash.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Tools\bin\Debug\Road.Service.exe
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Tools\bin\Debug\SqlDataProvider.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Tools\bin\Debug\log4net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Tools\bin\Debug\zlib.net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Tools\bin\Debug\Bussiness.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Tools\bin\Debug\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Tools\bin\Debug\Game.Logic.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Tools\bin\Debug\Game.Server.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Tools\bin\Debug\Road.Service.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Tools\bin\Debug\GameServerScript.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Tools\bin\Debug\Road.Flash.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Tools\bin\Debug\SqlDataProvider.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\Game.Tools\bin\Debug\log4net.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Tools\bin\Debug\Languages\Language-vn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Tools\bin\Debug\Languages\Language-zh_cn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Tools\bin\Debug\battle.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Tools\bin\Debug\logconfig.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Tools\bin\Debug\Game.Tools.exe.config
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Tools\bin\Debug\Game.Tools.exe
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Tools\bin\Debug\Game.Tools.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Tools\bin\Debug\Bussiness.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Tools\bin\Debug\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Tools\bin\Debug\Game.Logic.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Tools\bin\Debug\Game.Server.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Tools\bin\Debug\GameServerScript.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Tools\bin\Debug\Road.Flash.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Tools\bin\Debug\Road.Service.exe
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Tools\bin\Debug\SqlDataProvider.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Tools\bin\Debug\log4net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Tools\bin\Debug\zlib.net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Tools\bin\Debug\Bussiness.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Tools\bin\Debug\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Tools\bin\Debug\Game.Logic.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Tools\bin\Debug\Game.Server.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Tools\bin\Debug\Road.Service.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Tools\bin\Debug\GameServerScript.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Tools\bin\Debug\Road.Flash.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Tools\bin\Debug\SqlDataProvider.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Tools\bin\Debug\log4net.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Tools\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Tools\obj\Debug\Game.Tools.exe
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server - Copy\Game.Tools\obj\Debug\Game.Tools.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Tools\bin\Debug\Languages\Language-vn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Tools\bin\Debug\Languages\Language-zh_cn.txt
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Tools\bin\Debug\battle.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Tools\bin\Debug\logconfig.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Tools\bin\Debug\Game.Tools.exe.config
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Tools\bin\Debug\Game.Tools.exe
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Tools\bin\Debug\Game.Tools.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Tools\bin\Debug\Bussiness.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Tools\bin\Debug\Game.Base.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Tools\bin\Debug\Game.Logic.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Tools\bin\Debug\Game.Server.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Tools\bin\Debug\GameServerScript.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Tools\bin\Debug\Road.Flash.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Tools\bin\Debug\Road.Service.exe
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Tools\bin\Debug\SqlDataProvider.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Tools\bin\Debug\log4net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Tools\bin\Debug\zlib.net.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Tools\bin\Debug\Bussiness.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Tools\bin\Debug\Game.Base.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Tools\bin\Debug\Game.Logic.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Tools\bin\Debug\Game.Server.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Tools\bin\Debug\Road.Service.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Tools\bin\Debug\GameServerScript.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Tools\bin\Debug\Road.Flash.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Tools\bin\Debug\SqlDataProvider.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Tools\bin\Debug\log4net.xml
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Tools\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Tools\obj\Debug\Game.Tools.exe
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Tools\obj\Debug\Game.Tools.pdb
+C:\Users\Welington\Documents\Server3.0\Game.Tools\bin\Debug\Languages\Language-vn.txt
+C:\Users\Welington\Documents\Server3.0\Game.Tools\bin\Debug\Languages\Language-zh_cn.txt
+C:\Users\Welington\Documents\Server3.0\Game.Tools\bin\Debug\battle.xml
+C:\Users\Welington\Documents\Server3.0\Game.Tools\bin\Debug\logconfig.xml
+C:\Users\Welington\Documents\Server3.0\Game.Tools\bin\Debug\Game.Tools.exe.config
+C:\Users\Welington\Documents\Server3.0\Game.Tools\bin\Debug\Game.Tools.exe
+C:\Users\Welington\Documents\Server3.0\Game.Tools\bin\Debug\Game.Tools.pdb
+C:\Users\Welington\Documents\Server3.0\Game.Tools\bin\Debug\Bussiness.dll
+C:\Users\Welington\Documents\Server3.0\Game.Tools\bin\Debug\Game.Base.dll
+C:\Users\Welington\Documents\Server3.0\Game.Tools\bin\Debug\Game.Logic.dll
+C:\Users\Welington\Documents\Server3.0\Game.Tools\bin\Debug\Game.Server.dll
+C:\Users\Welington\Documents\Server3.0\Game.Tools\bin\Debug\GameServerScript.dll
+C:\Users\Welington\Documents\Server3.0\Game.Tools\bin\Debug\Road.Flash.dll
+C:\Users\Welington\Documents\Server3.0\Game.Tools\bin\Debug\Road.Service.exe
+C:\Users\Welington\Documents\Server3.0\Game.Tools\bin\Debug\SqlDataProvider.dll
+C:\Users\Welington\Documents\Server3.0\Game.Tools\bin\Debug\log4net.dll
+C:\Users\Welington\Documents\Server3.0\Game.Tools\bin\Debug\zlib.net.dll
+C:\Users\Welington\Documents\Server3.0\Game.Tools\bin\Debug\Bussiness.pdb
+C:\Users\Welington\Documents\Server3.0\Game.Tools\bin\Debug\Game.Base.pdb
+C:\Users\Welington\Documents\Server3.0\Game.Tools\bin\Debug\Game.Logic.pdb
+C:\Users\Welington\Documents\Server3.0\Game.Tools\bin\Debug\Game.Server.pdb
+C:\Users\Welington\Documents\Server3.0\Game.Tools\bin\Debug\Road.Service.pdb
+C:\Users\Welington\Documents\Server3.0\Game.Tools\bin\Debug\GameServerScript.pdb
+C:\Users\Welington\Documents\Server3.0\Game.Tools\bin\Debug\Road.Flash.pdb
+C:\Users\Welington\Documents\Server3.0\Game.Tools\bin\Debug\SqlDataProvider.pdb
+C:\Users\Welington\Documents\Server3.0\Game.Tools\bin\Debug\log4net.xml
+C:\Users\Welington\Documents\Server3.0\Game.Tools\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Welington\Documents\Server3.0\Game.Tools\obj\Debug\Game.Tools.exe
+C:\Users\Welington\Documents\Server3.0\Game.Tools\obj\Debug\Game.Tools.pdb

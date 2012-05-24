@@ -1,0 +1,10 @@
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\WebApplication1\bin\WebApplication1.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\WebApplication1\bin\WebApplication1.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\WebApplication1\obj\Debug\WebApplication1.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\WebApplication1\bin\WebApplication1.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\WebApplication1\bin\WebApplication1.pdb
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\WebApplication1\obj\Debug\WebApplication1.dll
+E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\WebApplication1\obj\Debug\WebApplication1.pdb

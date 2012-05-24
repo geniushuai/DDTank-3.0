@@ -1,0 +1,11 @@
+08:52:06,422 - [9] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserChangeItemPlaceHandler  client: 127.0.0.1:54867)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.GameUtils.AbstractInventory.StackItems(Int32 fromSlot, Int32 toSlot, Int32 itemCount)
+   at Game.Server.GameUtils.AbstractInventory.MoveItem(Int32 fromSlot, Int32 toSlot, Int32 count)
+   at Game.Server.Packets.Client.UserChangeItemPlaceHandler.HandlePacket(GameClient client, GSPacketIn packet)
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+08:52:06,429 - [9] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 23 01 07 00 31 00 00 00 11 00 00 00 00   q..#...1........
+0010: 00 00 00 00 01 00 00 00 21 01 00 00 00 28 00 00   ........!....(..
+0020: 00 03 00                                          ...             
+

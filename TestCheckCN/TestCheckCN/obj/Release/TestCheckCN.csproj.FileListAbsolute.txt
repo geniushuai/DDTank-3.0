@@ -1,0 +1,5 @@
+D:\技术练习集中营\技术练习\文件中判断中文字符的方法\TestCheckCN\TestCheckCN\bin\Release\TestCheckCN.exe
+D:\技术练习集中营\技术练习\文件中判断中文字符的方法\TestCheckCN\TestCheckCN\bin\Release\TestCheckCN.pdb
+D:\技术练习集中营\技术练习\文件中判断中文字符的方法\TestCheckCN\TestCheckCN\obj\Release\ResolveAssemblyReference.cache
+D:\技术练习集中营\技术练习\文件中判断中文字符的方法\TestCheckCN\TestCheckCN\obj\Release\TestCheckCN.exe
+D:\技术练习集中营\技术练习\文件中判断中文字符的方法\TestCheckCN\TestCheckCN\obj\Release\TestCheckCN.pdb
